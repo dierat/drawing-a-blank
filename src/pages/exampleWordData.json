@@ -1,0 +1,24 @@
+[
+  {
+    "word": "mesmerise",
+    "example" : "They were mesmerised by his story.",
+    "definition": "capture the complete attention of (someone); transfix.",
+    "synonyms": [
+      "hypnotise",
+      "hypnotize",
+      "mesmerize",
+      "magnetize",
+      "magnetise",
+      "spellbind"
+    ],
+    "phonetics": {
+      "audioFile": "https://api.dictionaryapi.dev/media/pronunciations/en/entrance-1-uk.mp3",
+      "syllables": [
+        "mes",
+        "mer",
+        "rise"
+      ]
+    },
+    "frequency": 1.73
+  }
+]

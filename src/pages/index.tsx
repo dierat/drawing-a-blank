@@ -2,10 +2,38 @@ import Head from 'next/head'
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
+import { useState } from 'react';
 
 const inter = Inter({ subsets: ['latin'] })
 
+import exampleWordData from './exampleWordData.json';
+
 export default function Home() {
+  /**
+   * The possible states for the game are:
+   * - running
+   * - over
+   *   - user submitted the target word
+   *   - user submitted a synonym
+   *   - user submitted an incorrect word
+   *   - user gave up
+   */
+
+  const [gameIsRunning, setGameIsRunning] = useState(false);
+  const [userSubmittedTargetWord, setUserSubmittedTargetWord] = useState(false);
+  const [userSubmittedSynonym, setuserSubmittedSynonym] = useState(false);
+  const [userSubmittedIncorrectWord, setUserSubmittedIncorrectWord] = useState(false);
+  const [userGameUp, setUserGameUp] = useState(false);
+
+  // The commented out lines represent how the final logic will work.
+  // const vocabListLength = vocabList.length;
+  // const randomIndex = Math.floor(Math.random() * vocabListLength);
+  const randomIndex = 0;
+  // const randomWordData = vocabList[randomIndex];
+  const randomWordData = exampleWordData[randomIndex];
+  // The actual example sentence will be pulled from the data.
+  const exampleSentence = randomWordData.example.replace(randomWordData.word, "_____");
+
   return (
     <>
       <Head>
@@ -15,8 +43,15 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
-        <div className={styles.description}>
-
+        {/* <div className={styles.description}></div> */}
+        <div>
+          <div>{exampleSentence}</div>
+          <div>What word with the following definition would you use to complete the sentence?</div>
+          <div>{randomWordData.definition}</div>
+          <input/>
+          <button>Submit</button>
+          <button>I have no idea</button>
+          <button>Skip</button>
         </div>
       </main>
     </>
