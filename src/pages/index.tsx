@@ -61,7 +61,13 @@ export default function Home() {
   };
 
   const loadNextGame = () => {
-
+    setGameIsRunning(true);
+    setUserSubmittedTargetWord(false);
+    setUserSubmittedSynonym(false);
+    setUserSubmittedIncorrectWord(false);
+    setUserGaveUp(false);
+    // TODO: also update current word index, when we have more words
+    setUserSubmission("");
   };
 
   return (
@@ -82,7 +88,7 @@ export default function Home() {
 
           <div>
             {/* TODO: add invisible label */}
-            <input onChange={(event) => setUserSubmission(event.target.value)} onKeyUp={handleInputKeyUp}/>
+            <input value={userSubmission} onChange={(event) => setUserSubmission(event.target.value)} onKeyUp={handleInputKeyUp}/>
           </div>
 
           <div className={styles.options}>
@@ -94,9 +100,9 @@ export default function Home() {
           {!gameIsRunning && <div className={styles.postGameInfo}>
             <div className={styles.reaction}>
               {userSubmittedTargetWord && <div>Damn, you're good! That's exacly the word we were thinking of 🥰</div>}
-              {userSubmittedSynonym && <div>Nice one! We were thinking of {randomWordData.word} but {userSubmission} is a good one too.</div>}
-              {userSubmittedIncorrectWord && <div>Oops, not quite! We were thinking of {randomWordData.word}. Good try though!</div>}
-              {userGaveUp && <div>The word we were thinking of is {randomWordData.word}.</div>}
+              {userSubmittedSynonym && <div>Nice one! We were thinking of "{randomWordData.word}" but "{userSubmission}" is a good one too.</div>}
+              {userSubmittedIncorrectWord && <div>Oops, not quite! We were thinking of "{randomWordData.word}". Good try though!</div>}
+              {userGaveUp && <div>The word we were thinking of is "{randomWordData.word}".</div>}
             </div>
 
             <div className={styles.synonyms}>
