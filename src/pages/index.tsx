@@ -70,6 +70,26 @@ export default function Home() {
     setUserSubmission("");
   };
 
+  const Synonyms = () => {
+    const synonyms = randomWordData.synonyms;
+    const filteredSynonyms = userSubmittedSynonym
+      ? synonyms.filter((word) => word !== userSubmission)
+      : synonyms;
+
+    return (
+      <div className={styles.synonyms}>
+      We would also have accepted these {userSubmittedSynonym && "other "}synonyms:
+      <ol>
+        {filteredSynonyms.map((synonym) => (
+          <li key={`synonym-${synonym}`}>{synonym}</li>
+        ))}
+      </ol>
+    </div>
+    );
+  };
+
+  console.log(randomWordData.synonyms);
+
   return (
     <>
       <Head>
@@ -105,14 +125,7 @@ export default function Home() {
               {userGaveUp && <div>The word we were thinking of is "{randomWordData.word}".</div>}
             </div>
 
-            <div className={styles.synonyms}>
-              We would also have accepted these {userSubmittedSynonym && "other "}synonyms:
-              <ol>
-                <li>synonym 1</li>
-                <li>synonym 2</li>
-                <li>synonym 3</li>
-              </ol>
-            </div>
+            <Synonyms />
 
             <div className={styles.loadNextGame}>
               <button onClick={loadNextGame}>Gimme another one!</button>
