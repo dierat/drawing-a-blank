@@ -88,8 +88,6 @@ export default function Home() {
     );
   };
 
-  console.log(randomWordData.synonyms);
-
   return (
     <>
       <Head>
