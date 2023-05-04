@@ -79,11 +79,11 @@ export default function Home() {
     return (
       <div className={styles.synonyms}>
       We would also have accepted these {userSubmittedSynonym && "other "}synonyms:
-      <ol>
+      <ul className={styles.synonymList}>
         {filteredSynonyms.map((synonym) => (
-          <li key={`synonym-${synonym}`}>{synonym}</li>
+          <li className={styles.synonym} key={`synonym-${synonym}`}>{synonym}</li>
         ))}
-      </ol>
+      </ul>
     </div>
     );
   };
@@ -101,12 +101,12 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
         <div>
           <div className={styles.question}>
-            <div>{exampleSentence}</div>
-            <div>What word with the following definition would you use to complete the sentence?</div>
-            <div>{randomWordData.definition}</div>
+            <div className={styles.exampleSentence}>{exampleSentence}</div>
+            <div className={styles.explanation}>What word with the following definition would you use to complete the sentence?</div>
+            <div className={styles.definition}>{randomWordData.definition}</div>
           </div>
 
-          <div>
+          <div className={styles.inputWrapper}>
             {/* TODO: add invisible label */}
             <input value={userSubmission} onChange={(event) => setUserSubmission(event.target.value)} onKeyUp={handleInputKeyUp}/>
           </div>
@@ -120,9 +120,9 @@ export default function Home() {
           {!gameIsRunning && <div className={styles.postGameInfo}>
             <div className={styles.reaction}>
               {userSubmittedTargetWord && <div>Damn, you're good! That's exacly the word we were thinking of 🥰</div>}
-              {userSubmittedSynonym && <div>Nice one! We were thinking of "{randomWordData.word}" but "{userSubmission}" is a good one too.</div>}
-              {userSubmittedIncorrectWord && <div>Oops, not quite! We were thinking of "{randomWordData.word}". Good try though!</div>}
-              {userGaveUp && <div>The word we were thinking of is "{randomWordData.word}".</div>}
+              {userSubmittedSynonym && <div>Nice one! We were thinking of <strong>"{randomWordData.word}"</strong> but <strong>"{userSubmission}"</strong> is a good one too.</div>}
+              {userSubmittedIncorrectWord && <div>Oops, not quite! We were thinking of <strong>"{randomWordData.word}".</strong> Good try though!</div>}
+              {userGaveUp && <div>The word we were thinking of was <strong>"{randomWordData.word}".</strong></div>}
             </div>
 
             <Synonyms />
