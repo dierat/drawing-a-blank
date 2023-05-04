@@ -80,9 +80,13 @@ export default function Home() {
             <div>{randomWordData.definition}</div>
           </div>
 
-          <div className={styles.options}>
+          <div>
+            {/* TODO: add invisible label */}
             <input onChange={(event) => setUserSubmission(event.target.value)} onKeyUp={handleInputKeyUp}/>
-            <button onClick={checkSubmission}>Submit</button>
+          </div>
+
+          <div className={styles.options}>
+            <button onClick={checkSubmission} disabled={!userSubmission || !gameIsRunning}>Submit</button>
             <button onClick={giveUp}>I have no idea</button>
             <button onClick={loadNextGame}>Skip</button>
           </div>
@@ -104,7 +108,7 @@ export default function Home() {
               </ol>
             </div>
 
-            <div>
+            <div className={styles.loadNextGame}>
               <button onClick={loadNextGame}>Gimme another one!</button>
             </div>
           </div>}

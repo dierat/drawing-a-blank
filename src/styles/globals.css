@@ -2,6 +2,7 @@
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  font-size: 1rem;
 }
 
 html,
@@ -12,4 +13,26 @@ body {
 body {
   color: black;
   background: white;
+}
+
+input {
+  height: 2rem;
+  padding: 16px;
+}
+
+button {
+  background-color: black;
+  border-color: black;
+  color: white;
+  border-radius: 0;
+  border-style: solid;
+  padding: 8px 10px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+button:disabled {
+  background-color: gray;
+  border-color: gray;
+  cursor: not-allowed;
 }
