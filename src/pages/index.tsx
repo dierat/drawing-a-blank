@@ -100,7 +100,7 @@ export default function Home() {
         <div>
           <div className={styles.question}>
             <div className={styles.exampleSentence}>{exampleSentence}</div>
-            <div className={styles.explanation}>What word with the following definition would you use to complete the sentence?</div>
+            <div className={styles.explanation}>What word with the following definition would you use to complete the above sentence?</div>
             <div className={styles.definition}>{randomWordData.definition}</div>
           </div>
 
