@@ -80,13 +80,13 @@ export default function Home() {
 
     return (
       <div className={styles.synonyms}>
-      We would also have accepted these {userSubmittedSynonym && "other "}synonyms:
-      <ul className={styles.synonymList}>
-        {filteredSynonyms.map((synonym) => (
-          <li className={styles.synonym} key={`synonym-${synonym}`}>{synonym}</li>
-        ))}
-      </ul>
-    </div>
+        <h2>We would also have accepted these {userSubmittedSynonym && "other "}synonyms:</h2>
+        <ul className={styles.synonymList}>
+          {filteredSynonyms.map((synonym) => (
+            <li className={styles.synonym} key={`synonym-${synonym}`}>{synonym}</li>
+          ))}
+        </ul>
+      </div>
     );
   };
 
@@ -101,7 +101,7 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
         <div>
           <div className={styles.question}>
-            <div className={styles.exampleSentence}>{exampleSentence}</div>
+            <h1 className={styles.exampleSentence}>{exampleSentence}</h1>
             <div className={styles.explanation}>What word with the following definition would you use to complete the above sentence?</div>
             <div className={styles.definition}>{randomWordData.definition}</div>
           </div>
