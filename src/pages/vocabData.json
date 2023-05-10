@@ -1,0 +1,38 @@
+[
+  {
+    "word": "abase",
+    "definition": "to lower in rank, esteem, or dignity; to humble or degrade",
+    "synonyms": ["humiliate", "belittle", "debase", "degrade", "reduce"],
+    "exampleSentences": [
+      "He abased himself before the king.",
+      "She felt abased by the insults hurled at her.",
+      "The manager's harsh criticism was intended to abase the employee.",
+      "She refused to abase herself by begging for forgiveness.",
+      "The company's unethical practices abased its reputation in the industry."
+    ]
+  },
+  {
+    "word": "abash",
+    "definition": "to cause to feel embarrassed, ashamed, or uneasy",
+    "synonyms": ["discomfit", "disconcert", "fluster", "rattle", "unsettle"],
+    "exampleSentences": ["He was abashed by her compliments.", "I was abashed by my mistake.", "The speaker was abashed by the audience's hostile reaction.", "The teacher's criticism abashed the student.", "His lack of knowledge abashed him in front of his colleagues."]
+  },
+  {
+    "word": "abate",
+    "definition": "to become less in amount or intensity; to decrease or diminish",
+    "synonyms": ["subside", "diminish", "lessen", "decline", "weaken"],
+    "exampleSentences": ["The storm began to abate as the night wore on.", "The pain in my foot finally started to abate after a few days.", "The protests outside the building gradually abated as the police arrived.", "The fever began to abate after she took some medicine.", "The market volatility started to abate after the government intervened."]
+  },
+  {
+    "word": "abdicate",
+    "definition": "to renounce or relinquish a throne, high office, dignity, or function",
+    "synonyms": ["resign", "step down", "give up", "surrender", "relinquish"],
+    "exampleSentences": ["The king was forced to abdicate his throne.", "The CEO decided to abdicate his position.", "She abdicated her responsibility as a parent.", "The dictator refused to abdicate his power.", "The pope abdicated his papacy due to health reasons."]
+  },
+  {
+    "word": "abecedarian",
+    "definition": "a person who is learning the alphabet or the basics of a subject; arranged alphabetically",
+    "synonyms": ["alphabetical", "basic", "elementary", "foundational", "beginner"],
+    "exampleSentences": ["The abecedarian students were excited to learn their letters.", "The book was arranged in abecedarian order.", "The abecedarian nature of the lesson made it easy for the beginners to understand.", "The teacher began with abecedarian concepts and built upon them.", "The abecedarian approach helped the students to master the basics before moving on."]
+  }
+]

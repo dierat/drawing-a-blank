@@ -51,7 +51,16 @@
 }
 
 .synonyms {
-  margin-top: 16px;
+  margin-top: 24px;
+}
+
+.synonyms h2 {
+  font-weight: 400;
+  margin-bottom: 8px;
+}
+
+.synonyms ul {
+  margin-left: 20px;
 }
 
 .synonym {
