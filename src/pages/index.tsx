@@ -120,7 +120,7 @@ export default function Home() {
           {!gameIsRunning && <div className={styles.postGameInfo}>
             <div className={styles.reaction}>
               {userSubmittedTargetWord && <div>Damn, you're good! That's exacly the word we were thinking of 🥰</div>}
-              {userSubmittedSynonym && <div>Nice one! We were thinking of <strong>"{randomWordData.word}"</strong> but <strong>"{userSubmission}"</strong> is a good one too.</div>}
+              {userSubmittedSynonym && <div>Nice one! We were thinking of <strong>"{randomWordData.word}"</strong>, but <strong>"{userSubmission}"</strong> is a good one too.</div>}
               {userSubmittedIncorrectWord && <div>Oops, not quite! We were thinking of <strong>"{randomWordData.word}".</strong> Good try though!</div>}
               {userGaveUp && <div>The word we were thinking of was <strong>"{randomWordData.word}".</strong></div>}
             </div>
