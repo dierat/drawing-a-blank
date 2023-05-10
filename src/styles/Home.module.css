@@ -5,6 +5,10 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+
+  @media screen and (max-width: 600px) {
+    padding: 3rem;
+  }
 }
 
 .exampleSentence {
@@ -25,6 +29,12 @@
 
 .inputWrapper {
   margin-bottom: 16px;
+}
+
+.inputWrapper input {
+  @media screen and (max-width: 600px) {
+    width: 100%;
+  }
 }
 
 .options {
