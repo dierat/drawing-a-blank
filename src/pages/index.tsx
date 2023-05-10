@@ -44,9 +44,11 @@ export default function Home() {
   };
 
   const checkSubmission = () => {
-    if (userSubmission === randomWordData.word) {
+    const lowercaseSubmission = userSubmission.toLocaleLowerCase();
+
+    if (lowercaseSubmission === randomWordData.word) {
       setUserSubmittedTargetWord(true);
-    } else if (randomWordData.synonyms.some((synonym) => synonym === userSubmission)) {
+    } else if (randomWordData.synonyms.some((synonym) => synonym === lowercaseSubmission)) {
       setUserSubmittedSynonym(true);
     } else {
       setUserSubmittedIncorrectWord(true);
