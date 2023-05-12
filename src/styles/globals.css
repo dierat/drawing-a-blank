@@ -3,6 +3,13 @@
   padding: 0;
   margin: 0;
   font-size: 1rem;
+
+  --text-color-light-mode: black;
+  --text-color-dark-mode: white;
+  --bg-color-light-mode: white;
+  --bg-color-dark-mode: black;
+  --disabled-color-light-mode: #b5b5b5;
+  --disabled-color-dark-mode: #646464;
 }
 
 html,
@@ -11,28 +18,52 @@ body {
 }
 
 body {
-  color: black;
-  background: white;
+  color: var(--text-color-light-mode);
+  background: var(--bg-color-light-mode);
+
+  @media (prefers-color-scheme: dark) {
+    color: var(--text-color-dark-mode);
+    background: var(--bg-color-dark-mode);
+  }
 }
 
 input {
   height: 2rem;
   padding: 16px;
+
+  color: var(--text-color-light-mode);
+  background-color: var(--bg-color-light-mode);
+
+  @media (prefers-color-scheme: dark) {
+    color: var(--text-color-dark-mode);
+    background-color: rgb(42, 42, 42);
+  }
 }
 
 button {
-  background-color: black;
-  border-color: black;
-  color: white;
+  background-color: var(--text-color-light-mode);
+  border-color: var(--text-color-light-mode);
+  color: var(--bg-color-light-mode);
   border-radius: 0;
   border-style: solid;
   padding: 8px 10px;
   font-size: 1rem;
   cursor: pointer;
+
+  @media (prefers-color-scheme: dark) {
+    background-color: var(--text-color-dark-mode);
+    border-color: var(--text-color-dark-mode);
+    color: var(--bg-color-dark-mode);
+  }
 }
 
 button:disabled {
-  background-color: #b5b5b5;
-  border-color: #b5b5b5;
   cursor: not-allowed;
+  background-color: var(--disabled-color-light-mode);
+  border-color: var(--disabled-color-light-mode);
+
+  @media (prefers-color-scheme: dark) {
+    background-color: var(--disabled-color-dark-mode);
+    border-color: var(--disabled-color-dark-mode);
+  }
 }
