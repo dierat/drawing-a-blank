@@ -1,12 +1,12 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
-import styles from '@/styles/Home.module.css'
-import { useState } from 'react';
+import Head from "next/head";
+import Image from "next/image";
+import { Inter } from "next/font/google";
+import styles from "@/styles/Home.module.css";
+import { useState } from "react";
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({ subsets: ["latin"] });
 
-import exampleWordData from './exampleWordData.json';
+import exampleWordData from "./exampleWordData.json";
 
 export default function Home() {
   /**
@@ -22,7 +22,8 @@ export default function Home() {
   const [gameIsRunning, setGameIsRunning] = useState(true);
   const [userSubmittedTargetWord, setUserSubmittedTargetWord] = useState(false);
   const [userSubmittedSynonym, setUserSubmittedSynonym] = useState(false);
-  const [userSubmittedIncorrectWord, setUserSubmittedIncorrectWord] = useState(false);
+  const [userSubmittedIncorrectWord, setUserSubmittedIncorrectWord] =
+    useState(false);
   const [userGaveUp, setUserGaveUp] = useState(false);
 
   const [currentWordIndex, setCurrentWordIndex] = useState(0);
@@ -35,7 +36,10 @@ export default function Home() {
 
   // const randomWordData = vocabList[currentWordIndex];
   const randomWordData = exampleWordData[currentWordIndex];
-  const exampleSentence = randomWordData.example.replace(randomWordData.word, "_____");
+  const exampleSentence = randomWordData.example.replace(
+    randomWordData.word,
+    "_____"
+  );
 
   const handleInputKeyUp = (event: React.KeyboardEvent<HTMLInputElement>) => {
     if (event.code === "Enter") {
@@ -48,7 +52,9 @@ export default function Home() {
 
     if (cleanedSubmission === randomWordData.word) {
       setUserSubmittedTargetWord(true);
-    } else if (randomWordData.synonyms.some((synonym) => synonym === cleanedSubmission)) {
+    } else if (
+      randomWordData.synonyms.some((synonym) => synonym === cleanedSubmission)
+    ) {
       setUserSubmittedSynonym(true);
     } else {
       setUserSubmittedIncorrectWord(true);
@@ -80,10 +86,15 @@ export default function Home() {
 
     return (
       <div className={styles.synonyms}>
-        <h2>We would also have accepted these {userSubmittedSynonym && "other "}synonyms:</h2>
+        <h2>
+          We would also have accepted these {userSubmittedSynonym && "other "}
+          synonyms:
+        </h2>
         <ul className={styles.synonymList}>
           {filteredSynonyms.map((synonym) => (
-            <li className={styles.synonym} key={`synonym-${synonym}`}>{synonym}</li>
+            <li className={styles.synonym} key={`synonym-${synonym}`}>
+              {synonym}
+            </li>
           ))}
         </ul>
       </div>
@@ -94,7 +105,10 @@ export default function Home() {
     <>
       <Head>
         <title>Drawing a Blank</title>
-        <meta name="description" content="Vocabulary builder using fill-in-the-blank format instead of flashcards" />
+        <meta
+          name="description"
+          content="Vocabulary builder using fill-in-the-blank format instead of flashcards"
+        />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -102,37 +116,72 @@ export default function Home() {
         <div>
           <div className={styles.question}>
             <h1 className={styles.exampleSentence}>{exampleSentence}</h1>
-            <div className={styles.explanation}>What word with the following definition would you use to complete the above sentence?</div>
+            <div className={styles.explanation}>
+              What word with the following definition would you use to complete
+              the above sentence?
+            </div>
             <div className={styles.definition}>{randomWordData.definition}</div>
           </div>
 
           <div className={styles.inputWrapper}>
             {/* TODO: add invisible label */}
-            <input value={userSubmission} onChange={(event) => setUserSubmission(event.target.value)} onKeyUp={handleInputKeyUp}/>
+            <input
+              value={userSubmission}
+              onChange={(event) => setUserSubmission(event.target.value)}
+              onKeyUp={handleInputKeyUp}
+            />
           </div>
 
           <div className={styles.options}>
-            <button onClick={checkSubmission} disabled={!userSubmission || !gameIsRunning}>Submit</button>
+            <button
+              onClick={checkSubmission}
+              disabled={!userSubmission || !gameIsRunning}
+            >
+              Submit
+            </button>
             <button onClick={giveUp}>I have no idea</button>
             <button onClick={loadNextGame}>Skip</button>
           </div>
 
-          {!gameIsRunning && <div className={styles.postGameInfo}>
-            <div className={styles.reaction}>
-              {userSubmittedTargetWord && <div>Damn, you're good! That's exacly the word we were thinking of 🥰</div>}
-              {userSubmittedSynonym && <div>Nice one! We were thinking of <strong>"{randomWordData.word}"</strong>, but <strong>"{userSubmission}"</strong> is a good one too.</div>}
-              {userSubmittedIncorrectWord && <div>Oops, not quite! We were thinking of <strong>"{randomWordData.word}".</strong> Good try though!</div>}
-              {userGaveUp && <div>The word we were thinking of was <strong>"{randomWordData.word}".</strong></div>}
-            </div>
+          {!gameIsRunning && (
+            <div className={styles.postGameInfo}>
+              <div className={styles.reaction}>
+                {userSubmittedTargetWord && (
+                  <div>
+                    Damn, you're good! That's exacly the word we were thinking
+                    of 🥰
+                  </div>
+                )}
+                {userSubmittedSynonym && (
+                  <div>
+                    Nice one! We were thinking of{" "}
+                    <strong>"{randomWordData.word}"</strong>, but{" "}
+                    <strong>"{userSubmission}"</strong> is a good one too.
+                  </div>
+                )}
+                {userSubmittedIncorrectWord && (
+                  <div>
+                    Oops, not quite! We were thinking of{" "}
+                    <strong>"{randomWordData.word}".</strong> Good try though!
+                  </div>
+                )}
+                {userGaveUp && (
+                  <div>
+                    The word we were thinking of was{" "}
+                    <strong>"{randomWordData.word}".</strong>
+                  </div>
+                )}
+              </div>
 
-            <Synonyms />
+              <Synonyms />
 
-            <div className={styles.loadNextGame}>
-              <button onClick={loadNextGame}>Gimme another one!</button>
+              <div className={styles.loadNextGame}>
+                <button onClick={loadNextGame}>Gimme another one!</button>
+              </div>
             </div>
-          </div>}
+          )}
         </div>
       </main>
     </>
-  )
+  );
 }
