@@ -139,8 +139,12 @@ export default function Home() {
             >
               Submit
             </button>
-            <button onClick={giveUp}>I have no idea</button>
-            <button onClick={loadNextGame}>Skip</button>
+            <button onClick={giveUp} disabled={!gameIsRunning}>
+              I have no idea
+            </button>
+            <button onClick={loadNextGame} disabled={!gameIsRunning}>
+              Skip
+            </button>
           </div>
 
           {!gameIsRunning && (
