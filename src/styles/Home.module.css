@@ -38,12 +38,13 @@
 }
 
 .options {
-  display: block;
+  display: flex;
   margin-top: 8px;
-}
+  gap: 16px;
 
-.options > button:not(:last-child) {
-  margin-right: 16px;
+  @media screen and (max-width: 400px) {
+    flex-direction: column;
+  }
 }
 
 .reaction {
