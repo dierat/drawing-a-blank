@@ -184,6 +184,142 @@ const wordFrequencyData: Array<WordData> = [
     frequency: -1,
   },
   {
+    word: "doldrum",
+    frequency: -1,
+  },
+  {
+    word: "dolven",
+    frequency: -1,
+  },
+  {
+    word: "dromund",
+    frequency: -1,
+  },
+  {
+    word: "dwimmer-crafty",
+    frequency: -1,
+  },
+  {
+    word: "eccedentesiast",
+    frequency: -1,
+  },
+  {
+    word: "eleutheromania",
+    frequency: -1,
+  },
+  {
+    word: "hella",
+    frequency: -1,
+  },
+  {
+    word: "festooned",
+    frequency: -1,
+  },
+  {
+    word: "hikikomori",
+    frequency: -1,
+  },
+  {
+    word: "grief ",
+    frequency: -1,
+  },
+  {
+    word: "greened",
+    frequency: -1,
+  },
+  {
+    word: "futz",
+    frequency: -1,
+  },
+  {
+    word: "honed",
+    frequency: -1,
+  },
+  {
+    word: "hirquiticke",
+    frequency: -1,
+  },
+  {
+    word: "hiraeth",
+    frequency: -1,
+  },
+  {
+    word: "eigengrau",
+    frequency: -1,
+  },
+  {
+    word: "flowed",
+    frequency: -1,
+  },
+  {
+    word: "etten",
+    frequency: -1,
+  },
+  {
+    word: "flet",
+    frequency: -1,
+  },
+  {
+    word: "frabjous",
+    frequency: -1,
+  },
+  {
+    word: "flummoxed",
+    frequency: -1,
+  },
+  {
+    word: "fleek",
+    frequency: -1,
+  },
+  {
+    word: "flammifer",
+    frequency: -1,
+  },
+  {
+    word: "fernweh",
+    frequency: -1,
+  },
+  {
+    word: "epiphan",
+    frequency: -1,
+  },
+  {
+    word: "inaureoled",
+    frequency: -1,
+  },
+  {
+    word: "epidemia",
+    frequency: -1,
+  },
+  {
+    word: "gucci",
+    frequency: -1,
+  },
+  {
+    word: "heartstring",
+    frequency: -1,
+  },
+  {
+    word: "ellipsism",
+    frequency: -1,
+  },
+  {
+    word: "horatory",
+    frequency: -1,
+  },
+  {
+    word: "hythe",
+    frequency: -1,
+  },
+  {
+    word: "evocate",
+    frequency: -1,
+  },
+  {
+    word: "gorcrow",
+    frequency: -1,
+  },
+  {
     word: "abash",
     frequency: 0,
   },
@@ -778,3366 +914,6 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "desideratum",
     frequency: 0,
-  },
-  {
-    word: "abjure",
-    frequency: 1.6,
-  },
-  {
-    word: "abridge",
-    frequency: 1.6,
-  },
-  {
-    word: "adequacy",
-    frequency: 1.6,
-  },
-  {
-    word: "adjure",
-    frequency: 1.6,
-  },
-  {
-    word: "ameliorate",
-    frequency: 1.6,
-  },
-  {
-    word: "anthropomorphize",
-    frequency: 1.6,
-  },
-  {
-    word: "apostasy",
-    frequency: 1.6,
-  },
-  {
-    word: "append",
-    frequency: 1.6,
-  },
-  {
-    word: "apposite",
-    frequency: 1.6,
-  },
-  {
-    word: "aquiver",
-    frequency: 1.6,
-  },
-  {
-    word: "asperity",
-    frequency: 1.6,
-  },
-  {
-    word: "avocation",
-    frequency: 1.6,
-  },
-  {
-    word: "avow",
-    frequency: 1.6,
-  },
-  {
-    word: "axiom",
-    frequency: 1.6,
-  },
-  {
-    word: "bacchanalian",
-    frequency: 1.6,
-  },
-  {
-    word: "badinage",
-    frequency: 1.6,
-  },
-  {
-    word: "baedeker",
-    frequency: 1.6,
-  },
-  {
-    word: "baldric",
-    frequency: 1.6,
-  },
-  {
-    word: "befuddle",
-    frequency: 1.6,
-  },
-  {
-    word: "bellicose",
-    frequency: 1.6,
-  },
-  {
-    word: "betoken",
-    frequency: 1.6,
-  },
-  {
-    word: "bibliophile",
-    frequency: 1.6,
-  },
-  {
-    word: "burnish",
-    frequency: 1.6,
-  },
-  {
-    word: "burnished",
-    frequency: 1.6,
-  },
-  {
-    word: "byre",
-    frequency: 1.6,
-  },
-  {
-    word: "careen",
-    frequency: 1.6,
-  },
-  {
-    word: "carouse",
-    frequency: 1.6,
-  },
-  {
-    word: "choleric",
-    frequency: 1.6,
-  },
-  {
-    word: "churl",
-    frequency: 1.6,
-  },
-  {
-    word: "comity",
-    frequency: 1.6,
-  },
-  {
-    word: "concomitant",
-    frequency: 1.6,
-  },
-  {
-    word: "conflate",
-    frequency: 1.6,
-  },
-  {
-    word: "connive",
-    frequency: 1.6,
-  },
-  {
-    word: "contestation",
-    frequency: 1.6,
-  },
-  {
-    word: "cozen",
-    frequency: 1.6,
-  },
-  {
-    word: "crepuscule",
-    frequency: 1.6,
-  },
-  {
-    word: "cyclopean",
-    frequency: 1.6,
-  },
-  {
-    word: "cynosure",
-    frequency: 1.6,
-  },
-  {
-    word: "declaim",
-    frequency: 1.6,
-  },
-  {
-    word: "defray",
-    frequency: 1.6,
-  },
-  {
-    word: "deify",
-    frequency: 1.6,
-  },
-  {
-    word: "depredation",
-    frequency: 1.6,
-  },
-  {
-    word: "abnegation",
-    frequency: 1.73,
-  },
-  {
-    word: "acrimonious",
-    frequency: 1.73,
-  },
-  {
-    word: "adroit",
-    frequency: 1.73,
-  },
-  {
-    word: "aggrandize",
-    frequency: 1.73,
-  },
-  {
-    word: "akimbo",
-    frequency: 1.73,
-  },
-  {
-    word: "alcazar",
-    frequency: 1.73,
-  },
-  {
-    word: "antebellum",
-    frequency: 1.73,
-  },
-  {
-    word: "aphorism",
-    frequency: 1.73,
-  },
-  {
-    word: "apologist",
-    frequency: 1.73,
-  },
-  {
-    word: "appellation",
-    frequency: 1.73,
-  },
-  {
-    word: "arbitrate",
-    frequency: 1.73,
-  },
-  {
-    word: "asymptomatic",
-    frequency: 1.73,
-  },
-  {
-    word: "augur",
-    frequency: 1.73,
-  },
-  {
-    word: "avuncular",
-    frequency: 1.73,
-  },
-  {
-    word: "axiomatic",
-    frequency: 1.73,
-  },
-  {
-    word: "baleful",
-    frequency: 1.73,
-  },
-  {
-    word: "beamish",
-    frequency: 1.73,
-  },
-  {
-    word: "bedraggled",
-    frequency: 1.73,
-  },
-  {
-    word: "bonhomie",
-    frequency: 1.73,
-  },
-  {
-    word: "browbeat",
-    frequency: 1.73,
-  },
-  {
-    word: "cachet",
-    frequency: 1.73,
-  },
-  {
-    word: "castigate",
-    frequency: 1.73,
-  },
-  {
-    word: "chine",
-    frequency: 1.73,
-  },
-  {
-    word: "circumlocution",
-    frequency: 1.73,
-  },
-  {
-    word: "cogitate",
-    frequency: 1.73,
-  },
-  {
-    word: "cohere",
-    frequency: 1.73,
-  },
-  {
-    word: "colloquium",
-    frequency: 1.73,
-  },
-  {
-    word: "coltish",
-    frequency: 1.73,
-  },
-  {
-    word: "comport",
-    frequency: 1.73,
-  },
-  {
-    word: "countermand",
-    frequency: 1.73,
-  },
-  {
-    word: "coverlet",
-    frequency: 1.73,
-  },
-  {
-    word: "crepuscular",
-    frequency: 1.73,
-  },
-  {
-    word: "decorous",
-    frequency: 1.73,
-  },
-  {
-    word: "deleterious",
-    frequency: 1.73,
-  },
-  {
-    word: "demotic",
-    frequency: 1.73,
-  },
-  {
-    word: "desensitize",
-    frequency: 1.73,
-  },
-  {
-    word: "abase",
-    frequency: 1.82,
-  },
-  {
-    word: "accost",
-    frequency: 1.82,
-  },
-  {
-    word: "albinism",
-    frequency: 1.82,
-  },
-  {
-    word: "atavism",
-    frequency: 1.82,
-  },
-  {
-    word: "automatism",
-    frequency: 1.82,
-  },
-  {
-    word: "balletic",
-    frequency: 1.82,
-  },
-  {
-    word: "bumptious",
-    frequency: 1.82,
-  },
-  {
-    word: "buttress",
-    frequency: 1.82,
-  },
-  {
-    word: "cadaverous",
-    frequency: 1.82,
-  },
-  {
-    word: "canard",
-    frequency: 1.82,
-  },
-  {
-    word: "cetacean",
-    frequency: 1.82,
-  },
-  {
-    word: "clearheaded",
-    frequency: 1.82,
-  },
-  {
-    word: "conciliatory",
-    frequency: 1.82,
-  },
-  {
-    word: "construe",
-    frequency: 1.82,
-  },
-  {
-    word: "contravene",
-    frequency: 1.82,
-  },
-  {
-    word: "coquetry",
-    frequency: 1.82,
-  },
-  {
-    word: "coterie",
-    frequency: 1.82,
-  },
-  {
-    word: "damask",
-    frequency: 1.82,
-  },
-  {
-    word: "debunk",
-    frequency: 1.82,
-  },
-  {
-    word: "deferential",
-    frequency: 1.82,
-  },
-  {
-    word: "delectation",
-    frequency: 1.82,
-  },
-  {
-    word: "abrade",
-    frequency: 1.9,
-  },
-  {
-    word: "abrogate",
-    frequency: 1.9,
-  },
-  {
-    word: "abscond",
-    frequency: 1.9,
-  },
-  {
-    word: "adjudicate",
-    frequency: 1.9,
-  },
-  {
-    word: "adulterate",
-    frequency: 1.9,
-  },
-  {
-    word: "antecedent",
-    frequency: 1.9,
-  },
-  {
-    word: "aquiline",
-    frequency: 1.9,
-  },
-  {
-    word: "beatific",
-    frequency: 1.9,
-  },
-  {
-    word: "benighted",
-    frequency: 1.9,
-  },
-  {
-    word: "bewilder",
-    frequency: 1.9,
-  },
-  {
-    word: "bipartisan",
-    frequency: 1.9,
-  },
-  {
-    word: "brusque",
-    frequency: 1.9,
-  },
-  {
-    word: "cogent",
-    frequency: 1.9,
-  },
-  {
-    word: "cognition",
-    frequency: 1.9,
-  },
-  {
-    word: "convivial",
-    frequency: 1.9,
-  },
-  {
-    word: "crabbed",
-    frequency: 1.9,
-  },
-  {
-    word: "curmudgeon",
-    frequency: 1.9,
-  },
-  {
-    word: "cushioned",
-    frequency: 1.9,
-  },
-  {
-    word: "demonstrable",
-    frequency: 1.9,
-  },
-  {
-    word: "deportment",
-    frequency: 1.9,
-  },
-  {
-    word: "derisive",
-    frequency: 1.9,
-  },
-  {
-    word: "abet",
-    frequency: 1.97,
-  },
-  {
-    word: "acumen",
-    frequency: 1.97,
-  },
-  {
-    word: "alacrity",
-    frequency: 1.97,
-  },
-  {
-    word: "ambit",
-    frequency: 1.97,
-  },
-  {
-    word: "amity",
-    frequency: 1.97,
-  },
-  {
-    word: "anachronism",
-    frequency: 1.97,
-  },
-  {
-    word: "antechamber",
-    frequency: 1.97,
-  },
-  {
-    word: "aplomb",
-    frequency: 1.97,
-  },
-  {
-    word: "apoplectic",
-    frequency: 1.97,
-  },
-  {
-    word: "apotheosis",
-    frequency: 1.97,
-  },
-  {
-    word: "bemused",
-    frequency: 1.97,
-  },
-  {
-    word: "bluster",
-    frequency: 1.97,
-  },
-  {
-    word: "brackish",
-    frequency: 1.97,
-  },
-  {
-    word: "buxom",
-    frequency: 1.97,
-  },
-  {
-    word: "calumny",
-    frequency: 1.97,
-  },
-  {
-    word: "chicanery",
-    frequency: 1.97,
-  },
-  {
-    word: "coffer",
-    frequency: 1.97,
-  },
-  {
-    word: "conceptualize",
-    frequency: 1.97,
-  },
-  {
-    word: "concurrent",
-    frequency: 1.97,
-  },
-  {
-    word: "consequential",
-    frequency: 1.97,
-  },
-  {
-    word: "contretemps",
-    frequency: 1.97,
-  },
-  {
-    word: "convalesce",
-    frequency: 1.97,
-  },
-  {
-    word: "corpulent",
-    frequency: 1.97,
-  },
-  {
-    word: "curare",
-    frequency: 1.97,
-  },
-  {
-    word: "darkling",
-    frequency: 1.97,
-  },
-  {
-    word: "acrid",
-    frequency: 2.03,
-  },
-  {
-    word: "acrimony",
-    frequency: 2.03,
-  },
-  {
-    word: "aghast",
-    frequency: 2.03,
-  },
-  {
-    word: "agitprop",
-    frequency: 2.03,
-  },
-  {
-    word: "alfresco",
-    frequency: 2.03,
-  },
-  {
-    word: "anachronistic",
-    frequency: 2.03,
-  },
-  {
-    word: "anthropomorphic",
-    frequency: 2.03,
-  },
-  {
-    word: "ascendancy",
-    frequency: 2.03,
-  },
-  {
-    word: "askance",
-    frequency: 2.03,
-  },
-  {
-    word: "assail",
-    frequency: 2.03,
-  },
-  {
-    word: "assemblage",
-    frequency: 2.03,
-  },
-  {
-    word: "atavistic",
-    frequency: 2.03,
-  },
-  {
-    word: "bounteous",
-    frequency: 2.03,
-  },
-  {
-    word: "carioca",
-    frequency: 2.03,
-  },
-  {
-    word: "churlish",
-    frequency: 2.03,
-  },
-  {
-    word: "cloying",
-    frequency: 2.03,
-  },
-  {
-    word: "cockle",
-    frequency: 2.03,
-  },
-  {
-    word: "cognizance",
-    frequency: 2.03,
-  },
-  {
-    word: "conflagration",
-    frequency: 2.03,
-  },
-  {
-    word: "congeal",
-    frequency: 2.03,
-  },
-  {
-    word: "crestfallen",
-    frequency: 2.03,
-  },
-  {
-    word: "denigrate",
-    frequency: 2.03,
-  },
-  {
-    word: "deride",
-    frequency: 2.03,
-  },
-  {
-    word: "accede",
-    frequency: 2.08,
-  },
-  {
-    word: "adjunct",
-    frequency: 2.08,
-  },
-  {
-    word: "aesthete",
-    frequency: 2.08,
-  },
-  {
-    word: "amble",
-    frequency: 2.08,
-  },
-  {
-    word: "analogous",
-    frequency: 2.08,
-  },
-  {
-    word: "antagonist",
-    frequency: 2.08,
-  },
-  {
-    word: "apocryphal",
-    frequency: 2.08,
-  },
-  {
-    word: "ardor",
-    frequency: 2.08,
-  },
-  {
-    word: "astringent",
-    frequency: 2.08,
-  },
-  {
-    word: "aver",
-    frequency: 2.08,
-  },
-  {
-    word: "beatitude",
-    frequency: 2.08,
-  },
-  {
-    word: "beauteous",
-    frequency: 2.08,
-  },
-  {
-    word: "behoove",
-    frequency: 2.08,
-  },
-  {
-    word: "bilious",
-    frequency: 2.08,
-  },
-  {
-    word: "billow",
-    frequency: 2.08,
-  },
-  {
-    word: "blighted",
-    frequency: 2.08,
-  },
-  {
-    word: "bludgeon",
-    frequency: 2.08,
-  },
-  {
-    word: "bucolic",
-    frequency: 2.08,
-  },
-  {
-    word: "caveat",
-    frequency: 2.08,
-  },
-  {
-    word: "circumnavigate",
-    frequency: 2.08,
-  },
-  {
-    word: "clamber",
-    frequency: 2.08,
-  },
-  {
-    word: "cloven",
-    frequency: 2.08,
-  },
-  {
-    word: "coalesce",
-    frequency: 2.08,
-  },
-  {
-    word: "coiffure",
-    frequency: 2.08,
-  },
-  {
-    word: "credulous",
-    frequency: 2.08,
-  },
-  {
-    word: "croesus",
-    frequency: 2.08,
-  },
-  {
-    word: "crony",
-    frequency: 2.08,
-  },
-  {
-    word: "curative",
-    frequency: 2.08,
-  },
-  {
-    word: "curdle",
-    frequency: 2.08,
-  },
-  {
-    word: "dappled",
-    frequency: 2.08,
-  },
-  {
-    word: "debase",
-    frequency: 2.08,
-  },
-  {
-    word: "abeyance",
-    frequency: 2.12,
-  },
-  {
-    word: "accolade",
-    frequency: 2.12,
-  },
-  {
-    word: "allude",
-    frequency: 2.12,
-  },
-  {
-    word: "antediluvian",
-    frequency: 2.12,
-  },
-  {
-    word: "balderdash",
-    frequency: 2.12,
-  },
-  {
-    word: "bauble",
-    frequency: 2.12,
-  },
-  {
-    word: "bewilderment",
-    frequency: 2.12,
-  },
-  {
-    word: "blithe",
-    frequency: 2.12,
-  },
-  {
-    word: "bole",
-    frequency: 2.12,
-  },
-  {
-    word: "bulbous",
-    frequency: 2.12,
-  },
-  {
-    word: "calliope",
-    frequency: 2.12,
-  },
-  {
-    word: "circumspect",
-    frequency: 2.12,
-  },
-  {
-    word: "collude",
-    frequency: 2.12,
-  },
-  {
-    word: "comeuppance",
-    frequency: 2.12,
-  },
-  {
-    word: "consternation",
-    frequency: 2.12,
-  },
-  {
-    word: "constituent",
-    frequency: 2.12,
-  },
-  {
-    word: "cull",
-    frequency: 2.12,
-  },
-  {
-    word: "acolyte",
-    frequency: 2.17,
-  },
-  {
-    word: "addle",
-    frequency: 2.17,
-  },
-  {
-    word: "apace",
-    frequency: 2.17,
-  },
-  {
-    word: "apostate",
-    frequency: 2.17,
-  },
-  {
-    word: "appellate",
-    frequency: 2.17,
-  },
-  {
-    word: "avaricious",
-    frequency: 2.17,
-  },
-  {
-    word: "bate",
-    frequency: 2.17,
-  },
-  {
-    word: "bewitch",
-    frequency: 2.17,
-  },
-  {
-    word: "bulwark",
-    frequency: 2.17,
-  },
-  {
-    word: "cairn",
-    frequency: 2.17,
-  },
-  {
-    word: "cavernous",
-    frequency: 2.17,
-  },
-  {
-    word: "codicil",
-    frequency: 2.17,
-  },
-  {
-    word: "cognizant",
-    frequency: 2.17,
-  },
-  {
-    word: "commiserate",
-    frequency: 2.17,
-  },
-  {
-    word: "compunction",
-    frequency: 2.17,
-  },
-  {
-    word: "concerted",
-    frequency: 2.17,
-  },
-  {
-    word: "confluence",
-    frequency: 2.17,
-  },
-  {
-    word: "credulity",
-    frequency: 2.17,
-  },
-  {
-    word: "dalliance",
-    frequency: 2.17,
-  },
-  {
-    word: "decimate",
-    frequency: 2.17,
-  },
-  {
-    word: "demagogue",
-    frequency: 2.17,
-  },
-  {
-    word: "acuity",
-    frequency: 2.2,
-  },
-  {
-    word: "affectation",
-    frequency: 2.2,
-  },
-  {
-    word: "afield",
-    frequency: 2.2,
-  },
-  {
-    word: "allay",
-    frequency: 2.2,
-  },
-  {
-    word: "allege",
-    frequency: 2.2,
-  },
-  {
-    word: "alliteration",
-    frequency: 2.2,
-  },
-  {
-    word: "amalgamation",
-    frequency: 2.2,
-  },
-  {
-    word: "anathema",
-    frequency: 2.2,
-  },
-  {
-    word: "anodyne",
-    frequency: 2.2,
-  },
-  {
-    word: "categorical",
-    frequency: 2.2,
-  },
-  {
-    word: "coddle",
-    frequency: 2.2,
-  },
-  {
-    word: "cohesive",
-    frequency: 2.2,
-  },
-  {
-    word: "commensurate",
-    frequency: 2.2,
-  },
-  {
-    word: "constrained",
-    frequency: 2.2,
-  },
-  {
-    word: "contrive",
-    frequency: 2.2,
-  },
-  {
-    word: "acme",
-    frequency: 2.24,
-  },
-  {
-    word: "adagio",
-    frequency: 2.24,
-  },
-  {
-    word: "amorphous",
-    frequency: 2.24,
-  },
-  {
-    word: "antipathy",
-    frequency: 2.24,
-  },
-  {
-    word: "assay",
-    frequency: 2.24,
-  },
-  {
-    word: "assuage",
-    frequency: 2.24,
-  },
-  {
-    word: "auspices",
-    frequency: 2.24,
-  },
-  {
-    word: "besmirch",
-    frequency: 2.24,
-  },
-  {
-    word: "blanch",
-    frequency: 2.24,
-  },
-  {
-    word: "cajole",
-    frequency: 2.24,
-  },
-  {
-    word: "canto",
-    frequency: 2.24,
-  },
-  {
-    word: "cavil",
-    frequency: 2.24,
-  },
-  {
-    word: "chide",
-    frequency: 2.24,
-  },
-  {
-    word: "congenial",
-    frequency: 2.24,
-  },
-  {
-    word: "contrite",
-    frequency: 2.24,
-  },
-  {
-    word: "cursory",
-    frequency: 2.24,
-  },
-  {
-    word: "deciduous",
-    frequency: 2.24,
-  },
-  {
-    word: "deft",
-    frequency: 2.24,
-  },
-  {
-    word: "acerbic",
-    frequency: 2.27,
-  },
-  {
-    word: "adulation",
-    frequency: 2.27,
-  },
-  {
-    word: "attrition",
-    frequency: 2.27,
-  },
-  {
-    word: "augment",
-    frequency: 2.27,
-  },
-  {
-    word: "augury",
-    frequency: 2.27,
-  },
-  {
-    word: "bade",
-    frequency: 2.27,
-  },
-  {
-    word: "bamboozle",
-    frequency: 2.27,
-  },
-  {
-    word: "callow",
-    frequency: 2.27,
-  },
-  {
-    word: "catacomb",
-    frequency: 2.27,
-  },
-  {
-    word: "catharsis",
-    frequency: 2.27,
-  },
-  {
-    word: "chastise",
-    frequency: 2.27,
-  },
-  {
-    word: "clamor",
-    frequency: 2.27,
-  },
-  {
-    word: "convoluted",
-    frequency: 2.27,
-  },
-  {
-    word: "copious",
-    frequency: 2.27,
-  },
-  {
-    word: "bellwether",
-    frequency: 2.3,
-  },
-  {
-    word: "cantankerous",
-    frequency: 2.3,
-  },
-  {
-    word: "cede",
-    frequency: 2.3,
-  },
-  {
-    word: "chagrin",
-    frequency: 2.3,
-  },
-  {
-    word: "chrysalis",
-    frequency: 2.3,
-  },
-  {
-    word: "cohort",
-    frequency: 2.3,
-  },
-  {
-    word: "colloquial",
-    frequency: 2.3,
-  },
-  {
-    word: "conductive",
-    frequency: 2.3,
-  },
-  {
-    word: "denouement",
-    frequency: 2.3,
-  },
-  {
-    word: "deplete",
-    frequency: 2.3,
-  },
-  {
-    word: "deplore",
-    frequency: 2.3,
-  },
-  {
-    word: "admonish",
-    frequency: 2.33,
-  },
-  {
-    word: "aegis",
-    frequency: 2.33,
-  },
-  {
-    word: "afflict",
-    frequency: 2.33,
-  },
-  {
-    word: "aficionado",
-    frequency: 2.33,
-  },
-  {
-    word: "ambivalence",
-    frequency: 2.33,
-  },
-  {
-    word: "argent",
-    frequency: 2.33,
-  },
-  {
-    word: "assent",
-    frequency: 2.33,
-  },
-  {
-    word: "averse",
-    frequency: 2.33,
-  },
-  {
-    word: "brandish",
-    frequency: 2.33,
-  },
-  {
-    word: "cacophony",
-    frequency: 2.33,
-  },
-  {
-    word: "catamaran",
-    frequency: 2.33,
-  },
-  {
-    word: "connotation",
-    frequency: 2.33,
-  },
-  {
-    word: "conscription",
-    frequency: 2.33,
-  },
-  {
-    word: "derision",
-    frequency: 2.33,
-  },
-  {
-    word: "acquiesce",
-    frequency: 2.36,
-  },
-  {
-    word: "amenable",
-    frequency: 2.36,
-  },
-  {
-    word: "anecdotal",
-    frequency: 2.36,
-  },
-  {
-    word: "antithesis",
-    frequency: 2.36,
-  },
-  {
-    word: "askew",
-    frequency: 2.36,
-  },
-  {
-    word: "berate",
-    frequency: 2.36,
-  },
-  {
-    word: "bier",
-    frequency: 2.36,
-  },
-  {
-    word: "bolster",
-    frequency: 2.36,
-  },
-  {
-    word: "coerce",
-    frequency: 2.36,
-  },
-  {
-    word: "coronal",
-    frequency: 2.36,
-  },
-  {
-    word: "deference",
-    frequency: 2.36,
-  },
-  {
-    word: "demoralize",
-    frequency: 2.36,
-  },
-  {
-    word: "abate",
-    frequency: 2.38,
-  },
-  {
-    word: "abdicate",
-    frequency: 2.38,
-  },
-  {
-    word: "annul",
-    frequency: 2.38,
-  },
-  {
-    word: "beguile",
-    frequency: 2.38,
-  },
-  {
-    word: "brevity",
-    frequency: 2.38,
-  },
-  {
-    word: "canker",
-    frequency: 2.38,
-  },
-  {
-    word: "capsize",
-    frequency: 2.38,
-  },
-  {
-    word: "clarion",
-    frequency: 2.38,
-  },
-  {
-    word: "dais",
-    frequency: 2.38,
-  },
-  {
-    word: "alcove",
-    frequency: 2.4,
-  },
-  {
-    word: "ancillary",
-    frequency: 2.4,
-  },
-  {
-    word: "anomalous",
-    frequency: 2.4,
-  },
-  {
-    word: "archetypal",
-    frequency: 2.4,
-  },
-  {
-    word: "capitulate",
-    frequency: 2.4,
-  },
-  {
-    word: "cumulative",
-    frequency: 2.4,
-  },
-  {
-    word: "deign",
-    frequency: 2.4,
-  },
-  {
-    word: "demure",
-    frequency: 2.4,
-  },
-  {
-    word: "abysmal",
-    frequency: 2.43,
-  },
-  {
-    word: "astound",
-    frequency: 2.43,
-  },
-  {
-    word: "bivouac",
-    frequency: 2.43,
-  },
-  {
-    word: "bodacious",
-    frequency: 2.43,
-  },
-  {
-    word: "cathartic",
-    frequency: 2.43,
-  },
-  {
-    word: "chutzpah",
-    frequency: 2.43,
-  },
-  {
-    word: "derogatory",
-    frequency: 2.43,
-  },
-  {
-    word: "accentuate",
-    frequency: 2.45,
-  },
-  {
-    word: "artful",
-    frequency: 2.45,
-  },
-  {
-    word: "beset",
-    frequency: 2.45,
-  },
-  {
-    word: "concourse",
-    frequency: 2.45,
-  },
-  {
-    word: "culvert",
-    frequency: 2.45,
-  },
-  {
-    word: "aberrant",
-    frequency: 2.47,
-  },
-  {
-    word: "affable",
-    frequency: 2.47,
-  },
-  {
-    word: "altruism",
-    frequency: 2.47,
-  },
-  {
-    word: "appendage",
-    frequency: 2.47,
-  },
-  {
-    word: "beholden",
-    frequency: 2.47,
-  },
-  {
-    word: "buoyancy",
-    frequency: 2.47,
-  },
-  {
-    word: "caucus",
-    frequency: 2.47,
-  },
-  {
-    word: "consecrate",
-    frequency: 2.47,
-  },
-  {
-    word: "bouillon",
-    frequency: 2.49,
-  },
-  {
-    word: "circumvent",
-    frequency: 2.49,
-  },
-  {
-    word: "conclave",
-    frequency: 2.49,
-  },
-  {
-    word: "crystalline",
-    frequency: 2.49,
-  },
-  {
-    word: "culpable",
-    frequency: 2.49,
-  },
-  {
-    word: "debonair",
-    frequency: 2.49,
-  },
-  {
-    word: "avarice",
-    frequency: 2.5,
-  },
-  {
-    word: "checkered",
-    frequency: 2.5,
-  },
-  {
-    word: "collusion",
-    frequency: 2.5,
-  },
-  {
-    word: "contentious",
-    frequency: 2.5,
-  },
-  {
-    word: "copacetic",
-    frequency: 2.5,
-  },
-  {
-    word: "ambivalent",
-    frequency: 2.52,
-  },
-  {
-    word: "besiege",
-    frequency: 2.52,
-  },
-  {
-    word: "bicker",
-    frequency: 2.52,
-  },
-  {
-    word: "boorish",
-    frequency: 2.52,
-  },
-  {
-    word: "censure",
-    frequency: 2.52,
-  },
-  {
-    word: "chaff",
-    frequency: 2.52,
-  },
-  {
-    word: "complacency",
-    frequency: 2.52,
-  },
-  {
-    word: "cower",
-    frequency: 2.52,
-  },
-  {
-    word: "cranny",
-    frequency: 2.52,
-  },
-  {
-    word: "crone",
-    frequency: 2.52,
-  },
-  {
-    word: "delude",
-    frequency: 2.52,
-  },
-  {
-    word: "abject",
-    frequency: 2.54,
-  },
-  {
-    word: "adage",
-    frequency: 2.54,
-  },
-  {
-    word: "apropos",
-    frequency: 2.54,
-  },
-  {
-    word: "arcane",
-    frequency: 2.54,
-  },
-  {
-    word: "dawdle",
-    frequency: 2.54,
-  },
-  {
-    word: "abhorrent",
-    frequency: 2.56,
-  },
-  {
-    word: "austere",
-    frequency: 2.56,
-  },
-  {
-    word: "bastion",
-    frequency: 2.56,
-  },
-  {
-    word: "burly",
-    frequency: 2.56,
-  },
-  {
-    word: "confounded",
-    frequency: 2.56,
-  },
-  {
-    word: "contentment",
-    frequency: 2.56,
-  },
-  {
-    word: "dapper",
-    frequency: 2.56,
-  },
-  {
-    word: "dastardly",
-    frequency: 2.56,
-  },
-  {
-    word: "ambient",
-    frequency: 2.57,
-  },
-  {
-    word: "asinine",
-    frequency: 2.57,
-  },
-  {
-    word: "barbu",
-    frequency: 2.57,
-  },
-  {
-    word: "behest",
-    frequency: 2.57,
-  },
-  {
-    word: "besotted",
-    frequency: 2.57,
-  },
-  {
-    word: "bullion",
-    frequency: 2.57,
-  },
-  {
-    word: "cataract",
-    frequency: 2.57,
-  },
-  {
-    word: "cinder",
-    frequency: 2.57,
-  },
-  {
-    word: "cleave",
-    frequency: 2.57,
-  },
-  {
-    word: "credence",
-    frequency: 2.57,
-  },
-  {
-    word: "crux",
-    frequency: 2.57,
-  },
-  {
-    word: "desecrate",
-    frequency: 2.57,
-  },
-  {
-    word: "anterior",
-    frequency: 2.59,
-  },
-  {
-    word: "atypical",
-    frequency: 2.59,
-  },
-  {
-    word: "auditory",
-    frequency: 2.59,
-  },
-  {
-    word: "causeway",
-    frequency: 2.59,
-  },
-  {
-    word: "clemency",
-    frequency: 2.59,
-  },
-  {
-    word: "defile",
-    frequency: 2.59,
-  },
-  {
-    word: "abut",
-    frequency: 2.6,
-  },
-  {
-    word: "adept",
-    frequency: 2.6,
-  },
-  {
-    word: "agility",
-    frequency: 2.6,
-  },
-  {
-    word: "auditor",
-    frequency: 2.6,
-  },
-  {
-    word: "cabal",
-    frequency: 2.6,
-  },
-  {
-    word: "delve",
-    frequency: 2.6,
-  },
-  {
-    word: "ascetic",
-    frequency: 2.62,
-  },
-  {
-    word: "audacious",
-    frequency: 2.62,
-  },
-  {
-    word: "belated",
-    frequency: 2.62,
-  },
-  {
-    word: "bereft",
-    frequency: 2.62,
-  },
-  {
-    word: "decadence",
-    frequency: 2.62,
-  },
-  {
-    word: "altruistic",
-    frequency: 2.63,
-  },
-  {
-    word: "belie",
-    frequency: 2.63,
-  },
-  {
-    word: "dabble",
-    frequency: 2.63,
-  },
-  {
-    word: "depose",
-    frequency: 2.63,
-  },
-  {
-    word: "amalgam",
-    frequency: 2.64,
-  },
-  {
-    word: "anon",
-    frequency: 2.64,
-  },
-  {
-    word: "carrion",
-    frequency: 2.64,
-  },
-  {
-    word: "conjugal",
-    frequency: 2.64,
-  },
-  {
-    word: "deflect",
-    frequency: 2.64,
-  },
-  {
-    word: "ambiance",
-    frequency: 2.66,
-  },
-  {
-    word: "benevolence",
-    frequency: 2.66,
-  },
-  {
-    word: "cavalier",
-    frequency: 2.66,
-  },
-  {
-    word: "delectable",
-    frequency: 2.66,
-  },
-  {
-    word: "assimilate",
-    frequency: 2.67,
-  },
-  {
-    word: "candor",
-    frequency: 2.67,
-  },
-  {
-    word: "catatonic",
-    frequency: 2.67,
-  },
-  {
-    word: "concoction",
-    frequency: 2.67,
-  },
-  {
-    word: "contusion",
-    frequency: 2.67,
-  },
-  {
-    word: "crevice",
-    frequency: 2.67,
-  },
-  {
-    word: "crusader",
-    frequency: 2.67,
-  },
-  {
-    word: "dainty",
-    frequency: 2.67,
-  },
-  {
-    word: "aggravate",
-    frequency: 2.68,
-  },
-  {
-    word: "agnostic",
-    frequency: 2.68,
-  },
-  {
-    word: "aloof",
-    frequency: 2.68,
-  },
-  {
-    word: "ambiguity",
-    frequency: 2.68,
-  },
-  {
-    word: "amicable",
-    frequency: 2.68,
-  },
-  {
-    word: "caricature",
-    frequency: 2.68,
-  },
-  {
-    word: "comely",
-    frequency: 2.68,
-  },
-  {
-    word: "conceit",
-    frequency: 2.68,
-  },
-  {
-    word: "conundrum",
-    frequency: 2.68,
-  },
-  {
-    word: "debacle",
-    frequency: 2.68,
-  },
-  {
-    word: "awry",
-    frequency: 2.69,
-  },
-  {
-    word: "belligerent",
-    frequency: 2.69,
-  },
-  {
-    word: "armistice",
-    frequency: 2.7,
-  },
-  {
-    word: "bedlam",
-    frequency: 2.7,
-  },
-  {
-    word: "bode",
-    frequency: 2.7,
-  },
-  {
-    word: "burg",
-    frequency: 2.7,
-  },
-  {
-    word: "confidant",
-    frequency: 2.7,
-  },
-  {
-    word: "confines",
-    frequency: 2.7,
-  },
-  {
-    word: "aspiration",
-    frequency: 2.72,
-  },
-  {
-    word: "consortium",
-    frequency: 2.72,
-  },
-  {
-    word: "contrived",
-    frequency: 2.73,
-  },
-  {
-    word: "cushy",
-    frequency: 2.73,
-  },
-  {
-    word: "apprehensive",
-    frequency: 2.74,
-  },
-  {
-    word: "bane",
-    frequency: 2.74,
-  },
-  {
-    word: "complacent",
-    frequency: 2.74,
-  },
-  {
-    word: "concur",
-    frequency: 2.74,
-  },
-  {
-    word: "congenital",
-    frequency: 2.74,
-  },
-  {
-    word: "converge",
-    frequency: 2.74,
-  },
-  {
-    word: "credo",
-    frequency: 2.74,
-  },
-  {
-    word: "ajar",
-    frequency: 2.75,
-  },
-  {
-    word: "anecdote",
-    frequency: 2.75,
-  },
-  {
-    word: "bandy",
-    frequency: 2.75,
-  },
-  {
-    word: "camaraderie",
-    frequency: 2.75,
-  },
-  {
-    word: "cameo",
-    frequency: 2.75,
-  },
-  {
-    word: "derelict",
-    frequency: 2.75,
-  },
-  {
-    word: "arcadia",
-    frequency: 2.76,
-  },
-  {
-    word: "ardent",
-    frequency: 2.76,
-  },
-  {
-    word: "brawn",
-    frequency: 2.76,
-  },
-  {
-    word: "daunting",
-    frequency: 2.77,
-  },
-  {
-    word: "archaic",
-    frequency: 2.78,
-  },
-  {
-    word: "astral",
-    frequency: 2.78,
-  },
-  {
-    word: "aught",
-    frequency: 2.78,
-  },
-  {
-    word: "bequeath",
-    frequency: 2.78,
-  },
-  {
-    word: "cryptic",
-    frequency: 2.78,
-  },
-  {
-    word: "charlatan",
-    frequency: 2.79,
-  },
-  {
-    word: "coax",
-    frequency: 2.79,
-  },
-  {
-    word: "commons",
-    frequency: 2.79,
-  },
-  {
-    word: "coney",
-    frequency: 2.79,
-  },
-  {
-    word: "deduce",
-    frequency: 2.79,
-  },
-  {
-    word: "ambrosia",
-    frequency: 2.8,
-  },
-  {
-    word: "assertive",
-    frequency: 2.8,
-  },
-  {
-    word: "barrage",
-    frequency: 2.8,
-  },
-  {
-    word: "deem",
-    frequency: 2.8,
-  },
-  {
-    word: "derive",
-    frequency: 2.8,
-  },
-  {
-    word: "aberration",
-    frequency: 2.81,
-  },
-  {
-    word: "abstain",
-    frequency: 2.81,
-  },
-  {
-    word: "amok",
-    frequency: 2.81,
-  },
-  {
-    word: "amorous",
-    frequency: 2.81,
-  },
-  {
-    word: "angelic",
-    frequency: 2.81,
-  },
-  {
-    word: "ascertain",
-    frequency: 2.81,
-  },
-  {
-    word: "befall",
-    frequency: 2.81,
-  },
-  {
-    word: "constituency",
-    frequency: 2.81,
-  },
-  {
-    word: "decorum",
-    frequency: 2.81,
-  },
-  {
-    word: "amiss",
-    frequency: 2.82,
-  },
-  {
-    word: "archetype",
-    frequency: 2.82,
-  },
-  {
-    word: "asunder",
-    frequency: 2.82,
-  },
-  {
-    word: "bewitching",
-    frequency: 2.82,
-  },
-  {
-    word: "blatant",
-    frequency: 2.82,
-  },
-  {
-    word: "carnivorous",
-    frequency: 2.82,
-  },
-  {
-    word: "affinity",
-    frequency: 2.83,
-  },
-  {
-    word: "complement",
-    frequency: 2.83,
-  },
-  {
-    word: "corroborate",
-    frequency: 2.83,
-  },
-  {
-    word: "culmination",
-    frequency: 2.83,
-  },
-  {
-    word: "ascension",
-    frequency: 2.84,
-  },
-  {
-    word: "callous",
-    frequency: 2.84,
-  },
-  {
-    word: "dearth",
-    frequency: 2.84,
-  },
-  {
-    word: "demeanor",
-    frequency: 2.84,
-  },
-  {
-    word: "amiable",
-    frequency: 2.85,
-  },
-  {
-    word: "aria",
-    frequency: 2.85,
-  },
-  {
-    word: "cob",
-    frequency: 2.85,
-  },
-  {
-    word: "craven",
-    frequency: 2.85,
-  },
-  {
-    word: "coincidentally",
-    frequency: 2.86,
-  },
-  {
-    word: "attribute",
-    frequency: 2.87,
-  },
-  {
-    word: "aversion",
-    frequency: 2.87,
-  },
-  {
-    word: "betrothed",
-    frequency: 2.87,
-  },
-  {
-    word: "brazen",
-    frequency: 2.87,
-  },
-  {
-    word: "cascade",
-    frequency: 2.87,
-  },
-  {
-    word: "catalyst",
-    frequency: 2.87,
-  },
-  {
-    word: "compliance",
-    frequency: 2.87,
-  },
-  {
-    word: "confer",
-    frequency: 2.87,
-  },
-  {
-    word: "dauntless",
-    frequency: 2.87,
-  },
-  {
-    word: "deluge",
-    frequency: 2.87,
-  },
-  {
-    word: "albino",
-    frequency: 2.88,
-  },
-  {
-    word: "consolidate",
-    frequency: 2.88,
-  },
-  {
-    word: "alleviate",
-    frequency: 2.89,
-  },
-  {
-    word: "antics",
-    frequency: 2.89,
-  },
-  {
-    word: "caprice",
-    frequency: 2.89,
-  },
-  {
-    word: "cite",
-    frequency: 2.89,
-  },
-  {
-    word: "covet",
-    frequency: 2.89,
-  },
-  {
-    word: "crescendo",
-    frequency: 2.89,
-  },
-  {
-    word: "adoration",
-    frequency: 2.9,
-  },
-  {
-    word: "adverse",
-    frequency: 2.9,
-  },
-  {
-    word: "agile",
-    frequency: 2.9,
-  },
-  {
-    word: "alluring",
-    frequency: 2.9,
-  },
-  {
-    word: "angst",
-    frequency: 2.9,
-  },
-  {
-    word: "animus",
-    frequency: 2.9,
-  },
-  {
-    word: "aphrodisiac",
-    frequency: 2.9,
-  },
-  {
-    word: "astute",
-    frequency: 2.9,
-  },
-  {
-    word: "cadence",
-    frequency: 2.9,
-  },
-  {
-    word: "condone",
-    frequency: 2.9,
-  },
-  {
-    word: "confine",
-    frequency: 2.9,
-  },
-  {
-    word: "contingent",
-    frequency: 2.9,
-  },
-  {
-    word: "cur",
-    frequency: 2.9,
-  },
-  {
-    word: "bigot",
-    frequency: 2.91,
-  },
-  {
-    word: "chaperone",
-    frequency: 2.91,
-  },
-  {
-    word: "contend",
-    frequency: 2.91,
-  },
-  {
-    word: "decadent",
-    frequency: 2.91,
-  },
-  {
-    word: "absolution",
-    frequency: 2.92,
-  },
-  {
-    word: "atonement",
-    frequency: 2.92,
-  },
-  {
-    word: "bashful",
-    frequency: 2.92,
-  },
-  {
-    word: "brisk",
-    frequency: 2.92,
-  },
-  {
-    word: "capricious",
-    frequency: 2.92,
-  },
-  {
-    word: "cataclysm",
-    frequency: 2.92,
-  },
-  {
-    word: "clad",
-    frequency: 2.92,
-  },
-  {
-    word: "conjecture",
-    frequency: 2.92,
-  },
-  {
-    word: "connoisseur",
-    frequency: 2.92,
-  },
-  {
-    word: "countenance",
-    frequency: 2.92,
-  },
-  {
-    word: "ailment",
-    frequency: 2.93,
-  },
-  {
-    word: "binge",
-    frequency: 2.93,
-  },
-  {
-    word: "cesspool",
-    frequency: 2.93,
-  },
-  {
-    word: "cornerstone",
-    frequency: 2.93,
-  },
-  {
-    word: "adorn",
-    frequency: 2.94,
-  },
-  {
-    word: "advert",
-    frequency: 2.94,
-  },
-  {
-    word: "appease",
-    frequency: 2.94,
-  },
-  {
-    word: "arduous",
-    frequency: 2.94,
-  },
-  {
-    word: "audacity",
-    frequency: 2.94,
-  },
-  {
-    word: "banzai",
-    frequency: 2.94,
-  },
-  {
-    word: "blissful",
-    frequency: 2.94,
-  },
-  {
-    word: "brooch",
-    frequency: 2.94,
-  },
-  {
-    word: "carnal",
-    frequency: 2.94,
-  },
-  {
-    word: "compel",
-    frequency: 2.94,
-  },
-  {
-    word: "constitute",
-    frequency: 2.94,
-  },
-  {
-    word: "benign",
-    frequency: 2.95,
-  },
-  {
-    word: "affidavit",
-    frequency: 2.96,
-  },
-  {
-    word: "apathy",
-    frequency: 2.96,
-  },
-  {
-    word: "banter",
-    frequency: 2.96,
-  },
-  {
-    word: "chore",
-    frequency: 2.96,
-  },
-  {
-    word: "cultivated",
-    frequency: 2.97,
-  },
-  {
-    word: "absolve",
-    frequency: 2.98,
-  },
-  {
-    word: "calypso",
-    frequency: 2.99,
-  },
-  {
-    word: "deduction",
-    frequency: 2.99,
-  },
-  {
-    word: "analogy",
-    frequency: 3,
-  },
-  {
-    word: "coherent",
-    frequency: 3,
-  },
-  {
-    word: "contraption",
-    frequency: 3,
-  },
-  {
-    word: "banal",
-    frequency: 3.01,
-  },
-  {
-    word: "comprehensive",
-    frequency: 3.01,
-  },
-  {
-    word: "condescending",
-    frequency: 3.01,
-  },
-  {
-    word: "contraband",
-    frequency: 3.01,
-  },
-  {
-    word: "antiquity",
-    frequency: 3.02,
-  },
-  {
-    word: "assert",
-    frequency: 3.02,
-  },
-  {
-    word: "clandestine",
-    frequency: 3.02,
-  },
-  {
-    word: "commute",
-    frequency: 3.02,
-  },
-  {
-    word: "atrocious",
-    frequency: 3.03,
-  },
-  {
-    word: "ambiguous",
-    frequency: 3.04,
-  },
-  {
-    word: "blossoming",
-    frequency: 3.04,
-  },
-  {
-    word: "annihilate",
-    frequency: 3.05,
-  },
-  {
-    word: "bestow",
-    frequency: 3.05,
-  },
-  {
-    word: "concede",
-    frequency: 3.05,
-  },
-  {
-    word: "conspicuous",
-    frequency: 3.05,
-  },
-  {
-    word: "aide",
-    frequency: 3.06,
-  },
-  {
-    word: "bland",
-    frequency: 3.06,
-  },
-  {
-    word: "brook",
-    frequency: 3.06,
-  },
-  {
-    word: "commissar",
-    frequency: 3.06,
-  },
-  {
-    word: "concession",
-    frequency: 3.06,
-  },
-  {
-    word: "deadbeat",
-    frequency: 3.06,
-  },
-  {
-    word: "abominable",
-    frequency: 3.07,
-  },
-  {
-    word: "arbitrary",
-    frequency: 3.07,
-  },
-  {
-    word: "brilliance",
-    frequency: 3.07,
-  },
-  {
-    word: "conjure",
-    frequency: 3.07,
-  },
-  {
-    word: "brood",
-    frequency: 3.08,
-  },
-  {
-    word: "abomination",
-    frequency: 3.09,
-  },
-  {
-    word: "abrupt",
-    frequency: 3.09,
-  },
-  {
-    word: "ballistic",
-    frequency: 3.09,
-  },
-  {
-    word: "adversity",
-    frequency: 3.1,
-  },
-  {
-    word: "astounding",
-    frequency: 3.1,
-  },
-  {
-    word: "benevolent",
-    frequency: 3.1,
-  },
-  {
-    word: "canon",
-    frequency: 3.1,
-  },
-  {
-    word: "courteous",
-    frequency: 3.1,
-  },
-  {
-    word: "adversary",
-    frequency: 3.11,
-  },
-  {
-    word: "candid",
-    frequency: 3.11,
-  },
-  {
-    word: "carnage",
-    frequency: 3.11,
-  },
-  {
-    word: "adamant",
-    frequency: 3.12,
-  },
-  {
-    word: "conscientious",
-    frequency: 3.12,
-  },
-  {
-    word: "benefactor",
-    frequency: 3.14,
-  },
-  {
-    word: "apt",
-    frequency: 3.15,
-  },
-  {
-    word: "articulate",
-    frequency: 3.15,
-  },
-  {
-    word: "beseech",
-    frequency: 3.15,
-  },
-  {
-    word: "chime",
-    frequency: 3.15,
-  },
-  {
-    word: "curator",
-    frequency: 3.15,
-  },
-  {
-    word: "dazzle",
-    frequency: 3.15,
-  },
-  {
-    word: "aesthetic",
-    frequency: 3.16,
-  },
-  {
-    word: "delinquent",
-    frequency: 3.16,
-  },
-  {
-    word: "blurry",
-    frequency: 3.17,
-  },
-  {
-    word: "breathtaking",
-    frequency: 3.17,
-  },
-  {
-    word: "boast",
-    frequency: 3.18,
-  },
-  {
-    word: "bubbling",
-    frequency: 3.18,
-  },
-  {
-    word: "charade",
-    frequency: 3.18,
-  },
-  {
-    word: "continuity",
-    frequency: 3.18,
-  },
-  {
-    word: "abode",
-    frequency: 3.19,
-  },
-  {
-    word: "coy",
-    frequency: 3.19,
-  },
-  {
-    word: "array",
-    frequency: 3.2,
-  },
-  {
-    word: "calamity",
-    frequency: 3.2,
-  },
-  {
-    word: "chestnut",
-    frequency: 3.2,
-  },
-  {
-    word: "definitive",
-    frequency: 3.2,
-  },
-  {
-    word: "chandelier",
-    frequency: 3.21,
-  },
-  {
-    word: "conservatory",
-    frequency: 3.21,
-  },
-  {
-    word: "colossal",
-    frequency: 3.22,
-  },
-  {
-    word: "desirable",
-    frequency: 3.22,
-  },
-  {
-    word: "booby",
-    frequency: 3.23,
-  },
-  {
-    word: "constellation",
-    frequency: 3.23,
-  },
-  {
-    word: "delicacy",
-    frequency: 3.23,
-  },
-  {
-    word: "auditorium",
-    frequency: 3.25,
-  },
-  {
-    word: "denounce",
-    frequency: 3.26,
-  },
-  {
-    word: "accord",
-    frequency: 3.27,
-  },
-  {
-    word: "anomaly",
-    frequency: 3.27,
-  },
-  {
-    word: "arsenal",
-    frequency: 3.27,
-  },
-  {
-    word: "conceive",
-    frequency: 3.27,
-  },
-  {
-    word: "amour",
-    frequency: 3.28,
-  },
-  {
-    word: "crock",
-    frequency: 3.28,
-  },
-  {
-    word: "charisma",
-    frequency: 3.29,
-  },
-  {
-    word: "ascend",
-    frequency: 3.3,
-  },
-  {
-    word: "blooming",
-    frequency: 3.3,
-  },
-  {
-    word: "covenant",
-    frequency: 3.31,
-  },
-  {
-    word: "covert",
-    frequency: 3.31,
-  },
-  {
-    word: "dazzling",
-    frequency: 3.31,
-  },
-  {
-    word: "abundance",
-    frequency: 3.32,
-  },
-  {
-    word: "blazing",
-    frequency: 3.32,
-  },
-  {
-    word: "centered",
-    frequency: 3.32,
-  },
-  {
-    word: "degenerate",
-    frequency: 3.32,
-  },
-  {
-    word: "appoint",
-    frequency: 3.33,
-  },
-  {
-    word: "carefree",
-    frequency: 3.33,
-  },
-  {
-    word: "admirable",
-    frequency: 3.34,
-  },
-  {
-    word: "bypass",
-    frequency: 3.34,
-  },
-  {
-    word: "credible",
-    frequency: 3.34,
-  },
-  {
-    word: "dell",
-    frequency: 3.34,
-  },
-  {
-    word: "conception",
-    frequency: 3.35,
-  },
-  {
-    word: "cot",
-    frequency: 3.35,
-  },
-  {
-    word: "cerebral",
-    frequency: 3.36,
-  },
-  {
-    word: "crisp",
-    frequency: 3.36,
-  },
-  {
-    word: "abide",
-    frequency: 3.37,
-  },
-  {
-    word: "cavity",
-    frequency: 3.37,
-  },
-  {
-    word: "celestial",
-    frequency: 3.37,
-  },
-  {
-    word: "daft",
-    frequency: 3.38,
-  },
-  {
-    word: "boulevard",
-    frequency: 3.39,
-  },
-  {
-    word: "decree",
-    frequency: 3.39,
-  },
-  {
-    word: "aurora",
-    frequency: 3.4,
-  },
-  {
-    word: "chaotic",
-    frequency: 3.4,
-  },
-  {
-    word: "delusional",
-    frequency: 3.4,
-  },
-  {
-    word: "anarchy",
-    frequency: 3.41,
-  },
-  {
-    word: "brock",
-    frequency: 3.41,
-  },
-  {
-    word: "clarity",
-    frequency: 3.41,
-  },
-  {
-    word: "dandy",
-    frequency: 3.42,
-  },
-  {
-    word: "allegiance",
-    frequency: 3.43,
-  },
-  {
-    word: "cassandra",
-    frequency: 3.43,
-  },
-  {
-    word: "defy",
-    frequency: 3.43,
-  },
-  {
-    word: "congregation",
-    frequency: 3.44,
-  },
-  {
-    word: "counterfeit",
-    frequency: 3.44,
-  },
-  {
-    word: "chic",
-    frequency: 3.45,
-  },
-  {
-    word: "commence",
-    frequency: 3.45,
-  },
-  {
-    word: "abstract",
-    frequency: 3.46,
-  },
-  {
-    word: "contemporary",
-    frequency: 3.46,
-  },
-  {
-    word: "advocate",
-    frequency: 3.47,
-  },
-  {
-    word: "awe",
-    frequency: 3.48,
-  },
-  {
-    word: "composition",
-    frequency: 3.48,
-  },
-  {
-    word: "coop",
-    frequency: 3.48,
-  },
-  {
-    word: "cynical",
-    frequency: 3.48,
-  },
-  {
-    word: "abyss",
-    frequency: 3.5,
-  },
-  {
-    word: "auspicious",
-    frequency: 3.5,
-  },
-  {
-    word: "commerce",
-    frequency: 3.5,
-  },
-  {
-    word: "commotion",
-    frequency: 3.5,
-  },
-  {
-    word: "dense",
-    frequency: 3.5,
-  },
-  {
-    word: "bungalow",
-    frequency: 3.51,
-  },
-  {
-    word: "contempt",
-    frequency: 3.51,
-  },
-  {
-    word: "caress",
-    frequency: 3.52,
-  },
-  {
-    word: "astonishing",
-    frequency: 3.53,
-  },
-  {
-    word: "consequence",
-    frequency: 3.54,
-  },
-  {
-    word: "apparent",
-    frequency: 3.55,
-  },
-  {
-    word: "boon",
-    frequency: 3.56,
-  },
-  {
-    word: "delightful",
-    frequency: 3.59,
-  },
-  {
-    word: "blossom",
-    frequency: 3.63,
-  },
-  {
-    word: "cherish",
-    frequency: 3.63,
-  },
-  {
-    word: "compass",
-    frequency: 3.63,
-  },
-  {
-    word: "ally",
-    frequency: 3.64,
-  },
-  {
-    word: "catastrophe",
-    frequency: 3.64,
-  },
-  {
-    word: "accomplice",
-    frequency: 3.65,
-  },
-  {
-    word: "cardinal",
-    frequency: 3.66,
-  },
-  {
-    word: "cheerful",
-    frequency: 3.68,
-  },
-  {
-    word: "coup",
-    frequency: 3.68,
-  },
-  {
-    word: "compound",
-    frequency: 3.69,
-  },
-  {
-    word: "aspect",
-    frequency: 3.73,
-  },
-  {
-    word: "cottage",
-    frequency: 3.73,
-  },
-  {
-    word: "bliss",
-    frequency: 3.74,
-  },
-  {
-    word: "classy",
-    frequency: 3.74,
-  },
-  {
-    word: "bolt",
-    frequency: 3.75,
-  },
-  {
-    word: "compassion",
-    frequency: 3.8,
-  },
-  {
-    word: "bizarre",
-    frequency: 3.82,
-  },
-  {
-    word: "constitution",
-    frequency: 3.82,
-  },
-  {
-    word: "despair",
-    frequency: 3.84,
-  },
-  {
-    word: "amateur",
-    frequency: 3.85,
-  },
-  {
-    word: "barrel",
-    frequency: 3.86,
-  },
-  {
-    word: "convention",
-    frequency: 3.89,
-  },
-  {
-    word: "brakes",
-    frequency: 3.9,
-  },
-  {
-    word: "counsel",
-    frequency: 3.9,
-  },
-  {
-    word: "bubble",
-    frequency: 3.92,
-  },
-  {
-    word: "cant",
-    frequency: 3.93,
-  },
-  {
-    word: "adore",
-    frequency: 3.95,
-  },
-  {
-    word: "consciousness",
-    frequency: 3.95,
-  },
-  {
-    word: "arrogant",
-    frequency: 3.97,
-  },
-  {
-    word: "conduct",
-    frequency: 3.97,
-  },
-  {
-    word: "appetite",
-    frequency: 3.98,
-  },
-  {
-    word: "constant",
-    frequency: 3.99,
-  },
-  {
-    word: "appeal",
-    frequency: 4.02,
-  },
-  {
-    word: "delicate",
-    frequency: 4.02,
-  },
-  {
-    word: "chamber",
-    frequency: 4.05,
-  },
-  {
-    word: "complaining",
-    frequency: 4.06,
-  },
-  {
-    word: "affection",
-    frequency: 4.07,
-  },
-  {
-    word: "affect",
-    frequency: 4.08,
-  },
-  {
-    word: "betray",
-    frequency: 4.08,
-  },
-  {
-    word: "confident",
-    frequency: 4.09,
-  },
-  {
-    word: "blessing",
-    frequency: 4.1,
-  },
-  {
-    word: "burden",
-    frequency: 4.1,
-  },
-  {
-    word: "commission",
-    frequency: 4.12,
-  },
-  {
-    word: "concept",
-    frequency: 4.12,
-  },
-  {
-    word: "champ",
-    frequency: 4.13,
-  },
-  {
-    word: "charm",
-    frequency: 4.14,
-  },
-  {
-    word: "abroad",
-    frequency: 4.19,
-  },
-  {
-    word: "comfort",
-    frequency: 4.19,
-  },
-  {
-    word: "bay",
-    frequency: 4.21,
-  },
-  {
-    word: "campaign",
-    frequency: 4.23,
-  },
-  {
-    word: "attractive",
-    frequency: 4.24,
-  },
-  {
-    word: "august",
-    frequency: 4.24,
-  },
-  {
-    word: "bond",
-    frequency: 4.27,
-  },
-  {
-    word: "circumstances",
-    frequency: 4.27,
-  },
-  {
-    word: "approach",
-    frequency: 4.28,
-  },
-  {
-    word: "charming",
-    frequency: 4.29,
-  },
-  {
-    word: "convince",
-    frequency: 4.29,
-  },
-  {
-    word: "concern",
-    frequency: 4.33,
-  },
-  {
-    word: "commit",
-    frequency: 4.36,
-  },
-  {
-    word: "attitude",
-    frequency: 4.37,
-  },
-  {
-    word: "coast",
-    frequency: 4.37,
-  },
-  {
-    word: "champion",
-    frequency: 4.38,
-  },
-  {
-    word: "becoming",
-    frequency: 4.43,
-  },
-  {
-    word: "desire",
-    frequency: 4.49,
-  },
-  {
-    word: "delicious",
-    frequency: 4.52,
-  },
-  {
-    word: "contract",
-    frequency: 4.56,
-  },
-  {
-    word: "colonel",
-    frequency: 4.57,
-  },
-  {
-    word: "crew",
-    frequency: 4.57,
-  },
-  {
-    word: "consider",
-    frequency: 4.66,
-  },
-  {
-    word: "common",
-    frequency: 4.68,
-  },
-  {
-    word: "court",
-    frequency: 4.92,
-  },
-  {
-    word: "darling",
-    frequency: 4.96,
-  },
-  {
-    word: "calm",
-    frequency: 5.19,
-  },
-  {
-    word: "cool",
-    frequency: 5.32,
-  },
-  {
-    word: "doldrum",
-    frequency: -1,
-  },
-  {
-    word: "dolven",
-    frequency: -1,
-  },
-  {
-    word: "dromund",
-    frequency: -1,
-  },
-  {
-    word: "dwimmer-crafty",
-    frequency: -1,
-  },
-  {
-    word: "eccedentesiast",
-    frequency: -1,
-  },
-  {
-    word: "eleutheromania",
-    frequency: -1,
-  },
-  {
-    word: "hella",
-    frequency: -1,
-  },
-  {
-    word: "festooned",
-    frequency: -1,
-  },
-  {
-    word: "hikikomori",
-    frequency: -1,
-  },
-  {
-    word: "grief ",
-    frequency: -1,
-  },
-  {
-    word: "greened",
-    frequency: -1,
-  },
-  {
-    word: "futz",
-    frequency: -1,
-  },
-  {
-    word: "honed",
-    frequency: -1,
-  },
-  {
-    word: "hirquiticke",
-    frequency: -1,
-  },
-  {
-    word: "hiraeth",
-    frequency: -1,
-  },
-  {
-    word: "eigengrau",
-    frequency: -1,
-  },
-  {
-    word: "flowed",
-    frequency: -1,
-  },
-  {
-    word: "etten",
-    frequency: -1,
-  },
-  {
-    word: "flet",
-    frequency: -1,
-  },
-  {
-    word: "frabjous",
-    frequency: -1,
-  },
-  {
-    word: "flummoxed",
-    frequency: -1,
-  },
-  {
-    word: "fleek",
-    frequency: -1,
-  },
-  {
-    word: "flammifer",
-    frequency: -1,
-  },
-  {
-    word: "fernweh",
-    frequency: -1,
-  },
-  {
-    word: "epiphan",
-    frequency: -1,
-  },
-  {
-    word: "inaureoled",
-    frequency: -1,
-  },
-  {
-    word: "epidemia",
-    frequency: -1,
-  },
-  {
-    word: "gucci",
-    frequency: -1,
-  },
-  {
-    word: "heartstring",
-    frequency: -1,
-  },
-  {
-    word: "ellipsism",
-    frequency: -1,
-  },
-  {
-    word: "horatory",
-    frequency: -1,
-  },
-  {
-    word: "hythe",
-    frequency: -1,
-  },
-  {
-    word: "evocate",
-    frequency: -1,
-  },
-  {
-    word: "gorcrow",
-    frequency: -1,
   },
   {
     word: "despoil",
@@ -4776,6 +1552,174 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
+    word: "abjure",
+    frequency: 1.6,
+  },
+  {
+    word: "abridge",
+    frequency: 1.6,
+  },
+  {
+    word: "adequacy",
+    frequency: 1.6,
+  },
+  {
+    word: "adjure",
+    frequency: 1.6,
+  },
+  {
+    word: "ameliorate",
+    frequency: 1.6,
+  },
+  {
+    word: "anthropomorphize",
+    frequency: 1.6,
+  },
+  {
+    word: "apostasy",
+    frequency: 1.6,
+  },
+  {
+    word: "append",
+    frequency: 1.6,
+  },
+  {
+    word: "apposite",
+    frequency: 1.6,
+  },
+  {
+    word: "aquiver",
+    frequency: 1.6,
+  },
+  {
+    word: "asperity",
+    frequency: 1.6,
+  },
+  {
+    word: "avocation",
+    frequency: 1.6,
+  },
+  {
+    word: "avow",
+    frequency: 1.6,
+  },
+  {
+    word: "axiom",
+    frequency: 1.6,
+  },
+  {
+    word: "bacchanalian",
+    frequency: 1.6,
+  },
+  {
+    word: "badinage",
+    frequency: 1.6,
+  },
+  {
+    word: "baedeker",
+    frequency: 1.6,
+  },
+  {
+    word: "baldric",
+    frequency: 1.6,
+  },
+  {
+    word: "befuddle",
+    frequency: 1.6,
+  },
+  {
+    word: "bellicose",
+    frequency: 1.6,
+  },
+  {
+    word: "betoken",
+    frequency: 1.6,
+  },
+  {
+    word: "bibliophile",
+    frequency: 1.6,
+  },
+  {
+    word: "burnish",
+    frequency: 1.6,
+  },
+  {
+    word: "burnished",
+    frequency: 1.6,
+  },
+  {
+    word: "byre",
+    frequency: 1.6,
+  },
+  {
+    word: "careen",
+    frequency: 1.6,
+  },
+  {
+    word: "carouse",
+    frequency: 1.6,
+  },
+  {
+    word: "choleric",
+    frequency: 1.6,
+  },
+  {
+    word: "churl",
+    frequency: 1.6,
+  },
+  {
+    word: "comity",
+    frequency: 1.6,
+  },
+  {
+    word: "concomitant",
+    frequency: 1.6,
+  },
+  {
+    word: "conflate",
+    frequency: 1.6,
+  },
+  {
+    word: "connive",
+    frequency: 1.6,
+  },
+  {
+    word: "contestation",
+    frequency: 1.6,
+  },
+  {
+    word: "cozen",
+    frequency: 1.6,
+  },
+  {
+    word: "crepuscule",
+    frequency: 1.6,
+  },
+  {
+    word: "cyclopean",
+    frequency: 1.6,
+  },
+  {
+    word: "cynosure",
+    frequency: 1.6,
+  },
+  {
+    word: "declaim",
+    frequency: 1.6,
+  },
+  {
+    word: "defray",
+    frequency: 1.6,
+  },
+  {
+    word: "deify",
+    frequency: 1.6,
+  },
+  {
+    word: "depredation",
+    frequency: 1.6,
+  },
+  {
     word: "desultory",
     frequency: 1.6,
   },
@@ -4938,6 +1882,150 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "importune",
     frequency: 1.6,
+  },
+  {
+    word: "abnegation",
+    frequency: 1.73,
+  },
+  {
+    word: "acrimonious",
+    frequency: 1.73,
+  },
+  {
+    word: "adroit",
+    frequency: 1.73,
+  },
+  {
+    word: "aggrandize",
+    frequency: 1.73,
+  },
+  {
+    word: "akimbo",
+    frequency: 1.73,
+  },
+  {
+    word: "alcazar",
+    frequency: 1.73,
+  },
+  {
+    word: "antebellum",
+    frequency: 1.73,
+  },
+  {
+    word: "aphorism",
+    frequency: 1.73,
+  },
+  {
+    word: "apologist",
+    frequency: 1.73,
+  },
+  {
+    word: "appellation",
+    frequency: 1.73,
+  },
+  {
+    word: "arbitrate",
+    frequency: 1.73,
+  },
+  {
+    word: "asymptomatic",
+    frequency: 1.73,
+  },
+  {
+    word: "augur",
+    frequency: 1.73,
+  },
+  {
+    word: "avuncular",
+    frequency: 1.73,
+  },
+  {
+    word: "axiomatic",
+    frequency: 1.73,
+  },
+  {
+    word: "baleful",
+    frequency: 1.73,
+  },
+  {
+    word: "beamish",
+    frequency: 1.73,
+  },
+  {
+    word: "bedraggled",
+    frequency: 1.73,
+  },
+  {
+    word: "bonhomie",
+    frequency: 1.73,
+  },
+  {
+    word: "browbeat",
+    frequency: 1.73,
+  },
+  {
+    word: "cachet",
+    frequency: 1.73,
+  },
+  {
+    word: "castigate",
+    frequency: 1.73,
+  },
+  {
+    word: "chine",
+    frequency: 1.73,
+  },
+  {
+    word: "circumlocution",
+    frequency: 1.73,
+  },
+  {
+    word: "cogitate",
+    frequency: 1.73,
+  },
+  {
+    word: "cohere",
+    frequency: 1.73,
+  },
+  {
+    word: "colloquium",
+    frequency: 1.73,
+  },
+  {
+    word: "coltish",
+    frequency: 1.73,
+  },
+  {
+    word: "comport",
+    frequency: 1.73,
+  },
+  {
+    word: "countermand",
+    frequency: 1.73,
+  },
+  {
+    word: "coverlet",
+    frequency: 1.73,
+  },
+  {
+    word: "crepuscular",
+    frequency: 1.73,
+  },
+  {
+    word: "decorous",
+    frequency: 1.73,
+  },
+  {
+    word: "deleterious",
+    frequency: 1.73,
+  },
+  {
+    word: "demotic",
+    frequency: 1.73,
+  },
+  {
+    word: "desensitize",
+    frequency: 1.73,
   },
   {
     word: "determinate",
@@ -5132,6 +2220,90 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.73,
   },
   {
+    word: "abase",
+    frequency: 1.82,
+  },
+  {
+    word: "accost",
+    frequency: 1.82,
+  },
+  {
+    word: "albinism",
+    frequency: 1.82,
+  },
+  {
+    word: "atavism",
+    frequency: 1.82,
+  },
+  {
+    word: "automatism",
+    frequency: 1.82,
+  },
+  {
+    word: "balletic",
+    frequency: 1.82,
+  },
+  {
+    word: "bumptious",
+    frequency: 1.82,
+  },
+  {
+    word: "buttress",
+    frequency: 1.82,
+  },
+  {
+    word: "cadaverous",
+    frequency: 1.82,
+  },
+  {
+    word: "canard",
+    frequency: 1.82,
+  },
+  {
+    word: "cetacean",
+    frequency: 1.82,
+  },
+  {
+    word: "clearheaded",
+    frequency: 1.82,
+  },
+  {
+    word: "conciliatory",
+    frequency: 1.82,
+  },
+  {
+    word: "construe",
+    frequency: 1.82,
+  },
+  {
+    word: "contravene",
+    frequency: 1.82,
+  },
+  {
+    word: "coquetry",
+    frequency: 1.82,
+  },
+  {
+    word: "coterie",
+    frequency: 1.82,
+  },
+  {
+    word: "damask",
+    frequency: 1.82,
+  },
+  {
+    word: "debunk",
+    frequency: 1.82,
+  },
+  {
+    word: "deferential",
+    frequency: 1.82,
+  },
+  {
+    word: "delectation",
+    frequency: 1.82,
+  },
+  {
     word: "dysphoric",
     frequency: 1.82,
   },
@@ -5236,6 +2408,90 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.82,
   },
   {
+    word: "abrade",
+    frequency: 1.9,
+  },
+  {
+    word: "abrogate",
+    frequency: 1.9,
+  },
+  {
+    word: "abscond",
+    frequency: 1.9,
+  },
+  {
+    word: "adjudicate",
+    frequency: 1.9,
+  },
+  {
+    word: "adulterate",
+    frequency: 1.9,
+  },
+  {
+    word: "antecedent",
+    frequency: 1.9,
+  },
+  {
+    word: "aquiline",
+    frequency: 1.9,
+  },
+  {
+    word: "beatific",
+    frequency: 1.9,
+  },
+  {
+    word: "benighted",
+    frequency: 1.9,
+  },
+  {
+    word: "bewilder",
+    frequency: 1.9,
+  },
+  {
+    word: "bipartisan",
+    frequency: 1.9,
+  },
+  {
+    word: "brusque",
+    frequency: 1.9,
+  },
+  {
+    word: "cogent",
+    frequency: 1.9,
+  },
+  {
+    word: "cognition",
+    frequency: 1.9,
+  },
+  {
+    word: "convivial",
+    frequency: 1.9,
+  },
+  {
+    word: "crabbed",
+    frequency: 1.9,
+  },
+  {
+    word: "curmudgeon",
+    frequency: 1.9,
+  },
+  {
+    word: "cushioned",
+    frequency: 1.9,
+  },
+  {
+    word: "demonstrable",
+    frequency: 1.9,
+  },
+  {
+    word: "deportment",
+    frequency: 1.9,
+  },
+  {
+    word: "derisive",
+    frequency: 1.9,
+  },
+  {
     word: "dexterous",
     frequency: 1.9,
   },
@@ -5328,6 +2584,106 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.9,
   },
   {
+    word: "abet",
+    frequency: 1.97,
+  },
+  {
+    word: "acumen",
+    frequency: 1.97,
+  },
+  {
+    word: "alacrity",
+    frequency: 1.97,
+  },
+  {
+    word: "ambit",
+    frequency: 1.97,
+  },
+  {
+    word: "amity",
+    frequency: 1.97,
+  },
+  {
+    word: "anachronism",
+    frequency: 1.97,
+  },
+  {
+    word: "antechamber",
+    frequency: 1.97,
+  },
+  {
+    word: "aplomb",
+    frequency: 1.97,
+  },
+  {
+    word: "apoplectic",
+    frequency: 1.97,
+  },
+  {
+    word: "apotheosis",
+    frequency: 1.97,
+  },
+  {
+    word: "bemused",
+    frequency: 1.97,
+  },
+  {
+    word: "bluster",
+    frequency: 1.97,
+  },
+  {
+    word: "brackish",
+    frequency: 1.97,
+  },
+  {
+    word: "buxom",
+    frequency: 1.97,
+  },
+  {
+    word: "calumny",
+    frequency: 1.97,
+  },
+  {
+    word: "chicanery",
+    frequency: 1.97,
+  },
+  {
+    word: "coffer",
+    frequency: 1.97,
+  },
+  {
+    word: "conceptualize",
+    frequency: 1.97,
+  },
+  {
+    word: "concurrent",
+    frequency: 1.97,
+  },
+  {
+    word: "consequential",
+    frequency: 1.97,
+  },
+  {
+    word: "contretemps",
+    frequency: 1.97,
+  },
+  {
+    word: "convalesce",
+    frequency: 1.97,
+  },
+  {
+    word: "corpulent",
+    frequency: 1.97,
+  },
+  {
+    word: "curare",
+    frequency: 1.97,
+  },
+  {
+    word: "darkling",
+    frequency: 1.97,
+  },
+  {
     word: "doleful",
     frequency: 1.97,
   },
@@ -5382,6 +2738,98 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "incommunicado",
     frequency: 1.97,
+  },
+  {
+    word: "acrid",
+    frequency: 2.03,
+  },
+  {
+    word: "acrimony",
+    frequency: 2.03,
+  },
+  {
+    word: "aghast",
+    frequency: 2.03,
+  },
+  {
+    word: "agitprop",
+    frequency: 2.03,
+  },
+  {
+    word: "alfresco",
+    frequency: 2.03,
+  },
+  {
+    word: "anachronistic",
+    frequency: 2.03,
+  },
+  {
+    word: "anthropomorphic",
+    frequency: 2.03,
+  },
+  {
+    word: "ascendancy",
+    frequency: 2.03,
+  },
+  {
+    word: "askance",
+    frequency: 2.03,
+  },
+  {
+    word: "assail",
+    frequency: 2.03,
+  },
+  {
+    word: "assemblage",
+    frequency: 2.03,
+  },
+  {
+    word: "atavistic",
+    frequency: 2.03,
+  },
+  {
+    word: "bounteous",
+    frequency: 2.03,
+  },
+  {
+    word: "carioca",
+    frequency: 2.03,
+  },
+  {
+    word: "churlish",
+    frequency: 2.03,
+  },
+  {
+    word: "cloying",
+    frequency: 2.03,
+  },
+  {
+    word: "cockle",
+    frequency: 2.03,
+  },
+  {
+    word: "cognizance",
+    frequency: 2.03,
+  },
+  {
+    word: "conflagration",
+    frequency: 2.03,
+  },
+  {
+    word: "congeal",
+    frequency: 2.03,
+  },
+  {
+    word: "crestfallen",
+    frequency: 2.03,
+  },
+  {
+    word: "denigrate",
+    frequency: 2.03,
+  },
+  {
+    word: "deride",
+    frequency: 2.03,
   },
   {
     word: "disconcert",
@@ -5460,6 +2908,130 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.03,
   },
   {
+    word: "accede",
+    frequency: 2.08,
+  },
+  {
+    word: "adjunct",
+    frequency: 2.08,
+  },
+  {
+    word: "aesthete",
+    frequency: 2.08,
+  },
+  {
+    word: "amble",
+    frequency: 2.08,
+  },
+  {
+    word: "analogous",
+    frequency: 2.08,
+  },
+  {
+    word: "antagonist",
+    frequency: 2.08,
+  },
+  {
+    word: "apocryphal",
+    frequency: 2.08,
+  },
+  {
+    word: "ardor",
+    frequency: 2.08,
+  },
+  {
+    word: "astringent",
+    frequency: 2.08,
+  },
+  {
+    word: "aver",
+    frequency: 2.08,
+  },
+  {
+    word: "beatitude",
+    frequency: 2.08,
+  },
+  {
+    word: "beauteous",
+    frequency: 2.08,
+  },
+  {
+    word: "behoove",
+    frequency: 2.08,
+  },
+  {
+    word: "bilious",
+    frequency: 2.08,
+  },
+  {
+    word: "billow",
+    frequency: 2.08,
+  },
+  {
+    word: "blighted",
+    frequency: 2.08,
+  },
+  {
+    word: "bludgeon",
+    frequency: 2.08,
+  },
+  {
+    word: "bucolic",
+    frequency: 2.08,
+  },
+  {
+    word: "caveat",
+    frequency: 2.08,
+  },
+  {
+    word: "circumnavigate",
+    frequency: 2.08,
+  },
+  {
+    word: "clamber",
+    frequency: 2.08,
+  },
+  {
+    word: "cloven",
+    frequency: 2.08,
+  },
+  {
+    word: "coalesce",
+    frequency: 2.08,
+  },
+  {
+    word: "coiffure",
+    frequency: 2.08,
+  },
+  {
+    word: "credulous",
+    frequency: 2.08,
+  },
+  {
+    word: "croesus",
+    frequency: 2.08,
+  },
+  {
+    word: "crony",
+    frequency: 2.08,
+  },
+  {
+    word: "curative",
+    frequency: 2.08,
+  },
+  {
+    word: "curdle",
+    frequency: 2.08,
+  },
+  {
+    word: "dappled",
+    frequency: 2.08,
+  },
+  {
+    word: "debase",
+    frequency: 2.08,
+  },
+  {
     word: "dishevelled",
     frequency: 2.08,
   },
@@ -5514,6 +3086,74 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "inclement",
     frequency: 2.08,
+  },
+  {
+    word: "abeyance",
+    frequency: 2.12,
+  },
+  {
+    word: "accolade",
+    frequency: 2.12,
+  },
+  {
+    word: "allude",
+    frequency: 2.12,
+  },
+  {
+    word: "antediluvian",
+    frequency: 2.12,
+  },
+  {
+    word: "balderdash",
+    frequency: 2.12,
+  },
+  {
+    word: "bauble",
+    frequency: 2.12,
+  },
+  {
+    word: "bewilderment",
+    frequency: 2.12,
+  },
+  {
+    word: "blithe",
+    frequency: 2.12,
+  },
+  {
+    word: "bole",
+    frequency: 2.12,
+  },
+  {
+    word: "bulbous",
+    frequency: 2.12,
+  },
+  {
+    word: "calliope",
+    frequency: 2.12,
+  },
+  {
+    word: "circumspect",
+    frequency: 2.12,
+  },
+  {
+    word: "collude",
+    frequency: 2.12,
+  },
+  {
+    word: "comeuppance",
+    frequency: 2.12,
+  },
+  {
+    word: "consternation",
+    frequency: 2.12,
+  },
+  {
+    word: "constituent",
+    frequency: 2.12,
+  },
+  {
+    word: "cull",
+    frequency: 2.12,
   },
   {
     word: "detente",
@@ -5604,6 +3244,90 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.12,
   },
   {
+    word: "acolyte",
+    frequency: 2.17,
+  },
+  {
+    word: "addle",
+    frequency: 2.17,
+  },
+  {
+    word: "apace",
+    frequency: 2.17,
+  },
+  {
+    word: "apostate",
+    frequency: 2.17,
+  },
+  {
+    word: "appellate",
+    frequency: 2.17,
+  },
+  {
+    word: "avaricious",
+    frequency: 2.17,
+  },
+  {
+    word: "bate",
+    frequency: 2.17,
+  },
+  {
+    word: "bewitch",
+    frequency: 2.17,
+  },
+  {
+    word: "bulwark",
+    frequency: 2.17,
+  },
+  {
+    word: "cairn",
+    frequency: 2.17,
+  },
+  {
+    word: "cavernous",
+    frequency: 2.17,
+  },
+  {
+    word: "codicil",
+    frequency: 2.17,
+  },
+  {
+    word: "cognizant",
+    frequency: 2.17,
+  },
+  {
+    word: "commiserate",
+    frequency: 2.17,
+  },
+  {
+    word: "compunction",
+    frequency: 2.17,
+  },
+  {
+    word: "concerted",
+    frequency: 2.17,
+  },
+  {
+    word: "confluence",
+    frequency: 2.17,
+  },
+  {
+    word: "credulity",
+    frequency: 2.17,
+  },
+  {
+    word: "dalliance",
+    frequency: 2.17,
+  },
+  {
+    word: "decimate",
+    frequency: 2.17,
+  },
+  {
+    word: "demagogue",
+    frequency: 2.17,
+  },
+  {
     word: "dingle",
     frequency: 2.17,
   },
@@ -5672,6 +3396,66 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.17,
   },
   {
+    word: "acuity",
+    frequency: 2.2,
+  },
+  {
+    word: "affectation",
+    frequency: 2.2,
+  },
+  {
+    word: "afield",
+    frequency: 2.2,
+  },
+  {
+    word: "allay",
+    frequency: 2.2,
+  },
+  {
+    word: "allege",
+    frequency: 2.2,
+  },
+  {
+    word: "alliteration",
+    frequency: 2.2,
+  },
+  {
+    word: "amalgamation",
+    frequency: 2.2,
+  },
+  {
+    word: "anathema",
+    frequency: 2.2,
+  },
+  {
+    word: "anodyne",
+    frequency: 2.2,
+  },
+  {
+    word: "categorical",
+    frequency: 2.2,
+  },
+  {
+    word: "coddle",
+    frequency: 2.2,
+  },
+  {
+    word: "cohesive",
+    frequency: 2.2,
+  },
+  {
+    word: "commensurate",
+    frequency: 2.2,
+  },
+  {
+    word: "constrained",
+    frequency: 2.2,
+  },
+  {
+    word: "contrive",
+    frequency: 2.2,
+  },
+  {
     word: "diatribe",
     frequency: 2.2,
   },
@@ -5736,6 +3520,78 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.2,
   },
   {
+    word: "acme",
+    frequency: 2.24,
+  },
+  {
+    word: "adagio",
+    frequency: 2.24,
+  },
+  {
+    word: "amorphous",
+    frequency: 2.24,
+  },
+  {
+    word: "antipathy",
+    frequency: 2.24,
+  },
+  {
+    word: "assay",
+    frequency: 2.24,
+  },
+  {
+    word: "assuage",
+    frequency: 2.24,
+  },
+  {
+    word: "auspices",
+    frequency: 2.24,
+  },
+  {
+    word: "besmirch",
+    frequency: 2.24,
+  },
+  {
+    word: "blanch",
+    frequency: 2.24,
+  },
+  {
+    word: "cajole",
+    frequency: 2.24,
+  },
+  {
+    word: "canto",
+    frequency: 2.24,
+  },
+  {
+    word: "cavil",
+    frequency: 2.24,
+  },
+  {
+    word: "chide",
+    frequency: 2.24,
+  },
+  {
+    word: "congenial",
+    frequency: 2.24,
+  },
+  {
+    word: "contrite",
+    frequency: 2.24,
+  },
+  {
+    word: "cursory",
+    frequency: 2.24,
+  },
+  {
+    word: "deciduous",
+    frequency: 2.24,
+  },
+  {
+    word: "deft",
+    frequency: 2.24,
+  },
+  {
     word: "disaffected",
     frequency: 2.24,
   },
@@ -5766,6 +3622,62 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "idiosyncratic",
     frequency: 2.24,
+  },
+  {
+    word: "acerbic",
+    frequency: 2.27,
+  },
+  {
+    word: "adulation",
+    frequency: 2.27,
+  },
+  {
+    word: "attrition",
+    frequency: 2.27,
+  },
+  {
+    word: "augment",
+    frequency: 2.27,
+  },
+  {
+    word: "augury",
+    frequency: 2.27,
+  },
+  {
+    word: "bade",
+    frequency: 2.27,
+  },
+  {
+    word: "bamboozle",
+    frequency: 2.27,
+  },
+  {
+    word: "callow",
+    frequency: 2.27,
+  },
+  {
+    word: "catacomb",
+    frequency: 2.27,
+  },
+  {
+    word: "catharsis",
+    frequency: 2.27,
+  },
+  {
+    word: "chastise",
+    frequency: 2.27,
+  },
+  {
+    word: "clamor",
+    frequency: 2.27,
+  },
+  {
+    word: "convoluted",
+    frequency: 2.27,
+  },
+  {
+    word: "copious",
+    frequency: 2.27,
   },
   {
     word: "dictum",
@@ -5826,6 +3738,50 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "imbibe",
     frequency: 2.27,
+  },
+  {
+    word: "bellwether",
+    frequency: 2.3,
+  },
+  {
+    word: "cantankerous",
+    frequency: 2.3,
+  },
+  {
+    word: "cede",
+    frequency: 2.3,
+  },
+  {
+    word: "chagrin",
+    frequency: 2.3,
+  },
+  {
+    word: "chrysalis",
+    frequency: 2.3,
+  },
+  {
+    word: "cohort",
+    frequency: 2.3,
+  },
+  {
+    word: "colloquial",
+    frequency: 2.3,
+  },
+  {
+    word: "conductive",
+    frequency: 2.3,
+  },
+  {
+    word: "denouement",
+    frequency: 2.3,
+  },
+  {
+    word: "deplete",
+    frequency: 2.3,
+  },
+  {
+    word: "deplore",
+    frequency: 2.3,
   },
   {
     word: "disinterested",
@@ -5896,6 +3852,62 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.3,
   },
   {
+    word: "admonish",
+    frequency: 2.33,
+  },
+  {
+    word: "aegis",
+    frequency: 2.33,
+  },
+  {
+    word: "afflict",
+    frequency: 2.33,
+  },
+  {
+    word: "aficionado",
+    frequency: 2.33,
+  },
+  {
+    word: "ambivalence",
+    frequency: 2.33,
+  },
+  {
+    word: "argent",
+    frequency: 2.33,
+  },
+  {
+    word: "assent",
+    frequency: 2.33,
+  },
+  {
+    word: "averse",
+    frequency: 2.33,
+  },
+  {
+    word: "brandish",
+    frequency: 2.33,
+  },
+  {
+    word: "cacophony",
+    frequency: 2.33,
+  },
+  {
+    word: "catamaran",
+    frequency: 2.33,
+  },
+  {
+    word: "connotation",
+    frequency: 2.33,
+  },
+  {
+    word: "conscription",
+    frequency: 2.33,
+  },
+  {
+    word: "derision",
+    frequency: 2.33,
+  },
+  {
     word: "discretionary",
     frequency: 2.33,
   },
@@ -5956,6 +3968,54 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.33,
   },
   {
+    word: "acquiesce",
+    frequency: 2.36,
+  },
+  {
+    word: "amenable",
+    frequency: 2.36,
+  },
+  {
+    word: "anecdotal",
+    frequency: 2.36,
+  },
+  {
+    word: "antithesis",
+    frequency: 2.36,
+  },
+  {
+    word: "askew",
+    frequency: 2.36,
+  },
+  {
+    word: "berate",
+    frequency: 2.36,
+  },
+  {
+    word: "bier",
+    frequency: 2.36,
+  },
+  {
+    word: "bolster",
+    frequency: 2.36,
+  },
+  {
+    word: "coerce",
+    frequency: 2.36,
+  },
+  {
+    word: "coronal",
+    frequency: 2.36,
+  },
+  {
+    word: "deference",
+    frequency: 2.36,
+  },
+  {
+    word: "demoralize",
+    frequency: 2.36,
+  },
+  {
     word: "diminutive",
     frequency: 2.36,
   },
@@ -5986,6 +4046,42 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "inane",
     frequency: 2.36,
+  },
+  {
+    word: "abate",
+    frequency: 2.38,
+  },
+  {
+    word: "abdicate",
+    frequency: 2.38,
+  },
+  {
+    word: "annul",
+    frequency: 2.38,
+  },
+  {
+    word: "beguile",
+    frequency: 2.38,
+  },
+  {
+    word: "brevity",
+    frequency: 2.38,
+  },
+  {
+    word: "canker",
+    frequency: 2.38,
+  },
+  {
+    word: "capsize",
+    frequency: 2.38,
+  },
+  {
+    word: "clarion",
+    frequency: 2.38,
+  },
+  {
+    word: "dais",
+    frequency: 2.38,
   },
   {
     word: "encroaching",
@@ -6024,6 +4120,38 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.38,
   },
   {
+    word: "alcove",
+    frequency: 2.4,
+  },
+  {
+    word: "ancillary",
+    frequency: 2.4,
+  },
+  {
+    word: "anomalous",
+    frequency: 2.4,
+  },
+  {
+    word: "archetypal",
+    frequency: 2.4,
+  },
+  {
+    word: "capitulate",
+    frequency: 2.4,
+  },
+  {
+    word: "cumulative",
+    frequency: 2.4,
+  },
+  {
+    word: "deign",
+    frequency: 2.4,
+  },
+  {
+    word: "demure",
+    frequency: 2.4,
+  },
+  {
     word: "embellish",
     frequency: 2.4,
   },
@@ -6060,6 +4188,34 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.4,
   },
   {
+    word: "abysmal",
+    frequency: 2.43,
+  },
+  {
+    word: "astound",
+    frequency: 2.43,
+  },
+  {
+    word: "bivouac",
+    frequency: 2.43,
+  },
+  {
+    word: "bodacious",
+    frequency: 2.43,
+  },
+  {
+    word: "cathartic",
+    frequency: 2.43,
+  },
+  {
+    word: "chutzpah",
+    frequency: 2.43,
+  },
+  {
+    word: "derogatory",
+    frequency: 2.43,
+  },
+  {
     word: "effervescent",
     frequency: 2.43,
   },
@@ -6094,6 +4250,26 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "hobble",
     frequency: 2.43,
+  },
+  {
+    word: "accentuate",
+    frequency: 2.45,
+  },
+  {
+    word: "artful",
+    frequency: 2.45,
+  },
+  {
+    word: "beset",
+    frequency: 2.45,
+  },
+  {
+    word: "concourse",
+    frequency: 2.45,
+  },
+  {
+    word: "culvert",
+    frequency: 2.45,
   },
   {
     word: "dichotomy",
@@ -6148,6 +4324,38 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.45,
   },
   {
+    word: "aberrant",
+    frequency: 2.47,
+  },
+  {
+    word: "affable",
+    frequency: 2.47,
+  },
+  {
+    word: "altruism",
+    frequency: 2.47,
+  },
+  {
+    word: "appendage",
+    frequency: 2.47,
+  },
+  {
+    word: "beholden",
+    frequency: 2.47,
+  },
+  {
+    word: "buoyancy",
+    frequency: 2.47,
+  },
+  {
+    word: "caucus",
+    frequency: 2.47,
+  },
+  {
+    word: "consecrate",
+    frequency: 2.47,
+  },
+  {
     word: "despot",
     frequency: 2.47,
   },
@@ -6200,6 +4408,30 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.47,
   },
   {
+    word: "bouillon",
+    frequency: 2.49,
+  },
+  {
+    word: "circumvent",
+    frequency: 2.49,
+  },
+  {
+    word: "conclave",
+    frequency: 2.49,
+  },
+  {
+    word: "crystalline",
+    frequency: 2.49,
+  },
+  {
+    word: "culpable",
+    frequency: 2.49,
+  },
+  {
+    word: "debonair",
+    frequency: 2.49,
+  },
+  {
     word: "despondent",
     frequency: 2.49,
   },
@@ -6220,6 +4452,26 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.49,
   },
   {
+    word: "avarice",
+    frequency: 2.5,
+  },
+  {
+    word: "checkered",
+    frequency: 2.5,
+  },
+  {
+    word: "collusion",
+    frequency: 2.5,
+  },
+  {
+    word: "contentious",
+    frequency: 2.5,
+  },
+  {
+    word: "copacetic",
+    frequency: 2.5,
+  },
+  {
     word: "dilapidated",
     frequency: 2.5,
   },
@@ -6234,6 +4486,50 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "hubris",
     frequency: 2.5,
+  },
+  {
+    word: "ambivalent",
+    frequency: 2.52,
+  },
+  {
+    word: "besiege",
+    frequency: 2.52,
+  },
+  {
+    word: "bicker",
+    frequency: 2.52,
+  },
+  {
+    word: "boorish",
+    frequency: 2.52,
+  },
+  {
+    word: "censure",
+    frequency: 2.52,
+  },
+  {
+    word: "chaff",
+    frequency: 2.52,
+  },
+  {
+    word: "complacency",
+    frequency: 2.52,
+  },
+  {
+    word: "cower",
+    frequency: 2.52,
+  },
+  {
+    word: "cranny",
+    frequency: 2.52,
+  },
+  {
+    word: "crone",
+    frequency: 2.52,
+  },
+  {
+    word: "delude",
+    frequency: 2.52,
   },
   {
     word: "effortless",
@@ -6254,6 +4550,26 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "exorbitant",
     frequency: 2.52,
+  },
+  {
+    word: "abject",
+    frequency: 2.54,
+  },
+  {
+    word: "adage",
+    frequency: 2.54,
+  },
+  {
+    word: "apropos",
+    frequency: 2.54,
+  },
+  {
+    word: "arcane",
+    frequency: 2.54,
+  },
+  {
+    word: "dawdle",
+    frequency: 2.54,
   },
   {
     word: "ditty",
@@ -6294,6 +4610,38 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "impetus",
     frequency: 2.54,
+  },
+  {
+    word: "abhorrent",
+    frequency: 2.56,
+  },
+  {
+    word: "austere",
+    frequency: 2.56,
+  },
+  {
+    word: "bastion",
+    frequency: 2.56,
+  },
+  {
+    word: "burly",
+    frequency: 2.56,
+  },
+  {
+    word: "confounded",
+    frequency: 2.56,
+  },
+  {
+    word: "contentment",
+    frequency: 2.56,
+  },
+  {
+    word: "dapper",
+    frequency: 2.56,
+  },
+  {
+    word: "dastardly",
+    frequency: 2.56,
   },
   {
     word: "digress",
@@ -6340,6 +4688,54 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.56,
   },
   {
+    word: "ambient",
+    frequency: 2.57,
+  },
+  {
+    word: "asinine",
+    frequency: 2.57,
+  },
+  {
+    word: "barbu",
+    frequency: 2.57,
+  },
+  {
+    word: "behest",
+    frequency: 2.57,
+  },
+  {
+    word: "besotted",
+    frequency: 2.57,
+  },
+  {
+    word: "bullion",
+    frequency: 2.57,
+  },
+  {
+    word: "cataract",
+    frequency: 2.57,
+  },
+  {
+    word: "cinder",
+    frequency: 2.57,
+  },
+  {
+    word: "cleave",
+    frequency: 2.57,
+  },
+  {
+    word: "credence",
+    frequency: 2.57,
+  },
+  {
+    word: "crux",
+    frequency: 2.57,
+  },
+  {
+    word: "desecrate",
+    frequency: 2.57,
+  },
+  {
     word: "dorsal",
     frequency: 2.57,
   },
@@ -6380,6 +4776,30 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.57,
   },
   {
+    word: "anterior",
+    frequency: 2.59,
+  },
+  {
+    word: "atypical",
+    frequency: 2.59,
+  },
+  {
+    word: "auditory",
+    frequency: 2.59,
+  },
+  {
+    word: "causeway",
+    frequency: 2.59,
+  },
+  {
+    word: "clemency",
+    frequency: 2.59,
+  },
+  {
+    word: "defile",
+    frequency: 2.59,
+  },
+  {
     word: "discriminating",
     frequency: 2.59,
   },
@@ -6400,6 +4820,30 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.59,
   },
   {
+    word: "abut",
+    frequency: 2.6,
+  },
+  {
+    word: "adept",
+    frequency: 2.6,
+  },
+  {
+    word: "agility",
+    frequency: 2.6,
+  },
+  {
+    word: "auditor",
+    frequency: 2.6,
+  },
+  {
+    word: "cabal",
+    frequency: 2.6,
+  },
+  {
+    word: "delve",
+    frequency: 2.6,
+  },
+  {
     word: "dogged",
     frequency: 2.6,
   },
@@ -6418,6 +4862,26 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "impervious",
     frequency: 2.6,
+  },
+  {
+    word: "ascetic",
+    frequency: 2.62,
+  },
+  {
+    word: "audacious",
+    frequency: 2.62,
+  },
+  {
+    word: "belated",
+    frequency: 2.62,
+  },
+  {
+    word: "bereft",
+    frequency: 2.62,
+  },
+  {
+    word: "decadence",
+    frequency: 2.62,
   },
   {
     word: "dregs",
@@ -6446,6 +4910,22 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "inconspicuous",
     frequency: 2.62,
+  },
+  {
+    word: "altruistic",
+    frequency: 2.63,
+  },
+  {
+    word: "belie",
+    frequency: 2.63,
+  },
+  {
+    word: "dabble",
+    frequency: 2.63,
+  },
+  {
+    word: "depose",
+    frequency: 2.63,
   },
   {
     word: "dint",
@@ -6480,6 +4960,26 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.63,
   },
   {
+    word: "amalgam",
+    frequency: 2.64,
+  },
+  {
+    word: "anon",
+    frequency: 2.64,
+  },
+  {
+    word: "carrion",
+    frequency: 2.64,
+  },
+  {
+    word: "conjugal",
+    frequency: 2.64,
+  },
+  {
+    word: "deflect",
+    frequency: 2.64,
+  },
+  {
     word: "deter",
     frequency: 2.64,
   },
@@ -6504,6 +5004,22 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.64,
   },
   {
+    word: "ambiance",
+    frequency: 2.66,
+  },
+  {
+    word: "benevolence",
+    frequency: 2.66,
+  },
+  {
+    word: "cavalier",
+    frequency: 2.66,
+  },
+  {
+    word: "delectable",
+    frequency: 2.66,
+  },
+  {
     word: "dissuade",
     frequency: 2.66,
   },
@@ -6520,6 +5036,38 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.66,
   },
   {
+    word: "assimilate",
+    frequency: 2.67,
+  },
+  {
+    word: "candor",
+    frequency: 2.67,
+  },
+  {
+    word: "catatonic",
+    frequency: 2.67,
+  },
+  {
+    word: "concoction",
+    frequency: 2.67,
+  },
+  {
+    word: "contusion",
+    frequency: 2.67,
+  },
+  {
+    word: "crevice",
+    frequency: 2.67,
+  },
+  {
+    word: "crusader",
+    frequency: 2.67,
+  },
+  {
+    word: "dainty",
+    frequency: 2.67,
+  },
+  {
     word: "disembark",
     frequency: 2.67,
   },
@@ -6534,6 +5082,46 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "greenhorn",
     frequency: 2.67,
+  },
+  {
+    word: "aggravate",
+    frequency: 2.68,
+  },
+  {
+    word: "agnostic",
+    frequency: 2.68,
+  },
+  {
+    word: "aloof",
+    frequency: 2.68,
+  },
+  {
+    word: "ambiguity",
+    frequency: 2.68,
+  },
+  {
+    word: "amicable",
+    frequency: 2.68,
+  },
+  {
+    word: "caricature",
+    frequency: 2.68,
+  },
+  {
+    word: "comely",
+    frequency: 2.68,
+  },
+  {
+    word: "conceit",
+    frequency: 2.68,
+  },
+  {
+    word: "conundrum",
+    frequency: 2.68,
+  },
+  {
+    word: "debacle",
+    frequency: 2.68,
   },
   {
     word: "discrepancy",
@@ -6556,6 +5144,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.68,
   },
   {
+    word: "awry",
+    frequency: 2.69,
+  },
+  {
+    word: "belligerent",
+    frequency: 2.69,
+  },
+  {
     word: "docket",
     frequency: 2.69,
   },
@@ -6570,6 +5166,30 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "gusto",
     frequency: 2.69,
+  },
+  {
+    word: "armistice",
+    frequency: 2.7,
+  },
+  {
+    word: "bedlam",
+    frequency: 2.7,
+  },
+  {
+    word: "bode",
+    frequency: 2.7,
+  },
+  {
+    word: "burg",
+    frequency: 2.7,
+  },
+  {
+    word: "confidant",
+    frequency: 2.7,
+  },
+  {
+    word: "confines",
+    frequency: 2.7,
   },
   {
     word: "elation",
@@ -6598,6 +5218,14 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "hogwash",
     frequency: 2.7,
+  },
+  {
+    word: "aspiration",
+    frequency: 2.72,
+  },
+  {
+    word: "consortium",
+    frequency: 2.72,
   },
   {
     word: "embodiment",
@@ -6636,6 +5264,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.72,
   },
   {
+    word: "contrived",
+    frequency: 2.73,
+  },
+  {
+    word: "cushy",
+    frequency: 2.73,
+  },
+  {
     word: "enamored",
     frequency: 2.73,
   },
@@ -6668,6 +5304,34 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.73,
   },
   {
+    word: "apprehensive",
+    frequency: 2.74,
+  },
+  {
+    word: "bane",
+    frequency: 2.74,
+  },
+  {
+    word: "complacent",
+    frequency: 2.74,
+  },
+  {
+    word: "concur",
+    frequency: 2.74,
+  },
+  {
+    word: "congenital",
+    frequency: 2.74,
+  },
+  {
+    word: "converge",
+    frequency: 2.74,
+  },
+  {
+    word: "credo",
+    frequency: 2.74,
+  },
+  {
     word: "dingy",
     frequency: 2.74,
   },
@@ -6678,6 +5342,30 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "fray",
     frequency: 2.74,
+  },
+  {
+    word: "ajar",
+    frequency: 2.75,
+  },
+  {
+    word: "anecdote",
+    frequency: 2.75,
+  },
+  {
+    word: "bandy",
+    frequency: 2.75,
+  },
+  {
+    word: "camaraderie",
+    frequency: 2.75,
+  },
+  {
+    word: "cameo",
+    frequency: 2.75,
+  },
+  {
+    word: "derelict",
+    frequency: 2.75,
   },
   {
     word: "furnish",
@@ -6696,12 +5384,28 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.75,
   },
   {
+    word: "arcadia",
+    frequency: 2.76,
+  },
+  {
+    word: "ardent",
+    frequency: 2.76,
+  },
+  {
+    word: "brawn",
+    frequency: 2.76,
+  },
+  {
     word: "fawn",
     frequency: 2.76,
   },
   {
     word: "haggle",
     frequency: 2.76,
+  },
+  {
+    word: "daunting",
+    frequency: 2.77,
   },
   {
     word: "detrimental",
@@ -6724,6 +5428,26 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.77,
   },
   {
+    word: "archaic",
+    frequency: 2.78,
+  },
+  {
+    word: "astral",
+    frequency: 2.78,
+  },
+  {
+    word: "aught",
+    frequency: 2.78,
+  },
+  {
+    word: "bequeath",
+    frequency: 2.78,
+  },
+  {
+    word: "cryptic",
+    frequency: 2.78,
+  },
+  {
     word: "diversify",
     frequency: 2.78,
   },
@@ -6744,8 +5468,48 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.78,
   },
   {
+    word: "charlatan",
+    frequency: 2.79,
+  },
+  {
+    word: "coax",
+    frequency: 2.79,
+  },
+  {
+    word: "commons",
+    frequency: 2.79,
+  },
+  {
+    word: "coney",
+    frequency: 2.79,
+  },
+  {
+    word: "deduce",
+    frequency: 2.79,
+  },
+  {
     word: "impunity",
     frequency: 2.79,
+  },
+  {
+    word: "ambrosia",
+    frequency: 2.8,
+  },
+  {
+    word: "assertive",
+    frequency: 2.8,
+  },
+  {
+    word: "barrage",
+    frequency: 2.8,
+  },
+  {
+    word: "deem",
+    frequency: 2.8,
+  },
+  {
+    word: "derive",
+    frequency: 2.8,
   },
   {
     word: "emancipation",
@@ -6754,6 +5518,42 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "incendiary",
     frequency: 2.8,
+  },
+  {
+    word: "aberration",
+    frequency: 2.81,
+  },
+  {
+    word: "abstain",
+    frequency: 2.81,
+  },
+  {
+    word: "amok",
+    frequency: 2.81,
+  },
+  {
+    word: "amorous",
+    frequency: 2.81,
+  },
+  {
+    word: "angelic",
+    frequency: 2.81,
+  },
+  {
+    word: "ascertain",
+    frequency: 2.81,
+  },
+  {
+    word: "befall",
+    frequency: 2.81,
+  },
+  {
+    word: "constituency",
+    frequency: 2.81,
+  },
+  {
+    word: "decorum",
+    frequency: 2.81,
   },
   {
     word: "eavesdrop",
@@ -6766,6 +5566,30 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "incarnate",
     frequency: 2.81,
+  },
+  {
+    word: "amiss",
+    frequency: 2.82,
+  },
+  {
+    word: "archetype",
+    frequency: 2.82,
+  },
+  {
+    word: "asunder",
+    frequency: 2.82,
+  },
+  {
+    word: "bewitching",
+    frequency: 2.82,
+  },
+  {
+    word: "blatant",
+    frequency: 2.82,
+  },
+  {
+    word: "carnivorous",
+    frequency: 2.82,
   },
   {
     word: "elated",
@@ -6784,6 +5608,22 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.82,
   },
   {
+    word: "affinity",
+    frequency: 2.83,
+  },
+  {
+    word: "complement",
+    frequency: 2.83,
+  },
+  {
+    word: "corroborate",
+    frequency: 2.83,
+  },
+  {
+    word: "culmination",
+    frequency: 2.83,
+  },
+  {
     word: "dismal",
     frequency: 2.83,
   },
@@ -6800,8 +5640,44 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.83,
   },
   {
+    word: "ascension",
+    frequency: 2.84,
+  },
+  {
+    word: "callous",
+    frequency: 2.84,
+  },
+  {
+    word: "dearth",
+    frequency: 2.84,
+  },
+  {
+    word: "demeanor",
+    frequency: 2.84,
+  },
+  {
+    word: "amiable",
+    frequency: 2.85,
+  },
+  {
+    word: "aria",
+    frequency: 2.85,
+  },
+  {
+    word: "cob",
+    frequency: 2.85,
+  },
+  {
+    word: "craven",
+    frequency: 2.85,
+  },
+  {
     word: "entice",
     frequency: 2.85,
+  },
+  {
+    word: "coincidentally",
+    frequency: 2.86,
   },
   {
     word: "draught",
@@ -6830,6 +5706,46 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "incriminate",
     frequency: 2.86,
+  },
+  {
+    word: "attribute",
+    frequency: 2.87,
+  },
+  {
+    word: "aversion",
+    frequency: 2.87,
+  },
+  {
+    word: "betrothed",
+    frequency: 2.87,
+  },
+  {
+    word: "brazen",
+    frequency: 2.87,
+  },
+  {
+    word: "cascade",
+    frequency: 2.87,
+  },
+  {
+    word: "catalyst",
+    frequency: 2.87,
+  },
+  {
+    word: "compliance",
+    frequency: 2.87,
+  },
+  {
+    word: "confer",
+    frequency: 2.87,
+  },
+  {
+    word: "dauntless",
+    frequency: 2.87,
+  },
+  {
+    word: "deluge",
+    frequency: 2.87,
   },
   {
     word: "deteriorate",
@@ -6872,6 +5788,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.87,
   },
   {
+    word: "albino",
+    frequency: 2.88,
+  },
+  {
+    word: "consolidate",
+    frequency: 2.88,
+  },
+  {
     word: "gnarly",
     frequency: 2.88,
   },
@@ -6880,8 +5804,84 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.88,
   },
   {
+    word: "alleviate",
+    frequency: 2.89,
+  },
+  {
+    word: "antics",
+    frequency: 2.89,
+  },
+  {
+    word: "caprice",
+    frequency: 2.89,
+  },
+  {
+    word: "cite",
+    frequency: 2.89,
+  },
+  {
+    word: "covet",
+    frequency: 2.89,
+  },
+  {
+    word: "crescendo",
+    frequency: 2.89,
+  },
+  {
     word: "falter",
     frequency: 2.89,
+  },
+  {
+    word: "adoration",
+    frequency: 2.9,
+  },
+  {
+    word: "adverse",
+    frequency: 2.9,
+  },
+  {
+    word: "agile",
+    frequency: 2.9,
+  },
+  {
+    word: "alluring",
+    frequency: 2.9,
+  },
+  {
+    word: "angst",
+    frequency: 2.9,
+  },
+  {
+    word: "animus",
+    frequency: 2.9,
+  },
+  {
+    word: "aphrodisiac",
+    frequency: 2.9,
+  },
+  {
+    word: "astute",
+    frequency: 2.9,
+  },
+  {
+    word: "cadence",
+    frequency: 2.9,
+  },
+  {
+    word: "condone",
+    frequency: 2.9,
+  },
+  {
+    word: "confine",
+    frequency: 2.9,
+  },
+  {
+    word: "contingent",
+    frequency: 2.9,
+  },
+  {
+    word: "cur",
+    frequency: 2.9,
   },
   {
     word: "devilish",
@@ -6920,6 +5920,22 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.9,
   },
   {
+    word: "bigot",
+    frequency: 2.91,
+  },
+  {
+    word: "chaperone",
+    frequency: 2.91,
+  },
+  {
+    word: "contend",
+    frequency: 2.91,
+  },
+  {
+    word: "decadent",
+    frequency: 2.91,
+  },
+  {
     word: "eloquent",
     frequency: 2.91,
   },
@@ -6934,6 +5950,46 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "impudent",
     frequency: 2.91,
+  },
+  {
+    word: "absolution",
+    frequency: 2.92,
+  },
+  {
+    word: "atonement",
+    frequency: 2.92,
+  },
+  {
+    word: "bashful",
+    frequency: 2.92,
+  },
+  {
+    word: "brisk",
+    frequency: 2.92,
+  },
+  {
+    word: "capricious",
+    frequency: 2.92,
+  },
+  {
+    word: "cataclysm",
+    frequency: 2.92,
+  },
+  {
+    word: "clad",
+    frequency: 2.92,
+  },
+  {
+    word: "conjecture",
+    frequency: 2.92,
+  },
+  {
+    word: "connoisseur",
+    frequency: 2.92,
+  },
+  {
+    word: "countenance",
+    frequency: 2.92,
   },
   {
     word: "devise",
@@ -6952,12 +6008,72 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.92,
   },
   {
+    word: "ailment",
+    frequency: 2.93,
+  },
+  {
+    word: "binge",
+    frequency: 2.93,
+  },
+  {
+    word: "cesspool",
+    frequency: 2.93,
+  },
+  {
+    word: "cornerstone",
+    frequency: 2.93,
+  },
+  {
     word: "drab",
     frequency: 2.93,
   },
   {
     word: "garner",
     frequency: 2.93,
+  },
+  {
+    word: "adorn",
+    frequency: 2.94,
+  },
+  {
+    word: "advert",
+    frequency: 2.94,
+  },
+  {
+    word: "appease",
+    frequency: 2.94,
+  },
+  {
+    word: "arduous",
+    frequency: 2.94,
+  },
+  {
+    word: "audacity",
+    frequency: 2.94,
+  },
+  {
+    word: "banzai",
+    frequency: 2.94,
+  },
+  {
+    word: "blissful",
+    frequency: 2.94,
+  },
+  {
+    word: "brooch",
+    frequency: 2.94,
+  },
+  {
+    word: "carnal",
+    frequency: 2.94,
+  },
+  {
+    word: "compel",
+    frequency: 2.94,
+  },
+  {
+    word: "constitute",
+    frequency: 2.94,
   },
   {
     word: "discredit",
@@ -6976,8 +6092,28 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.94,
   },
   {
+    word: "benign",
+    frequency: 2.95,
+  },
+  {
     word: "guise",
     frequency: 2.95,
+  },
+  {
+    word: "affidavit",
+    frequency: 2.96,
+  },
+  {
+    word: "apathy",
+    frequency: 2.96,
+  },
+  {
+    word: "banter",
+    frequency: 2.96,
+  },
+  {
+    word: "chore",
+    frequency: 2.96,
   },
   {
     word: "destitute",
@@ -6996,8 +6132,16 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.96,
   },
   {
+    word: "cultivated",
+    frequency: 2.97,
+  },
+  {
     word: "fane",
     frequency: 2.97,
+  },
+  {
+    word: "absolve",
+    frequency: 2.98,
   },
   {
     word: "emissary",
@@ -7020,6 +6164,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.98,
   },
   {
+    word: "calypso",
+    frequency: 2.99,
+  },
+  {
+    word: "deduction",
+    frequency: 2.99,
+  },
+  {
     word: "devoid",
     frequency: 2.99,
   },
@@ -7032,12 +6184,40 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.99,
   },
   {
+    word: "analogy",
+    frequency: 3,
+  },
+  {
+    word: "coherent",
+    frequency: 3,
+  },
+  {
+    word: "contraption",
+    frequency: 3,
+  },
+  {
     word: "deviant",
     frequency: 3,
   },
   {
     word: "exhilarating",
     frequency: 3,
+  },
+  {
+    word: "banal",
+    frequency: 3.01,
+  },
+  {
+    word: "comprehensive",
+    frequency: 3.01,
+  },
+  {
+    word: "condescending",
+    frequency: 3.01,
+  },
+  {
+    word: "contraband",
+    frequency: 3.01,
   },
   {
     word: "diligent",
@@ -7056,6 +6236,22 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.01,
   },
   {
+    word: "antiquity",
+    frequency: 3.02,
+  },
+  {
+    word: "assert",
+    frequency: 3.02,
+  },
+  {
+    word: "clandestine",
+    frequency: 3.02,
+  },
+  {
+    word: "commute",
+    frequency: 3.02,
+  },
+  {
     word: "equilibrium",
     frequency: 3.02,
   },
@@ -7066,6 +6262,10 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "grandeur",
     frequency: 3.02,
+  },
+  {
+    word: "atrocious",
+    frequency: 3.03,
   },
   {
     word: "exert",
@@ -7088,6 +6288,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.03,
   },
   {
+    word: "ambiguous",
+    frequency: 3.04,
+  },
+  {
+    word: "blossoming",
+    frequency: 3.04,
+  },
+  {
     word: "diffuse",
     frequency: 3.04,
   },
@@ -7106,6 +6314,22 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "feud",
     frequency: 3.04,
+  },
+  {
+    word: "annihilate",
+    frequency: 3.05,
+  },
+  {
+    word: "bestow",
+    frequency: 3.05,
+  },
+  {
+    word: "concede",
+    frequency: 3.05,
+  },
+  {
+    word: "conspicuous",
+    frequency: 3.05,
   },
   {
     word: "devious",
@@ -7144,6 +6368,30 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.05,
   },
   {
+    word: "aide",
+    frequency: 3.06,
+  },
+  {
+    word: "bland",
+    frequency: 3.06,
+  },
+  {
+    word: "brook",
+    frequency: 3.06,
+  },
+  {
+    word: "commissar",
+    frequency: 3.06,
+  },
+  {
+    word: "concession",
+    frequency: 3.06,
+  },
+  {
+    word: "deadbeat",
+    frequency: 3.06,
+  },
+  {
     word: "diabolical",
     frequency: 3.06,
   },
@@ -7152,8 +6400,28 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.06,
   },
   {
+    word: "abominable",
+    frequency: 3.07,
+  },
+  {
+    word: "arbitrary",
+    frequency: 3.07,
+  },
+  {
+    word: "brilliance",
+    frequency: 3.07,
+  },
+  {
+    word: "conjure",
+    frequency: 3.07,
+  },
+  {
     word: "inaudible",
     frequency: 3.07,
+  },
+  {
+    word: "brood",
+    frequency: 3.08,
   },
   {
     word: "fanfare",
@@ -7170,6 +6438,18 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "immaculate",
     frequency: 3.08,
+  },
+  {
+    word: "abomination",
+    frequency: 3.09,
+  },
+  {
+    word: "abrupt",
+    frequency: 3.09,
+  },
+  {
+    word: "ballistic",
+    frequency: 3.09,
   },
   {
     word: "devout",
@@ -7196,6 +6476,26 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.09,
   },
   {
+    word: "adversity",
+    frequency: 3.1,
+  },
+  {
+    word: "astounding",
+    frequency: 3.1,
+  },
+  {
+    word: "benevolent",
+    frequency: 3.1,
+  },
+  {
+    word: "canon",
+    frequency: 3.1,
+  },
+  {
+    word: "courteous",
+    frequency: 3.1,
+  },
+  {
     word: "fetching",
     frequency: 3.1,
   },
@@ -7204,8 +6504,28 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.1,
   },
   {
+    word: "adversary",
+    frequency: 3.11,
+  },
+  {
+    word: "candid",
+    frequency: 3.11,
+  },
+  {
+    word: "carnage",
+    frequency: 3.11,
+  },
+  {
     word: "illicit",
     frequency: 3.11,
+  },
+  {
+    word: "adamant",
+    frequency: 3.12,
+  },
+  {
+    word: "conscientious",
+    frequency: 3.12,
   },
   {
     word: "disoriented",
@@ -7248,6 +6568,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.13,
   },
   {
+    word: "benefactor",
+    frequency: 3.14,
+  },
+  {
     word: "doubtful",
     frequency: 3.14,
   },
@@ -7268,6 +6592,30 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.14,
   },
   {
+    word: "apt",
+    frequency: 3.15,
+  },
+  {
+    word: "articulate",
+    frequency: 3.15,
+  },
+  {
+    word: "beseech",
+    frequency: 3.15,
+  },
+  {
+    word: "chime",
+    frequency: 3.15,
+  },
+  {
+    word: "curator",
+    frequency: 3.15,
+  },
+  {
+    word: "dazzle",
+    frequency: 3.15,
+  },
+  {
     word: "dubious",
     frequency: 3.15,
   },
@@ -7278,6 +6626,14 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "imposing",
     frequency: 3.15,
+  },
+  {
+    word: "aesthetic",
+    frequency: 3.16,
+  },
+  {
+    word: "delinquent",
+    frequency: 3.16,
   },
   {
     word: "flourish",
@@ -7292,6 +6648,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.16,
   },
   {
+    word: "blurry",
+    frequency: 3.17,
+  },
+  {
+    word: "breathtaking",
+    frequency: 3.17,
+  },
+  {
     word: "etiquette",
     frequency: 3.17,
   },
@@ -7304,12 +6668,36 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.17,
   },
   {
+    word: "boast",
+    frequency: 3.18,
+  },
+  {
+    word: "bubbling",
+    frequency: 3.18,
+  },
+  {
+    word: "charade",
+    frequency: 3.18,
+  },
+  {
+    word: "continuity",
+    frequency: 3.18,
+  },
+  {
     word: "exclude",
     frequency: 3.18,
   },
   {
     word: "festive",
     frequency: 3.18,
+  },
+  {
+    word: "abode",
+    frequency: 3.19,
+  },
+  {
+    word: "coy",
+    frequency: 3.19,
   },
   {
     word: "doctrine",
@@ -7340,6 +6728,22 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.19,
   },
   {
+    word: "array",
+    frequency: 3.2,
+  },
+  {
+    word: "calamity",
+    frequency: 3.2,
+  },
+  {
+    word: "chestnut",
+    frequency: 3.2,
+  },
+  {
+    word: "definitive",
+    frequency: 3.2,
+  },
+  {
     word: "disposition",
     frequency: 3.2,
   },
@@ -7358,6 +6762,14 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "hades",
     frequency: 3.2,
+  },
+  {
+    word: "chandelier",
+    frequency: 3.21,
+  },
+  {
+    word: "conservatory",
+    frequency: 3.21,
   },
   {
     word: "earnest",
@@ -7384,6 +6796,26 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.21,
   },
   {
+    word: "colossal",
+    frequency: 3.22,
+  },
+  {
+    word: "desirable",
+    frequency: 3.22,
+  },
+  {
+    word: "booby",
+    frequency: 3.23,
+  },
+  {
+    word: "constellation",
+    frequency: 3.23,
+  },
+  {
+    word: "delicacy",
+    frequency: 3.23,
+  },
+  {
     word: "ecstatic",
     frequency: 3.23,
   },
@@ -7408,8 +6840,16 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.24,
   },
   {
+    word: "auditorium",
+    frequency: 3.25,
+  },
+  {
     word: "glamour",
     frequency: 3.25,
+  },
+  {
+    word: "denounce",
+    frequency: 3.26,
   },
   {
     word: "disperse",
@@ -7422,6 +6862,22 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "filip",
     frequency: 3.26,
+  },
+  {
+    word: "accord",
+    frequency: 3.27,
+  },
+  {
+    word: "anomaly",
+    frequency: 3.27,
+  },
+  {
+    word: "arsenal",
+    frequency: 3.27,
+  },
+  {
+    word: "conceive",
+    frequency: 3.27,
   },
   {
     word: "fascination",
@@ -7440,6 +6896,26 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.27,
   },
   {
+    word: "amour",
+    frequency: 3.28,
+  },
+  {
+    word: "crock",
+    frequency: 3.28,
+  },
+  {
+    word: "charisma",
+    frequency: 3.29,
+  },
+  {
+    word: "ascend",
+    frequency: 3.3,
+  },
+  {
+    word: "blooming",
+    frequency: 3.3,
+  },
+  {
     word: "enigma",
     frequency: 3.3,
   },
@@ -7448,12 +6924,48 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.3,
   },
   {
+    word: "covenant",
+    frequency: 3.31,
+  },
+  {
+    word: "covert",
+    frequency: 3.31,
+  },
+  {
+    word: "dazzling",
+    frequency: 3.31,
+  },
+  {
+    word: "abundance",
+    frequency: 3.32,
+  },
+  {
+    word: "blazing",
+    frequency: 3.32,
+  },
+  {
+    word: "centered",
+    frequency: 3.32,
+  },
+  {
+    word: "degenerate",
+    frequency: 3.32,
+  },
+  {
     word: "fulfilling",
     frequency: 3.32,
   },
   {
     word: "futile",
     frequency: 3.32,
+  },
+  {
+    word: "appoint",
+    frequency: 3.33,
+  },
+  {
+    word: "carefree",
+    frequency: 3.33,
   },
   {
     word: "evident",
@@ -7484,6 +6996,22 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.33,
   },
   {
+    word: "admirable",
+    frequency: 3.34,
+  },
+  {
+    word: "bypass",
+    frequency: 3.34,
+  },
+  {
+    word: "credible",
+    frequency: 3.34,
+  },
+  {
+    word: "dell",
+    frequency: 3.34,
+  },
+  {
     word: "formidable",
     frequency: 3.34,
   },
@@ -7496,12 +7024,28 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.34,
   },
   {
+    word: "conception",
+    frequency: 3.35,
+  },
+  {
+    word: "cot",
+    frequency: 3.35,
+  },
+  {
     word: "genesis",
     frequency: 3.35,
   },
   {
     word: "inclined",
     frequency: 3.35,
+  },
+  {
+    word: "cerebral",
+    frequency: 3.36,
+  },
+  {
+    word: "crisp",
+    frequency: 3.36,
   },
   {
     word: "ferocious",
@@ -7516,6 +7060,18 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.36,
   },
   {
+    word: "abide",
+    frequency: 3.37,
+  },
+  {
+    word: "cavity",
+    frequency: 3.37,
+  },
+  {
+    word: "celestial",
+    frequency: 3.37,
+  },
+  {
     word: "detour",
     frequency: 3.37,
   },
@@ -7528,8 +7084,20 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.37,
   },
   {
+    word: "daft",
+    frequency: 3.38,
+  },
+  {
     word: "enchanted",
     frequency: 3.38,
+  },
+  {
+    word: "boulevard",
+    frequency: 3.39,
+  },
+  {
+    word: "decree",
+    frequency: 3.39,
   },
   {
     word: "distinction",
@@ -7544,12 +7112,36 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.39,
   },
   {
+    word: "aurora",
+    frequency: 3.4,
+  },
+  {
+    word: "chaotic",
+    frequency: 3.4,
+  },
+  {
+    word: "delusional",
+    frequency: 3.4,
+  },
+  {
     word: "flank",
     frequency: 3.4,
   },
   {
     word: "ideology",
     frequency: 3.4,
+  },
+  {
+    word: "anarchy",
+    frequency: 3.41,
+  },
+  {
+    word: "brock",
+    frequency: 3.41,
+  },
+  {
+    word: "clarity",
+    frequency: 3.41,
   },
   {
     word: "dilemma",
@@ -7568,12 +7160,28 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.41,
   },
   {
+    word: "dandy",
+    frequency: 3.42,
+  },
+  {
     word: "giddy",
     frequency: 3.42,
   },
   {
     word: "hallowed",
     frequency: 3.42,
+  },
+  {
+    word: "allegiance",
+    frequency: 3.43,
+  },
+  {
+    word: "cassandra",
+    frequency: 3.43,
+  },
+  {
+    word: "defy",
+    frequency: 3.43,
   },
   {
     word: "frontier",
@@ -7584,8 +7192,24 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.43,
   },
   {
+    word: "congregation",
+    frequency: 3.44,
+  },
+  {
+    word: "counterfeit",
+    frequency: 3.44,
+  },
+  {
     word: "ell",
     frequency: 3.44,
+  },
+  {
+    word: "chic",
+    frequency: 3.45,
+  },
+  {
+    word: "commence",
+    frequency: 3.45,
   },
   {
     word: "dusk",
@@ -7604,8 +7228,20 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.45,
   },
   {
+    word: "abstract",
+    frequency: 3.46,
+  },
+  {
+    word: "contemporary",
+    frequency: 3.46,
+  },
+  {
     word: "eccentric",
     frequency: 3.46,
+  },
+  {
+    word: "advocate",
+    frequency: 3.47,
   },
   {
     word: "errand",
@@ -7616,12 +7252,60 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.47,
   },
   {
+    word: "awe",
+    frequency: 3.48,
+  },
+  {
+    word: "composition",
+    frequency: 3.48,
+  },
+  {
+    word: "coop",
+    frequency: 3.48,
+  },
+  {
+    word: "cynical",
+    frequency: 3.48,
+  },
+  {
     word: "ere",
     frequency: 3.48,
   },
   {
     word: "exploit",
     frequency: 3.49,
+  },
+  {
+    word: "abyss",
+    frequency: 3.5,
+  },
+  {
+    word: "auspicious",
+    frequency: 3.5,
+  },
+  {
+    word: "commerce",
+    frequency: 3.5,
+  },
+  {
+    word: "commotion",
+    frequency: 3.5,
+  },
+  {
+    word: "dense",
+    frequency: 3.5,
+  },
+  {
+    word: "bungalow",
+    frequency: 3.51,
+  },
+  {
+    word: "contempt",
+    frequency: 3.51,
+  },
+  {
+    word: "caress",
+    frequency: 3.52,
   },
   {
     word: "haste",
@@ -7636,6 +7320,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.52,
   },
   {
+    word: "astonishing",
+    frequency: 3.53,
+  },
+  {
     word: "distinguished",
     frequency: 3.53,
   },
@@ -7644,8 +7332,16 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.53,
   },
   {
+    word: "consequence",
+    frequency: 3.54,
+  },
+  {
     word: "fluffy",
     frequency: 3.54,
+  },
+  {
+    word: "apparent",
+    frequency: 3.55,
   },
   {
     word: "exquisite",
@@ -7656,8 +7352,16 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.55,
   },
   {
+    word: "boon",
+    frequency: 3.56,
+  },
+  {
     word: "destructive",
     frequency: 3.56,
+  },
+  {
+    word: "delightful",
+    frequency: 3.59,
   },
   {
     word: "gloomy",
@@ -7680,12 +7384,32 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.62,
   },
   {
+    word: "blossom",
+    frequency: 3.63,
+  },
+  {
+    word: "cherish",
+    frequency: 3.63,
+  },
+  {
+    word: "compass",
+    frequency: 3.63,
+  },
+  {
     word: "discreet",
     frequency: 3.63,
   },
   {
     word: "essay",
     frequency: 3.63,
+  },
+  {
+    word: "ally",
+    frequency: 3.64,
+  },
+  {
+    word: "catastrophe",
+    frequency: 3.64,
   },
   {
     word: "esteem",
@@ -7696,6 +7420,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.64,
   },
   {
+    word: "accomplice",
+    frequency: 3.65,
+  },
+  {
     word: "devices",
     frequency: 3.65,
   },
@@ -7704,8 +7432,24 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.65,
   },
   {
+    word: "cardinal",
+    frequency: 3.66,
+  },
+  {
     word: "dispatch",
     frequency: 3.67,
+  },
+  {
+    word: "cheerful",
+    frequency: 3.68,
+  },
+  {
+    word: "coup",
+    frequency: 3.68,
+  },
+  {
+    word: "compound",
+    frequency: 3.69,
   },
   {
     word: "doom",
@@ -7728,8 +7472,28 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.72,
   },
   {
+    word: "aspect",
+    frequency: 3.73,
+  },
+  {
+    word: "cottage",
+    frequency: 3.73,
+  },
+  {
     word: "expedition",
     frequency: 3.73,
+  },
+  {
+    word: "bliss",
+    frequency: 3.74,
+  },
+  {
+    word: "classy",
+    frequency: 3.74,
+  },
+  {
+    word: "bolt",
+    frequency: 3.75,
   },
   {
     word: "ecstasy",
@@ -7744,12 +7508,24 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.78,
   },
   {
+    word: "compassion",
+    frequency: 3.8,
+  },
+  {
     word: "heavenly",
     frequency: 3.81,
   },
   {
     word: "hence",
     frequency: 3.81,
+  },
+  {
+    word: "bizarre",
+    frequency: 3.82,
+  },
+  {
+    word: "constitution",
+    frequency: 3.82,
   },
   {
     word: "fare",
@@ -7764,6 +7540,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.83,
   },
   {
+    word: "despair",
+    frequency: 3.84,
+  },
+  {
     word: "eager",
     frequency: 3.84,
   },
@@ -7772,8 +7552,16 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.84,
   },
   {
+    word: "amateur",
+    frequency: 3.85,
+  },
+  {
     word: "flowing",
     frequency: 3.85,
+  },
+  {
+    word: "barrel",
+    frequency: 3.86,
   },
   {
     word: "elegant",
@@ -7782,6 +7570,18 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "harbor",
     frequency: 3.87,
+  },
+  {
+    word: "convention",
+    frequency: 3.89,
+  },
+  {
+    word: "brakes",
+    frequency: 3.9,
+  },
+  {
+    word: "counsel",
+    frequency: 3.9,
   },
   {
     word: "glorious",
@@ -7796,12 +7596,20 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.91,
   },
   {
+    word: "bubble",
+    frequency: 3.92,
+  },
+  {
     word: "et",
     frequency: 3.92,
   },
   {
     word: "ginger",
     frequency: 3.92,
+  },
+  {
+    word: "cant",
+    frequency: 3.93,
   },
   {
     word: "harmony",
@@ -7812,8 +7620,32 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.94,
   },
   {
+    word: "adore",
+    frequency: 3.95,
+  },
+  {
+    word: "consciousness",
+    frequency: 3.95,
+  },
+  {
+    word: "arrogant",
+    frequency: 3.97,
+  },
+  {
+    word: "conduct",
+    frequency: 3.97,
+  },
+  {
     word: "gravity",
     frequency: 3.97,
+  },
+  {
+    word: "appetite",
+    frequency: 3.98,
+  },
+  {
+    word: "constant",
+    frequency: 3.99,
   },
   {
     word: "eternity",
@@ -7844,16 +7676,72 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.01,
   },
   {
+    word: "appeal",
+    frequency: 4.02,
+  },
+  {
+    word: "delicate",
+    frequency: 4.02,
+  },
+  {
     word: "flame",
     frequency: 4.04,
+  },
+  {
+    word: "chamber",
+    frequency: 4.05,
   },
   {
     word: "effective",
     frequency: 4.05,
   },
   {
+    word: "complaining",
+    frequency: 4.06,
+  },
+  {
+    word: "affection",
+    frequency: 4.07,
+  },
+  {
+    word: "affect",
+    frequency: 4.08,
+  },
+  {
+    word: "betray",
+    frequency: 4.08,
+  },
+  {
+    word: "confident",
+    frequency: 4.09,
+  },
+  {
+    word: "blessing",
+    frequency: 4.1,
+  },
+  {
+    word: "burden",
+    frequency: 4.1,
+  },
+  {
+    word: "commission",
+    frequency: 4.12,
+  },
+  {
+    word: "concept",
+    frequency: 4.12,
+  },
+  {
     word: "divine",
     frequency: 4.12,
+  },
+  {
+    word: "champ",
+    frequency: 4.13,
+  },
+  {
+    word: "charm",
+    frequency: 4.14,
   },
   {
     word: "eternal",
@@ -7868,8 +7756,20 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.18,
   },
   {
+    word: "abroad",
+    frequency: 4.19,
+  },
+  {
+    word: "comfort",
+    frequency: 4.19,
+  },
+  {
     word: "financial",
     frequency: 4.19,
+  },
+  {
+    word: "bay",
+    frequency: 4.21,
   },
   {
     word: "gentle",
@@ -7884,6 +7784,18 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.22,
   },
   {
+    word: "campaign",
+    frequency: 4.23,
+  },
+  {
+    word: "attractive",
+    frequency: 4.24,
+  },
+  {
+    word: "august",
+    frequency: 4.24,
+  },
+  {
     word: "extraordinary",
     frequency: 4.25,
   },
@@ -7892,8 +7804,28 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.26,
   },
   {
+    word: "bond",
+    frequency: 4.27,
+  },
+  {
+    word: "circumstances",
+    frequency: 4.27,
+  },
+  {
+    word: "approach",
+    frequency: 4.28,
+  },
+  {
     word: "filthy",
     frequency: 4.28,
+  },
+  {
+    word: "charming",
+    frequency: 4.29,
+  },
+  {
+    word: "convince",
+    frequency: 4.29,
   },
   {
     word: "emotional",
@@ -7904,12 +7836,32 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.32,
   },
   {
+    word: "concern",
+    frequency: 4.33,
+  },
+  {
     word: "grant",
     frequency: 4.34,
   },
   {
+    word: "commit",
+    frequency: 4.36,
+  },
+  {
     word: "hug",
     frequency: 4.36,
+  },
+  {
+    word: "attitude",
+    frequency: 4.37,
+  },
+  {
+    word: "coast",
+    frequency: 4.37,
+  },
+  {
+    word: "champion",
+    frequency: 4.38,
   },
   {
     word: "friendship",
@@ -7920,8 +7872,32 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.42,
   },
   {
+    word: "becoming",
+    frequency: 4.43,
+  },
+  {
+    word: "desire",
+    frequency: 4.49,
+  },
+  {
     word: "fancy",
     frequency: 4.5,
+  },
+  {
+    word: "delicious",
+    frequency: 4.52,
+  },
+  {
+    word: "contract",
+    frequency: 4.56,
+  },
+  {
+    word: "colonel",
+    frequency: 4.57,
+  },
+  {
+    word: "crew",
+    frequency: 4.57,
   },
   {
     word: "grace",
@@ -7948,8 +7924,16 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.63,
   },
   {
+    word: "consider",
+    frequency: 4.66,
+  },
+  {
     word: "handsome",
     frequency: 4.66,
+  },
+  {
+    word: "common",
+    frequency: 4.68,
   },
   {
     word: "enemy",
@@ -7968,6 +7952,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.83,
   },
   {
+    word: "court",
+    frequency: 4.92,
+  },
+  {
+    word: "darling",
+    frequency: 4.96,
+  },
+  {
     word: "fell",
     frequency: 4.96,
   },
@@ -7980,12 +7972,20 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 5.13,
   },
   {
+    word: "calm",
+    frequency: 5.19,
+  },
+  {
     word: "funny",
     frequency: 5.26,
   },
   {
     word: "honey",
     frequency: 5.29,
+  },
+  {
+    word: "cool",
+    frequency: 5.32,
   },
   {
     word: "game",
