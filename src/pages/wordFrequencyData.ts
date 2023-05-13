@@ -1,187 +1,187 @@
 interface WordData {
   word: string;
-  frequency: number | null;
+  frequency: number;
 }
 const wordFrequencyData: Array<WordData> = [
   {
     word: "accismus",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "abyssopelagic",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "acnestis",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "agastopia",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "agin",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "agelast",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "alms-guest",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "anecdata",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "bafflegab",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "Anthropocene",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "apricity",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "bebother",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "apricate",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "beserk",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "cosmogyral",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "coddiwomple",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "cockshut-light",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "amatorculist",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "balter",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "bimble",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "blandiloquent",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "denign",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "chrysalism",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "attercop",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "cromulent",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "attentuate",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "dejavu",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "confusticate",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "cornucopi",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "breviloquent",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "clairovoyant",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "auror",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "compedium",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "cunning-handed",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "atrament",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "covetice",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "clinomania",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "desiderium",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "convivia",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "derecho",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "braggadocious",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "close-serried",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "cryptozoology",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "blazoned",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "coëval",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "abash",
@@ -4005,139 +4005,139 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "doldrum",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "dolven",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "dromund",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "dwimmer-crafty",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "eccedentesiast",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "eleutheromania",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "hella",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "festooned",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "hikikomori",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "grief ",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "greened",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "futz",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "honed",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "hirquiticke",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "hiraeth",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "eigengrau",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "flowed",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "etten",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "flet",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "frabjous",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "flummoxed",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "fleek",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "flammifer",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "fernweh",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "epiphan",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "inaureoled",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "epidemia",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "gucci",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "heartstring",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "ellipsism",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "horatory",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "hythe",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "evocate",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "gorcrow",
-    frequency: null,
+    frequency: -1,
   },
   {
     word: "despoil",
