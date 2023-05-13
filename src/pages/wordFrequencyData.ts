@@ -1,375 +1,297 @@
 interface WordData {
   word: string;
   frequency: number;
+  notes?: string;
 }
 const wordFrequencyData: Array<WordData> = [
   {
     word: "accismus",
     frequency: -1,
+    notes: "sounds like a very useful word",
   },
   {
     word: "abyssopelagic",
     frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "acnestis",
     frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "agastopia",
     frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "agin",
     frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "agelast",
     frequency: -1,
-  },
-  {
-    word: "alms-guest",
-    frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "anecdata",
     frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "bafflegab",
     frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "Anthropocene",
     frequency: -1,
+    notes: "used in climate change discussions",
   },
   {
     word: "apricity",
     frequency: -1,
+    notes: "kinda cool",
   },
   {
     word: "bebother",
     frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "apricate",
     frequency: -1,
+    notes: "I like this one",
   },
   {
     word: "beserk",
     frequency: -1,
+    notes: "this is actually a pretty common word",
   },
   {
     word: "cosmogyral",
     frequency: -1,
+    notes: "pretty cool",
   },
   {
     word: "coddiwomple",
     frequency: -1,
-  },
-  {
-    word: "cockshut-light",
-    frequency: -1,
-  },
-  {
-    word: "amatorculist",
-    frequency: -1,
+    notes: "kinda fun",
   },
   {
     word: "balter",
     frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "bimble",
     frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "blandiloquent",
     frequency: -1,
-  },
-  {
-    word: "denign",
-    frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "chrysalism",
     frequency: -1,
-  },
-  {
-    word: "attercop",
-    frequency: -1,
+    notes: "kinda cool",
   },
   {
     word: "cromulent",
     frequency: -1,
+    notes: "lmao keep",
   },
   {
     word: "attentuate",
     frequency: -1,
+    notes: "useful",
   },
   {
-    word: "dejavu",
+    word: "déjà vu",
     frequency: -1,
+    notes: "keep",
   },
   {
     word: "confusticate",
     frequency: -1,
+    notes: "may be useful",
   },
   {
-    word: "cornucopi",
-    frequency: -1,
+    word: "cornucopia",
+    frequency: 2.2,
   },
   {
     word: "breviloquent",
     frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "clairovoyant",
     frequency: -1,
-  },
-  {
-    word: "auror",
-    frequency: -1,
+    notes: "keep",
   },
   {
     word: "compedium",
     frequency: -1,
+    notes: "missing definition; reconsider at a later date",
   },
   {
     word: "cunning-handed",
     frequency: -1,
-  },
-  {
-    word: "atrament",
-    frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "covetice",
     frequency: -1,
+    notes: "useful",
   },
   {
     word: "clinomania",
     frequency: -1,
+    notes: "useful meaning",
   },
   {
     word: "desiderium",
     frequency: -1,
+    notes: "cute",
   },
   {
     word: "convivia",
     frequency: -1,
-  },
-  {
-    word: "derecho",
-    frequency: -1,
-  },
-  {
-    word: "braggadocious",
-    frequency: -1,
-  },
-  {
-    word: "close-serried",
-    frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "cryptozoology",
     frequency: -1,
+    notes: "cool work",
   },
   {
     word: "blazoned",
     frequency: -1,
-  },
-  {
-    word: "coëval",
-    frequency: -1,
+    notes: "useful",
   },
   {
     word: "doldrum",
     frequency: -1,
-  },
-  {
-    word: "dolven",
-    frequency: -1,
-  },
-  {
-    word: "dromund",
-    frequency: -1,
-  },
-  {
-    word: "dwimmer-crafty",
-    frequency: -1,
+    notes: "actually pretty common I think",
   },
   {
     word: "eccedentesiast",
     frequency: -1,
+    notes: "kinda cool",
   },
   {
     word: "eleutheromania",
     frequency: -1,
-  },
-  {
-    word: "hella",
-    frequency: -1,
+    notes: "kinda cool",
   },
   {
     word: "festooned",
     frequency: -1,
+    notes: "pretty common actually",
   },
   {
     word: "hikikomori",
     frequency: -1,
+    notes: "may be useful",
   },
   {
     word: "grief ",
     frequency: -1,
-  },
-  {
-    word: "greened",
-    frequency: -1,
+    notes: "very common; how was this not in the dictionary?",
   },
   {
     word: "futz",
     frequency: -1,
+    notes: "pretty commong actually",
   },
   {
     word: "honed",
     frequency: -1,
-  },
-  {
-    word: "hirquiticke",
-    frequency: -1,
+    notes: "pretty commong actually",
   },
   {
     word: "hiraeth",
     frequency: -1,
-  },
-  {
-    word: "eigengrau",
-    frequency: -1,
+    notes: "very cool word",
   },
   {
     word: "flowed",
     frequency: -1,
-  },
-  {
-    word: "etten",
-    frequency: -1,
-  },
-  {
-    word: "flet",
-    frequency: -1,
-  },
-  {
-    word: "frabjous",
-    frequency: -1,
+    notes: "may actually be too common",
   },
   {
     word: "flummoxed",
     frequency: -1,
-  },
-  {
-    word: "fleek",
-    frequency: -1,
-  },
-  {
-    word: "flammifer",
-    frequency: -1,
-  },
-  {
-    word: "fernweh",
-    frequency: -1,
-  },
-  {
-    word: "epiphan",
-    frequency: -1,
-  },
-  {
-    word: "inaureoled",
-    frequency: -1,
+    notes: "pretty commong actually",
   },
   {
     word: "epidemia",
     frequency: -1,
-  },
-  {
-    word: "gucci",
-    frequency: -1,
+    notes: "very useful word",
   },
   {
     word: "heartstring",
     frequency: -1,
+    notes: "I like this one",
   },
   {
     word: "ellipsism",
     frequency: -1,
-  },
-  {
-    word: "horatory",
-    frequency: -1,
-  },
-  {
-    word: "hythe",
-    frequency: -1,
+    notes: "I like this one",
   },
   {
     word: "evocate",
     frequency: -1,
-  },
-  {
-    word: "gorcrow",
-    frequency: -1,
+    notes: "useful",
   },
   {
     word: "abash",
     frequency: 0,
-  },
-  {
-    word: "abecedarian",
-    frequency: 0,
-  },
-  {
-    word: "abience",
-    frequency: 0,
+    notes: "useful",
   },
   {
     word: "abnegate",
     frequency: 0,
-  },
-  {
-    word: "abomasum",
-    frequency: 0,
+    notes: "useful",
   },
   {
     word: "absquatulate",
     frequency: 0,
+    notes: "may be useful",
   },
   {
     word: "abstemious",
     frequency: 0,
+    notes: "may be useful",
   },
   {
     word: "abstruse",
     frequency: 0,
+    notes: "may be useful",
   },
   {
     word: "acclimatize",
     frequency: 0,
+    notes: "useful",
   },
   {
     word: "acquisitive",
     frequency: 0,
+    notes: "useful",
   },
   {
     word: "actuate",
     frequency: 0,
+    notes: "may be useful",
   },
   {
     word: "adamantine",
     frequency: 0,
-  },
-  {
-    word: "adduce",
-    frequency: 0,
+    notes: "may be useful",
   },
   {
     word: "adumbrate",
@@ -1861,10 +1783,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "hoary",
-    frequency: 1.6,
-  },
-  {
-    word: "hoopoe",
     frequency: 1.6,
   },
   {
@@ -7492,10 +7410,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.74,
   },
   {
-    word: "bolt",
-    frequency: 3.75,
-  },
-  {
     word: "ecstasy",
     frequency: 3.75,
   },
@@ -7576,10 +7490,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.89,
   },
   {
-    word: "brakes",
-    frequency: 3.9,
-  },
-  {
     word: "counsel",
     frequency: 3.9,
   },
@@ -7601,10 +7511,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "et",
-    frequency: 3.92,
-  },
-  {
-    word: "ginger",
     frequency: 3.92,
   },
   {
@@ -7736,10 +7642,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.12,
   },
   {
-    word: "champ",
-    frequency: 4.13,
-  },
-  {
     word: "charm",
     frequency: 4.14,
   },
@@ -7777,10 +7679,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "flag",
-    frequency: 4.22,
-  },
-  {
-    word: "goddess",
     frequency: 4.22,
   },
   {
@@ -7848,10 +7746,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.36,
   },
   {
-    word: "hug",
-    frequency: 4.36,
-  },
-  {
     word: "attitude",
     frequency: 4.37,
   },
@@ -7862,10 +7756,6 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "champion",
     frequency: 4.38,
-  },
-  {
-    word: "friendship",
-    frequency: 4.39,
   },
   {
     word: "gorgeous",
@@ -7908,16 +7798,8 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.6,
   },
   {
-    word: "happiness",
-    frequency: 4.62,
-  },
-  {
     word: "ill",
     frequency: 4.62,
-  },
-  {
-    word: "dry",
-    frequency: 4.63,
   },
   {
     word: "hardly",
@@ -7928,16 +7810,8 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.66,
   },
   {
-    word: "handsome",
-    frequency: 4.66,
-  },
-  {
     word: "common",
     frequency: 4.68,
-  },
-  {
-    word: "enemy",
-    frequency: 4.72,
   },
   {
     word: "harry",
@@ -7956,52 +7830,12 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.92,
   },
   {
-    word: "darling",
-    frequency: 4.96,
-  },
-  {
-    word: "fell",
-    frequency: 4.96,
-  },
-  {
-    word: "forever",
-    frequency: 4.99,
-  },
-  {
-    word: "hang",
-    frequency: 5.13,
-  },
-  {
-    word: "calm",
-    frequency: 5.19,
-  },
-  {
-    word: "funny",
-    frequency: 5.26,
-  },
-  {
-    word: "honey",
-    frequency: 5.29,
-  },
-  {
-    word: "cool",
-    frequency: 5.32,
-  },
-  {
-    word: "game",
-    frequency: 5.32,
-  },
-  {
-    word: "hope",
-    frequency: 5.45,
+    word: "cools",
+    frequency: -1,
   },
   {
     word: "haven",
     frequency: 5.52,
-  },
-  {
-    word: "fine",
-    frequency: 5.75,
   },
 ];
 
