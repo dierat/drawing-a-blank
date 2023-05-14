@@ -11,6 +11,7 @@ const vocabList = [
       "She refused to abase herself by begging for forgiveness.",
       "The company's unethical practices abased its reputation in the industry.",
     ],
+    frequency: 1.82,
   },
   {
     word: "abash",
@@ -11646,19 +11647,6 @@ const vocabList = [
     ],
   },
   {
-    word: "curare",
-    definition:
-      "a toxic substance used as an arrow poison by certain South American Indian tribes, causing paralysis of the respiratory and muscular systems.",
-    synonyms: ["poison", "venom", "toxin"],
-    exampleSentences: [
-      "The indigenous people of South America used curare to hunt animals for food.",
-      "Curare is a powerful muscle relaxant used in medicine.",
-      "The effects of curare can be deadly if not administered properly.",
-      "The use of curare as an arrow poison has been documented for centuries.",
-      "Curare is often used in anesthesia to paralyze muscles during surgery.",
-    ],
-  },
-  {
     word: "curative",
     definition: "able to cure disease or illness",
     synonyms: [
@@ -17160,19 +17148,6 @@ const vocabList = [
     ],
   },
   {
-    word: "eocene",
-    definition:
-      "relating to or denoting the second epoch of the Tertiary period, between the Paleocene and Oligocene epochs.",
-    synonyms: ["Eocene epoch"],
-    exampleSentences: [
-      "The Eocene epoch was marked by the appearance of modern mammalian orders.",
-      "During the Eocene period, the Earth's climate was warm and tropical.",
-      "Many plant and animal species that emerged during the Eocene epoch are still around today.",
-      "The Eocene era saw the diversification of primates, including the first true monkeys.",
-      "The Eocene epoch lasted from approximately 56 million to 33.9 million years ago.",
-    ],
-  },
-  {
     word: "ephemeral",
     definition: "lasting for a very short time",
     synonyms: ["transient", "fleeting", "temporary", "evanescent", "fugitive"],
@@ -18198,19 +18173,6 @@ const vocabList = [
       "The painting evokes a sense of calmness and serenity.",
       "The music evokes a feeling of nostalgia for my childhood.",
       "Her words evoked a strong emotional response from the audience.",
-    ],
-  },
-  {
-    word: "ewer",
-    definition:
-      "a large jug with a wide mouth, formerly used for holding water for someone to wash in.",
-    synonyms: ["pitcher", "jug", "flagon", "vessel", "container"],
-    exampleSentences: [
-      "The waiter brought a silver ewer filled with water to the table.",
-      "The antique ewer was worth thousands of dollars.",
-      "She poured the tea from the ewer into the delicate china cups.",
-      "The ewer and basin were made of fine porcelain.",
-      "The medieval knight washed his hands in the ornate stone ewer.",
     ],
   },
   {
@@ -20172,19 +20134,6 @@ const vocabList = [
     ],
   },
   {
-    word: "flagon",
-    definition:
-      "a large container for holding liquids, especially alcohol, with a handle and typically a narrow neck that can be plugged or capped with a cork.",
-    synonyms: ["jug", "pitcher", "ewer", "decanter", "carafe"],
-    exampleSentences: [
-      "The bartender poured the ale from the flagon into my mug.",
-      "The flagon of wine was passed around the table during the feast.",
-      "The knight carried a flagon of water with him on his journey.",
-      "The flagon of mead was too heavy for the server to lift with one hand.",
-      "She filled the flagon with cider and set it on the picnic table.",
-    ],
-  },
-  {
     word: "flail",
     definition: "to wave or swing wildly; to thrash about",
     synonyms: ["thrash", "beat", "swipe", "flap", "flog"],
@@ -20543,18 +20492,6 @@ const vocabList = [
       "She made a foolhardy decision to drive through the blizzard.",
       "The soldiers made a foolhardy charge against the enemy.",
       "It was a foolhardy move to invest all his savings in one company.",
-    ],
-  },
-  {
-    word: "footpad",
-    definition: "a person who robs travelers on foot; a highwayman.",
-    synonyms: ["bandit", "thief", "mugger", "robber", "highwayman"],
-    exampleSentences: [
-      "The town was once infamous for the footpads who preyed on travelers along the main road.",
-      "The footpad was caught red-handed with stolen goods.",
-      "The old man warned his grandson about the dangers of footpads on the road at night.",
-      "The footpad demanded that the traveler hand over all his money and valuables.",
-      "The authorities were determined to catch the gang of footpads who had been terrorizing the area.",
     ],
   },
   {
@@ -35567,19 +35504,6 @@ const vocabList = [
     ],
   },
   {
-    word: "orrery",
-    definition:
-      "a mechanical model of the solar system, or of just the sun, earth, and moon, used to show the relative positions and motions of the planets and their satellites.",
-    synonyms: ["planetarium", "solar system model", "astrolabe"],
-    exampleSentences: [
-      "The orrery in the science museum was incredibly detailed.",
-      "The orrery was used in ancient times to predict eclipses.",
-      "The orrery was a popular educational tool in the 18th century.",
-      "The orrery accurately displayed the positions of all the planets in our solar system.",
-      "The orrery was used by astronomers to study the movements of the planets.",
-    ],
-  },
-  {
     word: "orthodox",
     definition:
       "adhering to traditional or established beliefs, customs, or practices, especially in religion",
@@ -38038,19 +37962,6 @@ const vocabList = [
     ],
   },
   {
-    word: "phacelia",
-    definition:
-      "a genus of plants in the borage family, native to North and Central America, having clusters of blue, purple, or white flowers",
-    synonyms: ["scorpionweed", "wild heliotrope"],
-    exampleSentences: [
-      "The phacelia in the meadow was a beautiful shade of blue.",
-      "The bees were buzzing around the phacelia, collecting pollen.",
-      "I planted some phacelia in my garden to attract pollinators.",
-      "The phacelia bloomed late in the season, providing food for bees and butterflies.",
-      "The phacelia and other wildflowers created a stunning display along the roadside.",
-    ],
-  },
-  {
     word: "phantom",
     definition:
       "a ghost or apparition of a dead person or animal; something that is elusive or illusory",
@@ -38168,18 +38079,6 @@ const vocabList = [
       "Eastern philosophy emphasizes the importance of meditation and mindfulness.",
       "His political philosophy is based on the idea of individual freedom.",
       "My personal philosophy is to treat others with kindness and respect.",
-    ],
-  },
-  {
-    word: "phiz",
-    definition: "a person's face or expression",
-    synonyms: ["countenance", "visage", "mug", "kisser", "pan"],
-    exampleSentences: [
-      "He couldn't help but grin when he saw her phiz.",
-      "The actor's phiz was plastered all over the billboards.",
-      "His phiz turned red with anger.",
-      "She made a funny face with her phiz.",
-      "I can't quite place that phiz – have we met before?",
     ],
   },
   {
@@ -38384,19 +38283,6 @@ const vocabList = [
       "The rioters began to pillage stores and buildings.",
       "The invading army pillaged the city, taking everything of value.",
       "The band of thieves pillaged the wealthy merchant's home.",
-    ],
-  },
-  {
-    word: "pillion",
-    definition:
-      "a cushion or seat for a passenger behind a motorcyclist or bicyclist",
-    synonyms: ["seat", "saddle", "backseat", "pillion seat"],
-    exampleSentences: [
-      "She rode on the pillion of his motorcycle.",
-      "The pillion was comfortable enough for the short ride.",
-      "The bike had a spacious pillion seat.",
-      "The tour guide took the pillion on the back of his bicycle.",
-      "She held on tightly to the pillion handlebars.",
     ],
   },
   {

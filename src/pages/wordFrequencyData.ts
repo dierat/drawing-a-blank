@@ -1070,10 +1070,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "ewer",
-    frequency: 0,
-  },
-  {
     word: "excoriate",
     frequency: 0,
   },
@@ -1155,10 +1151,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "flyspeck",
-    frequency: 0,
-  },
-  {
-    word: "footpad",
     frequency: 0,
   },
   {
@@ -2234,10 +2226,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.82,
   },
   {
-    word: "flagon",
-    frequency: 1.82,
-  },
-  {
     word: "fluidity",
     frequency: 1.82,
   },
@@ -2543,10 +2531,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "corpulent",
-    frequency: 1.97,
-  },
-  {
-    word: "curare",
     frequency: 1.97,
   },
   {
@@ -3035,10 +3019,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "enjoin",
-    frequency: 2.12,
-  },
-  {
-    word: "eocene",
     frequency: 2.12,
   },
   {
