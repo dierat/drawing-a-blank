@@ -12693,19 +12693,6 @@ const vocabList = [
     ],
   },
   {
-    word: "deliquescent",
-    definition:
-      "tending to dissolve or become liquid by absorbing moisture from the air",
-    synonyms: ["hygroscopic", "dissolving", "liquefying", "melting"],
-    exampleSentences: [
-      "The deliquescent nature of the salt caused it to turn into a liquid in the humid air.",
-      "The deliquescent crystals were so moist that they stuck together.",
-      "The chemical reaction caused the substance to become deliquescent.",
-      "The deliquescent substance absorbed all the moisture from the air.",
-      "The deliquescent nature of the material made it difficult to store.",
-    ],
-  },
-  {
     word: "dell",
     definition: "a small, secluded valley",
     synonyms: ["glade", "grove", "copse", "thicket", "hollow"],
@@ -49909,31 +49896,6 @@ const vocabList = [
     ],
   },
   {
-    word: "surreptitious",
-    definition: "kept secret, especially because it would not be approved of",
-    synonyms: ["secret", "covert", "clandestine", "furtive", "sneaky"],
-    exampleSentences: [
-      "He took a surreptitious glance at his watch.",
-      "The couple made a surreptitious exit from the party.",
-      "The spy had to be surreptitious in order to avoid detection.",
-      "She made a surreptitious attempt to steal the cookie.",
-      "He felt guilty about his surreptitious behavior.",
-    ],
-  },
-  {
-    word: "surreptitious",
-    definition:
-      "done, made, or acquired by stealth; clandestine; acting with or characterized by stealth or secrecy",
-    synonyms: ["covert", "clandestine", "furtive", "stealthy", "secret"],
-    exampleSentences: [
-      "He made a surreptitious glance at his watch during the meeting.",
-      "The couple had a surreptitious meeting in the park.",
-      "The spy made a surreptitious entry into the building.",
-      "She made a surreptitious attempt to steal the necklace.",
-      "The politician had a surreptitious conversation with his rival.",
-    ],
-  },
-  {
     word: "susceptible",
     definition:
       "likely or liable to be influenced or harmed by a particular thing",
@@ -56290,19 +56252,6 @@ const vocabList = [
     ],
   },
   {
-    word: "déjà vu",
-    definition:
-      "the feeling of having already experienced the present situation",
-    synonyms: ["repetition", "recurrence", "rerun", "reappearance", "echo"],
-    exampleSentences: [
-      "I had a déjà vu when I entered the room.",
-      "He felt a strange sense of déjà vu when he met her.",
-      "She experienced déjà vu when she visited the place for the first time.",
-      "The situation gave me a strong sense of déjà vu.",
-      "The feeling of déjà vu was overwhelming.",
-    ],
-  },
-  {
     word: "scintillate",
     definition:
       "to emit flashes of light; to sparkle or shine, especially with intelligence or wit",
@@ -56698,24 +56647,6 @@ const vocabList = [
       "The lack of new ideas led to a stagnation in the creative process.",
       "The company entered a period of stagnation.",
       "The political climate contributed to a stagnation in progress.",
-    ],
-  },
-  {
-    word: "wanderlust",
-    definition: "a strong desire to travel and explore the world",
-    synonyms: [
-      "itchy feet",
-      "fernweh",
-      "travel bug",
-      "roaming spirit",
-      "adventurousness",
-    ],
-    exampleSentences: [
-      "She couldn't resist the wanderlust and booked a flight to Thailand.",
-      "His wanderlust had taken him to every continent except Antarctica.",
-      "The couple's wanderlust led them to quit their jobs and travel the world.",
-      "As a child, she always felt a strong wanderlust and dreamed of visiting far-off lands.",
-      "The novel's protagonist had a deep wanderlust and spent his life exploring the globe.",
     ],
   },
   {
