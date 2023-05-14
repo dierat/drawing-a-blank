@@ -75,17 +75,7 @@ const wordFrequencyData: Array<WordData> = [
     notes: "pretty cool",
   },
   {
-    word: "coddiwomple",
-    frequency: -1,
-    notes: "kinda fun",
-  },
-  {
     word: "balter",
-    frequency: -1,
-    notes: "may be useful",
-  },
-  {
-    word: "bimble",
     frequency: -1,
     notes: "may be useful",
   },
@@ -129,14 +119,12 @@ const wordFrequencyData: Array<WordData> = [
     notes: "may be useful",
   },
   {
-    word: "clairovoyant",
-    frequency: -1,
-    notes: "keep",
+    word: "clairvoyant",
+    frequency: 2.87,
   },
   {
     word: "compedium",
-    frequency: -1,
-    notes: "missing definition; reconsider at a later date",
+    frequency: 2.17,
   },
   {
     word: "cunning-handed",
@@ -535,10 +523,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "byrnie",
-    frequency: 0,
-  },
-  {
-    word: "cachinnate",
     frequency: 0,
   },
   {
@@ -1094,10 +1078,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "exculpate",
-    frequency: 0,
-  },
-  {
     word: "execrate",
     frequency: 0,
   },
@@ -1170,10 +1150,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "flittermouse",
-    frequency: 0,
-  },
-  {
     word: "flummery",
     frequency: 0,
   },
@@ -1182,19 +1158,11 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "footle",
-    frequency: 0,
-  },
-  {
     word: "footpad",
     frequency: 0,
   },
   {
     word: "forebode",
-    frequency: 0,
-  },
-  {
-    word: "forespeak",
     frequency: 0,
   },
   {
@@ -1251,10 +1219,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "fuzee",
-    frequency: 0,
-  },
-  {
-    word: "galbulus",
     frequency: 0,
   },
   {
@@ -1706,10 +1670,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.6,
   },
   {
-    word: "exigency",
-    frequency: 1.6,
-  },
-  {
     word: "expiate",
     frequency: 1.6,
   },
@@ -1751,10 +1711,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "gadzooks",
-    frequency: 1.6,
-  },
-  {
-    word: "gestate",
     frequency: 1.6,
   },
   {
@@ -1959,10 +1915,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "dilatory",
-    frequency: 1.73,
-  },
-  {
-    word: "dipsomaniac",
     frequency: 1.73,
   },
   {
@@ -2799,10 +2751,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "foist",
-    frequency: 2.03,
-  },
-  {
-    word: "functionary",
     frequency: 2.03,
   },
   {
@@ -4843,10 +4791,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "depose",
-    frequency: 2.63,
-  },
-  {
-    word: "dint",
     frequency: 2.63,
   },
   {
@@ -7342,10 +7286,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.65,
   },
   {
-    word: "devices",
-    frequency: 3.65,
-  },
-  {
     word: "hustle",
     frequency: 3.65,
   },
@@ -7770,10 +7710,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.49,
   },
   {
-    word: "fancy",
-    frequency: 4.5,
-  },
-  {
     word: "delicious",
     frequency: 4.52,
   },
@@ -7820,10 +7756,6 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "field",
     frequency: 4.81,
-  },
-  {
-    word: "difference",
-    frequency: 4.83,
   },
   {
     word: "court",
