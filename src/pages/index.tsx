@@ -2,7 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
-import { useState, useRef } from "react";
+import { useState, useEffect } from "react";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -24,16 +24,18 @@ export default function Home() {
 
   /**
    * The possible states for the game are:
-   * - starting up
+   * - loading
    * - running
+   *   - waiting for user to submit answer or give up
    * - over
    *   - user submitted the target word
    *   - user submitted a synonym
    *   - user submitted an incorrect word
    *   - user gave up
    */
-
+  const [gameIsLoading, setGameIsLoading] = useState(true);
   const [gameIsRunning, setGameIsRunning] = useState(true);
+
   const [userSubmittedTargetWord, setUserSubmittedTargetWord] = useState(false);
   const [userSubmittedSynonym, setUserSubmittedSynonym] = useState(false);
   const [userSubmittedIncorrectWord, setUserSubmittedIncorrectWord] =
@@ -41,23 +43,30 @@ export default function Home() {
   const [userGaveUp, setUserGaveUp] = useState(false);
 
   const [currentWordIndex, setCurrentWordIndex] = useState(0);
+  const [currentSentenceIndex, setCurrentSentenceIndex] = useState(0);
+  
   const [userSubmission, setUserSubmission] = useState("");
 
-  // The commented out lines represent how the final logic will work.
-  // const vocabListLength = vocabList.length;
-  // TODO: this variable needs to be able to survive rerenders.
-  // const randomWordIndex = Math.floor(Math.random() * vocabListLength);
+  const startNewGame = () => {
+    const randomWordIndex = Math.floor(Math.random() * vocabData.length);
+    const randomSentenceIndex = Math.floor(
+      Math.random() * vocabData[randomWordIndex].exampleSentences.length
+    );
 
-  // const randomWordData = vocabList[currentWordIndex];
-  const randomWordData = vocabData[currentWordIndex];
-  // TODO: this is rerunning when clicking any of the submission buttons; it needs to be made safe from
-  // rerenders using useRef or something like that
-  const randomSentenceIndex = Math.floor(
-    Math.random() * randomWordData.exampleSentences.length
-  );
-  const exampleSentence = randomWordData.exampleSentences[
-    randomSentenceIndex
-  ].replace(randomWordData.word, "_____");
+    setCurrentWordIndex(randomWordIndex);
+    setCurrentSentenceIndex(randomSentenceIndex);
+
+    setGameIsLoading(false);
+  };
+
+  useEffect(() => {
+    startNewGame();
+  }, []);
+
+  const currentWordData = vocabData[currentWordIndex];
+  const exampleSentence = currentWordData.exampleSentences[
+    currentSentenceIndex
+  ].replace(currentWordData.word, "_____");
 
   const handleInputKeyUp = (event: React.KeyboardEvent<HTMLInputElement>) => {
     if (event.code === "Enter") {
@@ -68,10 +77,10 @@ export default function Home() {
   const checkSubmission = () => {
     const cleanedSubmission = userSubmission.toLocaleLowerCase().trim();
 
-    if (cleanedSubmission === randomWordData.word) {
+    if (cleanedSubmission === currentWordData.word) {
       setUserSubmittedTargetWord(true);
     } else if (
-      randomWordData.synonyms.some((synonym) => synonym === cleanedSubmission)
+      currentWordData.synonyms.some((synonym) => synonym === cleanedSubmission)
     ) {
       setUserSubmittedSynonym(true);
     } else {
@@ -88,16 +97,19 @@ export default function Home() {
 
   const loadNextGame = () => {
     setGameIsRunning(true);
+
     setUserSubmittedTargetWord(false);
     setUserSubmittedSynonym(false);
     setUserSubmittedIncorrectWord(false);
     setUserGaveUp(false);
-    // TODO: also update current word index, when we have more words
+
     setUserSubmission("");
+
+    startNewGame();
   };
 
   const Synonyms = () => {
-    const synonyms = randomWordData.synonyms;
+    const synonyms = currentWordData.synonyms;
     const filteredSynonyms = userSubmittedSynonym
       ? synonyms.filter((word) => word !== userSubmission)
       : synonyms;
@@ -131,14 +143,14 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
-        <div>
+        {!gameIsLoading && <div>
           <div className={styles.question}>
             <h1 className={styles.exampleSentence}>{exampleSentence}</h1>
             <div className={styles.explanation}>
               What word with the following definition would you use to complete
               the above sentence?
             </div>
-            <div className={styles.definition}>{randomWordData.definition}</div>
+            <div className={styles.definition}>{currentWordData.definition}</div>
           </div>
 
           <div className={styles.inputWrapper}>
@@ -177,20 +189,20 @@ export default function Home() {
                 {userSubmittedSynonym && (
                   <div>
                     Nice one! We were thinking of{" "}
-                    <strong>"{randomWordData.word}"</strong>, but{" "}
+                    <strong>"{currentWordData.word}"</strong>, but{" "}
                     <strong>"{userSubmission}"</strong> is a good one too.
                   </div>
                 )}
                 {userSubmittedIncorrectWord && (
                   <div>
                     Oops, not quite! We were thinking of{" "}
-                    <strong>"{randomWordData.word}".</strong> Good try though!
+                    <strong>"{currentWordData.word}".</strong> Good try though!
                   </div>
                 )}
                 {userGaveUp && (
                   <div>
                     The word we were thinking of was{" "}
-                    <strong>"{randomWordData.word}".</strong>
+                    <strong>"{currentWordData.word}".</strong>
                   </div>
                 )}
               </div>
@@ -202,7 +214,7 @@ export default function Home() {
               </div>
             </div>
           )}
-        </div>
+        </div>}
       </main>
     </>
   );
