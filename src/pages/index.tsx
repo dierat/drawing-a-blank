@@ -2,13 +2,17 @@ import Head from "next/head";
 import Image from "next/image";
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
-import { useState } from "react";
+import { useState, useRef } from "react";
 
 const inter = Inter({ subsets: ["latin"] });
 
 import exampleWordData from "./exampleWordData.json";
+import vocabData from "./vocabData";
+import runAllChecks from "./scripts";
 
 export default function Home() {
+  runAllChecks();
+
   /**
    * The possible states for the game are:
    * - running
@@ -32,14 +36,18 @@ export default function Home() {
   // The commented out lines represent how the final logic will work.
   // const vocabListLength = vocabList.length;
   // TODO: this variable needs to be able to survive rerenders.
-  // const randomIndex = Math.floor(Math.random() * vocabListLength);
+  // const randomWordIndex = Math.floor(Math.random() * vocabListLength);
 
   // const randomWordData = vocabList[currentWordIndex];
-  const randomWordData = exampleWordData[currentWordIndex];
-  const exampleSentence = randomWordData.example.replace(
-    randomWordData.word,
-    "_____"
+  const randomWordData = vocabData[currentWordIndex];
+  // TODO: this is rerunning when clicking any of the submission buttons; it needs to be made safe from
+  // rerenders using useRef or something like that
+  const randomSentenceIndex = Math.floor(
+    Math.random() * randomWordData.exampleSentences.length
   );
+  const exampleSentence = randomWordData.exampleSentences[
+    randomSentenceIndex
+  ].replace(randomWordData.word, "_____");
 
   const handleInputKeyUp = (event: React.KeyboardEvent<HTMLInputElement>) => {
     if (event.code === "Enter") {
