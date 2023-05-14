@@ -6,7 +6,6 @@ import { useState, useEffect } from "react";
 
 const inter = Inter({ subsets: ["latin"] });
 
-import exampleWordData from "./exampleWordData.json";
 import vocabData from "./vocabData";
 import runAllChecks from "./scripts";
 
