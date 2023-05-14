@@ -48,10 +48,12 @@ const runAllChecks = () => {
       definitionsMissing.push(word);
     }
   });
-  console.log(
-    "We're missing definitions for the following words: ",
-    JSON.stringify(definitionsMissing, null, 2)
-  );
+  if (definitionsMissing.length) {
+    console.log(
+      "We're missing definitions for the following words: ",
+      JSON.stringify(definitionsMissing, null, 2)
+    );
+  }
 
   // Sort the list; useful if you've just added a new segment from another fetch.
   // const sorted = wordFrequencyData.sort((wordDataA, wordDataB) => {
