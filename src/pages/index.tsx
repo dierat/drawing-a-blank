@@ -10,11 +10,21 @@ import exampleWordData from "./exampleWordData.json";
 import vocabData from "./vocabData";
 import runAllChecks from "./scripts";
 
+interface WordData {
+  word: string
+  definition: string
+  exampleSentences: Array<string>
+  synonyms: Array<string>
+  frequency?: number
+  notes?: string
+}
+
 export default function Home() {
   runAllChecks();
 
   /**
    * The possible states for the game are:
+   * - starting up
    * - running
    * - over
    *   - user submitted the target word
