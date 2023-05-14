@@ -2,7 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -46,16 +46,34 @@ export default function Home() {
   
   const [userSubmission, setUserSubmission] = useState("");
 
+  const inputRef = useRef<HTMLInputElement>(null);
+
   const startNewGame = () => {
+    // Pick next word + sentence
     const randomWordIndex = Math.floor(Math.random() * vocabData.length);
     const randomSentenceIndex = Math.floor(
       Math.random() * vocabData[randomWordIndex].exampleSentences.length
     );
 
+    // Clear previous game state (if this is not the first round)
+    setUserSubmittedTargetWord(false);
+    setUserSubmittedSynonym(false);
+    setUserSubmittedIncorrectWord(false);
+    setUserGaveUp(false);
+    setUserSubmission("");
+    setGameIsRunning(true);
+
+    // Load next word
     setCurrentWordIndex(randomWordIndex);
     setCurrentSentenceIndex(randomSentenceIndex);
 
+    // Reveal the game UI (if this is the first round)
     setGameIsLoading(false);
+
+    // Auto-focus on the input field
+    if (inputRef.current) {
+      inputRef.current.focus();
+    }
   };
 
   useEffect(() => {
@@ -68,7 +86,7 @@ export default function Home() {
   ].replace(currentWordData.word, "_____");
 
   const handleInputKeyUp = (event: React.KeyboardEvent<HTMLInputElement>) => {
-    if (event.code === "Enter") {
+    if (event.code === "Enter" && !!userSubmission) {
       checkSubmission();
     }
   };
@@ -92,19 +110,6 @@ export default function Home() {
   const giveUp = () => {
     setUserGaveUp(true);
     setGameIsRunning(false);
-  };
-
-  const loadNextGame = () => {
-    setGameIsRunning(true);
-
-    setUserSubmittedTargetWord(false);
-    setUserSubmittedSynonym(false);
-    setUserSubmittedIncorrectWord(false);
-    setUserGaveUp(false);
-
-    setUserSubmission("");
-
-    startNewGame();
   };
 
   const Synonyms = () => {
@@ -158,6 +163,7 @@ export default function Home() {
               value={userSubmission}
               onChange={(event) => setUserSubmission(event.target.value)}
               onKeyUp={handleInputKeyUp}
+              ref={inputRef}
             />
           </div>
 
@@ -171,7 +177,7 @@ export default function Home() {
             <button onClick={giveUp} disabled={!gameIsRunning}>
               I have no idea
             </button>
-            <button onClick={loadNextGame} disabled={!gameIsRunning}>
+            <button onClick={startNewGame} disabled={!gameIsRunning}>
               Skip
             </button>
           </div>
@@ -209,7 +215,7 @@ export default function Home() {
               <Synonyms />
 
               <div className={styles.loadNextGame}>
-                <button onClick={loadNextGame}>Gimme another one!</button>
+                <button onClick={startNewGame}>Gimme another one!</button>
               </div>
             </div>
           )}
