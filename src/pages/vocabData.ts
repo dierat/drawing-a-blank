@@ -33470,19 +33470,6 @@ const vocabList = [
     ],
   },
   {
-    word: "murmuration",
-    definition:
-      "a flock of starlings flying together in a group, creating intricate patterns in the sky",
-    synonyms: ["swarm", "flight", "flock", "cloud"],
-    exampleSentences: [
-      "I watched a beautiful murmuration of starlings while on a walk.",
-      "The murmuration of birds was so large it looked like a dark cloud in the sky.",
-      "The sight of the murmuration was breathtaking.",
-      "The murmuration of starlings performed an aerial dance in the sky.",
-      "As we stood on the beach, we were mesmerized by the murmuration of birds above us.",
-    ],
-  },
-  {
     word: "murmurous",
     definition: "characterized by a low, indistinct sound; murmuring",
     synonyms: ["murmuring", "muttering", "whispering", "mumbling", "rustling"],
@@ -48610,19 +48597,6 @@ const vocabList = [
       "The room was decorated in stark white.",
       "The contrast between the dark sky and the stark white snow was striking.",
       "The stark truth was that they were running out of time.",
-    ],
-  },
-  {
-    word: "starling",
-    definition:
-      "a small to medium-sized passerine bird with a short, stout bill, often with a metallic sheen in the plumage",
-    synonyms: ["murmuration", "flock", "flight"],
-    exampleSentences: [
-      "I saw a flock of starlings flying overhead.",
-      "The starling's feathers shimmered in the sunlight.",
-      "A murmuration of starlings settled in the tree.",
-      "The starling's call was a high-pitched whistle.",
-      "I watched a flight of starlings darting around the sky.",
     ],
   },
   {
