@@ -9,15 +9,6 @@ const inter = Inter({ subsets: ["latin"] });
 import vocabData from "./vocabData";
 import runAllChecks from "./scripts";
 
-interface WordData {
-  word: string
-  definition: string
-  exampleSentences: Array<string>
-  synonyms: Array<string>
-  frequency?: number
-  notes?: string
-}
-
 export default function Home() {
   runAllChecks();
 
