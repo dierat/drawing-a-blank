@@ -6,8 +6,8 @@ import { useState, useEffect, useRef } from "react";
 
 const inter = Inter({ subsets: ["latin"] });
 
-import vocabData from "./vocabData";
-import runAllChecks from "./scripts";
+import vocabData from "../utils/vocabData";
+import runAllChecks from "../utils/scripts";
 
 export default function Home() {
   runAllChecks();
