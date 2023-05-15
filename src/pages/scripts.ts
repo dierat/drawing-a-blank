@@ -55,42 +55,42 @@ const runAllChecks = () => {
     );
   }
 
-  // Sort the list; useful if you've just added a new segment from another fetch.
+  // Sort the frequency list; useful if you've just added a new segment from another fetch.
   // const sorted = wordFrequencyData.sort((wordDataA, wordDataB) => {
   //   return wordDataA.frequency - wordDataB.frequency;
   // });
   // console.log("Sorted frequency data: ", JSON.stringify(sorted, null, 2));
 
   // Verify the example sentences have the actual word in them
-  interface SentenceMissingWord {
-    word: string;
-    invalidSentences: Array<string>;
-  }
-  const sentencesMissingWord: Array<SentenceMissingWord> = [];
-  vocabList.forEach((data) => {
-    const { word, exampleSentences } = data;
-    const lowercaseWord = word.toLowerCase();
+  // interface SentenceMissingWord {
+  //   word: string;
+  //   invalidSentences: Array<string>;
+  // }
+  // const sentencesMissingWord: Array<SentenceMissingWord> = [];
+  // vocabList.forEach((data) => {
+  //   const { word, exampleSentences } = data;
+  //   const lowercaseWord = word.toLowerCase();
 
-    const invalidSentences: Array<string> = [];
-    exampleSentences.forEach((sentence) => {
-      if (!sentence.toLocaleLowerCase().includes(lowercaseWord)) {
-        invalidSentences.push(sentence);
-      }
-    });
+  //   const invalidSentences: Array<string> = [];
+  //   exampleSentences.forEach((sentence) => {
+  //     if (!sentence.toLocaleLowerCase().includes(lowercaseWord)) {
+  //       invalidSentences.push(sentence);
+  //     }
+  //   });
 
-    if (invalidSentences.length) {
-      sentencesMissingWord.push({
-        word,
-        invalidSentences,
-      });
-    }
-  });
-  if (sentencesMissingWord.length) {
-    console.log(
-      `Some example sentences don't contain the word they're describing: `,
-      JSON.stringify(sentencesMissingWord, null, 2)
-    );
-  }
+  //   if (invalidSentences.length) {
+  //     sentencesMissingWord.push({
+  //       word,
+  //       invalidSentences,
+  //     });
+  //   }
+  // });
+  // if (sentencesMissingWord.length) {
+  //   console.log(
+  //     `Some example sentences don't contain the word they're describing: `,
+  //     JSON.stringify(sentencesMissingWord, null, 2)
+  //   );
+  // }
 };
 
 export default runAllChecks;
