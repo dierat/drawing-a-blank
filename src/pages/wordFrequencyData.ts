@@ -110,21 +110,9 @@ const wordFrequencyData: Array<WordData> = [
     notes: "may be useful",
   },
   {
-    word: "cornucopia",
-    frequency: 2.2,
-  },
-  {
     word: "breviloquent",
     frequency: -1,
     notes: "may be useful",
-  },
-  {
-    word: "clairvoyant",
-    frequency: 2.87,
-  },
-  {
-    word: "compedium",
-    frequency: 2.17,
   },
   {
     word: "cunning-handed",
@@ -235,6 +223,110 @@ const wordFrequencyData: Array<WordData> = [
     word: "evocate",
     frequency: -1,
     notes: "useful",
+  },
+  {
+    word: "cools",
+    frequency: -1,
+  },
+  {
+    word: "indeptitude",
+    frequency: -1,
+  },
+  {
+    word: "infantalize",
+    frequency: -1,
+  },
+  {
+    word: "ingénue",
+    frequency: -1,
+  },
+  {
+    word: "infructuous",
+    frequency: -1,
+  },
+  {
+    word: "kvell",
+    frequency: -1,
+  },
+  {
+    word: "infodemic",
+    frequency: -1,
+  },
+  {
+    word: "legendarium",
+    frequency: -1,
+  },
+  {
+    word: "kuidaore",
+    frequency: -1,
+  },
+  {
+    word: "marchwarden",
+    frequency: -1,
+  },
+  {
+    word: "lauded",
+    frequency: -1,
+  },
+  {
+    word: "metanoia",
+    frequency: -1,
+  },
+  {
+    word: "jentacular",
+    frequency: -1,
+  },
+  {
+    word: "kalon",
+    frequency: -1,
+  },
+  {
+    word: "misandrist",
+    frequency: -1,
+  },
+  {
+    word: "minished",
+    frequency: -1,
+  },
+  {
+    word: "limerence",
+    frequency: -1,
+  },
+  {
+    word: "lustihead",
+    frequency: -1,
+  },
+  {
+    word: "mudita",
+    frequency: -1,
+  },
+  {
+    word: "kakorrhaphiophobia",
+    frequency: -1,
+  },
+  {
+    word: "liever",
+    frequency: -1,
+  },
+  {
+    word: "lalochezia",
+    frequency: -1,
+  },
+  {
+    word: "meldrop",
+    frequency: -1,
+  },
+  {
+    word: "meraki",
+    frequency: -1,
+  },
+  {
+    word: "lagom",
+    frequency: -1,
+  },
+  {
+    word: "mondegreen",
+    frequency: -1,
   },
   {
     word: "abash",
@@ -1430,6 +1522,350 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
+    word: "indite",
+    frequency: 0,
+  },
+  {
+    word: "inglenook",
+    frequency: 0,
+  },
+  {
+    word: "insectivorous",
+    frequency: 0,
+  },
+  {
+    word: "insensate",
+    frequency: 0,
+  },
+  {
+    word: "insouciance",
+    frequency: 0,
+  },
+  {
+    word: "insouciant",
+    frequency: 0,
+  },
+  {
+    word: "inspissate",
+    frequency: 0,
+  },
+  {
+    word: "interpolate",
+    frequency: 0,
+  },
+  {
+    word: "interrobang",
+    frequency: 0,
+  },
+  {
+    word: "inure",
+    frequency: 0,
+  },
+  {
+    word: "invective",
+    frequency: 0,
+  },
+  {
+    word: "inveigh",
+    frequency: 0,
+  },
+  {
+    word: "inveigle",
+    frequency: 0,
+  },
+  {
+    word: "involucre",
+    frequency: 0,
+  },
+  {
+    word: "izzard",
+    frequency: 0,
+  },
+  {
+    word: "jacinth",
+    frequency: 0,
+  },
+  {
+    word: "jejune",
+    frequency: 0,
+  },
+  {
+    word: "jeremiad",
+    frequency: 0,
+  },
+  {
+    word: "jink",
+    frequency: 0,
+  },
+  {
+    word: "jiqui",
+    frequency: 0,
+  },
+  {
+    word: "jitney",
+    frequency: 0,
+  },
+  {
+    word: "jocular",
+    frequency: 0,
+  },
+  {
+    word: "jugale",
+    frequency: 0,
+  },
+  {
+    word: "juvenescent",
+    frequency: 0,
+  },
+  {
+    word: "kanaf",
+    frequency: 0,
+  },
+  {
+    word: "kanamycin",
+    frequency: 0,
+  },
+  {
+    word: "karyokinesis",
+    frequency: 0,
+  },
+  {
+    word: "kedgeree",
+    frequency: 0,
+  },
+  {
+    word: "khamsin",
+    frequency: 0,
+  },
+  {
+    word: "kindliness",
+    frequency: 0,
+  },
+  {
+    word: "kinesthetic",
+    frequency: 0,
+  },
+  {
+    word: "klebsiella",
+    frequency: 0,
+  },
+  {
+    word: "kludge",
+    frequency: 0,
+  },
+  {
+    word: "klystron",
+    frequency: 0,
+  },
+  {
+    word: "knawel",
+    frequency: 0,
+  },
+  {
+    word: "kohlrabi",
+    frequency: 0,
+  },
+  {
+    word: "kuvasz",
+    frequency: 0,
+  },
+  {
+    word: "kvetch",
+    frequency: 0,
+  },
+  {
+    word: "kyphosis",
+    frequency: 0,
+  },
+  {
+    word: "labile",
+    frequency: 0,
+  },
+  {
+    word: "lagniappe",
+    frequency: 0,
+  },
+  {
+    word: "lambast",
+    frequency: 0,
+  },
+  {
+    word: "lambent",
+    frequency: 0,
+  },
+  {
+    word: "lampad",
+    frequency: 0,
+  },
+  {
+    word: "lamprophony",
+    frequency: 0,
+  },
+  {
+    word: "lassitude",
+    frequency: 0,
+  },
+  {
+    word: "lebensraum",
+    frequency: 0,
+  },
+  {
+    word: "leechcraft",
+    frequency: 0,
+  },
+  {
+    word: "legerdemain",
+    frequency: 0,
+  },
+  {
+    word: "lempira",
+    frequency: 0,
+  },
+  {
+    word: "lenity",
+    frequency: 0,
+  },
+  {
+    word: "limn",
+    frequency: 0,
+  },
+  {
+    word: "lineament",
+    frequency: 0,
+  },
+  {
+    word: "lissom",
+    frequency: 0,
+  },
+  {
+    word: "lith",
+    frequency: 0,
+  },
+  {
+    word: "lollapalooza",
+    frequency: 0,
+  },
+  {
+    word: "longueur",
+    frequency: 0,
+  },
+  {
+    word: "loth",
+    frequency: 0,
+  },
+  {
+    word: "louver",
+    frequency: 0,
+  },
+  {
+    word: "lugubrious",
+    frequency: 0,
+  },
+  {
+    word: "lygaeid",
+    frequency: 0,
+  },
+  {
+    word: "lyssavirus",
+    frequency: 0,
+  },
+  {
+    word: "macaronic",
+    frequency: 0,
+  },
+  {
+    word: "macerate",
+    frequency: 0,
+  },
+  {
+    word: "machinate",
+    frequency: 0,
+  },
+  {
+    word: "magniloquent",
+    frequency: 0,
+  },
+  {
+    word: "maladroit",
+    frequency: 0,
+  },
+  {
+    word: "malapropism",
+    frequency: 0,
+  },
+  {
+    word: "malodorous",
+    frequency: 0,
+  },
+  {
+    word: "maltreat",
+    frequency: 0,
+  },
+  {
+    word: "maraud",
+    frequency: 0,
+  },
+  {
+    word: "masticate",
+    frequency: 0,
+  },
+  {
+    word: "mattock",
+    frequency: 0,
+  },
+  {
+    word: "mayhap",
+    frequency: 0,
+  },
+  {
+    word: "meed",
+    frequency: 0,
+  },
+  {
+    word: "meliorism",
+    frequency: 0,
+  },
+  {
+    word: "meretricious",
+    frequency: 0,
+  },
+  {
+    word: "metonymy",
+    frequency: 0,
+  },
+  {
+    word: "microgliacyte",
+    frequency: 0,
+  },
+  {
+    word: "misbegotten",
+    frequency: 0,
+  },
+  {
+    word: "mizzle",
+    frequency: 0,
+  },
+  {
+    word: "moonbow",
+    frequency: 0,
+  },
+  {
+    word: "mordant",
+    frequency: 0,
+  },
+  {
+    word: "moue",
+    frequency: 0,
+  },
+  {
+    word: "muishond",
+    frequency: 0,
+  },
+  {
+    word: "multifarious",
+    frequency: 0,
+  },
+  {
     word: "abjure",
     frequency: 1.6,
   },
@@ -1747,6 +2183,74 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "importune",
+    frequency: 1.6,
+  },
+  {
+    word: "indubitable",
+    frequency: 1.6,
+  },
+  {
+    word: "inextricable",
+    frequency: 1.6,
+  },
+  {
+    word: "ingratiating",
+    frequency: 1.6,
+  },
+  {
+    word: "inimical",
+    frequency: 1.6,
+  },
+  {
+    word: "introspect",
+    frequency: 1.6,
+  },
+  {
+    word: "invidious",
+    frequency: 1.6,
+  },
+  {
+    word: "juxtapose",
+    frequency: 1.6,
+  },
+  {
+    word: "khat",
+    frequency: 1.6,
+  },
+  {
+    word: "largesse",
+    frequency: 1.6,
+  },
+  {
+    word: "lissome",
+    frequency: 1.6,
+  },
+  {
+    word: "louche",
+    frequency: 1.6,
+  },
+  {
+    word: "malinger",
+    frequency: 1.6,
+  },
+  {
+    word: "mendicant",
+    frequency: 1.6,
+  },
+  {
+    word: "mischance",
+    frequency: 1.6,
+  },
+  {
+    word: "missive",
+    frequency: 1.6,
+  },
+  {
+    word: "motile",
+    frequency: 1.6,
+  },
+  {
+    word: "mountebank",
     frequency: 1.6,
   },
   {
@@ -2082,6 +2586,78 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.73,
   },
   {
+    word: "indissoluble",
+    frequency: 1.73,
+  },
+  {
+    word: "indoctrinate",
+    frequency: 1.73,
+  },
+  {
+    word: "ingress",
+    frequency: 1.73,
+  },
+  {
+    word: "insurgence",
+    frequency: 1.73,
+  },
+  {
+    word: "interdict",
+    frequency: 1.73,
+  },
+  {
+    word: "irresolute",
+    frequency: 1.73,
+  },
+  {
+    word: "jilt",
+    frequency: 1.73,
+  },
+  {
+    word: "keloid",
+    frequency: 1.73,
+  },
+  {
+    word: "labyrinthine",
+    frequency: 1.73,
+  },
+  {
+    word: "limburger",
+    frequency: 1.73,
+  },
+  {
+    word: "lionize",
+    frequency: 1.73,
+  },
+  {
+    word: "llano",
+    frequency: 1.73,
+  },
+  {
+    word: "lollygag",
+    frequency: 1.73,
+  },
+  {
+    word: "malefactor",
+    frequency: 1.73,
+  },
+  {
+    word: "melange",
+    frequency: 1.73,
+  },
+  {
+    word: "mellifluous",
+    frequency: 1.73,
+  },
+  {
+    word: "mindfulness",
+    frequency: 1.73,
+  },
+  {
+    word: "mulligatawny",
+    frequency: 1.73,
+  },
+  {
     word: "abase",
     frequency: 1.82,
   },
@@ -2266,6 +2842,70 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.82,
   },
   {
+    word: "intransigence",
+    frequency: 1.82,
+  },
+  {
+    word: "intransigent",
+    frequency: 1.82,
+  },
+  {
+    word: "inured",
+    frequency: 1.82,
+  },
+  {
+    word: "iridescent",
+    frequency: 1.82,
+  },
+  {
+    word: "jocund",
+    frequency: 1.82,
+  },
+  {
+    word: "lacuna",
+    frequency: 1.82,
+  },
+  {
+    word: "laggard",
+    frequency: 1.82,
+  },
+  {
+    word: "legato",
+    frequency: 1.82,
+  },
+  {
+    word: "lettered",
+    frequency: 1.82,
+  },
+  {
+    word: "lilt",
+    frequency: 1.82,
+  },
+  {
+    word: "luminescence",
+    frequency: 1.82,
+  },
+  {
+    word: "luxuriant",
+    frequency: 1.82,
+  },
+  {
+    word: "mendacious",
+    frequency: 1.82,
+  },
+  {
+    word: "merrymaking",
+    frequency: 1.82,
+  },
+  {
+    word: "mien",
+    frequency: 1.82,
+  },
+  {
+    word: "mollify",
+    frequency: 1.82,
+  },
+  {
     word: "abrade",
     frequency: 1.9,
   },
@@ -2442,6 +3082,62 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.9,
   },
   {
+    word: "indolent",
+    frequency: 1.9,
+  },
+  {
+    word: "interlocutor",
+    frequency: 1.9,
+  },
+  {
+    word: "jabberwocky",
+    frequency: 1.9,
+  },
+  {
+    word: "jaywalk",
+    frequency: 1.9,
+  },
+  {
+    word: "lackadaisical",
+    frequency: 1.9,
+  },
+  {
+    word: "laconic",
+    frequency: 1.9,
+  },
+  {
+    word: "leaguer",
+    frequency: 1.9,
+  },
+  {
+    word: "litigious",
+    frequency: 1.9,
+  },
+  {
+    word: "loquacious",
+    frequency: 1.9,
+  },
+  {
+    word: "luminary",
+    frequency: 1.9,
+  },
+  {
+    word: "maunder",
+    frequency: 1.9,
+  },
+  {
+    word: "mawkish",
+    frequency: 1.9,
+  },
+  {
+    word: "militate",
+    frequency: 1.9,
+  },
+  {
+    word: "moocher",
+    frequency: 1.9,
+  },
+  {
     word: "abet",
     frequency: 1.97,
   },
@@ -2591,6 +3287,66 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "incommunicado",
+    frequency: 1.97,
+  },
+  {
+    word: "intractable",
+    frequency: 1.97,
+  },
+  {
+    word: "inundate",
+    frequency: 1.97,
+  },
+  {
+    word: "irregardless",
+    frequency: 1.97,
+  },
+  {
+    word: "jetsam",
+    frequency: 1.97,
+  },
+  {
+    word: "kerplunk",
+    frequency: 1.97,
+  },
+  {
+    word: "lief",
+    frequency: 1.97,
+  },
+  {
+    word: "luddite",
+    frequency: 1.97,
+  },
+  {
+    word: "machination",
+    frequency: 1.97,
+  },
+  {
+    word: "machination",
+    frequency: 1.97,
+  },
+  {
+    word: "malcontent",
+    frequency: 1.97,
+  },
+  {
+    word: "mardy",
+    frequency: 1.97,
+  },
+  {
+    word: "martinet",
+    frequency: 1.97,
+  },
+  {
+    word: "minutiae",
+    frequency: 1.97,
+  },
+  {
+    word: "moribund",
+    frequency: 1.97,
+  },
+  {
+    word: "mote",
     frequency: 1.97,
   },
   {
@@ -2755,6 +3511,42 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "incisive",
+    frequency: 2.03,
+  },
+  {
+    word: "ineffable",
+    frequency: 2.03,
+  },
+  {
+    word: "ineluctable",
+    frequency: 2.03,
+  },
+  {
+    word: "kerfuffle",
+    frequency: 2.03,
+  },
+  {
+    word: "kissable",
+    frequency: 2.03,
+  },
+  {
+    word: "lancet",
+    frequency: 2.03,
+  },
+  {
+    word: "languor",
+    frequency: 2.03,
+  },
+  {
+    word: "lithe",
+    frequency: 2.03,
+  },
+  {
+    word: "malediction",
+    frequency: 2.03,
+  },
+  {
+    word: "misconstrue",
     frequency: 2.03,
   },
   {
@@ -2938,6 +3730,34 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.08,
   },
   {
+    word: "inflection",
+    frequency: 2.08,
+  },
+  {
+    word: "invigorate",
+    frequency: 2.08,
+  },
+  {
+    word: "ipecac",
+    frequency: 2.08,
+  },
+  {
+    word: "irascible",
+    frequency: 2.08,
+  },
+  {
+    word: "limpid",
+    frequency: 2.08,
+  },
+  {
+    word: "linchpin",
+    frequency: 2.08,
+  },
+  {
+    word: "loath",
+    frequency: 2.08,
+  },
+  {
     word: "abeyance",
     frequency: 2.12,
   },
@@ -3088,6 +3908,42 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "imperious",
     frequency: 2.12,
+  },
+  {
+    word: "indubitably",
+    frequency: 2.12,
+  },
+  {
+    word: "infuse",
+    frequency: 2.12,
+  },
+  {
+    word: "inviolable",
+    frequency: 2.12,
+  },
+  {
+    word: "joule",
+    frequency: 2.12,
+  },
+  {
+    word: "laud",
+    frequency: 2.12,
+  },
+  {
+    word: "madrigal",
+    frequency: 2.12,
+  },
+  {
+    word: "magisterial",
+    frequency: 2.12,
+  },
+  {
+    word: "mortification",
+    frequency: 2.12,
+  },
+  {
+    word: "compedium",
+    frequency: 2.17,
   },
   {
     word: "acolyte",
@@ -3242,6 +4098,54 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.17,
   },
   {
+    word: "iniquitous",
+    frequency: 2.17,
+  },
+  {
+    word: "insular",
+    frequency: 2.17,
+  },
+  {
+    word: "intelligible",
+    frequency: 2.17,
+  },
+  {
+    word: "inveterate",
+    frequency: 2.17,
+  },
+  {
+    word: "irksome",
+    frequency: 2.17,
+  },
+  {
+    word: "kumquat",
+    frequency: 2.17,
+  },
+  {
+    word: "licentious",
+    frequency: 2.17,
+  },
+  {
+    word: "mangle",
+    frequency: 2.17,
+  },
+  {
+    word: "maudlin",
+    frequency: 2.17,
+  },
+  {
+    word: "meander",
+    frequency: 2.17,
+  },
+  {
+    word: "mesmerize",
+    frequency: 2.17,
+  },
+  {
+    word: "cornucopia",
+    frequency: 2.2,
+  },
+  {
     word: "acuity",
     frequency: 2.2,
   },
@@ -3366,6 +4270,54 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.2,
   },
   {
+    word: "ingratiate",
+    frequency: 2.2,
+  },
+  {
+    word: "itinerant",
+    frequency: 2.2,
+  },
+  {
+    word: "jubilant",
+    frequency: 2.2,
+  },
+  {
+    word: "juxtaposition",
+    frequency: 2.2,
+  },
+  {
+    word: "lackluster",
+    frequency: 2.2,
+  },
+  {
+    word: "lilting",
+    frequency: 2.2,
+  },
+  {
+    word: "lummox",
+    frequency: 2.2,
+  },
+  {
+    word: "maraschino",
+    frequency: 2.2,
+  },
+  {
+    word: "mercurial",
+    frequency: 2.2,
+  },
+  {
+    word: "meritocracy",
+    frequency: 2.2,
+  },
+  {
+    word: "misnomer",
+    frequency: 2.2,
+  },
+  {
+    word: "moussaka",
+    frequency: 2.2,
+  },
+  {
     word: "acme",
     frequency: 2.24,
   },
@@ -3467,6 +4419,34 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "idiosyncratic",
+    frequency: 2.24,
+  },
+  {
+    word: "ingenue",
+    frequency: 2.24,
+  },
+  {
+    word: "invocation",
+    frequency: 2.24,
+  },
+  {
+    word: "jubilation",
+    frequency: 2.24,
+  },
+  {
+    word: "lampoon",
+    frequency: 2.24,
+  },
+  {
+    word: "languid",
+    frequency: 2.24,
+  },
+  {
+    word: "mercantile",
+    frequency: 2.24,
+  },
+  {
+    word: "misogyny",
     frequency: 2.24,
   },
   {
@@ -3586,6 +4566,30 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.27,
   },
   {
+    word: "ingenuous",
+    frequency: 2.27,
+  },
+  {
+    word: "judicious",
+    frequency: 2.27,
+  },
+  {
+    word: "knell",
+    frequency: 2.27,
+  },
+  {
+    word: "lave",
+    frequency: 2.27,
+  },
+  {
+    word: "lethargy",
+    frequency: 2.27,
+  },
+  {
+    word: "malfeasance",
+    frequency: 2.27,
+  },
+  {
     word: "bellwether",
     frequency: 2.3,
   },
@@ -3695,6 +4699,26 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "incontrovertible",
+    frequency: 2.3,
+  },
+  {
+    word: "infinitesimal",
+    frequency: 2.3,
+  },
+  {
+    word: "inhibit",
+    frequency: 2.3,
+  },
+  {
+    word: "jibe",
+    frequency: 2.3,
+  },
+  {
+    word: "malleable",
+    frequency: 2.3,
+  },
+  {
+    word: "morose",
     frequency: 2.3,
   },
   {
@@ -3814,6 +4838,34 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.33,
   },
   {
+    word: "indomitable",
+    frequency: 2.33,
+  },
+  {
+    word: "inexorable",
+    frequency: 2.33,
+  },
+  {
+    word: "inordinate",
+    frequency: 2.33,
+  },
+  {
+    word: "megalomaniac",
+    frequency: 2.33,
+  },
+  {
+    word: "mnemonic",
+    frequency: 2.33,
+  },
+  {
+    word: "modicum",
+    frequency: 2.33,
+  },
+  {
+    word: "mufti",
+    frequency: 2.33,
+  },
+  {
     word: "acquiesce",
     frequency: 2.36,
   },
@@ -3894,6 +4946,34 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.36,
   },
   {
+    word: "infest",
+    frequency: 2.36,
+  },
+  {
+    word: "jaunty",
+    frequency: 2.36,
+  },
+  {
+    word: "jovial",
+    frequency: 2.36,
+  },
+  {
+    word: "kerb",
+    frequency: 2.36,
+  },
+  {
+    word: "libertarian",
+    frequency: 2.36,
+  },
+  {
+    word: "lurid",
+    frequency: 2.36,
+  },
+  {
+    word: "maul",
+    frequency: 2.36,
+  },
+  {
     word: "abate",
     frequency: 2.38,
   },
@@ -3966,6 +5046,22 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.38,
   },
   {
+    word: "inimitable",
+    frequency: 2.38,
+  },
+  {
+    word: "jettison",
+    frequency: 2.38,
+  },
+  {
+    word: "kleptomaniac",
+    frequency: 2.38,
+  },
+  {
+    word: "maw",
+    frequency: 2.38,
+  },
+  {
     word: "alcove",
     frequency: 2.4,
   },
@@ -4034,6 +5130,22 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.4,
   },
   {
+    word: "insurgent",
+    frequency: 2.4,
+  },
+  {
+    word: "intrinsic",
+    frequency: 2.4,
+  },
+  {
+    word: "malaise",
+    frequency: 2.4,
+  },
+  {
+    word: "mitigate",
+    frequency: 2.4,
+  },
+  {
     word: "abysmal",
     frequency: 2.43,
   },
@@ -4095,6 +5207,42 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "hobble",
+    frequency: 2.43,
+  },
+  {
+    word: "innocuous",
+    frequency: 2.43,
+  },
+  {
+    word: "insipid",
+    frequency: 2.43,
+  },
+  {
+    word: "larder",
+    frequency: 2.43,
+  },
+  {
+    word: "legible",
+    frequency: 2.43,
+  },
+  {
+    word: "maelstrom",
+    frequency: 2.43,
+  },
+  {
+    word: "malnourished",
+    frequency: 2.43,
+  },
+  {
+    word: "mincing",
+    frequency: 2.43,
+  },
+  {
+    word: "misanthrope",
+    frequency: 2.43,
+  },
+  {
+    word: "monolithic",
     frequency: 2.43,
   },
   {
@@ -4167,6 +5315,30 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "inconsequential",
+    frequency: 2.45,
+  },
+  {
+    word: "intonation",
+    frequency: 2.45,
+  },
+  {
+    word: "jostle",
+    frequency: 2.45,
+  },
+  {
+    word: "levity",
+    frequency: 2.45,
+  },
+  {
+    word: "malign",
+    frequency: 2.45,
+  },
+  {
+    word: "miserly",
+    frequency: 2.45,
+  },
+  {
+    word: "moratorium",
     frequency: 2.45,
   },
   {
@@ -4254,6 +5426,22 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.47,
   },
   {
+    word: "inscrutable",
+    frequency: 2.47,
+  },
+  {
+    word: "lustrous",
+    frequency: 2.47,
+  },
+  {
+    word: "malevolent",
+    frequency: 2.47,
+  },
+  {
+    word: "miscreant",
+    frequency: 2.47,
+  },
+  {
     word: "bouillon",
     frequency: 2.49,
   },
@@ -4298,6 +5486,18 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.49,
   },
   {
+    word: "intensify",
+    frequency: 2.49,
+  },
+  {
+    word: "kindle",
+    frequency: 2.49,
+  },
+  {
+    word: "maniacal",
+    frequency: 2.49,
+  },
+  {
     word: "avarice",
     frequency: 2.5,
   },
@@ -4331,6 +5531,14 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "hubris",
+    frequency: 2.5,
+  },
+  {
+    word: "menial",
+    frequency: 2.5,
+  },
+  {
+    word: "miffed",
     frequency: 2.5,
   },
   {
@@ -4398,6 +5606,18 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.52,
   },
   {
+    word: "jawbone",
+    frequency: 2.52,
+  },
+  {
+    word: "kowtow",
+    frequency: 2.52,
+  },
+  {
+    word: "listless",
+    frequency: 2.52,
+  },
+  {
     word: "abject",
     frequency: 2.54,
   },
@@ -4455,6 +5675,26 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "impetus",
+    frequency: 2.54,
+  },
+  {
+    word: "instigate",
+    frequency: 2.54,
+  },
+  {
+    word: "interject",
+    frequency: 2.54,
+  },
+  {
+    word: "interminable",
+    frequency: 2.54,
+  },
+  {
+    word: "junket",
+    frequency: 2.54,
+  },
+  {
+    word: "laborious",
     frequency: 2.54,
   },
   {
@@ -4531,6 +5771,18 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "indelible",
+    frequency: 2.56,
+  },
+  {
+    word: "ingrained",
+    frequency: 2.56,
+  },
+  {
+    word: "malarkey",
+    frequency: 2.56,
+  },
+  {
+    word: "microcosm",
     frequency: 2.56,
   },
   {
@@ -4666,6 +5918,18 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.59,
   },
   {
+    word: "indignant",
+    frequency: 2.59,
+  },
+  {
+    word: "jalopy",
+    frequency: 2.59,
+  },
+  {
+    word: "juggernaut",
+    frequency: 2.59,
+  },
+  {
     word: "abut",
     frequency: 2.6,
   },
@@ -4707,6 +5971,14 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "impervious",
+    frequency: 2.6,
+  },
+  {
+    word: "irrevocable",
+    frequency: 2.6,
+  },
+  {
+    word: "mettle",
     frequency: 2.6,
   },
   {
@@ -4758,6 +6030,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.62,
   },
   {
+    word: "libertine",
+    frequency: 2.62,
+  },
+  {
     word: "altruistic",
     frequency: 2.63,
   },
@@ -4799,6 +6075,18 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "inception",
+    frequency: 2.63,
+  },
+  {
+    word: "kismet",
+    frequency: 2.63,
+  },
+  {
+    word: "livid",
+    frequency: 2.63,
+  },
+  {
+    word: "mull",
     frequency: 2.63,
   },
   {
@@ -4878,6 +6166,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.66,
   },
   {
+    word: "knoll",
+    frequency: 2.66,
+  },
+  {
+    word: "lob",
+    frequency: 2.66,
+  },
+  {
     word: "assimilate",
     frequency: 2.67,
   },
@@ -4923,6 +6219,14 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "greenhorn",
+    frequency: 2.67,
+  },
+  {
+    word: "infer",
+    frequency: 2.67,
+  },
+  {
+    word: "magnanimous",
     frequency: 2.67,
   },
   {
@@ -4986,6 +6290,18 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.68,
   },
   {
+    word: "infraction",
+    frequency: 2.68,
+  },
+  {
+    word: "innuendo",
+    frequency: 2.68,
+  },
+  {
+    word: "locus",
+    frequency: 2.68,
+  },
+  {
     word: "awry",
     frequency: 2.69,
   },
@@ -5007,6 +6323,14 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "gusto",
+    frequency: 2.69,
+  },
+  {
+    word: "indiscretion",
+    frequency: 2.69,
+  },
+  {
+    word: "lethargic",
     frequency: 2.69,
   },
   {
@@ -5062,6 +6386,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.7,
   },
   {
+    word: "intrepid",
+    frequency: 2.7,
+  },
+  {
+    word: "jittery",
+    frequency: 2.7,
+  },
+  {
     word: "aspiration",
     frequency: 2.72,
   },
@@ -5106,6 +6438,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.72,
   },
   {
+    word: "indicative",
+    frequency: 2.72,
+  },
+  {
     word: "contrived",
     frequency: 2.73,
   },
@@ -5143,6 +6479,18 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "incognito",
+    frequency: 2.73,
+  },
+  {
+    word: "inflammatory",
+    frequency: 2.73,
+  },
+  {
+    word: "leisurely",
+    frequency: 2.73,
+  },
+  {
+    word: "monotonous",
     frequency: 2.73,
   },
   {
@@ -5226,6 +6574,18 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.75,
   },
   {
+    word: "insinuate",
+    frequency: 2.75,
+  },
+  {
+    word: "jargon",
+    frequency: 2.75,
+  },
+  {
+    word: "midge",
+    frequency: 2.75,
+  },
+  {
     word: "arcadia",
     frequency: 2.76,
   },
@@ -5243,6 +6603,26 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "haggle",
+    frequency: 2.76,
+  },
+  {
+    word: "inept",
+    frequency: 2.76,
+  },
+  {
+    word: "lode",
+    frequency: 2.76,
+  },
+  {
+    word: "lout",
+    frequency: 2.76,
+  },
+  {
+    word: "lyrical",
+    frequency: 2.76,
+  },
+  {
+    word: "macabre",
     frequency: 2.76,
   },
   {
@@ -5267,6 +6647,18 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "inclusive",
+    frequency: 2.77,
+  },
+  {
+    word: "infamy",
+    frequency: 2.77,
+  },
+  {
+    word: "magnificence",
+    frequency: 2.77,
+  },
+  {
+    word: "makeshift",
     frequency: 2.77,
   },
   {
@@ -5307,6 +6699,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "incarceration",
+    frequency: 2.78,
+  },
+  {
+    word: "infallible",
     frequency: 2.78,
   },
   {
@@ -5362,6 +6758,18 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.8,
   },
   {
+    word: "indict",
+    frequency: 2.8,
+  },
+  {
+    word: "infatuation",
+    frequency: 2.8,
+  },
+  {
+    word: "insidious",
+    frequency: 2.8,
+  },
+  {
     word: "aberration",
     frequency: 2.81,
   },
@@ -5410,6 +6818,30 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.81,
   },
   {
+    word: "intrusive",
+    frequency: 2.81,
+  },
+  {
+    word: "jabber",
+    frequency: 2.81,
+  },
+  {
+    word: "kudos",
+    frequency: 2.81,
+  },
+  {
+    word: "manoeuvre",
+    frequency: 2.81,
+  },
+  {
+    word: "mesmerizing",
+    frequency: 2.81,
+  },
+  {
+    word: "moot",
+    frequency: 2.81,
+  },
+  {
     word: "amiss",
     frequency: 2.82,
   },
@@ -5447,6 +6879,14 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "gouge",
+    frequency: 2.82,
+  },
+  {
+    word: "insignia",
+    frequency: 2.82,
+  },
+  {
+    word: "metric",
     frequency: 2.82,
   },
   {
@@ -5495,6 +6935,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "demeanor",
+    frequency: 2.84,
+  },
+  {
+    word: "mogul",
     frequency: 2.84,
   },
   {
@@ -5548,6 +6992,10 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "incriminate",
     frequency: 2.86,
+  },
+  {
+    word: "clairvoyant",
+    frequency: 2.87,
   },
   {
     word: "attribute",
@@ -5630,6 +7078,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.87,
   },
   {
+    word: "morsel",
+    frequency: 2.87,
+  },
+  {
     word: "albino",
     frequency: 2.88,
   },
@@ -5671,6 +7123,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "falter",
+    frequency: 2.89,
+  },
+  {
+    word: "luminous",
     frequency: 2.89,
   },
   {
@@ -5762,6 +7218,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.9,
   },
   {
+    word: "integral",
+    frequency: 2.9,
+  },
+  {
+    word: "kindred",
+    frequency: 2.9,
+  },
+  {
     word: "bigot",
     frequency: 2.91,
   },
@@ -5850,6 +7314,22 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.92,
   },
   {
+    word: "insinuating",
+    frequency: 2.92,
+  },
+  {
+    word: "kaput",
+    frequency: 2.92,
+  },
+  {
+    word: "lavish",
+    frequency: 2.92,
+  },
+  {
+    word: "mite",
+    frequency: 2.92,
+  },
+  {
     word: "ailment",
     frequency: 2.93,
   },
@@ -5871,6 +7351,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "garner",
+    frequency: 2.93,
+  },
+  {
+    word: "multitude",
     frequency: 2.93,
   },
   {
@@ -5934,11 +7418,23 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.94,
   },
   {
+    word: "innate",
+    frequency: 2.94,
+  },
+  {
+    word: "lenient",
+    frequency: 2.94,
+  },
+  {
     word: "benign",
     frequency: 2.95,
   },
   {
     word: "guise",
+    frequency: 2.95,
+  },
+  {
+    word: "magnate",
     frequency: 2.95,
   },
   {
@@ -5979,6 +7475,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "fane",
+    frequency: 2.97,
+  },
+  {
+    word: "miser",
     frequency: 2.97,
   },
   {
@@ -6023,6 +7523,26 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "heresy",
+    frequency: 2.99,
+  },
+  {
+    word: "intricate",
+    frequency: 2.99,
+  },
+  {
+    word: "lofty",
+    frequency: 2.99,
+  },
+  {
+    word: "masquerade",
+    frequency: 2.99,
+  },
+  {
+    word: "mimic",
+    frequency: 2.99,
+  },
+  {
+    word: "mundane",
     frequency: 2.99,
   },
   {
@@ -6078,6 +7598,18 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.01,
   },
   {
+    word: "intrigue",
+    frequency: 3.01,
+  },
+  {
+    word: "knackered",
+    frequency: 3.01,
+  },
+  {
+    word: "mausoleum",
+    frequency: 3.01,
+  },
+  {
     word: "antiquity",
     frequency: 3.02,
   },
@@ -6103,6 +7635,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "grandeur",
+    frequency: 3.02,
+  },
+  {
+    word: "inexplicable",
     frequency: 3.02,
   },
   {
@@ -6158,6 +7694,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.04,
   },
   {
+    word: "luscious",
+    frequency: 3.04,
+  },
+  {
     word: "annihilate",
     frequency: 3.05,
   },
@@ -6210,6 +7750,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.05,
   },
   {
+    word: "induce",
+    frequency: 3.05,
+  },
+  {
+    word: "manifesto",
+    frequency: 3.05,
+  },
+  {
     word: "aide",
     frequency: 3.06,
   },
@@ -6242,6 +7790,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.06,
   },
   {
+    word: "latitude",
+    frequency: 3.06,
+  },
+  {
     word: "abominable",
     frequency: 3.07,
   },
@@ -6262,6 +7814,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.07,
   },
   {
+    word: "meek",
+    frequency: 3.07,
+  },
+  {
     word: "brood",
     frequency: 3.08,
   },
@@ -6279,6 +7835,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "immaculate",
+    frequency: 3.08,
+  },
+  {
+    word: "manifestation",
     frequency: 3.08,
   },
   {
@@ -6318,6 +7878,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.09,
   },
   {
+    word: "malice",
+    frequency: 3.09,
+  },
+  {
     word: "adversity",
     frequency: 3.1,
   },
@@ -6346,6 +7910,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.1,
   },
   {
+    word: "meticulous",
+    frequency: 3.1,
+  },
+  {
     word: "adversary",
     frequency: 3.11,
   },
@@ -6359,6 +7927,14 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "illicit",
+    frequency: 3.11,
+  },
+  {
+    word: "insatiable",
+    frequency: 3.11,
+  },
+  {
+    word: "moonshine",
     frequency: 3.11,
   },
   {
@@ -6398,6 +7974,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.12,
   },
   {
+    word: "labyrinth",
+    frequency: 3.12,
+  },
+  {
+    word: "mew",
+    frequency: 3.12,
+  },
+  {
     word: "famished",
     frequency: 3.13,
   },
@@ -6434,6 +8018,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.14,
   },
   {
+    word: "moderate",
+    frequency: 3.14,
+  },
+  {
     word: "apt",
     frequency: 3.15,
   },
@@ -6467,6 +8055,14 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "imposing",
+    frequency: 3.15,
+  },
+  {
+    word: "lucid",
+    frequency: 3.15,
+  },
+  {
+    word: "ludicrous",
     frequency: 3.15,
   },
   {
@@ -6510,6 +8106,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.17,
   },
   {
+    word: "leech",
+    frequency: 3.17,
+  },
+  {
+    word: "mannered",
+    frequency: 3.17,
+  },
+  {
     word: "boast",
     frequency: 3.18,
   },
@@ -6531,6 +8135,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "festive",
+    frequency: 3.18,
+  },
+  {
+    word: "magnitude",
     frequency: 3.18,
   },
   {
@@ -6570,6 +8178,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.19,
   },
   {
+    word: "lovable",
+    frequency: 3.19,
+  },
+  {
+    word: "lush",
+    frequency: 3.19,
+  },
+  {
     word: "array",
     frequency: 3.2,
   },
@@ -6606,6 +8222,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.2,
   },
   {
+    word: "malicious",
+    frequency: 3.2,
+  },
+  {
+    word: "mercenary",
+    frequency: 3.2,
+  },
+  {
     word: "chandelier",
     frequency: 3.21,
   },
@@ -6635,6 +8259,22 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "hateful",
+    frequency: 3.21,
+  },
+  {
+    word: "inquisition",
+    frequency: 3.21,
+  },
+  {
+    word: "livelihood",
+    frequency: 3.21,
+  },
+  {
+    word: "lucrative",
+    frequency: 3.21,
+  },
+  {
+    word: "mead",
     frequency: 3.21,
   },
   {
@@ -6674,11 +8314,27 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.23,
   },
   {
+    word: "maverick",
+    frequency: 3.23,
+  },
+  {
+    word: "merciless",
+    frequency: 3.23,
+  },
+  {
     word: "fragrant",
     frequency: 3.24,
   },
   {
     word: "gall",
+    frequency: 3.24,
+  },
+  {
+    word: "joyous",
+    frequency: 3.24,
+  },
+  {
+    word: "knack",
     frequency: 3.24,
   },
   {
@@ -6703,6 +8359,22 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "filip",
+    frequency: 3.26,
+  },
+  {
+    word: "lagoon",
+    frequency: 3.26,
+  },
+  {
+    word: "lullaby",
+    frequency: 3.26,
+  },
+  {
+    word: "mantle",
+    frequency: 3.26,
+  },
+  {
+    word: "morbid",
     frequency: 3.26,
   },
   {
@@ -6750,6 +8422,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.29,
   },
   {
+    word: "luxurious",
+    frequency: 3.29,
+  },
+  {
+    word: "monetary",
+    frequency: 3.29,
+  },
+  {
     word: "ascend",
     frequency: 3.3,
   },
@@ -6766,6 +8446,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.3,
   },
   {
+    word: "majestic",
+    frequency: 3.3,
+  },
+  {
     word: "covenant",
     frequency: 3.31,
   },
@@ -6775,6 +8459,14 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "dazzling",
+    frequency: 3.31,
+  },
+  {
+    word: "mar",
+    frequency: 3.31,
+  },
+  {
+    word: "mellow",
     frequency: 3.31,
   },
   {
@@ -6799,6 +8491,14 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "futile",
+    frequency: 3.32,
+  },
+  {
+    word: "mediocre",
+    frequency: 3.32,
+  },
+  {
+    word: "mojo",
     frequency: 3.32,
   },
   {
@@ -6838,6 +8538,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.33,
   },
   {
+    word: "mandatory",
+    frequency: 3.33,
+  },
+  {
     word: "admirable",
     frequency: 3.34,
   },
@@ -6866,6 +8570,18 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.34,
   },
   {
+    word: "indigenous",
+    frequency: 3.34,
+  },
+  {
+    word: "jeopardy",
+    frequency: 3.34,
+  },
+  {
+    word: "knockout",
+    frequency: 3.34,
+  },
+  {
     word: "conception",
     frequency: 3.35,
   },
@@ -6879,6 +8595,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "inclined",
+    frequency: 3.35,
+  },
+  {
+    word: "insomnia",
     frequency: 3.35,
   },
   {
@@ -6899,6 +8619,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "hypnosis",
+    frequency: 3.36,
+  },
+  {
+    word: "lonesome",
     frequency: 3.36,
   },
   {
@@ -6926,11 +8650,23 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.37,
   },
   {
+    word: "insolent",
+    frequency: 3.37,
+  },
+  {
+    word: "leisure",
+    frequency: 3.37,
+  },
+  {
     word: "daft",
     frequency: 3.38,
   },
   {
     word: "enchanted",
+    frequency: 3.38,
+  },
+  {
+    word: "mayhem",
     frequency: 3.38,
   },
   {
@@ -6954,6 +8690,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.39,
   },
   {
+    word: "liaison",
+    frequency: 3.39,
+  },
+  {
+    word: "menace",
+    frequency: 3.39,
+  },
+  {
     word: "aurora",
     frequency: 3.4,
   },
@@ -6971,6 +8715,14 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "ideology",
+    frequency: 3.4,
+  },
+  {
+    word: "indication",
+    frequency: 3.4,
+  },
+  {
+    word: "intriguing",
     frequency: 3.4,
   },
   {
@@ -7002,6 +8754,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.41,
   },
   {
+    word: "inferior",
+    frequency: 3.41,
+  },
+  {
     word: "dandy",
     frequency: 3.42,
   },
@@ -7011,6 +8767,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "hallowed",
+    frequency: 3.42,
+  },
+  {
+    word: "miraculous",
     frequency: 3.42,
   },
   {
@@ -7034,6 +8794,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.43,
   },
   {
+    word: "maxim",
+    frequency: 3.43,
+  },
+  {
+    word: "melancholy",
+    frequency: 3.43,
+  },
+  {
     word: "congregation",
     frequency: 3.44,
   },
@@ -7043,6 +8811,18 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "ell",
+    frequency: 3.44,
+  },
+  {
+    word: "infamous",
+    frequency: 3.44,
+  },
+  {
+    word: "intercept",
+    frequency: 3.44,
+  },
+  {
+    word: "manifest",
     frequency: 3.44,
   },
   {
@@ -7067,6 +8847,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "fraternity",
+    frequency: 3.45,
+  },
+  {
+    word: "minority",
     frequency: 3.45,
   },
   {
@@ -7138,6 +8922,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.5,
   },
   {
+    word: "intimacy",
+    frequency: 3.5,
+  },
+  {
     word: "bungalow",
     frequency: 3.51,
   },
@@ -7202,6 +8990,14 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.56,
   },
   {
+    word: "merit",
+    frequency: 3.56,
+  },
+  {
+    word: "irony",
+    frequency: 3.58,
+  },
+  {
     word: "delightful",
     frequency: 3.59,
   },
@@ -7210,8 +9006,16 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.59,
   },
   {
+    word: "metaphor",
+    frequency: 3.59,
+  },
+  {
     word: "diagnosis",
     frequency: 3.6,
+  },
+  {
+    word: "inspire",
+    frequency: 3.61,
   },
   {
     word: "devotion",
@@ -7223,6 +9027,14 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "humiliate",
+    frequency: 3.62,
+  },
+  {
+    word: "jurisdiction",
+    frequency: 3.62,
+  },
+  {
+    word: "liberal",
     frequency: 3.62,
   },
   {
@@ -7246,6 +9058,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.63,
   },
   {
+    word: "invincible",
+    frequency: 3.63,
+  },
+  {
     word: "ally",
     frequency: 3.64,
   },
@@ -7262,6 +9078,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.64,
   },
   {
+    word: "irrelevant",
+    frequency: 3.64,
+  },
+  {
     word: "accomplice",
     frequency: 3.65,
   },
@@ -7274,7 +9094,15 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.66,
   },
   {
+    word: "mode",
+    frequency: 3.66,
+  },
+  {
     word: "dispatch",
+    frequency: 3.67,
+  },
+  {
+    word: "ironic",
     frequency: 3.67,
   },
   {
@@ -7286,12 +9114,28 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.68,
   },
   {
+    word: "jewel",
+    frequency: 3.68,
+  },
+  {
     word: "compound",
     frequency: 3.69,
   },
   {
     word: "doom",
     frequency: 3.7,
+  },
+  {
+    word: "integrity",
+    frequency: 3.7,
+  },
+  {
+    word: "maestro",
+    frequency: 3.7,
+  },
+  {
+    word: "justify",
+    frequency: 3.71,
   },
   {
     word: "extent",
@@ -7310,6 +9154,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.72,
   },
   {
+    word: "karma",
+    frequency: 3.72,
+  },
+  {
     word: "aspect",
     frequency: 3.73,
   },
@@ -7319,6 +9167,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "expedition",
+    frequency: 3.73,
+  },
+  {
+    word: "legitimate",
     frequency: 3.73,
   },
   {
@@ -7335,6 +9187,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "engage",
+    frequency: 3.77,
+  },
+  {
+    word: "inevitable",
     frequency: 3.77,
   },
   {
@@ -7362,6 +9218,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.82,
   },
   {
+    word: "modest",
+    frequency: 3.82,
+  },
+  {
     word: "fare",
     frequency: 3.83,
   },
@@ -7371,6 +9231,14 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "guru",
+    frequency: 3.83,
+  },
+  {
+    word: "keen",
+    frequency: 3.83,
+  },
+  {
+    word: "marvelous",
     frequency: 3.83,
   },
   {
@@ -7394,6 +9262,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.85,
   },
   {
+    word: "intimate",
+    frequency: 3.85,
+  },
+  {
     word: "barrel",
     frequency: 3.86,
   },
@@ -7403,6 +9275,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "harbor",
+    frequency: 3.87,
+  },
+  {
+    word: "marshal",
     frequency: 3.87,
   },
   {
@@ -7418,11 +9294,19 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.9,
   },
   {
+    word: "meter",
+    frequency: 3.9,
+  },
+  {
     word: "formal",
     frequency: 3.91,
   },
   {
     word: "fragile",
+    frequency: 3.91,
+  },
+  {
+    word: "majority",
     frequency: 3.91,
   },
   {
@@ -7434,11 +9318,19 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.92,
   },
   {
+    word: "luxury",
+    frequency: 3.92,
+  },
+  {
     word: "cant",
     frequency: 3.93,
   },
   {
     word: "harmony",
+    frequency: 3.93,
+  },
+  {
+    word: "melody",
     frequency: 3.93,
   },
   {
@@ -7466,7 +9358,15 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.97,
   },
   {
+    word: "institute",
+    frequency: 3.97,
+  },
+  {
     word: "appetite",
+    frequency: 3.98,
+  },
+  {
+    word: "mere",
     frequency: 3.98,
   },
   {
@@ -7510,7 +9410,19 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.02,
   },
   {
+    word: "labor",
+    frequency: 4.02,
+  },
+  {
+    word: "lit",
+    frequency: 4.03,
+  },
+  {
     word: "flame",
+    frequency: 4.04,
+  },
+  {
+    word: "magnificent",
     frequency: 4.04,
   },
   {
@@ -7538,6 +9450,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.08,
   },
   {
+    word: "knight",
+    frequency: 4.08,
+  },
+  {
     word: "confident",
     frequency: 4.09,
   },
@@ -7550,6 +9466,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.1,
   },
   {
+    word: "jet",
+    frequency: 4.1,
+  },
+  {
     word: "commission",
     frequency: 4.12,
   },
@@ -7559,6 +9479,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "divine",
+    frequency: 4.12,
+  },
+  {
+    word: "instance",
     frequency: 4.12,
   },
   {
@@ -7578,6 +9502,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.18,
   },
   {
+    word: "maintain",
+    frequency: 4.18,
+  },
+  {
     word: "abroad",
     frequency: 4.19,
   },
@@ -7590,6 +9518,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.19,
   },
   {
+    word: "intend",
+    frequency: 4.19,
+  },
+  {
     word: "bay",
     frequency: 4.21,
   },
@@ -7598,11 +9530,19 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.21,
   },
   {
+    word: "insist",
+    frequency: 4.21,
+  },
+  {
     word: "flag",
     frequency: 4.22,
   },
   {
     word: "campaign",
+    frequency: 4.23,
+  },
+  {
+    word: "literally",
     frequency: 4.23,
   },
   {
@@ -7618,6 +9558,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.25,
   },
   {
+    word: "miserable",
+    frequency: 4.25,
+  },
+  {
     word: "entrance",
     frequency: 4.26,
   },
@@ -7627,6 +9571,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "circumstances",
+    frequency: 4.27,
+  },
+  {
+    word: "league",
     frequency: 4.27,
   },
   {
@@ -7643,6 +9591,10 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "convince",
+    frequency: 4.29,
+  },
+  {
+    word: "ken",
     frequency: 4.29,
   },
   {
@@ -7678,6 +9630,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.38,
   },
   {
+    word: "march",
+    frequency: 4.38,
+  },
+  {
     word: "gorgeous",
     frequency: 4.42,
   },
@@ -7686,12 +9642,28 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.43,
   },
   {
+    word: "knowledge",
+    frequency: 4.45,
+  },
+  {
+    word: "mirror",
+    frequency: 4.46,
+  },
+  {
     word: "desire",
     frequency: 4.49,
   },
   {
     word: "delicious",
     frequency: 4.52,
+  },
+  {
+    word: "issue",
+    frequency: 4.55,
+  },
+  {
+    word: "laughter",
+    frequency: 4.55,
   },
   {
     word: "contract",
@@ -7722,6 +9694,10 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.63,
   },
   {
+    word: "lieutenant",
+    frequency: 4.63,
+  },
+  {
     word: "consider",
     frequency: 4.66,
   },
@@ -7734,20 +9710,48 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.73,
   },
   {
+    word: "level",
+    frequency: 4.74,
+  },
+  {
+    word: "lee",
+    frequency: 4.75,
+  },
+  {
+    word: "involved",
+    frequency: 4.8,
+  },
+  {
     word: "field",
     frequency: 4.81,
+  },
+  {
+    word: "mark",
+    frequency: 4.85,
   },
   {
     word: "court",
     frequency: 4.92,
   },
   {
-    word: "cools",
-    frequency: -1,
+    word: "lovely",
+    frequency: 4.92,
+  },
+  {
+    word: "kiss",
+    frequency: 5.08,
+  },
+  {
+    word: "minute",
+    frequency: 5.35,
   },
   {
     word: "haven",
     frequency: 5.52,
+  },
+  {
+    word: "love",
+    frequency: 6.1,
   },
 ];
 
