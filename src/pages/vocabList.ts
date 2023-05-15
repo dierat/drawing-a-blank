@@ -3879,7 +3879,6 @@ const vocabList = [
   "utopia",
   "utopian",
   "utter",
-  "uvula",
   "uxorious",
   "vacate",
   "vacillate",

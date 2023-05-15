@@ -53330,19 +53330,6 @@ const vocabList = [
     ],
   },
   {
-    word: "uvula",
-    definition:
-      "a fleshy extension at the back of the soft palate which hangs above the throat",
-    synonyms: ["palatine uvula"],
-    exampleSentences: [
-      "I accidentally swallowed my uvula while drinking water.",
-      "The doctor examined my throat and noticed that my uvula was swollen.",
-      "The uvula is part of the soft palate.",
-      "The uvula helps to prevent food from entering the nasal cavity.",
-      "The tickle in my throat makes me want to cough and clear my uvula.",
-    ],
-  },
-  {
     word: "uxorious",
     definition: "excessively fond of or submissive to one's wife",
     synonyms: ["henpecked", "submissive", "devoted", "affectionate", "loving"],
