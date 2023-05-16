@@ -7228,7 +7228,7 @@ const vocabList = [
     ],
   },
   {
-    word: "cassandra",
+    word: "Cassandra",
     definition: "a person who predicts doom or disaster; a pessimist",
     synonyms: ["prophet of doom", "pessimist", "doomsayer", "fatalist"],
     exampleSentences: [

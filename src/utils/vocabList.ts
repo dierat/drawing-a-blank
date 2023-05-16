@@ -534,7 +534,7 @@ const vocabList = [
   "carrion",
   "carven",
   "cascade",
-  "cassandra",
+  "Cassandra",
   "castigate",
   "cataclysm",
   "catacomb",
