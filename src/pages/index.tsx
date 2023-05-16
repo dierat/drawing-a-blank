@@ -106,7 +106,7 @@ export default function Home() {
   const Synonyms = () => {
     const synonyms = currentWordData.synonyms;
     const filteredSynonyms = userSubmittedSynonym
-      ? synonyms.filter((word) => word !== userSubmission)
+      ? synonyms.filter((word) => word !== userSubmission.toLocaleLowerCase().trim())
       : synonyms;
 
     return (
