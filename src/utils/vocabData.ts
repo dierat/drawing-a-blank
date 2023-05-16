@@ -12250,10 +12250,10 @@ const vocabList = [
     definition: "a downward slope",
     synonyms: ["slope", "descent", "incline", "gradient", "pitch"],
     exampleSentences: [
-      "The hiker struggled to climb the steep declivity.",
+      "The hiker struggled to climb down the steep declivity.",
       "The road twisted down the declivity, making it difficult to navigate.",
       "The skier flew down the declivity with ease.",
-      "The house was built on a gentle declivity overlooking the valley.",
+      "Grandma has a hard time walking from her house to the lake due to her street’s slight declivity.",
       "The river flowed down the declivity towards the ocean.",
     ],
   },
