@@ -155,6 +155,7 @@ export default function Home() {
               onChange={(event) => setUserSubmission(event.target.value)}
               onKeyUp={handleInputKeyUp}
               ref={inputRef}
+              disabled={!gameIsRunning}
             />
           </div>
 
