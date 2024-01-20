@@ -214,7 +214,11 @@ function Game() {
         </div>}
       </main>
     </>
-  );
+  )
+  return <>
+    Not signed in <br/>
+    <button onClick={() => signIn()}>Sign in</button>
+  </>
 }
 
 function AuthBar() {
