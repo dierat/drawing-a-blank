@@ -20756,19 +20756,6 @@ const vocabList = [
     ],
   },
   {
-    word: "fosse",
-    definition:
-      "a ditch or moat, especially one surrounding a castle, fortified place, or town.",
-    synonyms: ["moat", "ditch", "trench", "canal", "channel"],
-    exampleSentences: [
-      "The castle was surrounded by a deep fosse.",
-      "The enemy soldiers tried to cross the fosse, but were repelled by the defenders.",
-      "The fosse was filled with water to make it more difficult for attackers to breach the castle walls.",
-      "The town's defensive fosse was dug in the 12th century.",
-      "The fosse was so wide and deep that it was impossible to cross without a bridge.",
-    ],
-  },
-  {
     word: "foster",
     definition:
       "to encourage the development or growth of something or someone",
@@ -29186,19 +29173,6 @@ const vocabList = [
     ],
   },
   {
-    word: "knight",
-    definition:
-      "a man who served his sovereign or lord as a mounted soldier in armor.",
-    synonyms: ["cavalier", "horseman", "lancer", "equestrian", "paladin"],
-    exampleSentences: [
-      "The knight rode his horse into battle.",
-      "The queen dubbed him a knight for his bravery.",
-      "The knight's armor clanked as he walked.",
-      "The young squire dreamed of one day becoming a knight.",
-      "The knight pledged his loyalty to his lord.",
-    ],
-  },
-  {
     word: "knockout",
     definition:
       "a person or thing that is very attractive, impressive, or successful",
@@ -32434,23 +32408,6 @@ const vocabList = [
       "The family unit is often seen as a microcosm of society at large.",
       "The sports team is a microcosm of the competitive nature of society.",
       "The art exhibit was a microcosm of the creativity and talent in the community.",
-    ],
-  },
-  {
-    word: "microgliacyte",
-    definition:
-      "a type of neuroglia cell that acts as the first and main form of active immune defense in the central nervous system",
-    synonyms: [
-      "microglial cell",
-      "brain macrophage",
-      "CNS-resident macrophage",
-    ],
-    exampleSentences: [
-      "Microgliacytes play a key role in the immune response of the central nervous system.",
-      "The activation of microgliacytes is a hallmark of neuroinflammation.",
-      "Studies have shown that microgliacytes can modulate neuronal activity.",
-      "In Alzheimer's disease, microgliacytes contribute to the formation of plaques and tangles.",
-      "Researchers are exploring ways to manipulate microgliacytes to treat neurological disorders.",
     ],
   },
   {
@@ -35920,19 +35877,6 @@ const vocabList = [
       "The book was a paean to the beauty of nature.",
       "The politician's speech was a paean to democracy and freedom.",
       "The concert began with a paean to the composer's homeland.",
-    ],
-  },
-  {
-    word: "paladin",
-    definition:
-      "a knight or champion of a noble cause; a heroic champion or defender",
-    synonyms: ["champion", "defender", "knight", "hero", "crusader"],
-    exampleSentences: [
-      "The paladin rode into battle with his sword held high.",
-      "She was known as the paladin of justice for her tireless work in helping the wrongly accused.",
-      "The paladin laid down his life to protect his comrades.",
-      "He was hailed as a paladin for his bravery in standing up to the tyrant.",
-      "The paladin's righteous fury was unmatched by any other warrior.",
     ],
   },
   {
@@ -44026,19 +43970,6 @@ const vocabList = [
       "After the rhytidectomy, she looked 10 years younger.",
       "The doctor recommended a rhytidectomy for the patient's deep wrinkles.",
       "He was nervous about getting a rhytidectomy but was happy with the results.",
-    ],
-  },
-  {
-    word: "rick",
-    definition:
-      "a stack or pile of hay, straw, or similar material, especially one neatly arranged in a rectangular shape and enclosed within a rickcloth.",
-    synonyms: ["stack", "pile", "heap", "mow", "bale"],
-    exampleSentences: [
-      "The farmer built a rick of hay for the winter.",
-      "The rick of straw was blown away in the wind.",
-      "The workers built a rick of bricks for the construction site.",
-      "The sheep were grazing near the rick of hay.",
-      "The barn was filled with ricks of corn and wheat.",
     ],
   },
   {

@@ -1834,10 +1834,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "microgliacyte",
-    frequency: 0,
-  },
-  {
     word: "misbegotten",
     frequency: 0,
   },
@@ -5291,10 +5287,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "flail",
-    frequency: 2.45,
-  },
-  {
-    word: "fosse",
     frequency: 2.45,
   },
   {
@@ -9447,10 +9439,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "betray",
-    frequency: 4.08,
-  },
-  {
-    word: "knight",
     frequency: 4.08,
   },
   {
