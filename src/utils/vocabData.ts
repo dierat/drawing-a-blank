@@ -19190,7 +19190,7 @@ const vocabList = [
   {
     word: "faithful",
     definition:
-      "adjective: remaining loyal or steadfast; consistent in performance or behavior; accurate or reliable",
+      "remaining loyal or steadfast; consistent in performance or behavior; accurate or reliable",
     synonyms: ["loyal", "devoted", "dedicated", "committed", "trusty"],
     exampleSentences: [
       "My dog is always faithful and never leaves my side.",
@@ -22511,7 +22511,7 @@ const vocabList = [
       "She handled the difficult situation with grace and diplomacy.",
       "The grace of the cathedral's architecture left me in awe.",
       "I am grateful for the grace of good health.",
-      "He said grace before we began our meal.",
+      "Moving across the ice with magnificent grace and beauty, it was hard to believe that the elegant skater had only started last year.",
     ],
   },
   {
@@ -55337,7 +55337,7 @@ const vocabList = [
   {
     word: "wondrous",
     definition:
-      "adjective: inspiring a feeling of wonder or delight; extraordinary; amazing",
+      "inspiring a feeling of wonder or delight; extraordinary; amazing",
     synonyms: [
       "marvelous",
       "amazing",
@@ -55868,8 +55868,8 @@ const vocabList = [
       "The zealot refused to compromise on any of his beliefs.",
       "The political zealot would not listen to any opposing arguments.",
       "The religious zealot spent every moment preaching on the street corner.",
-      "The environmental zealot protested against the construction of the new factory.",
-      "The animal rights zealot would not eat or wear anything that came from animals.",
+      "Some people call Peter a zealot because of the lengths he goes to in order to keep technology out of his home.",
+      "The cult leader was a zealot who killed anyone who dared to question his principles.",
     ],
   },
   {
