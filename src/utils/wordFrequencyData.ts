@@ -8770,7 +8770,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.43,
   },
   {
-    word: "cassandra",
+    word: "Cassandra",
     frequency: 3.43,
   },
   {
