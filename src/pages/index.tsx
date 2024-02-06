@@ -1,6 +1,6 @@
 import { useSession, signIn, signOut } from "next-auth/react"
 
-// These are for the Game component
+// These are all for Game
 import Head from "next/head";
 import styles from "@/styles/Home.module.css";
 import { useState, useEffect, useRef } from "react";
@@ -8,20 +8,6 @@ import vocabData from "../utils/vocabData";
 import runAllChecks from "../utils/scripts";
 import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
-
-function AuthBar() {
-  const { data: session } = useSession()
-  if(session && session.user && session.user.email) {
-    return <>
-      Signed in as {session.user.email}{" "}
-      <button onClick={() => signOut()}>Sign out</button>
-    </>
-  }
-  return <>
-    Not signed in{" "}
-    <button onClick={() => signIn()}>Sign in</button>
-  </>
-}
 
 function Game() {
   runAllChecks();
@@ -48,7 +34,7 @@ function Game() {
 
   const [currentWordIndex, setCurrentWordIndex] = useState(0);
   const [currentSentenceIndex, setCurrentSentenceIndex] = useState(0);
-  
+
   const [userSubmission, setUserSubmission] = useState("");
 
   const inputRef = useRef<HTMLInputElement>(null);
@@ -231,6 +217,20 @@ function Game() {
   )
   return <>
     Not signed in <br/>
+    <button onClick={() => signIn()}>Sign in</button>
+  </>
+}
+
+function AuthBar() {
+  const { data: session } = useSession()
+  if(session && session.user && session.user.email) {
+    return <>
+      Signed in as {session.user.email}{" "}
+      <button onClick={() => signOut()}>Sign out</button>
+    </>
+  }
+  return <>
+    Not signed in{" "}
     <button onClick={() => signIn()}>Sign in</button>
   </>
 }
