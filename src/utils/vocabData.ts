@@ -4672,31 +4672,6 @@ const vocabList = [
     ],
   },
   {
-    word: "barrel",
-    definition:
-      "a cylindrical container bulging out in the middle, traditionally made of wooden staves with metal hoops around them",
-    synonyms: ["cask", "drum", "keg", "vat"],
-    exampleSentences: [
-      "The wine was stored in oak barrels.",
-      "The oil was transported in barrels.",
-      "He rolled the barrel down the hill.",
-      "She hit the bullseye on the target with her barrel.",
-      "The band played their music on a makeshift stage made of barrels.",
-    ],
-  },
-  {
-    word: "baseborn",
-    definition: "born of low birth or social position; illegitimate",
-    synonyms: ["illegitimate", "bastard", "lowborn", "humble", "common"],
-    exampleSentences: [
-      "He was mocked by his classmates for being baseborn.",
-      "The baseborn child was often looked down upon by the noble families.",
-      "She refused to marry someone who was baseborn.",
-      "He worked hard to overcome his baseborn status and achieve success.",
-      "The baseborn woman was determined to make a better life for herself and her family.",
-    ],
-  },
-  {
     word: "bashful",
     definition: "shy or timid; easily embarrassed or intimidated",
     synonyms: ["shy", "timid", "reticent", "reserved", "self-conscious"],
@@ -14855,19 +14830,6 @@ const vocabList = [
       "He had a tendency to domineer in social situations.",
       "The coach would often domineer over his players during practices.",
       "The politician tried to domineer over his opponents during the debate.",
-    ],
-  },
-  {
-    word: "doohickey",
-    definition:
-      "a small object or gadget, especially one whose name the speaker does not know or cannot recall.",
-    synonyms: ["widget", "gizmo", "thingamajig", "whatchamacallit", "doodad"],
-    exampleSentences: [
-      "Can you hand me that doohickey over there?",
-      "I need a doohickey to fix this.",
-      "The doohickey on my watch broke.",
-      "She's always misplacing her doohickeys.",
-      "I have no idea what this doohickey is supposed to do.",
     ],
   },
   {
@@ -51020,32 +50982,6 @@ const vocabList = [
     ],
   },
   {
-    word: "thingamabob",
-    definition:
-      "a word used to refer to something that the speaker cannot name or does not know the name of; a thingummy.",
-    synonyms: ["whatchamacallit", "doodad", "gizmo", "widget", "contraption"],
-    exampleSentences: [
-      "Can you pass me that thingamabob over there?",
-      "I need a thingamabob to fix this.",
-      "He used some kind of thingamabob to open the lock.",
-      "I don't know what this thingamabob does.",
-      "She's always losing her thingamabobs.",
-    ],
-  },
-  {
-    word: "thingamajig",
-    definition:
-      "an object or device whose name one does not know or cannot recall",
-    synonyms: ["gadget", "widget", "contraption", "doodad", "whatchamacallit"],
-    exampleSentences: [
-      "Could you hand me that thingamajig over there?",
-      "I need to fix this thingamajig before I can use it.",
-      "I lost the little thingamajig that connects the pieces together.",
-      "Can you believe this thingamajig costs $100?",
-      "I'm not sure what this thingamajig does, but it looks important.",
-    ],
-  },
-  {
     word: "thither",
     definition: "to or toward that place",
     synonyms: ["there", "hither", "yonder"],
@@ -53475,7 +53411,7 @@ const vocabList = [
   {
     word: "vat",
     definition:
-      "a large container such as a tub or barrel used for holding liquids, typically for fermenting or processing.",
+      "a large container used for holding liquids, typically for fermenting or processing.",
     synonyms: ["barrel", "tub", "cask", "drum"],
     exampleSentences: [
       "The winery stored the wine in oak vats.",
@@ -54861,18 +54797,6 @@ const vocabList = [
       "The weregild for the murder of a nobleman was much higher than for the murder of a commoner.",
       "The concept of weregild was eventually replaced by the modern legal system.",
       "The weregild was seen as a way to restore peace and balance to a community after a violent act.",
-    ],
-  },
-  {
-    word: "whatchamacallit",
-    definition: "a thing whose name is unknown or forgotten",
-    synonyms: ["thingamajig", "whatsit", "doodad", "gizmo", "widget"],
-    exampleSentences: [
-      "Can you hand me that whatchamacallit over there?",
-      "I need a tool to fix this whatchamacallit.",
-      "I can't remember the name of that whatchamacallit we saw at the store.",
-      "The instructions say to connect the whatchamacallit to the doohickey.",
-      "I found this old whatchamacallit in the attic, but I'm not sure what it does.",
     ],
   },
   {

@@ -518,10 +518,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "baseborn",
-    frequency: 0,
-  },
-  {
     word: "bason",
     frequency: 0,
   },
@@ -3451,10 +3447,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "divisive",
-    frequency: 2.03,
-  },
-  {
-    word: "doohickey",
     frequency: 2.03,
   },
   {
@@ -9258,10 +9250,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.85,
   },
   {
-    word: "barrel",
-    frequency: 3.86,
-  },
-  {
     word: "elegant",
     frequency: 3.87,
   },
@@ -14378,10 +14366,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.82,
   },
   {
-    word: "thingamabob",
-    frequency: 1.82,
-  },
-  {
     word: "transience",
     frequency: 1.82,
   },
@@ -14711,10 +14695,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "temerity",
-    frequency: 2.24,
-  },
-  {
-    word: "thingamajig",
     frequency: 2.24,
   },
   {
@@ -16123,10 +16103,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "welt",
-    frequency: 2.27,
-  },
-  {
-    word: "whatchamacallit",
     frequency: 2.27,
   },
   {
