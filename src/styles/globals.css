@@ -57,6 +57,10 @@ button {
   }
 }
 
+button:focus {
+  outline-offset: 4px;
+}
+
 button:disabled {
   cursor: not-allowed;
   background-color: var(--disabled-color-light-mode);
