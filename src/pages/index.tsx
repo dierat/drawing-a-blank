@@ -36,7 +36,9 @@ export default function Home() {
   
   const [userSubmission, setUserSubmission] = useState("");
 
-  const inputRef = useRef<HTMLInputElement>(null);
+  const inputRef = useRef<HTMLInputElement | null>(null);
+  // inputVisible is necessary to trigger the auto-focus functionality
+  const [inputVisible, setInputVisible] = useState(false);
 
   const startNewGame = () => {
     // Pick next word + sentence
@@ -69,6 +71,13 @@ export default function Home() {
   useEffect(() => {
     startNewGame();
   }, []);
+
+  useEffect(() => {
+    // Auto-focus on the input field
+    if (inputRef.current) {
+      inputRef.current.focus();
+    }
+  }, [inputVisible, gameIsRunning]);
 
   const currentWordData = vocabData[currentWordIndex];
   const exampleSentence = currentWordData.exampleSentences[
@@ -153,7 +162,10 @@ export default function Home() {
               value={userSubmission}
               onChange={(event) => setUserSubmission(event.target.value)}
               onKeyUp={handleInputKeyUp}
-              ref={inputRef}
+              ref={element => {
+                inputRef.current = element;
+                setInputVisible(!!element);
+              }}
               disabled={!gameIsRunning}
             />
           </div>
