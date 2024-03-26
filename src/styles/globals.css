@@ -35,8 +35,10 @@ input {
 
   color: var(--text-color-light-mode);
   background-color: var(--bg-color-light-mode);
+}
 
-  @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
+  input {
     color: var(--text-color-dark-mode);
     background-color: rgb(42, 42, 42);
   }
@@ -51,8 +53,10 @@ button {
   padding: 8px 10px;
   font-size: 1rem;
   cursor: pointer;
+}
 
-  @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
+  button {
     background-color: var(--text-color-dark-mode);
     border-color: var(--text-color-dark-mode);
     color: var(--bg-color-dark-mode);
@@ -68,7 +72,10 @@ button:disabled {
   background-color: var(--disabled-color-light-mode);
   border-color: var(--disabled-color-light-mode);
 
-  @media (prefers-color-scheme: dark) {
+}
+
+@media (prefers-color-scheme: dark) {
+  button:disabled {
     background-color: var(--disabled-color-dark-mode);
     border-color: var(--disabled-color-dark-mode);
   }
