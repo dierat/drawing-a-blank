@@ -5,6 +5,7 @@ import { useState, useEffect, useRef } from "react";
 
 const inter = Inter({ subsets: ["latin"] });
 
+import ContactForm from '../components/ContactForm';
 import vocabData from "../utils/vocabData";
 import runAllChecks from "../utils/scripts";
 
@@ -223,6 +224,9 @@ export default function Home() {
             </div>
           )}
         </div>}
+
+        {/* TODO: move to modal */}
+        <ContactForm/>
       </main>
     </>
   );
