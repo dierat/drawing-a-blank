@@ -1,6 +1,5 @@
 // TODO: rename file
 import wordList from "./vocabList";
-import wordFrequencyData from "./wordFrequencyData";
 import vocabList from "./vocabData";
 
 // TODO: change some of these into tests that run on save
@@ -54,12 +53,6 @@ const runAllChecks = () => {
       JSON.stringify(definitionsMissing, null, 2)
     );
   }
-
-  // Sort the frequency list; useful if you've just added a new segment from another fetch.
-  // const sorted = wordFrequencyData.sort((wordDataA, wordDataB) => {
-  //   return wordDataA.frequency - wordDataB.frequency;
-  // });
-  // console.log("Sorted frequency data: ", JSON.stringify(sorted, null, 2));
 
   // Verify the example sentences have the actual word in them
   // interface SentenceMissingWord {
