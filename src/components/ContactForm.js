@@ -46,7 +46,6 @@ const ContactForm = ({ word }) => {
   };
 
   /**
-   * - hide word input field
    * - change property input to dropdown
    * - make submit button work on enter from within the form
    */
