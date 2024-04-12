@@ -1,5 +1,4 @@
-// TODO: rename to definitionList
-const vocabList = [
+const vocabData = [
   {
     word: "abase",
     definition: "to lower in rank, esteem, or dignity; to humble or degrade",
@@ -52980,4 +52979,4 @@ const vocabList = [
   },
 ];
 
-export default vocabList;
+export default vocabData;
