@@ -85,7 +85,12 @@ const ContactForm = ({ word }) => {
           <label className={styles.label} htmlFor="reason">
             What's wrong with it?
           </label>
-          <textarea id="reason" type="text" name="reason" />
+          <textarea
+            id="reason"
+            type="text"
+            name="reason"
+            className={styles.textarea}
+          />
         </div>
       </div>
 
