@@ -29,18 +29,28 @@ body {
   }
 }
 
-input {
-  height: 2rem;
+input, textarea {
   padding: 16px;
+  outline-offset: 4px;
 
   color: var(--text-color-light-mode);
   background-color: var(--bg-color-light-mode);
+  border: 2px solid var(--text-color-light-mode);
+}
+
+input {
+  height: 32px;
+}
+
+textarea {
+  height: 64px;
 }
 
 @media (prefers-color-scheme: dark) {
-  input {
+  input, textarea {
     color: var(--text-color-dark-mode);
     background-color: rgb(42, 42, 42);
+    border: 2px solid rgba(0,0,0,0);
   }
 }
 
@@ -50,7 +60,7 @@ button {
   color: var(--bg-color-light-mode);
   border-radius: 0;
   border-style: solid;
-  padding: 8px 10px;
+  padding: 8px 12px;
   font-size: 1rem;
   cursor: pointer;
 }
