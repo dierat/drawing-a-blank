@@ -1,6 +1,5 @@
 // TODO: rename file
-import wordList from "./vocabList";
-import vocabList from "./vocabData";
+import vocabData from "./vocabData";
 
 // TODO: change some of these into tests that run on save
 // TODO: split the others into separate scripts in a /scripts directory
@@ -14,7 +13,7 @@ const wordMap: WordMap = {};
 const runAllChecks = () => {
   // Check for duplicate definitions
   const duplicates: Array<string> = [];
-  vocabList.forEach((wordData) => {
+  vocabData.forEach((wordData) => {
     const { word } = wordData;
     if (word in wordMap) {
       duplicates.push(word);
@@ -28,7 +27,7 @@ const runAllChecks = () => {
   //   console.log(
   //     `There are duplicate words in vocabData.ts: ${duplicates.join(", ")}`
   //   );
-  //   const noDuplicates = vocabList.filter(
+  //   const noDuplicates = vocabData.filter(
   //     (definitionObject) =>
   //       !duplicates.some((word) => definitionObject.word === word)
   //   );
@@ -40,27 +39,13 @@ const runAllChecks = () => {
   //   console.log(`There are no duplicates in vocabData.ts 👍🏻`);
   // }
 
-  // Check for missing definitions
-  const definitionsMissing: Array<string> = [];
-  wordList.forEach((word) => {
-    if (!(word in wordMap)) {
-      definitionsMissing.push(word);
-    }
-  });
-  if (definitionsMissing.length) {
-    console.log(
-      "We're missing definitions for the following words: ",
-      JSON.stringify(definitionsMissing, null, 2)
-    );
-  }
-
   // Verify the example sentences have the actual word in them
   // interface SentenceMissingWord {
   //   word: string;
   //   invalidSentences: Array<string>;
   // }
   // const sentencesMissingWord: Array<SentenceMissingWord> = [];
-  // vocabList.forEach((data) => {
+  // vocabData.forEach((data) => {
   //   const { word, exampleSentences } = data;
   //   const lowercaseWord = word.toLowerCase();
 
@@ -86,7 +71,7 @@ const runAllChecks = () => {
   // }
 
   // const hasSynonymInDefinition: Array<string> = [];
-  // vocabList.forEach((word) => {
+  // vocabData.forEach((word) => {
   //   const { definition, synonyms } = word;
 
   //   for (let index = 0; index < synonyms.length; index++) {
