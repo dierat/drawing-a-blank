@@ -24327,6 +24327,9 @@ const vocabData = [
       "Although he was a successful businessman, he never lost his humility and always treated others with respect.",
     ],
   },
+  /**
+   * Bookmark: continue moving upward from this point, removing useless words
+   */
   {
     word: "hummock",
     definition: "a hillock, knoll or mound; a low, rounded hill",
@@ -24337,18 +24340,6 @@ const vocabData = [
       "The farmer plowed around the hummocks in the field.",
       "The house was built on a small hummock overlooking the river.",
       "The hikers rested on a grassy hummock in the meadow.",
-    ],
-  },
-  {
-    word: "hundredweight",
-    definition: "a unit of weight equal to 100 pounds (45.36 kilograms)",
-    synonyms: ["centum weight", "short hundredweight"],
-    exampleSentences: [
-      "The shipment weighed a hundredweight.",
-      "The farmer sold his produce by the hundredweight.",
-      "The butcher used a hundredweight scale to weigh the meat.",
-      "The package was too heavy to lift, it was over a hundredweight.",
-      "The cargo was priced by the hundredweight.",
     ],
   },
   {
@@ -24402,23 +24393,6 @@ const vocabData = [
     ],
   },
   {
-    word: "hyaluronidase",
-    definition:
-      "an enzyme that breaks down hyaluronic acid, a component of connective tissue",
-    synonyms: [
-      "hyaluronate lyase",
-      "spreading factor",
-      "hyaluronoglucosaminidase",
-    ],
-    exampleSentences: [
-      "The injection contained hyaluronidase to help spread the medication throughout the tissue.",
-      "Hyaluronidase is often used in cosmetic procedures to dissolve unwanted hyaluronic acid fillers.",
-      "The body naturally produces hyaluronidase to break down and recycle old connective tissue.",
-      "Hyaluronidase has also been studied for its potential benefits in cancer treatment.",
-      "Allergic reactions to hyaluronidase have been reported, although they are rare.",
-    ],
-  },
-  {
     word: "hydra",
     definition:
       "a many-headed serpent or monster in Greek mythology that was slain by Hercules, or a persistent or recurring problem that cannot be eradicated easily",
@@ -24429,18 +24403,6 @@ const vocabData = [
       "The corruption in the government is a hydra that seems to grow new heads every time one is cut off.",
       "The company faced a hydra of challenges in trying to expand into new markets.",
       "The invasive species was like a hydra, spreading quickly and causing damage wherever it went.",
-    ],
-  },
-  {
-    word: "hygrodeik",
-    definition: "an instrument used to measure humidity",
-    synonyms: ["hygrometer", "humidity gauge", "moisture meter"],
-    exampleSentences: [
-      "The hygrodeik showed that the humidity in the room was too high.",
-      "He used a hygrodeik to monitor the moisture levels in the soil.",
-      "The museum uses hygrodeiks to maintain the correct humidity levels for their exhibits.",
-      "A hygrodeik is an essential tool for anyone working in a humid environment.",
-      "The hygrodeik readings indicated that the air conditioning needed to be adjusted.",
     ],
   },
   {
@@ -24857,23 +24819,6 @@ const vocabData = [
     ],
   },
   {
-    word: "ijtihad",
-    definition:
-      "in Islamic law, the process of making a legal decision by independent interpretation of the Qur'an and the Sunnah",
-    synonyms: [
-      "independent reasoning",
-      "reasoning by analogy",
-      "personal interpretation",
-    ],
-    exampleSentences: [
-      "The scholar used ijtihad to arrive at a unique ruling on the matter.",
-      "Ijtihad plays an important role in the development of Islamic law.",
-      "Some scholars believe that ijtihad should be more widely practiced.",
-      "Ijtihad requires a deep understanding of Islamic texts and principles.",
-      "The practice of ijtihad has been debated among Islamic scholars for centuries.",
-    ],
-  },
-  {
     word: "ill",
     definition:
       "not in good health; suffering from a disease or physical or mental disorder",
@@ -25024,24 +24969,6 @@ const vocabData = [
     ],
   },
   {
-    word: "imbroglio",
-    definition: "a complicated and embarrassing situation; a confused mass",
-    synonyms: [
-      "complication",
-      "entanglement",
-      "quagmire",
-      "predicament",
-      "mess",
-    ],
-    exampleSentences: [
-      "The company found itself in a legal imbroglio.",
-      "The political imbroglio left the country in chaos.",
-      "The love triangle created an awkward imbroglio.",
-      "His attempt to fix the plumbing resulted in an imbroglio of tangled pipes.",
-      "The misunderstanding led to an imbroglio between friends.",
-    ],
-  },
-  {
     word: "imbue",
     definition:
       "to inspire or influence thoroughly; to saturate or permeate with a feeling or quality",
@@ -25092,18 +25019,6 @@ const vocabData = [
     ],
   },
   {
-    word: "immure",
-    definition: "to enclose or confine someone against their will",
-    synonyms: ["incarcerate", "imprison", "confine", "lock up", "trap"],
-    exampleSentences: [
-      "The king ordered his enemies to be immured in the castle's dungeon.",
-      "The prisoner was immured in a small, dark cell.",
-      "The workers were immured within the factory during the lockdown.",
-      "She felt immured in her own thoughts and couldn't escape them.",
-      "The child felt immured in the classroom and longed to be outside.",
-    ],
-  },
-  {
     word: "immutable",
     definition: "unchanging over time or unable to be changed",
     synonyms: ["unchangeable", "fixed", "rigid", "inflexible", "permanent"],
@@ -25151,18 +25066,6 @@ const vocabData = [
       "The singer's performance was impeccable.",
       "The company's record for safety is impeccable.",
       "His impeccable manners made him a favorite among the guests.",
-    ],
-  },
-  {
-    word: "impecunious",
-    definition: "having little or no money",
-    synonyms: ["penniless", "broke", "destitute", "poor", "indigent"],
-    exampleSentences: [
-      "She was so impecunious that she couldn't afford to pay her rent.",
-      "The impecunious family struggled to make ends meet.",
-      "He became impecunious after losing his job.",
-      "The charity helps impecunious families with food and shelter.",
-      "The artist was impecunious for years before finally making it big.",
     ],
   },
   {
@@ -25338,18 +25241,6 @@ const vocabData = [
     ],
   },
   {
-    word: "impignorate",
-    definition: "to pledge or pawn something as security for a loan",
-    synonyms: ["pawn", "mortgage", "hypothecate", "pledge", "secure"],
-    exampleSentences: [
-      "He had to impignorate his car to get the money he needed.",
-      "The business owner had to impignorate his assets to secure a loan.",
-      "She had to impignorate her jewelry to pay for her medical bills.",
-      "The bank required him to impignorate his house as collateral for the loan.",
-      "In order to start his business, he had to impignorate his savings account.",
-    ],
-  },
-  {
     word: "implacable",
     definition: "unable to be appeased or pacified",
     synonyms: [
@@ -25406,10 +25297,10 @@ const vocabData = [
     ],
   },
   {
-    word: "imposed",
+    word: "impose",
     definition:
-      "forced upon someone or something without consent; established or brought about by authority or command",
-    synonyms: ["enforced", "compelled", "mandated", "dictated", "prescribed"],
+      "force upon someone or something without consent; establish or bring about by authority or command",
+    synonyms: ["enforce", "compel", "mandate", "dictate", "prescribe"],
     exampleSentences: [
       "The new tax was imposed on all citizens.",
       "The company imposed strict rules on employee behavior.",
@@ -26112,19 +26003,6 @@ const vocabData = [
     ],
   },
   {
-    word: "inculcate",
-    definition:
-      "to impress upon the mind through repetition or persistent urging",
-    synonyms: ["instill", "implant", "ingrain", "infuse", "impress"],
-    exampleSentences: [
-      "Parents should inculcate good values in their children.",
-      "The teacher tried to inculcate a love of reading in her students.",
-      "He was inculcated with a strong work ethic from a young age.",
-      "The coach sought to inculcate a sense of teamwork in his players.",
-      "The religious leader urged his followers to inculcate the teachings of the faith in their daily lives.",
-    ],
-  },
-  {
     word: "incumbent",
     definition: "necessary for (someone) as a duty or responsibility.",
     synonyms: ["obligatory", "required", "necessary", "compulsory", "mandated"],
@@ -26792,18 +26670,6 @@ const vocabData = [
     ],
   },
   {
-    word: "inglenook",
-    definition: "a recess or small room beside a fireplace",
-    synonyms: ["chimney corner", "hearthside", "fireside nook"],
-    exampleSentences: [
-      "The cat likes to curl up in the inglenook.",
-      "The inglenook was decorated with a cozy armchair and warm blankets.",
-      "We spent the evening reading in the inglenook.",
-      "The inn had a cozy inglenook where guests could relax with a book.",
-      "The family gathered around the inglenook to play board games.",
-    ],
-  },
-  {
     word: "ingrained",
     definition: "firmly fixed or established; difficult to change",
     synonyms: ["deep-rooted", "entrenched", "inherent", "intrinsic", "ingrown"],
@@ -27178,18 +27044,6 @@ const vocabData = [
     ],
   },
   {
-    word: "insouciant",
-    definition: "free from concern, worry, or anxiety; carefree; nonchalant",
-    synonyms: ["unconcerned", "indifferent", "casual", "relaxed", "untroubled"],
-    exampleSentences: [
-      "She was insouciant about her upcoming exam.",
-      "He strolled down the street with an insouciant air.",
-      "His insouciant attitude towards his job led to his dismissal.",
-      "She adopted an insouciant attitude towards her health.",
-      "The insouciant way she handled the situation surprised everyone.",
-    ],
-  },
-  {
     word: "inspire",
     definition:
       "to fill someone with the urge or ability to do or feel something, especially to do something creative",
@@ -27200,32 +27054,6 @@ const vocabData = [
       "His bravery in the face of danger inspired others to follow his lead.",
       "The teacher's passion for the subject inspired her students to learn more.",
       "Her story of overcoming adversity inspired many people to never give up.",
-    ],
-  },
-  {
-    word: "inspissate",
-    definition:
-      "to thicken or congeal, especially by evaporation or reduction of liquid; to make more dense or viscous",
-    synonyms: ["thicken", "condense", "concentrate", "coagulate", "solidify"],
-    exampleSentences: [
-      "The sauce will inspissate as it simmers.",
-      "The blood began to inspissate and clot.",
-      "The heat caused the resin to inspissate and coagulate.",
-      "The reduction of the stock will inspissate the flavors.",
-      "The milk will inspissate as it turns into yogurt.",
-    ],
-  },
-  {
-    word: "instance",
-    definition:
-      "an occurrence of something happening or an example of something, especially something unpleasant",
-    synonyms: ["occurrence", "example", "case", "incident", "occasion"],
-    exampleSentences: [
-      "In this instance, the customer is always right.",
-      "There have been several instances of theft in the neighborhood.",
-      "I can think of an instance where he was rude to me.",
-      "In many instances, the problem can be easily solved.",
-      "This is just another instance of his irresponsible behavior.",
     ],
   },
   {
@@ -27712,63 +27540,6 @@ const vocabData = [
     ],
   },
   {
-    word: "invective",
-    definition: "abusive or strongly critical language",
-    synonyms: [
-      "abuse",
-      "vituperation",
-      "denunciation",
-      "condemnation",
-      "criticism",
-    ],
-    exampleSentences: [
-      "His invective against his former employer made the news.",
-      "The politician's invective against his opponent was harsh.",
-      "The author's invective against the government was widely criticized.",
-      "The coach's invective against the referee got him ejected from the game.",
-      "The critic's invective against the movie was scathing.",
-    ],
-  },
-  {
-    word: "inveigh",
-    definition:
-      "to speak or write about something with great hostility; to protest strongly",
-    synonyms: ["denounce", "condemn", "criticize", "attack", "rail against"],
-    exampleSentences: [
-      "He inveighed against the government's policies for hours.",
-      "The speaker inveighed against the injustices faced by minorities.",
-      "The editorial inveighed against the company's unethical practices.",
-      "The activist inveighed against the destruction of the environment.",
-      "The politician inveighed against his opponent's record.",
-    ],
-  },
-  {
-    word: "inveigle",
-    definition:
-      "to persuade or influence someone to do something through deception or flattery",
-    synonyms: ["entice", "coax", "wheedle", "seduce", "beguile"],
-    exampleSentences: [
-      "He tried to inveigle me into giving him my password.",
-      "She inveigled her way into the company by pretending to be someone she wasn't.",
-      "The salesman inveigled the customer into buying a more expensive product.",
-      "The politician inveigled the public with his charismatic speeches.",
-      "He was inveigled into signing a contract without reading it carefully.",
-    ],
-  },
-  {
-    word: "inveterate",
-    definition:
-      "having a particular habit, activity, or interest that is long-established and unlikely to change.",
-    synonyms: ["habitual", "chronic", "deep-rooted", "entrenched", "fixed"],
-    exampleSentences: [
-      "He was an inveterate smoker who had been smoking for over 40 years.",
-      "She was an inveterate gambler who couldn't resist the lure of the casino.",
-      "Despite his best efforts, he remained an inveterate procrastinator.",
-      "The inveterate bachelor finally decided to settle down and get married.",
-      "She was an inveterate traveler who had been to every continent.",
-    ],
-  },
-  {
     word: "invidious",
     definition:
       "likely to arouse or incur resentment or anger in others; unfairly discriminating; envious",
@@ -27840,57 +27611,6 @@ const vocabData = [
       "During the yoga class, the instructor began with an invocation to set the tone for the practice.",
       "The coach gave an invocation before the big game, asking for strength and guidance for the team.",
       "In some cultures, an invocation is performed before a meal to give thanks for the food.",
-    ],
-  },
-  {
-    word: "involucre",
-    definition:
-      "a whorl or rosette of bracts surrounding the base of a flower or flower cluster",
-    synonyms: ["bract", "spathe", "scale", "floral envelope"],
-    exampleSentences: [
-      "The involucre of the sunflower protects the developing seeds.",
-      "The involucre of the daisy is made up of small green leaves.",
-      "The involucre of the artichoke is edible and often used in cooking.",
-      "The involucre of the pineapple is made up of tightly packed bracts.",
-      "The involucre of the Echinacea flower is often used in herbal medicine.",
-    ],
-  },
-  {
-    word: "involved",
-    definition:
-      "having a close relationship or connection with something; participating actively or intimately in something",
-    synonyms: ["connected", "engaged", "embroiled", "entangled", "associated"],
-    exampleSentences: [
-      "She was deeply involved in the project.",
-      "He became involved in local politics.",
-      "I don't want to get involved in their argument.",
-      "The company is involved in several charitable organizations.",
-      "The police are involved in the investigation.",
-    ],
-  },
-  {
-    word: "ipecac",
-    definition:
-      "a medicinal substance derived from the dried rhizome and roots of the ipecacuanha plant, used to induce vomiting or relieve nausea",
-    synonyms: ["ipecacuanha", "emetine", "vomit-inducing drug"],
-    exampleSentences: [
-      "The doctor prescribed ipecac to help the patient vomit out the poison.",
-      "Ipecac is commonly used to treat food poisoning.",
-      "The nurse administered ipecac to the patient who was feeling nauseous.",
-      "The child drank ipecac to induce vomiting after accidentally swallowing a harmful substance.",
-      "Ipecac is a potent emetic that should only be taken under medical supervision.",
-    ],
-  },
-  {
-    word: "irascible",
-    definition: "easily provoked to anger; very irritable",
-    synonyms: ["hot-tempered", "testy", "cranky", "cantankerous", "grumpy"],
-    exampleSentences: [
-      "His irascible nature made it difficult to work with him.",
-      "The old man was known for his irascible behavior.",
-      "She was feeling particularly irascible after a long day at work.",
-      "I try to avoid getting into arguments with my irascible neighbor.",
-      "His irascible temperament often got him into trouble.",
     ],
   },
   {
@@ -28029,19 +27749,6 @@ const vocabData = [
     ],
   },
   {
-    word: "issue",
-    definition:
-      "a subject or problem that people are thinking and talking about",
-    synonyms: ["topic", "subject", "matter", "concern", "problem"],
-    exampleSentences: [
-      "The issue of climate change has become more urgent than ever.",
-      "The candidates debated various issues, including healthcare and immigration.",
-      "The company is facing financial issues and may have to lay off employees.",
-      "We need to address the issue of gun violence in our communities.",
-      "There are many complex issues to consider when it comes to international trade.",
-    ],
-  },
-  {
     word: "itinerant",
     definition:
       "traveling from place to place, especially on a circuit, or as part of a job or mission.",
@@ -28052,55 +27759,6 @@ const vocabData = [
       "The itinerant salesman visited several cities each week to sell his product.",
       "The itinerant worker moved from job to job to make ends meet.",
       "The itinerant artist displayed her paintings in galleries around the world.",
-    ],
-  },
-  {
-    word: "izzard",
-    definition: "the letter z",
-    synonyms: ["zee", "zed", "zeta"],
-    exampleSentences: [
-      "The word 'hazard' starts with an izzard.",
-      "In British English, the letter 'z' is often called 'zed' instead of 'izzard'.",
-      "I always forget how to write the cursive izzard.",
-      "The word 'pizza' has two izzards in it.",
-      "The izzard is the last letter in the English alphabet.",
-    ],
-  },
-  {
-    word: "jabber",
-    definition: "to talk rapidly and in a senseless manner; to chatter",
-    synonyms: ["prattle", "gab", "chatter", "babble", "ramble"],
-    exampleSentences: [
-      "She jabbered on and on about her vacation.",
-      "The children were jabbering excitedly about the upcoming trip.",
-      "I couldn't understand what the salesman was jabbering about.",
-      "He jabbered incoherently after drinking too much.",
-      "The monkeys in the zoo jabbered loudly at each other.",
-    ],
-  },
-  {
-    word: "jabberwocky",
-    definition: "invented or meaningless language; nonsense",
-    synonyms: ["gibberish", "nonsense", "balderdash", "drivel", "gobbledygook"],
-    exampleSentences: [
-      "The politician's speech was filled with jabberwocky.",
-      "I couldn't understand a word he was saying; it was all just jabberwocky to me.",
-      "The toddler babbled on in jabberwocky as his parents tried to decipher his words.",
-      "The comedian's routine was filled with jabberwocky that had the audience in stitches.",
-      "The professor's lecture was so full of technical terms that it sounded like jabberwocky to the students.",
-    ],
-  },
-  {
-    word: "jacinth",
-    definition:
-      "a reddish-orange or yellow variety of zircon used as a gemstone",
-    synonyms: ["hyacinth", "orange zircon", "yellow zircon"],
-    exampleSentences: [
-      "She wore a beautiful necklace with a jacinth pendant.",
-      "The jacinth in her ring sparkled in the sunlight.",
-      "The king's crown was decorated with jacinths.",
-      "The jeweler showed me a selection of jacinth gems.",
-      "The jacinth in his earring matched the color of his shirt.",
     ],
   },
   {
@@ -28142,19 +27800,6 @@ const vocabData = [
     ],
   },
   {
-    word: "jawbone",
-    definition:
-      "the bone that forms the framework of the mouth and contains the teeth; the mandible or maxilla",
-    synonyms: ["mandible", "maxilla", "jaw", "lower jaw", "upper jaw"],
-    exampleSentences: [
-      "He broke his jawbone in a skiing accident.",
-      "The dentist examined her jawbone for signs of decay.",
-      "The forensic expert identified the victim by analyzing the jawbone.",
-      "The hunter found a deer jawbone in the woods.",
-      "The wrestler was hit in the jawbone and lost a tooth.",
-    ],
-  },
-  {
     word: "jaywalk",
     definition:
       "to cross a street or road in a reckless or illegal manner, disregarding traffic signals and the rules of the road",
@@ -28173,21 +27818,6 @@ const vocabData = [
       "Jaywalking can result in serious accidents and injuries.",
     ],
   },
-  {
-    word: "jejune",
-    definition: "lacking interest or significance, immature, simplistic",
-    synonyms: ["immature", "childish", "puerile", "trite", "banal"],
-    exampleSentences: [
-      "The book was criticized for its jejune plot.",
-      "His argument was dismissed as jejune by the experts.",
-      "The professor found the student's thesis to be jejune and unoriginal.",
-      "The movie's jejune humor did not appeal to the sophisticated audience.",
-      "The artist's work was criticized as being too jejune and simplistic.",
-    ],
-  },
-  /**
-   * Bookmark: continue moving upward from this point, removing useless words
-   */
   {
     word: "jeopardy",
     definition: "danger of loss, harm, or failure; risk; peril",
