@@ -3,7 +3,7 @@ const vocabList = [
   {
     word: "abase",
     definition: "to lower in rank, esteem, or dignity; to humble or degrade",
-    synonyms: ["humiliate", "belittle", "debase", "degrade", "reduce"],
+    synonyms: ["humiliate", "belittle", "debase", "demean", "reduce"],
     exampleSentences: [
       "He abased himself before the king.",
       "She felt abased by the insults hurled at her.",
@@ -29,7 +29,7 @@ const vocabList = [
     word: "abate",
     definition:
       "to become less in amount or intensity; to decrease or diminish",
-    synonyms: ["subside", "diminish", "lessen", "decline", "weaken"],
+    synonyms: ["subside", "dwindle", "ebb", "recede", "wane"],
     exampleSentences: [
       "The storm began to abate as the night wore on.",
       "The pain in my foot finally started to abate after a few days.",
@@ -42,7 +42,7 @@ const vocabList = [
     word: "abdicate",
     definition:
       "to renounce or relinquish a throne, high office, dignity, or function",
-    synonyms: ["resign", "step down", "give up", "surrender", "relinquish"],
+    synonyms: ["resign", "abjure", "forgo", "vacate", "step down"],
     exampleSentences: [
       "The king was forced to abdicate his throne.",
       "The CEO decided to abdicate his position.",
@@ -80,7 +80,7 @@ const vocabList = [
     word: "abet",
     definition:
       "to encourage or assist (someone) to do something wrong, in particular, to commit a crime or other offense",
-    synonyms: ["aid", "assist", "promote", "incite", "encourage"],
+    synonyms: ["instigate", "condone", "provoke", "incite"],
     exampleSentences: [
       "He was charged with aiding and abetting the robbers.",
       "The boss was accused of abetting illegal activity.",
@@ -92,7 +92,14 @@ const vocabList = [
   {
     word: "abeyance",
     definition: "a state of temporary disuse or suspension",
-    synonyms: ["suspension", "dormancy", "inactivity", "quiescence", "hiatus"],
+    synonyms: [
+      "recess",
+      "dormancy",
+      "inactivity",
+      "quiescence",
+      "hiatus",
+      "intermission",
+    ],
     exampleSentences: [
       "The project was put in abeyance until further notice.",
       "The company's operations were held in abeyance during the pandemic.",
@@ -123,7 +130,14 @@ const vocabList = [
     word: "abide",
     definition:
       "to accept or act in accordance with (a rule, decision, or recommendation); to tolerate or endure; to remain stable or fixed in a particular state",
-    synonyms: ["comply with", "follow", "adhere to", "endure", "tolerate"],
+    synonyms: [
+      "comply with",
+      "follow",
+      "adhere to",
+      "stand for",
+      "concede",
+      "defer",
+    ],
     exampleSentences: [
       "I will abide by the rules.",
       "He cannot abide her constant complaining.",
@@ -148,7 +162,7 @@ const vocabList = [
   {
     word: "abjure",
     definition: "to formally renounce or reject a belief or claim",
-    synonyms: ["renounce", "relinquish", "repudiate", "forswear", "disavow"],
+    synonyms: ["recant", "renege", "repudiate", "forswear", "disavow"],
     exampleSentences: [
       "After years of supporting the political party, he decided to abjure it.",
       "She abjured her allegiance to the cult after realizing its harmful practices.",
@@ -161,7 +175,7 @@ const vocabList = [
     word: "abnegate",
     definition:
       "to renounce or reject (something desired or valuable); to deny oneself (something); to relinquish or give up (a right, belief, or claim)",
-    synonyms: ["renounce", "reject", "forfeit", "relinquish", "waive"],
+    synonyms: ["forgo", "abstain", "forfeit", "refrain", "waive"],
     exampleSentences: [
       "He had to abnegate all his worldly possessions to become a monk.",
       "She chose to abnegate her own desires for the sake of her family.",
@@ -171,27 +185,16 @@ const vocabList = [
     ],
   },
   {
-    word: "abnegation",
-    definition: "the act of renouncing or rejecting something; self-denial",
-    synonyms: [
-      "renunciation",
-      "relinquishment",
-      "self-denial",
-      "self-abnegation",
-      "self-sacrifice",
-    ],
-    exampleSentences: [
-      "His abnegation of his own desires allowed him to focus on his responsibilities.",
-      "The monk practiced abnegation as a way to achieve enlightenment.",
-      "Her abnegation of material possessions impressed her friends.",
-      "The athlete showed great abnegation by training tirelessly every day.",
-      "Abnegation of power was seen as a virtuous act by the philosopher.",
-    ],
-  },
-  {
     word: "abode",
     definition: "a place of residence; a house or home",
-    synonyms: ["residence", "dwelling", "habitation", "domicile", "lodging"],
+    synonyms: [
+      "quarters",
+      "dwelling",
+      "habitat",
+      "domicile",
+      "base",
+      "lodging",
+    ],
     exampleSentences: [
       "I have lived in my abode for over ten years.",
       "Her abode was a small apartment in the city.",
@@ -203,7 +206,7 @@ const vocabList = [
   {
     word: "abominable",
     definition: "causing moral revulsion; very bad or unpleasant.",
-    synonyms: ["detestable", "hateful", "horrible", "despicable", "repulsive"],
+    synonyms: ["detestable", "hateful", "loathful", "despicable", "repulsive"],
     exampleSentences: [
       "The abominable crime of murder.",
       "The weather was abominable.",
@@ -213,23 +216,10 @@ const vocabList = [
     ],
   },
   {
-    word: "abomination",
-    definition:
-      "a thing that causes disgust or hatred; a feeling of hatred; the act of being disgusting or causing hatred",
-    synonyms: ["abhorrence", "disgust", "loathing", "detestation", "horror"],
-    exampleSentences: [
-      "The way he treated his employees was an abomination.",
-      "The thought of eating bugs is an abomination to me.",
-      "The conditions in the sweatshop were an abomination to human rights.",
-      "The way she spoke to her mother was an abomination.",
-      "The pollution in the river is an abomination to the environment.",
-    ],
-  },
-  {
     word: "abrade",
     definition:
-      "to wear away the surface or some part of something by friction; to scrape; to erode",
-    synonyms: ["scratch", "scrape", "grind", "wear down", "rub away"],
+      "to wear away the surface or some part of something by friction; to erode",
+    synonyms: ["scuff", "chafe", "grate", "wear down", "rub away"],
     exampleSentences: [
       "The rough surface of the sandpaper will abrade the wood.",
       "The constant rubbing of the rope against the rock caused it to abrade.",
@@ -242,7 +232,7 @@ const vocabList = [
     word: "abridge",
     definition:
       "to shorten or condense (a book, speech, etc.) without losing the sense",
-    synonyms: ["condense", "abbreviate", "shorten", "reduce", "truncate"],
+    synonyms: ["curtail", "abbreviate", "reduce", "truncate"],
     exampleSentences: [
       "The editor had to abridge the novel to fit it into the magazine.",
       "We need to abridge the meeting so that we can finish on time.",
@@ -284,7 +274,7 @@ const vocabList = [
   {
     word: "abrupt",
     definition: "sudden and unexpected; brief to the point of rudeness",
-    synonyms: ["unexpected", "abruptly", "sudden", "sharp", "terse"],
+    synonyms: ["brusque", "curt", "short", "direct", "gruff"],
     exampleSentences: [
       "He made an abrupt turn and walked away from her.",
       "The meeting came to an abrupt end when the fire alarm went off.",
@@ -353,7 +343,7 @@ const vocabList = [
     word: "abstain",
     definition:
       "to refrain from doing something, especially something enjoyable or pleasurable",
-    synonyms: ["refrain", "desist", "restrain oneself", "hold back", "forbear"],
+    synonyms: ["forgo", "desist", "restrain oneself", "withhold", "forbear"],
     exampleSentences: [
       "I have decided to abstain from drinking alcohol.",
       "He abstained from voting on the issue.",

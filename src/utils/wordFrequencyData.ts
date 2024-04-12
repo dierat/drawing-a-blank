@@ -2246,10 +2246,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.6,
   },
   {
-    word: "abnegation",
-    frequency: 1.73,
-  },
-  {
     word: "acrimonious",
     frequency: 1.73,
   },
@@ -7824,10 +7820,6 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "manifestation",
     frequency: 3.08,
-  },
-  {
-    word: "abomination",
-    frequency: 3.09,
   },
   {
     word: "abrupt",
