@@ -5219,6 +5219,19 @@ const vocabData = [
     ],
   },
   {
+    word: "bespoke",
+    definition:
+      "specially made for a particular person, organization, or purpose",
+    synonyms: ["custom-made", "custom-fit"],
+    exampleSentences: [
+      "What's needed, he says, is a bespoke approach for each bank or payment provider.",
+      "Inside, patrons can sip on bespoke whisky and coffee while getting that buffed and polished look.",
+      "As their name implies, they devised bespoke tools and techniques for breaking into computers.",
+      "At that point, you may as well consider ordering a bespoke suit.",
+      "We need a bespoke icon, made to fit our specific needs, because there are no viable out-of-the-box options for this use case.",
+    ],
+  },
+  {
     word: "bestow",
     definition: "to give as a gift or honor; to present",
     synonyms: ["confer", "grant", "award", "endow", "donate"],
