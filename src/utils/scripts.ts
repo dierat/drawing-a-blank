@@ -92,24 +92,24 @@ const runAllChecks = () => {
   //   );
   // }
 
-  const hasSynonymInDefinition: Array<string> = [];
-  vocabList.forEach((word) => {
-    const { definition, synonyms } = word;
+  // const hasSynonymInDefinition: Array<string> = [];
+  // vocabList.forEach((word) => {
+  //   const { definition, synonyms } = word;
 
-    for (let index = 0; index < synonyms.length; index++) {
-      const synonym = synonyms[index];
-      if (definition.includes(synonym)) {
-        hasSynonymInDefinition.push(word.word);
-        // Skip the rest of the synonyms; there might be more than one
-        // synonym in the definition, but that's not important now
-        break;
-      }
-    }
-  });
-  console.log(
-    "These words have a synonym in the definition: ",
-    JSON.stringify(hasSynonymInDefinition, null, 2)
-  );
+  //   for (let index = 0; index < synonyms.length; index++) {
+  //     const synonym = synonyms[index];
+  //     if (definition.includes(synonym)) {
+  //       hasSynonymInDefinition.push(word.word);
+  //       // Skip the rest of the synonyms; there might be more than one
+  //       // synonym in the definition, but that's not important now
+  //       break;
+  //     }
+  //   }
+  // });
+  // console.log(
+  //   "These words have a synonym in the definition: ",
+  //   JSON.stringify(hasSynonymInDefinition, null, 2)
+  // );
 };
 
 export default runAllChecks;
