@@ -1,0 +1,40 @@
+.form {
+  width: 100%;
+}
+
+.heading {
+  font-size: 1.5rem;
+  margin-bottom: 12px;
+}
+
+.wordInput {
+  display: none;
+}
+
+.inputFields {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 4px;
+}
+
+.input {
+  max-width: 400px;
+}
+
+/* TODO: add breakpoint variables */
+/* TODO: maybe add this to global styles */
+@media screen and (max-width: 600px) {
+  .input{
+    max-width: 100%;
+  }
+}
+
+.submit {
+  display: block;
+}

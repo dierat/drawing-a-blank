@@ -1,4 +1,6 @@
 .main {
+  margin: 0 auto;
+  max-width: 896px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
