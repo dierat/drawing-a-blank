@@ -195,11 +195,6 @@ const wordFrequencyData: Array<WordData> = [
     notes: "very cool word",
   },
   {
-    word: "flowed",
-    frequency: -1,
-    notes: "may actually be too common",
-  },
-  {
     word: "flummoxed",
     frequency: -1,
     notes: "pretty commong actually",
@@ -225,11 +220,7 @@ const wordFrequencyData: Array<WordData> = [
     notes: "useful",
   },
   {
-    word: "cools",
-    frequency: -1,
-  },
-  {
-    word: "indeptitude",
+    word: "ineptitude",
     frequency: -1,
   },
   {
@@ -237,15 +228,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: -1,
   },
   {
-    word: "ingénue",
-    frequency: -1,
-  },
-  {
     word: "infructuous",
-    frequency: -1,
-  },
-  {
-    word: "kvell",
     frequency: -1,
   },
   {
@@ -261,19 +244,11 @@ const wordFrequencyData: Array<WordData> = [
     frequency: -1,
   },
   {
-    word: "marchwarden",
-    frequency: -1,
-  },
-  {
     word: "lauded",
     frequency: -1,
   },
   {
     word: "metanoia",
-    frequency: -1,
-  },
-  {
-    word: "jentacular",
     frequency: -1,
   },
   {
@@ -285,15 +260,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: -1,
   },
   {
-    word: "minished",
-    frequency: -1,
-  },
-  {
     word: "limerence",
-    frequency: -1,
-  },
-  {
-    word: "lustihead",
     frequency: -1,
   },
   {
@@ -301,27 +268,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: -1,
   },
   {
-    word: "kakorrhaphiophobia",
-    frequency: -1,
-  },
-  {
-    word: "liever",
-    frequency: -1,
-  },
-  {
-    word: "lalochezia",
-    frequency: -1,
-  },
-  {
-    word: "meldrop",
-    frequency: -1,
-  },
-  {
     word: "meraki",
-    frequency: -1,
-  },
-  {
-    word: "lagom",
     frequency: -1,
   },
   {
@@ -375,10 +322,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "adumbrate",
-    frequency: 0,
-  },
-  {
-    word: "adventitious",
     frequency: 0,
   },
   {
@@ -510,10 +453,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "bannock",
-    frequency: 0,
-  },
-  {
     word: "baronial",
     frequency: 0,
   },
@@ -635,10 +574,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "capacious",
-    frequency: 0,
-  },
-  {
-    word: "captious",
     frequency: 0,
   },
   {
@@ -863,10 +798,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "deliquesce",
-    frequency: 0,
-  },
-  {
-    word: "deliquescent",
     frequency: 0,
   },
   {
@@ -1211,10 +1142,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "febrifuge",
-    frequency: 0,
-  },
-  {
-    word: "fescue",
     frequency: 0,
   },
   {
@@ -1594,14 +1521,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "jiqui",
-    frequency: 0,
-  },
-  {
-    word: "jitney",
-    frequency: 0,
-  },
-  {
     word: "jocular",
     frequency: 0,
   },
@@ -1611,10 +1530,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "juvenescent",
-    frequency: 0,
-  },
-  {
-    word: "kanaf",
     frequency: 0,
   },
   {
@@ -1639,10 +1554,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "kinesthetic",
-    frequency: 0,
-  },
-  {
-    word: "klebsiella",
     frequency: 0,
   },
   {
@@ -1759,10 +1670,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "lygaeid",
-    frequency: 0,
-  },
-  {
-    word: "lyssavirus",
     frequency: 0,
   },
   {
@@ -3390,10 +3297,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.03,
   },
   {
-    word: "carioca",
-    frequency: 2.03,
-  },
-  {
     word: "churlish",
     frequency: 2.03,
   },
@@ -3507,10 +3410,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "kerfuffle",
-    frequency: 2.03,
-  },
-  {
-    word: "kissable",
     frequency: 2.03,
   },
   {
@@ -7342,10 +7241,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.94,
   },
   {
-    word: "advert",
-    frequency: 2.94,
-  },
-  {
     word: "appease",
     frequency: 2.94,
   },
@@ -9234,10 +9129,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.85,
   },
   {
-    word: "flowing",
-    frequency: 3.85,
-  },
-  {
     word: "intimate",
     frequency: 3.85,
   },
@@ -9263,10 +9154,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "glorious",
-    frequency: 3.9,
-  },
-  {
-    word: "meter",
     frequency: 3.9,
   },
   {
@@ -9706,10 +9593,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.92,
   },
   {
-    word: "kiss",
-    frequency: 5.08,
-  },
-  {
     word: "minute",
     frequency: 5.35,
   },
@@ -9718,23 +9601,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 5.52,
   },
   {
-    word: "love",
-    frequency: 6.1,
-  },
-  {
     word: "nagware",
-    frequency: -1,
-  },
-  {
-    word: "nebulochaotic",
-    frequency: -1,
-  },
-  {
-    word: "novaturient",
-    frequency: -1,
-  },
-  {
-    word: "nudiustertian",
     frequency: -1,
   },
   {
@@ -9742,27 +9609,11 @@ const wordFrequencyData: Array<WordData> = [
     frequency: -1,
   },
   {
-    word: "octothorpe",
-    frequency: -1,
-  },
-  {
     word: "occhiolism",
     frequency: -1,
   },
   {
-    word: "omnishambles",
-    frequency: -1,
-  },
-  {
     word: "pluviophile",
-    frequency: -1,
-  },
-  {
-    word: "potamophilous",
-    frequency: -1,
-  },
-  {
-    word: "peiskos",
     frequency: -1,
   },
   {
@@ -9774,15 +9625,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: -1,
   },
   {
-    word: "opia",
-    frequency: -1,
-  },
-  {
     word: "parado",
-    frequency: -1,
-  },
-  {
-    word: "peristeronic",
     frequency: -1,
   },
   {
@@ -9790,28 +9633,8 @@ const wordFrequencyData: Array<WordData> = [
     frequency: -1,
   },
   {
-    word: "peely-wally",
-    frequency: -1,
-  },
-  {
-    word: "plethor",
-    frequency: -1,
-  },
-  {
-    word: "pot-valor",
-    frequency: -1,
-  },
-  {
     word: "plenilune",
     frequency: -1,
-  },
-  {
-    word: "panace",
-    frequency: -1,
-  },
-  {
-    word: "munj",
-    frequency: 0,
   },
   {
     word: "murmurous",
@@ -10079,10 +9902,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "phosphene",
-    frequency: 0,
-  },
-  {
-    word: "pibroch",
     frequency: 0,
   },
   {
@@ -11702,10 +11521,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.42,
   },
   {
-    word: "piano",
-    frequency: 4.46,
-  },
-  {
     word: "plus",
     frequency: 4.63,
   },
@@ -11718,10 +11533,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.7,
   },
   {
-    word: "murder",
-    frequency: 4.95,
-  },
-  {
     word: "peace",
     frequency: 4.96,
   },
@@ -11730,7 +11541,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: -1,
   },
   {
-    word: "quintessentia",
+    word: "quintessential",
     frequency: -1,
   },
   {
@@ -11750,59 +11561,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: -1,
   },
   {
-    word: "sarmie",
-    frequency: -1,
-  },
-  {
-    word: "scintill",
-    frequency: -1,
-  },
-  {
-    word: "skosh",
-    frequency: -1,
-  },
-  {
-    word: "sanguin",
-    frequency: -1,
-  },
-  {
-    word: "rumper",
-    frequency: -1,
-  },
-  {
-    word: "rugrat",
-    frequency: -1,
-  },
-  {
-    word: "rondured",
-    frequency: -1,
-  },
-  {
-    word: "schwellenangst",
-    frequency: -1,
-  },
-  {
-    word: "scrumdiddlyumptious",
-    frequency: -1,
-  },
-  {
-    word: "scumptious",
-    frequency: -1,
-  },
-  {
-    word: "selcouth",
-    frequency: -1,
-  },
-  {
     word: "skeevy",
-    frequency: -1,
-  },
-  {
-    word: "seamews",
-    frequency: -1,
-  },
-  {
-    word: "serendipit",
     frequency: -1,
   },
   {
@@ -12066,10 +11825,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "rodomontade",
-    frequency: 0,
-  },
-  {
     word: "roseate",
     frequency: 0,
   },
@@ -12106,35 +11861,11 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "sapid",
-    frequency: 0,
-  },
-  {
     word: "sapient",
     frequency: 0,
   },
   {
-    word: "sarsenet",
-    frequency: 0,
-  },
-  {
-    word: "sartorial",
-    frequency: 0,
-  },
-  {
     word: "satisfice",
-    frequency: 0,
-  },
-  {
-    word: "saturnine",
-    frequency: 0,
-  },
-  {
-    word: "schtikl",
-    frequency: 0,
-  },
-  {
-    word: "schwa",
     frequency: 0,
   },
   {
@@ -12146,23 +11877,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "scrofulous",
-    frequency: 0,
-  },
-  {
-    word: "scunner",
-    frequency: 0,
-  },
-  {
-    word: "sedulous",
-    frequency: 0,
-  },
-  {
     word: "selenite",
-    frequency: 0,
-  },
-  {
-    word: "sempiternal",
     frequency: 0,
   },
   {
@@ -12206,14 +11921,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "skulduggery",
-    frequency: 0,
-  },
-  {
-    word: "skullduggery",
-    frequency: 0,
-  },
-  {
     word: "propinquity",
     frequency: 1.6,
   },
@@ -12243,10 +11950,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "rede",
-    frequency: 1.6,
-  },
-  {
-    word: "saucier",
     frequency: 1.6,
   },
   {
@@ -12294,10 +11997,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.73,
   },
   {
-    word: "slipshod",
-    frequency: 1.73,
-  },
-  {
     word: "prurient",
     frequency: 1.82,
   },
@@ -12335,14 +12034,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "sallow",
-    frequency: 1.82,
-  },
-  {
-    word: "scalawag",
-    frequency: 1.82,
-  },
-  {
-    word: "scion",
     frequency: 1.82,
   },
   {
@@ -12470,10 +12161,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.03,
   },
   {
-    word: "scuttlebutt",
-    frequency: 2.03,
-  },
-  {
     word: "sedentary",
     frequency: 2.03,
   },
@@ -12491,10 +12178,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "purveyor",
-    frequency: 2.08,
-  },
-  {
-    word: "ragamuffin",
     frequency: 2.08,
   },
   {
@@ -12567,10 +12250,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "rove",
-    frequency: 2.17,
-  },
-  {
-    word: "slapdash",
     frequency: 2.17,
   },
   {
@@ -12679,10 +12358,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "salient",
-    frequency: 2.3,
-  },
-  {
-    word: "scatterbrain",
     frequency: 2.3,
   },
   {
@@ -13226,10 +12901,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.9,
   },
   {
-    word: "riffraff",
-    frequency: 2.9,
-  },
-  {
     word: "sable",
     frequency: 2.9,
   },
@@ -13590,10 +13261,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.59,
   },
   {
-    word: "rail",
-    frequency: 3.65,
-  },
-  {
     word: "reckless",
     frequency: 3.65,
   },
@@ -13650,14 +13317,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.87,
   },
   {
-    word: "rainbow",
-    frequency: 3.91,
-  },
-  {
-    word: "ruth",
-    frequency: 3.93,
-  },
-  {
     word: "rumor",
     frequency: 3.98,
   },
@@ -13680,10 +13339,6 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "reckon",
     frequency: 4.12,
-  },
-  {
-    word: "scale",
-    frequency: 4.15,
   },
   {
     word: "purse",
@@ -13726,10 +13381,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 5.04,
   },
   {
-    word: "save",
-    frequency: 5.22,
-  },
-  {
     word: "snatched",
     frequency: -1,
   },
@@ -13742,27 +13393,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: -1,
   },
   {
-    word: "solitud",
-    frequency: -1,
-  },
-  {
-    word: "spaghettification",
-    frequency: -1,
-  },
-  {
-    word: "soulmate",
-    frequency: -1,
-  },
-  {
     word: "statagem",
-    frequency: -1,
-  },
-  {
-    word: "turducken",
-    frequency: -1,
-  },
-  {
-    word: "tittynope",
     frequency: -1,
   },
   {
@@ -13774,19 +13405,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: -1,
   },
   {
-    word: "suaded",
-    frequency: -1,
-  },
-  {
-    word: "toss-pot",
-    frequency: -1,
-  },
-  {
     word: "stiction",
-    frequency: -1,
-  },
-  {
-    word: "tappen",
     frequency: -1,
   },
   {
@@ -13799,10 +13418,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "tartle",
-    frequency: -1,
-  },
-  {
-    word: "taniwha",
     frequency: -1,
   },
   {
@@ -13822,107 +13437,11 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "snollygoster",
-    frequency: 0,
-  },
-  {
-    word: "sobriquet",
-    frequency: 0,
-  },
-  {
-    word: "sockdolager",
-    frequency: 0,
-  },
-  {
-    word: "soffit",
-    frequency: 0,
-  },
-  {
-    word: "solander",
-    frequency: 0,
-  },
-  {
-    word: "solecism",
-    frequency: 0,
-  },
-  {
-    word: "somnambulism",
-    frequency: 0,
-  },
-  {
-    word: "somniferous",
-    frequency: 0,
-  },
-  {
     word: "sororal",
     frequency: 0,
   },
   {
     word: "spellbind",
-    frequency: 0,
-  },
-  {
-    word: "sphacelate",
-    frequency: 0,
-  },
-  {
-    word: "spinney",
-    frequency: 0,
-  },
-  {
-    word: "spitchcock",
-    frequency: 0,
-  },
-  {
-    word: "sprent",
-    frequency: 0,
-  },
-  {
-    word: "sprightliness",
-    frequency: 0,
-  },
-  {
-    word: "spurrier",
-    frequency: 0,
-  },
-  {
-    word: "stentorian",
-    frequency: 0,
-  },
-  {
-    word: "sternutatory",
-    frequency: 0,
-  },
-  {
-    word: "stochastic",
-    frequency: 0,
-  },
-  {
-    word: "straightway",
-    frequency: 0,
-  },
-  {
-    word: "straitly",
-    frequency: 0,
-  },
-  {
-    word: "striate",
-    frequency: 0,
-  },
-  {
-    word: "struthious",
-    frequency: 0,
-  },
-  {
-    word: "stultify",
-    frequency: 0,
-  },
-  {
-    word: "stylite",
-    frequency: 0,
-  },
-  {
-    word: "suasible",
     frequency: 0,
   },
   {
@@ -13934,43 +13453,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "superannuated",
-    frequency: 0,
-  },
-  {
-    word: "supernumerary",
-    frequency: 0,
-  },
-  {
     word: "suppliant",
-    frequency: 0,
-  },
-  {
-    word: "susquehanna",
-    frequency: 0,
-  },
-  {
-    word: "susurrate",
-    frequency: 0,
-  },
-  {
-    word: "susurration",
-    frequency: 0,
-  },
-  {
-    word: "susurrous",
-    frequency: 0,
-  },
-  {
-    word: "susurrus",
-    frequency: 0,
-  },
-  {
-    word: "suzerain",
-    frequency: 0,
-  },
-  {
-    word: "sybarite",
     frequency: 0,
   },
   {
@@ -13982,35 +13465,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "sylph",
-    frequency: 0,
-  },
-  {
     word: "synecdoche",
-    frequency: 0,
-  },
-  {
-    word: "syzygy",
-    frequency: 0,
-  },
-  {
-    word: "talaria",
-    frequency: 0,
-  },
-  {
-    word: "taradiddle",
-    frequency: 0,
-  },
-  {
-    word: "tchotchke",
-    frequency: 0,
-  },
-  {
-    word: "tchotchkeleh",
-    frequency: 0,
-  },
-  {
-    word: "teleological",
     frequency: 0,
   },
   {
@@ -14018,31 +13473,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "tenebrionid",
-    frequency: 0,
-  },
-  {
     word: "tenebrous",
-    frequency: 0,
-  },
-  {
-    word: "tenosynovitis",
-    frequency: 0,
-  },
-  {
-    word: "tercet",
-    frequency: 0,
-  },
-  {
-    word: "terrapin",
-    frequency: 0,
-  },
-  {
-    word: "thalweg",
-    frequency: 0,
-  },
-  {
-    word: "thenceforward",
     frequency: 0,
   },
   {
@@ -14054,27 +13485,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "thrawn",
-    frequency: 0,
-  },
-  {
-    word: "thrips",
-    frequency: 0,
-  },
-  {
     word: "throe",
-    frequency: 0,
-  },
-  {
-    word: "thromboembolism",
-    frequency: 0,
-  },
-  {
-    word: "thrombophlebitis",
-    frequency: 0,
-  },
-  {
-    word: "throve",
     frequency: 0,
   },
   {
@@ -14082,63 +13493,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "tintinnabulation",
-    frequency: 0,
-  },
-  {
-    word: "titivate",
-    frequency: 0,
-  },
-  {
-    word: "tocopherol",
-    frequency: 0,
-  },
-  {
-    word: "tokamak",
-    frequency: 0,
-  },
-  {
-    word: "tonsorial",
-    frequency: 0,
-  },
-  {
-    word: "toothsome",
-    frequency: 0,
-  },
-  {
-    word: "topsy-turvy",
-    frequency: 0,
-  },
-  {
-    word: "tracery",
-    frequency: 0,
-  },
-  {
-    word: "tractable",
-    frequency: 0,
-  },
-  {
-    word: "traduce",
-    frequency: 0,
-  },
-  {
-    word: "transposon",
-    frequency: 0,
-  },
-  {
-    word: "triskaidekaphobia",
-    frequency: 0,
-  },
-  {
-    word: "trouvaille",
-    frequency: 0,
-  },
-  {
     word: "tussock",
-    frequency: 0,
-  },
-  {
-    word: "tympani",
     frequency: 0,
   },
   {
@@ -14154,14 +13509,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "ulu",
-    frequency: 0,
-  },
-  {
-    word: "umbel",
-    frequency: 0,
-  },
-  {
     word: "umlaut",
     frequency: 0,
   },
@@ -14171,10 +13518,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "unbridged",
-    frequency: 0,
-  },
-  {
-    word: "undergird",
     frequency: 0,
   },
   {
@@ -14198,51 +13541,15 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "vagary",
-    frequency: 0,
-  },
-  {
-    word: "vaunt",
-    frequency: 0,
-  },
-  {
-    word: "velleity",
-    frequency: 0,
-  },
-  {
-    word: "venality",
-    frequency: 0,
-  },
-  {
-    word: "venial",
-    frequency: 0,
-  },
-  {
     word: "verdure",
     frequency: 0,
-  },
-  {
-    word: "snuggery",
-    frequency: 1.6,
   },
   {
     word: "splendiferous",
     frequency: 1.6,
   },
   {
-    word: "stolid",
-    frequency: 1.6,
-  },
-  {
     word: "stricture",
-    frequency: 1.6,
-  },
-  {
-    word: "suavity",
-    frequency: 1.6,
-  },
-  {
-    word: "swart",
     frequency: 1.6,
   },
   {
@@ -14251,10 +13558,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "trammel",
-    frequency: 1.6,
-  },
-  {
-    word: "trenchant",
     frequency: 1.6,
   },
   {
@@ -14282,10 +13585,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.73,
   },
   {
-    word: "subaltern",
-    frequency: 1.73,
-  },
-  {
     word: "surmount",
     frequency: 1.73,
   },
@@ -14310,10 +13609,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.73,
   },
   {
-    word: "turnkey",
-    frequency: 1.73,
-  },
-  {
     word: "umbrage",
     frequency: 1.73,
   },
@@ -14326,15 +13621,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.73,
   },
   {
-    word: "somnambulist",
-    frequency: 1.82,
-  },
-  {
     word: "stymie",
-    frequency: 1.82,
-  },
-  {
-    word: "styptic",
     frequency: 1.82,
   },
   {
@@ -14342,27 +13629,11 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.82,
   },
   {
-    word: "tachometer",
-    frequency: 1.82,
-  },
-  {
-    word: "teetotaller",
-    frequency: 1.82,
-  },
-  {
     word: "tenable",
     frequency: 1.82,
   },
   {
-    word: "theosophy",
-    frequency: 1.82,
-  },
-  {
     word: "transience",
-    frequency: 1.82,
-  },
-  {
-    word: "uxorious",
     frequency: 1.82,
   },
   {
@@ -14382,23 +13653,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.9,
   },
   {
-    word: "sward",
-    frequency: 1.9,
-  },
-  {
-    word: "tautology",
-    frequency: 1.9,
-  },
-  {
-    word: "tithe",
-    frequency: 1.9,
-  },
-  {
     word: "unabashed",
-    frequency: 1.9,
-  },
-  {
-    word: "unctuous",
     frequency: 1.9,
   },
   {
@@ -14412,10 +13667,6 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "vestige",
     frequency: 1.9,
-  },
-  {
-    word: "slowcoach",
-    frequency: 1.97,
   },
   {
     word: "sonorous",
@@ -14450,16 +13701,8 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.97,
   },
   {
-    word: "urbane",
-    frequency: 1.97,
-  },
-  {
     word: "verisimilitude",
     frequency: 1.97,
-  },
-  {
-    word: "sporran",
-    frequency: 2.03,
   },
   {
     word: "staid",
@@ -14510,10 +13753,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.08,
   },
   {
-    word: "switcheroo",
-    frequency: 2.08,
-  },
-  {
     word: "sycophant",
     frequency: 2.08,
   },
@@ -14530,14 +13769,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.08,
   },
   {
-    word: "troth",
-    frequency: 2.08,
-  },
-  {
-    word: "turgid",
-    frequency: 2.08,
-  },
-  {
     word: "verboten",
     frequency: 2.08,
   },
@@ -14547,14 +13778,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "strident",
-    frequency: 2.12,
-  },
-  {
-    word: "stygian",
-    frequency: 2.12,
-  },
-  {
-    word: "summery",
     frequency: 2.12,
   },
   {
@@ -14603,10 +13826,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "succinct",
-    frequency: 2.17,
-  },
-  {
-    word: "swarthy",
     frequency: 2.17,
   },
   {
@@ -14674,10 +13893,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.24,
   },
   {
-    word: "tarn",
-    frequency: 2.24,
-  },
-  {
     word: "teem",
     frequency: 2.24,
   },
@@ -14698,15 +13913,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.24,
   },
   {
-    word: "spate",
-    frequency: 2.27,
-  },
-  {
     word: "staccato",
-    frequency: 2.27,
-  },
-  {
-    word: "sublimate",
     frequency: 2.27,
   },
   {
@@ -14715,18 +13922,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "tacit",
-    frequency: 2.27,
-  },
-  {
-    word: "thither",
-    frequency: 2.27,
-  },
-  {
-    word: "tomfoolery",
-    frequency: 2.27,
-  },
-  {
-    word: "triumvirate",
     frequency: 2.27,
   },
   {
@@ -14739,10 +13934,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "sojourn",
-    frequency: 2.3,
-  },
-  {
-    word: "sprightly",
     frequency: 2.3,
   },
   {
@@ -14814,10 +14005,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.36,
   },
   {
-    word: "sortie",
-    frequency: 2.38,
-  },
-  {
     word: "teepee",
     frequency: 2.38,
   },
@@ -14831,10 +14018,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "tryst",
-    frequency: 2.38,
-  },
-  {
-    word: "unction",
     frequency: 2.38,
   },
   {
@@ -14862,10 +14045,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.4,
   },
   {
-    word: "venal",
-    frequency: 2.4,
-  },
-  {
     word: "studious",
     frequency: 2.43,
   },
@@ -14875,10 +14054,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "tureen",
-    frequency: 2.43,
-  },
-  {
-    word: "varmint",
     frequency: 2.43,
   },
   {
@@ -14907,10 +14082,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "suggestive",
-    frequency: 2.47,
-  },
-  {
-    word: "truncheon",
     frequency: 2.47,
   },
   {
@@ -15102,10 +14273,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.68,
   },
   {
-    word: "swag",
-    frequency: 2.69,
-  },
-  {
     word: "steadfast",
     frequency: 2.7,
   },
@@ -15124,10 +14291,6 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "swerve",
     frequency: 2.72,
-  },
-  {
-    word: "sprite",
-    frequency: 2.73,
   },
   {
     word: "stagger",
@@ -15330,10 +14493,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.03,
   },
   {
-    word: "tipsy",
-    frequency: 3.04,
-  },
-  {
     word: "tranquility",
     frequency: 3.04,
   },
@@ -15450,10 +14609,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.21,
   },
   {
-    word: "stump",
-    frequency: 3.22,
-  },
-  {
     word: "sonic",
     frequency: 3.23,
   },
@@ -15475,10 +14630,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "sob",
-    frequency: 3.27,
-  },
-  {
-    word: "sophomore",
     frequency: 3.27,
   },
   {
@@ -15530,16 +14681,8 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.38,
   },
   {
-    word: "spat",
-    frequency: 3.4,
-  },
-  {
     word: "unprecedented",
     frequency: 3.41,
-  },
-  {
-    word: "stem",
-    frequency: 3.43,
   },
   {
     word: "truce",
@@ -15698,10 +14841,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.14,
   },
   {
-    word: "smooth",
-    frequency: 4.2,
-  },
-  {
     word: "stock",
     frequency: 4.33,
   },
@@ -15718,14 +14857,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 4.52,
   },
   {
-    word: "sweetheart",
-    frequency: 4.73,
-  },
-  {
-    word: "straight",
-    frequency: 5.09,
-  },
-  {
     word: "waitron",
     frequency: -1,
   },
@@ -15738,19 +14869,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "vicissitude",
-    frequency: 0,
-  },
-  {
     word: "vincible",
-    frequency: 0,
-  },
-  {
-    word: "viol",
-    frequency: 0,
-  },
-  {
-    word: "vis-a-vis",
     frequency: 0,
   },
   {
@@ -15758,43 +14877,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "vituperation",
-    frequency: 0,
-  },
-  {
     word: "vivify",
-    frequency: 0,
-  },
-  {
-    word: "wafture",
-    frequency: 0,
-  },
-  {
-    word: "waggish",
-    frequency: 0,
-  },
-  {
-    word: "wain",
-    frequency: 0,
-  },
-  {
-    word: "wayzgoose",
-    frequency: 0,
-  },
-  {
-    word: "wellnigh",
-    frequency: 0,
-  },
-  {
-    word: "weregild",
-    frequency: 0,
-  },
-  {
-    word: "whelm",
-    frequency: 0,
-  },
-  {
-    word: "whereat",
     frequency: 0,
   },
   {
@@ -15802,59 +14885,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "whitethorn",
-    frequency: 0,
-  },
-  {
-    word: "willy-nilly",
-    frequency: 0,
-  },
-  {
-    word: "wittol",
-    frequency: 0,
-  },
-  {
-    word: "workaday",
-    frequency: 0,
-  },
-  {
-    word: "worrit",
-    frequency: 0,
-  },
-  {
-    word: "wowser",
-    frequency: 0,
-  },
-  {
-    word: "wreathe",
-    frequency: 0,
-  },
-  {
     word: "writhen",
-    frequency: 0,
-  },
-  {
-    word: "xanthic",
-    frequency: 0,
-  },
-  {
-    word: "xyloid",
-    frequency: 0,
-  },
-  {
-    word: "yarborough",
-    frequency: 0,
-  },
-  {
-    word: "yare",
-    frequency: 0,
-  },
-  {
-    word: "yawner",
-    frequency: 0,
-  },
-  {
-    word: "ylem",
     frequency: 0,
   },
   {
@@ -15886,10 +14917,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.6,
   },
   {
-    word: "waylay",
-    frequency: 1.6,
-  },
-  {
     word: "whorl",
     frequency: 1.6,
   },
@@ -15902,14 +14929,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.6,
   },
   {
-    word: "yearling",
-    frequency: 1.6,
-  },
-  {
-    word: "zestful",
-    frequency: 1.6,
-  },
-  {
     word: "gestating",
     frequency: 1.6,
   },
@@ -15919,10 +14938,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "voluminous",
-    frequency: 1.73,
-  },
-  {
-    word: "wangle",
     frequency: 1.73,
   },
   {
@@ -15962,15 +14977,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.82,
   },
   {
-    word: "whirlybird",
-    frequency: 1.82,
-  },
-  {
     word: "winnow",
-    frequency: 1.82,
-  },
-  {
-    word: "zaftig",
     frequency: 1.82,
   },
   {
@@ -15980,10 +14987,6 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "transmogrified",
     frequency: 1.82,
-  },
-  {
-    word: "vintner",
-    frequency: 1.9,
   },
   {
     word: "vitriolic",
@@ -16006,10 +15009,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.97,
   },
   {
-    word: "winsome",
-    frequency: 1.97,
-  },
-  {
     word: "zinfandel",
     frequency: 1.97,
   },
@@ -16018,15 +15017,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.03,
   },
   {
-    word: "wisecrack",
-    frequency: 2.03,
-  },
-  {
     word: "wizened",
-    frequency: 2.03,
-  },
-  {
-    word: "woebegone",
     frequency: 2.03,
   },
   {
@@ -16082,10 +15073,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.24,
   },
   {
-    word: "wold",
-    frequency: 2.24,
-  },
-  {
     word: "zealot",
     frequency: 2.24,
   },
@@ -16119,10 +15106,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "viscous",
-    frequency: 2.33,
-  },
-  {
-    word: "whirligig",
     frequency: 2.33,
   },
   {
@@ -16202,10 +15185,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.54,
   },
   {
-    word: "wisteria",
-    frequency: 2.56,
-  },
-  {
     word: "amenities",
     frequency: 2.57,
   },
@@ -16215,10 +15194,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "waver",
-    frequency: 2.59,
-  },
-  {
-    word: "windbag",
     frequency: 2.59,
   },
   {
@@ -16238,16 +15213,8 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 2.6,
   },
   {
-    word: "wherefore",
-    frequency: 2.62,
-  },
-  {
     word: "orthodontist",
     frequency: 2.64,
-  },
-  {
-    word: "whither",
-    frequency: 2.66,
   },
   {
     word: "voracious",
@@ -16430,10 +15397,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 3.39,
   },
   {
-    word: "eddy",
-    frequency: 3.45,
-  },
-  {
     word: "virtuous",
     frequency: 3.46,
   },
@@ -16459,10 +15422,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "wander",
-    frequency: 3.83,
-  },
-  {
-    word: "weigh",
     frequency: 3.83,
   },
   {
