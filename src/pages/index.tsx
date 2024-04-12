@@ -226,7 +226,7 @@ export default function Home() {
         </div>}
 
         {/* TODO: move to modal */}
-        <ContactForm/>
+        <ContactForm word={currentWordData.word} />
       </main>
     </>
   );

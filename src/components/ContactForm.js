@@ -5,7 +5,7 @@ import emailjs from "@emailjs/browser";
 // TODO: sanitize user-input data
 // TODO: add capta
 
-const ContactForm = () => {
+const ContactForm = ({ word }) => {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [stateMessage, setStateMessage] = useState(null);
   const sendEmail = (event) => {
@@ -16,7 +16,6 @@ const ContactForm = () => {
 
     emailjs
       .sendForm(
-        // TODO: rename these to mention emailjs
         process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID,
         process.env.NEXT_PUBLIC_EMAILJS_TEMPLATE_ID,
         event.target,
@@ -47,23 +46,27 @@ const ContactForm = () => {
   };
 
   /**
-   * - send the word as `word`
-   * - have a dropdown for the part of the entry that's wrong
-   *   - word, definition, example sentence, synonyms
-   *   - send that as `property`
-   *  - have an input field to describe what's wrong
-   *   - send that as `reason`
+   * - hide word input field
+   * - change property input to dropdown
+   * - make submit button work on enter from within the form
    */
+
+  console.log("word = ", word);
 
   return (
     <form onSubmit={sendEmail}>
-      {/* TODO: update to use fields relevant to this app, and then update the template in emailjs */}
-      <label>Name</label>
-      <input type="text" name="user_name" />
-      <label>Email</label>
-      <input type="email" name="user_email" />
-      <label>Message</label>
-      <textarea name="message" />
+      <legend>Please tell us what's wrong with this word entry, thanks!</legend>
+      {/* TODO: make this visually hidden */}
+      {/* This is just to be sent with the form, not for the user to change */}
+      <input type="text" name="word" value={word} aria-hidden />
+      {/* TODO: make this a dropdown */}
+      <label htmlFor="property">
+        What part of this entry should be fixed? (Word, definition, example
+        sentence, synonyms)
+      </label>
+      <input id="property" type="text" name="property" />
+      <label htmlFor="reason">What's wrong with it?</label>
+      <textarea id="reason" type="text" name="reason" />
       {/* TODO: hitting enter key in form doesn't submit */}
       <input type="submit" value="Send" disabled={isSubmitting} />
       {stateMessage && <p>{stateMessage}</p>}
