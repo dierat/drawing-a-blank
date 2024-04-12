@@ -26,6 +26,8 @@ const ContactForm = ({ word }) => {
         (result) => {
           setStateMessage("Message sent!");
           setIsSubmitting(false);
+          // Clears the form after sending the email
+          event.target.reset();
           // Hide the message after 5 seconds
           setTimeout(() => {
             setStateMessage(null);
@@ -41,9 +43,6 @@ const ContactForm = ({ word }) => {
           }, 5000);
         }
       );
-
-    // Clears the form after sending the email
-    event.target.reset();
   };
 
   /**
