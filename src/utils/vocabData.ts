@@ -44144,19 +44144,6 @@ const vocabList = [
     ],
   },
   {
-    word: "seraglio",
-    definition:
-      "the part of a Muslim household reserved for women; harem. A Turkish palace or harem.",
-    synonyms: ["harem", "women's quarters", "zenana", "gynaeceum", "palace"],
-    exampleSentences: [
-      "The sultan's wives lived in the seraglio and were not allowed to leave without permission.",
-      "The seraglio was guarded by eunuchs to ensure the safety and purity of the women.",
-      "The wealthy merchant had a seraglio in his home where his wives and daughters lived.",
-      "The sultan would often visit the seraglio to spend time with his wives and concubines.",
-      "The palace was known for its grand seraglio, which housed dozens of women and their attendants.",
-    ],
-  },
-  {
     word: "seraphic",
     definition:
       "of or relating to the highest ranks of the celestial beings in Jewish and Christian belief, characterized by intense light and the presence of God; angelic; pure; blissful",
@@ -44167,19 +44154,6 @@ const vocabList = [
       "The sunset painted the sky in a seraphic glow.",
       "The young girl had a seraphic innocence about her.",
       "Her voice had a seraphic quality that left the audience in awe.",
-    ],
-  },
-  {
-    word: "sere",
-    definition:
-      "dry or withered, especially in reference to vegetation; lacking interest, energy, or vitality",
-    synonyms: ["arid", "parched", "barren", "lifeless", "dull"],
-    exampleSentences: [
-      "The sere grass crunched beneath our feet as we walked through the arid desert.",
-      "The sere leaves on the trees rustled in the wind.",
-      "After the drought, the once lush landscape became sere and barren.",
-      "The sere town had little to offer in terms of excitement or entertainment.",
-      "His voice was sere and lacking in emotion as he delivered the news.",
     ],
   },
   {
@@ -44303,19 +44277,6 @@ const vocabList = [
     ],
   },
   {
-    word: "shallop",
-    definition:
-      "a small, light boat propelled by oars or sails, typically used for coastal or inland navigation.",
-    synonyms: ["skiff", "dory", "wherry", "punt", "canoe"],
-    exampleSentences: [
-      "The fishermen set out in their shallop at dawn.",
-      "The explorers used a shallop to navigate the river.",
-      "He rowed the shallop to the shore.",
-      "The shallop was equipped with both oars and a sail.",
-      "The shallop was too small to withstand the stormy waters.",
-    ],
-  },
-  {
     word: "shambles",
     definition:
       "a state of complete disorder; a scene of great destruction or confusion",
@@ -44338,31 +44299,6 @@ const vocabList = [
       "The team's performance was shambolic and they lost the game.",
       "The government's response to the crisis was shambolic.",
       "The construction site was shambolic and unsafe.",
-    ],
-  },
-  {
-    word: "shank",
-    definition:
-      "the part of the leg between the knee and ankle; a cut of meat from the upper part of the front leg of an animal",
-    synonyms: ["leg", "thigh", "gammon", "butt", "ham"],
-    exampleSentences: [
-      "He fractured his shank while playing football.",
-      "The hiker slipped on the rocks and bruised her shank.",
-      "I prefer the shank of lamb to the other cuts.",
-      "The restaurant served a delicious beef shank stew.",
-      "The butcher recommended the pork shank for roasting.",
-    ],
-  },
-  {
-    word: "share",
-    definition: "to divide or distribute something among two or more people",
-    synonyms: ["divide", "distribute", "apportion", "allocate", "give out"],
-    exampleSentences: [
-      "We decided to share the pizza for dinner.",
-      "Can you please share your notes with me?",
-      "The company will share its profits with its employees.",
-      "Let's share the workload so it's not too much for one person.",
-      "I'm happy to share my toys with my little sister.",
     ],
   },
   {
@@ -44432,55 +44368,6 @@ const vocabList = [
       "The new employee was shunned by her colleagues.",
       "The company shunned the use of harmful chemicals in their products.",
       "She shuns fast food and only eats organic meals.",
-    ],
-  },
-  {
-    word: "sibilance",
-    definition: "a hissing sound",
-    synonyms: ["hiss", "whisper", "murmur", "rustle", "sigh"],
-    exampleSentences: [
-      "The sibilance of the wind through the trees was calming.",
-      "The singer emphasized the sibilance in the lyrics for effect.",
-      "The snake made a loud sibilance as it slithered away.",
-      "The sound system had too much sibilance, making it difficult to understand the speaker.",
-      "The leaves rustled with a gentle sibilance in the wind.",
-    ],
-  },
-  {
-    word: "sibilant",
-    definition:
-      "having or making a hissing sound like that of the letters s, sh, and z.",
-    synonyms: ["hissing", "whistling", "sissing", "rustling", "susurrous"],
-    exampleSentences: [
-      "The sibilant sound of the snake made me back away.",
-      "She spoke in a sibilant voice that made my skin crawl.",
-      "The wind made a sibilant sound as it whipped through the trees.",
-      "The singer's sibilant delivery added a unique element to the song.",
-      "The sound of the waves crashing on the shore was sibilant and soothing.",
-    ],
-  },
-  {
-    word: "sibylline",
-    definition: "mysterious or obscure in meaning",
-    synonyms: ["enigmatic", "cryptic", "mystical", "esoteric", "obscure"],
-    exampleSentences: [
-      "The sibylline prophecy was difficult to interpret.",
-      "She spoke in a sibylline language that left us all perplexed.",
-      "The old book was filled with sibylline riddles.",
-      "He made a sibylline reference to the future that left us wondering.",
-      "The sibylline nature of the painting made it all the more intriguing.",
-    ],
-  },
-  {
-    word: "sidereal",
-    definition: "relating to the stars or constellations",
-    synonyms: ["astral", "stellar", "celestial", "cosmic", "heavenly"],
-    exampleSentences: [
-      "The sidereal day is the time it takes for the Earth to rotate once relative to the stars.",
-      "The ancient Egyptians used sidereal calendars to track the motion of the stars.",
-      "Astrology is based on the sidereal positions of the planets and stars.",
-      "The sidereal year is the time it takes for the Earth to complete one orbit around the sun relative to the stars.",
-      "The sidereal zodiac is different from the tropical zodiac used in Western astrology.",
     ],
   },
   {
@@ -44586,25 +44473,6 @@ const vocabList = [
       "I appreciate your sincere effort to help me.",
       "She wrote a sincere letter of recommendation for her colleague.",
       "He expressed sincere gratitude for the support he received.",
-    ],
-  },
-  {
-    word: "sinecure",
-    definition:
-      "a position requiring little or no work but giving the holder status or financial benefit",
-    synonyms: [
-      "cushy job",
-      "easy job",
-      "plum position",
-      "lazy job",
-      "no-show job",
-    ],
-    exampleSentences: [
-      "He got a sinecure job in the government just because of his connections.",
-      "The CEO's job was nothing but a sinecure position because he never made any important decisions.",
-      "She was given a sinecure as a reward for her loyalty to the company.",
-      "The ambassador's job was a sinecure because he had no real responsibilities.",
-      "The board member had a sinecure job and didn't even bother to attend the meetings.",
     ],
   },
   {
@@ -44887,18 +44755,6 @@ const vocabList = [
     ],
   },
   {
-    word: "psephology",
-    definition: "the study of elections and voting trends",
-    synonyms: ["electoral analysis", "voting research", "election studies"],
-    exampleSentences: [
-      "The psephology department at the university is very well-respected.",
-      "In fact, people who have been in psephology for 50 years have never seen a party come from the mid-20s to the high 30s in a space of three weeks.",
-      "Her thesis focused on the psephology of the last presidential election.",
-      "Psephology has become increasingly important in understanding the changing political landscape.",
-      "The book provides a comprehensive overview of the field of psephology.",
-    ],
-  },
-  {
     word: "psychotherapist",
     definition:
       "a person who treats mental disorders by psychological rather than medical means",
@@ -44934,19 +44790,6 @@ const vocabList = [
       "As a journalist, it's my purview to report the news.",
       "The issue falls outside the purview of our department.",
       "The CEO's purview extends to all aspects of the company's operations.",
-    ],
-  },
-  {
-    word: "pyrrhuloxia",
-    definition:
-      "a bird native to the southwestern United States and Mexico, closely related to the Northern Cardinal and similar in appearance but with a distinctive red bill and gray crest.",
-    synonyms: ["desert cardinal", "Arizona cardinal", "gray cardinal"],
-    exampleSentences: [
-      "I saw a beautiful pyrrhuloxia while hiking in Arizona.",
-      "The pyrrhuloxia's red bill stood out against the desert landscape.",
-      "The pyrrhuloxia's crest was particularly striking in the sunlight.",
-      "A group of pyrrhuloxias were perched on a cactus.",
-      "The pyrrhuloxia's song was a pleasant surprise on my morning walk.",
     ],
   },
   {
@@ -45002,25 +44845,6 @@ const vocabList = [
       "The news reported on the quotidian events happening in the city.",
       "The restaurant offered a menu of quotidian dishes like burgers and fries.",
       "Despite his success, he preferred a simple and quotidian lifestyle.",
-    ],
-  },
-  {
-    word: "rakish",
-    definition:
-      "having or displaying a dashing, jaunty, or slightly disreputable quality or appearance",
-    synonyms: [
-      "dashing",
-      "jaunty",
-      "debonair",
-      "disreputable",
-      "unconventional",
-    ],
-    exampleSentences: [
-      "He wore his hat at a rakish angle.",
-      "The actor had a rakish charm that made him irresistible to women.",
-      "The car had a rakish design that turned heads on the street.",
-      "He walked with a rakish swagger that exuded confidence.",
-      "The pirate captain had a rakish beard and a devil-may-care attitude.",
     ],
   },
   {
@@ -45120,19 +44944,6 @@ const vocabList = [
     ],
   },
   {
-    word: "reft",
-    definition:
-      "past participle of the verb 'reave', meaning to take away by force or steal",
-    synonyms: ["stolen", "taken", "robbed", "plundered", "stripped"],
-    exampleSentences: [
-      "The thieves reft the jewels from the museum.",
-      "The invading army reft the town of its valuables.",
-      "The storm reft the ship of its sails.",
-      "The burglars reft the family's home of their possessions.",
-      "The con artist reft the old woman of her life savings.",
-    ],
-  },
-  {
     word: "rejigger",
     definition:
       "to rearrange or adjust something in order to make it work better or more efficiently",
@@ -45178,18 +44989,6 @@ const vocabList = [
     ],
   },
   {
-    word: "repast",
-    definition: "a meal; the food eaten at a meal.",
-    synonyms: ["meal", "banquet", "feast", "spread", "collation"],
-    exampleSentences: [
-      "We sat down to a delicious repast of roast chicken and vegetables.",
-      "He invited us to partake in a repast of cheese and wine.",
-      "The hotel offered a full English breakfast repast.",
-      "The family gathered together for a repast in honor of their grandmother's birthday.",
-      "After a long day of hiking, we were all looking forward to a hearty repast.",
-    ],
-  },
-  {
     word: "repine",
     definition: "to feel or express discontent or dissatisfaction; to complain",
     synonyms: ["grumble", "moan", "whine", "complain", "murmur"],
@@ -45201,9 +45000,6 @@ const vocabList = [
       "She repined that she never had enough time for herself.",
     ],
   },
-  /**
-   * Bookmark: continue moving upward from this point, removing useless words
-   */
   {
     word: "resolute",
     definition: "firmly resolved or determined; set in purpose or opinion",

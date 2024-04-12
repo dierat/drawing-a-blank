@@ -11589,10 +11589,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "psephology",
-    frequency: 0,
-  },
-  {
     word: "pteridosperm",
     frequency: 0,
   },
@@ -11626,10 +11622,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "pyrrhic",
-    frequency: 0,
-  },
-  {
-    word: "pyrrhuloxia",
     frequency: 0,
   },
   {
@@ -11742,10 +11734,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "redux",
-    frequency: 0,
-  },
-  {
-    word: "reft",
     frequency: 0,
   },
   {
@@ -11885,10 +11873,6 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "seraglio",
-    frequency: 0,
-  },
-  {
     word: "seraphic",
     frequency: 0,
   },
@@ -11897,27 +11881,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 0,
   },
   {
-    word: "shallop",
-    frequency: 0,
-  },
-  {
     word: "shenanigan",
-    frequency: 0,
-  },
-  {
-    word: "sibilant",
-    frequency: 0,
-  },
-  {
-    word: "sibylline",
-    frequency: 0,
-  },
-  {
-    word: "sidereal",
-    frequency: 0,
-  },
-  {
-    word: "sinecure",
     frequency: 0,
   },
   {
@@ -12085,15 +12049,7 @@ const wordFrequencyData: Array<WordData> = [
     frequency: 1.9,
   },
   {
-    word: "rakish",
-    frequency: 1.97,
-  },
-  {
     word: "rapt",
-    frequency: 1.97,
-  },
-  {
-    word: "repast",
     frequency: 1.97,
   },
   {
@@ -12166,10 +12122,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "seemly",
-    frequency: 2.03,
-  },
-  {
-    word: "sibilance",
     frequency: 2.03,
   },
   {
@@ -12330,10 +12282,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "scrutinize",
-    frequency: 2.27,
-  },
-  {
-    word: "sere",
     frequency: 2.27,
   },
   {
@@ -12818,10 +12766,6 @@ const wordFrequencyData: Array<WordData> = [
   },
   {
     word: "rife",
-    frequency: 2.81,
-  },
-  {
-    word: "shank",
     frequency: 2.81,
   },
   {
@@ -13371,10 +13315,6 @@ const wordFrequencyData: Array<WordData> = [
   {
     word: "ridiculous",
     frequency: 4.68,
-  },
-  {
-    word: "share",
-    frequency: 4.86,
   },
   {
     word: "quick",
