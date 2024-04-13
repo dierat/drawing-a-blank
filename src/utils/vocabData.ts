@@ -214,19 +214,6 @@ const vocabData = [
     ],
   },
   {
-    word: "abrade",
-    definition:
-      "to wear away the surface or some part of something by friction; to erode",
-    synonyms: ["scuff", "chafe", "grate", "wear down", "rub away"],
-    exampleSentences: [
-      "The rough surface of the sandpaper will abrade the wood.",
-      "The constant rubbing of the rope against the rock caused it to abrade.",
-      "The harsh chemicals in the cleaning solution can abrade the surface of the countertop.",
-      "The wind and rain can abrade the surface of the mountain over time.",
-      "The constant use of the eraser can abrade the surface of the paper.",
-    ],
-  },
-  {
     word: "abridge",
     definition:
       "to shorten or condense (a book, speech, etc.) without losing the sense",
@@ -255,18 +242,6 @@ const vocabData = [
       "He was excited to explore abroad and experience new cultures.",
       "Many students choose to study abroad for a semester.",
       "The ambassador was called back to his home country from his post abroad.",
-    ],
-  },
-  {
-    word: "abrogate",
-    definition: "to repeal or abolish a law, agreement, or practice",
-    synonyms: ["revoke", "annul", "cancel", "invalidate", "nullify"],
-    exampleSentences: [
-      "The government decided to abrogate the treaty that had been in place for decades.",
-      "The company attempted to abrogate the contract, but faced legal consequences.",
-      "The new administration promised to abrogate the previous administration's policies.",
-      "It is difficult to abrogate a long-standing tradition within a community.",
-      "The court ruled to abrogate the defendant's plea bargain due to new evidence.",
     ],
   },
   {
@@ -326,18 +301,6 @@ const vocabData = [
     ],
   },
   {
-    word: "absquatulate",
-    definition: "to leave abruptly; to flee",
-    synonyms: ["bolt", "escape", "run away", "skedaddle", "vamoose"],
-    exampleSentences: [
-      "When the police arrived, the suspect absquatulated from the scene.",
-      "After the party was raided, everyone absquatulated before the cops got there.",
-      "The thief absquatulated with the jewels before anyone noticed.",
-      "The cat absquatulated when it saw the vacuum cleaner.",
-      "The employees absquatulated from the office when they heard about the surprise drug test.",
-    ],
-  },
-  {
     word: "abstain",
     definition:
       "to refrain from doing something, especially something enjoyable or pleasurable",
@@ -348,19 +311,6 @@ const vocabData = [
       "She chose to abstain from eating meat.",
       "In order to lose weight, I need to abstain from eating junk food.",
       "The doctor advised him to abstain from smoking.",
-    ],
-  },
-  {
-    word: "abstemious",
-    definition:
-      "not self-indulgent, especially when eating and drinking; moderate in appetite",
-    synonyms: ["temperate", "moderate", "sober", "austere", "ascetic"],
-    exampleSentences: [
-      "He was known to be abstemious and only drank water at dinner parties.",
-      "The monk lived an abstemious life, eating only plain rice and vegetables.",
-      "Her abstemious diet consisted mostly of salads and fruit.",
-      "The doctor advised him to be more abstemious with his alcohol consumption.",
-      "The athlete maintained an abstemious lifestyle in order to stay in peak physical condition.",
     ],
   },
   {
@@ -383,18 +333,6 @@ const vocabData = [
     ],
   },
   {
-    word: "abstruse",
-    definition: "difficult to understand; obscure.",
-    synonyms: ["complex", "complicated", "esoteric", "obscure", "perplexing"],
-    exampleSentences: [
-      "The professor's lectures were often abstruse and hard to follow.",
-      "The book's abstruse language made it a challenging read.",
-      "The math problem was so abstruse that even the experts struggled with it.",
-      "The artist's paintings were filled with abstruse symbolism that left many viewers confused.",
-      "The politician's speech was criticized for being too abstruse and out of touch with the average person.",
-    ],
-  },
-  {
     word: "abundance",
     definition: "a very large quantity of something; plentifulness.",
     synonyms: ["plenty", "profusion", "excess", "surplus", "overflow"],
@@ -404,18 +342,6 @@ const vocabData = [
       "The abundance of wildlife in the park is a testament to its conservation efforts.",
       "The abundance of opportunities in the city is why so many people move here.",
       "The abundance of resources in the country has led to its economic growth.",
-    ],
-  },
-  {
-    word: "abut",
-    definition: "to be adjacent; to touch or join at the edge or border",
-    synonyms: ["adjoin", "border", "meet", "butt", "connect"],
-    exampleSentences: [
-      "Our property abuts the park.",
-      "The two buildings abut each other.",
-      "The fence abuts the sidewalk.",
-      "The river abuts the forest.",
-      "The road abuts the highway.",
     ],
   },
   {
@@ -734,24 +660,6 @@ const vocabData = [
     ],
   },
   {
-    word: "adagio",
-    definition: "a slow tempo in music; a composition played in adagio tempo",
-    synonyms: [
-      "slowly",
-      "at a leisurely pace",
-      "unhurried",
-      "plodding",
-      "languorous",
-    ],
-    exampleSentences: [
-      "The adagio section of the symphony was particularly moving.",
-      "The pianist played the adagio with great feeling.",
-      "The dancers moved gracefully to the adagio music.",
-      "The adagio tempo created a sense of serenity.",
-      "The conductor slowed down the tempo for the adagio section.",
-    ],
-  },
-  {
     word: "adamant",
     definition: "refusing to be persuaded or to change one's mind",
     synonyms: ["unyielding", "inflexible", "resolute", "determined", "firm"],
@@ -970,19 +878,6 @@ const vocabData = [
     ],
   },
   {
-    word: "adumbrate",
-    definition:
-      "to give a vague outline or indication of; to foreshadow or symbolize",
-    synonyms: ["outline", "sketch", "suggest", "portend", "prefigure"],
-    exampleSentences: [
-      "The speaker adumbrated his plan for the company's future.",
-      "The artist adumbrated the landscape with a few quick strokes of her brush.",
-      "The politician adumbrated his stance on the issue without going into too much detail.",
-      "The dream seemed to adumbrate some future event that the dreamer couldn't quite understand.",
-      "The novel's opening scene adumbrates the dark themes that will pervade the rest of the book.",
-    ],
-  },
-  {
     word: "adversary",
     definition: "one's opponent in a contest, conflict, or dispute",
     synonyms: ["opponent", "rival", "enemy", "foe", "antagonist"],
@@ -1032,56 +927,6 @@ const vocabData = [
     ],
   },
   {
-    word: "adynamia",
-    definition: "lack or loss of strength; weakness",
-    synonyms: ["asthenia", "debilitation", "lassitude", "lethargy", "weakness"],
-    exampleSentences: [
-      "The patient's adynamia made it difficult for him to get out of bed.",
-      "The adynamia caused by the illness left her feeling exhausted all the time.",
-      "The athlete's adynamia was a result of overtraining and lack of rest.",
-      "His adynamia made it impossible for him to keep up with the demands of his job.",
-      "The medication caused severe adynamia and fatigue in the patient.",
-    ],
-  },
-  {
-    word: "aegis",
-    definition:
-      "the protection, backing, or support of a particular person or organization.",
-    synonyms: [
-      "protection",
-      "support",
-      "patronage",
-      "sponsorship",
-      "guardianship",
-    ],
-    exampleSentences: [
-      "The company operates under the aegis of a powerful trade union.",
-      "The project was under the aegis of the local government.",
-      "The program is funded under the aegis of the National Science Foundation.",
-      "The school was founded under the aegis of a prominent philanthropist.",
-      "The organization operates under the aegis of a well-respected charity.",
-    ],
-  },
-  {
-    word: "aesthete",
-    definition:
-      "a person who has a great appreciation for beauty, especially in art, music, or literature",
-    synonyms: [
-      "art lover",
-      "beauty connoisseur",
-      "culture enthusiast",
-      "artistic soul",
-      "lover of the finer things",
-    ],
-    exampleSentences: [
-      "As an aesthete, she spent hours wandering through art galleries.",
-      "He was known in his social circle as a true aesthete, always dressed impeccably and with a discerning eye for design.",
-      "The hotel's decor was clearly chosen by an aesthete with a love for bold colors and avant-garde art.",
-      "Her book club was full of aesthetes who loved dissecting the symbolism and themes of classic literature.",
-      "The fashion designer was a true aesthete, meticulously crafting every detail of his designs and always seeking out the highest quality materials.",
-    ],
-  },
-  {
     word: "aesthetic",
     definition: "concerned with beauty or the appreciation of beauty",
     synonyms: [
@@ -1097,19 +942,6 @@ const vocabData = [
       "The interior design of the house had a modern aesthetic.",
       "The restaurant's aesthetic was minimalist and chic.",
       "He appreciated the aesthetic value of the antique furniture.",
-    ],
-  },
-  {
-    word: "aestivate",
-    definition:
-      "to spend the summer in a dormant or torpid state, as certain snails, insects, and reptiles",
-    synonyms: ["summer torpor", "summer hibernation", "summer dormancy"],
-    exampleSentences: [
-      "The desert tortoise aestivates during the hottest months of the year.",
-      "Some species of land snails aestivate during dry periods.",
-      "Cicadas aestivate underground for years before emerging.",
-      "To avoid the heat, the crocodile aestivates in a burrow by the riverbank.",
-      "Certain species of ants aestivate in underground nests during the summer.",
     ],
   },
   {
@@ -1188,18 +1020,6 @@ const vocabData = [
     ],
   },
   {
-    word: "afflatus",
-    definition: "a divine creative impulse or inspiration",
-    synonyms: ["inspiration", "muse", "genius", "creativity", "intuition"],
-    exampleSentences: [
-      "The poet sat quietly, waiting for the afflatus to strike.",
-      "She felt the afflatus of inspiration hit her as she gazed out at the ocean.",
-      "Many artists believe that their afflatus comes from a higher power.",
-      "The writer struggled to find his afflatus, but eventually it came to him.",
-      "Some musicians claim they can summon the afflatus at will, while others say it's a more elusive force.",
-    ],
-  },
-  {
     word: "afflict",
     definition: "to cause pain or suffering to someone or something",
     synonyms: ["torment", "plague", "trouble", "bother", "distress"],
@@ -1225,31 +1045,6 @@ const vocabData = [
     ],
   },
   {
-    word: "afield",
-    definition:
-      "at a distance from the usual or expected place; away from home or one's usual surroundings",
-    synonyms: ["abroad", "far away", "far off", "remote", "distant"],
-    exampleSentences: [
-      "He traveled afield to find new opportunities.",
-      "They wandered afield from the hiking trail and got lost.",
-      "Her job requires her to go afield to remote locations.",
-      "The team is willing to go afield to compete in the championship.",
-      "We decided to venture afield and explore the neighboring town.",
-    ],
-  },
-  {
-    word: "aforetime",
-    definition: "formerly; in the past",
-    synonyms: ["previously", "formerly", "earlier", "once", "before"],
-    exampleSentences: [
-      "The village was much smaller in aforetime.",
-      "Aforetime, people used to rely on horses for transportation.",
-      "The castle was a grand residence in aforetime.",
-      "The river was much cleaner in aforetime.",
-      "Aforetime, the town was known for its wool industry.",
-    ],
-  },
-  {
     word: "agastopia",
     definition: "admiration of a particular part of someone's body",
     synonyms: ["fetish", "obsession", "fixation"],
@@ -1259,18 +1054,6 @@ const vocabData = [
       "His agastopia for her eyes was what drew him to her in the first place.",
       "She found it unsettling how his agastopia for her feet seemed to consume him.",
       "His agastopia for her hair was something she had never experienced before.",
-    ],
-  },
-  {
-    word: "agelast",
-    definition: "a person who never laughs",
-    synonyms: ["stoneface", "grim", "humorless", "unsmiling", "serious"],
-    exampleSentences: [
-      "He was such an agelast that nobody could tell when he was joking.",
-      "The comedian's jokes fell flat with the agelast crowd.",
-      "Her agelast demeanor made it difficult for her to make friends.",
-      "The agelast expression on his face made it hard to tell if he was enjoying the movie.",
-      "The agelast teacher never cracked a smile during class, no matter how funny the students thought they were.",
     ],
   },
   {
@@ -1353,18 +1136,6 @@ const vocabData = [
     ],
   },
   {
-    word: "agin",
-    definition: "Against; opposed to.",
-    synonyms: ["opposed to", "contrary to", "antagonistic to"],
-    exampleSentences: [
-      "I'm agin the idea of raising taxes.",
-      "She's always agin everything we suggest.",
-      "He's agin the new policy.",
-      "The senator voted agin the bill.",
-      "I'm not agin you, I just disagree with your position.",
-    ],
-  },
-  {
     word: "agitprop",
     definition: "political propaganda, especially in art or literature",
     synonyms: ["propaganda", "indoctrination", "brainwashing", "manipulation"],
@@ -1423,7 +1194,7 @@ const vocabData = [
   {
     word: "ailurophile",
     definition: "a cat lover",
-    synonyms: ["cat lover", "felinophile", "feline fancier"],
+    synonyms: ["cat lover", "felinophile"],
     exampleSentences: [
       "She has five cats and is a true ailurophile.",
       "As an ailurophile, he volunteers at the animal shelter to help care for cats.",
@@ -1492,18 +1263,6 @@ const vocabData = [
       "The albino deer blended in with the snow.",
       "The albino peacock was a rare sight.",
       "The albino child had to be careful in the sun.",
-    ],
-  },
-  {
-    word: "alcazar",
-    definition: "a Spanish palace or fortress of Moorish origin.",
-    synonyms: ["castle", "fortress", "citadel", "palace", "stronghold"],
-    exampleSentences: [
-      "The Alcazar of Segovia is a beautiful castle.",
-      "The Alcazar of Toledo is a fortress that played a major role in Spanish history.",
-      "The Alcazar of Seville is a magnificent palace with stunning gardens.",
-      "The Alcazar of Cordoba is a historic castle with impressive architecture.",
-      "The Alcazar of Malaga is a popular tourist attraction with breathtaking views.",
     ],
   },
   {
@@ -1712,18 +1471,6 @@ const vocabData = [
     ],
   },
   {
-    word: "amalgam",
-    definition: "a mixture or blend of different elements",
-    synonyms: ["mixture", "blend", "combination", "fusion", "compound"],
-    exampleSentences: [
-      "The cake batter was made of an amalgam of flour, sugar, and eggs.",
-      "His music was an amalgam of different genres, ranging from jazz to hip hop.",
-      "The city is an amalgam of different cultures and traditions.",
-      "The painting was an amalgam of various styles and techniques.",
-      "The company's success was due to an amalgam of hard work and innovation.",
-    ],
-  },
-  {
     word: "amalgamate",
     definition: "combine or unite to form one organization or structure",
     synonyms: ["merge", "unite", "combine", "blend", "fuse"],
@@ -1752,19 +1499,6 @@ const vocabData = [
       "The school district approved the amalgamation of several small schools into one larger institution.",
       "The band's music was an amalgamation of different genres and influences.",
       "The country's history is an amalgamation of various cultures and traditions.",
-    ],
-  },
-  {
-    word: "amaranthine",
-    definition:
-      "immortal; everlasting; unfading; of or like the amaranth flower",
-    synonyms: ["eternal", "perpetual", "endless", "everlasting", "unceasing"],
-    exampleSentences: [
-      "The amaranthine beauty of the sunset left us in awe.",
-      "He had an amaranthine love for his wife, even after she passed away.",
-      "The amaranthine nature of the diamond made it a valuable possession.",
-      "Her amaranthine youthfulness made her the envy of many.",
-      "The amaranthine bond between the two sisters was unbreakable.",
     ],
   },
   {
@@ -1841,19 +1575,6 @@ const vocabData = [
       "The painting had an ambiguous meaning that could be interpreted in many ways.",
       "The politician's statements were intentionally ambiguous to avoid making a clear commitment.",
       "The tone of his voice was ambiguous and it was unclear whether he was joking or serious.",
-    ],
-  },
-  {
-    word: "ambit",
-    definition:
-      "the scope, extent, or bounds of something; the range of operation or action",
-    synonyms: ["scope", "extent", "bounds", "range", "reach"],
-    exampleSentences: [
-      "The company's ambit includes all of North America.",
-      "The ambit of the project was too large to complete on time.",
-      "His responsibilities fall within the ambit of the legal department.",
-      "The ambit of her influence extends beyond just her own department.",
-      "We need to define the ambit of our investigation before we proceed.",
     ],
   },
   {
@@ -2040,30 +1761,6 @@ const vocabData = [
     ],
   },
   {
-    word: "amour",
-    definition: "a romantic or sexual relationship, love affair",
-    synonyms: ["romance", "passion", "infatuation", "affection", "attachment"],
-    exampleSentences: [
-      "She had an intense amour with her high school sweetheart.",
-      "He wrote her love letters to express his amour for her.",
-      "Their amour was forbidden by their families.",
-      "The novel is a tale of amour between two young lovers.",
-      "She felt a deep sense of amour for her partner.",
-    ],
-  },
-  {
-    word: "amphisbaena",
-    definition: "a mythical serpent or dragon with a head at each end",
-    synonyms: ["dragon", "serpent", "two-headed snake"],
-    exampleSentences: [
-      "The amphisbaena was feared by many in ancient mythology.",
-      "Legends tell of amphisbaenas guarding hidden treasures.",
-      "The artist's depiction of the amphisbaena was incredibly detailed.",
-      "Some cultures believed that amphisbaenas had healing powers.",
-      "The hero of the story had to defeat the amphisbaena to save the kingdom.",
-    ],
-  },
-  {
     word: "anachronism",
     definition:
       "something or someone that is not in its correct historical or chronological time, especially a thing or a person that belongs to an earlier time: an error in chronology",
@@ -2175,7 +1872,7 @@ const vocabData = [
   {
     word: "anecdata",
     definition:
-      "Anecdotal evidence; data based on personal accounts or experiences rather than scientific research or empirical evidence.",
+      "data based on personal accounts or experiences rather than scientific research or empirical evidence",
     synonyms: [
       "anecdotal evidence",
       "hearsay",
@@ -2218,19 +1915,6 @@ const vocabData = [
     ],
   },
   {
-    word: "angelic",
-    definition:
-      "resembling or characteristic of an angel, especially in being kind, pure, and innocent.",
-    synonyms: ["heavenly", "divine", "seraphic", "cherubic", "ethereal"],
-    exampleSentences: [
-      "Her voice had an angelic quality to it.",
-      "She had an angelic smile on her face.",
-      "The child's angelic face lit up when she saw the puppy.",
-      "The choir's singing was angelic.",
-      "He was known for his angelic demeanor and kindness towards others.",
-    ],
-  },
-  {
     word: "angst",
     definition:
       "a feeling of deep anxiety or dread, typically an unfocused one about the human condition or the state of the world in general.",
@@ -2241,19 +1925,6 @@ const vocabData = [
       "The character in the book was consumed by angst.",
       "The students were filled with angst as they waited for their test results.",
       "The painting captured the sense of angst and despair in the world.",
-    ],
-  },
-  {
-    word: "animus",
-    definition:
-      "a feeling of strong dislike or enmity; hostile attitude; purpose or intention; animating spirit.",
-    synonyms: ["hostility", "antagonism", "enmity", "animosity", "bitterness"],
-    exampleSentences: [
-      "He had an animus towards his former employer.",
-      "The animus between the two political parties is palpable.",
-      "Her animus towards her ex-husband was evident in her words.",
-      "The coach's animus towards the opposing team was clear.",
-      "The animus behind his actions was revenge.",
     ],
   },
   {
@@ -2278,19 +1949,6 @@ const vocabData = [
       "The government announced its decision to annul the controversial law.",
       "The athlete's victory was annulled after it was discovered that he had used performance-enhancing drugs.",
       "The court ruled to annul the defendant's conviction due to a technicality.",
-    ],
-  },
-  {
-    word: "anodyne",
-    definition:
-      "something that relieves or soothes pain; not likely to offend or arouse tensions",
-    synonyms: ["painkiller", "soother", "tranquilizer", "sedative", "calming"],
-    exampleSentences: [
-      "The anodyne medicine helped ease her headache.",
-      "His words were anodyne and did not cause any controversy.",
-      "The soft music in the waiting room had an anodyne effect on the patients.",
-      "The comedian's jokes were anodyne and did not offend anyone.",
-      "She found solace in the anodyne nature of gardening.",
     ],
   },
   {
@@ -2325,37 +1983,6 @@ const vocabData = [
     ],
   },
   {
-    word: "anomie",
-    definition:
-      "a state of societal and/or personal instability resulting from a breakdown of social norms, values, and expectations",
-    synonyms: [
-      "alienation",
-      "disconnectedness",
-      "isolation",
-      "lawlessness",
-      "chaos",
-    ],
-    exampleSentences: [
-      "The rise of anomie in the aftermath of the war led to a spike in crime rates.",
-      "The lack of community support left many young people feeling a sense of anomie.",
-      "Sociologists have long studied the effects of anomie on society.",
-      "The breakdown of traditional family structures has contributed to the anomie of modern society.",
-      "The sense of anomie experienced by many during the pandemic has led to increased anxiety and depression.",
-    ],
-  },
-  {
-    word: "anon",
-    definition: "soon, shortly",
-    synonyms: ["shortly", "presently", "soon", "before long", "in a moment"],
-    exampleSentences: [
-      "I shall be with you anon.",
-      "He will return anon.",
-      "The messenger will arrive anon.",
-      "Anon the rain will stop.",
-      "The day will come anon.",
-    ],
-  },
-  {
     word: "antagonist",
     definition:
       "a person who actively opposes or is hostile to someone or something; an adversary.",
@@ -2371,7 +1998,7 @@ const vocabData = [
   {
     word: "antebellum",
     definition:
-      "Belonging to the period before a war, especially the American Civil War.",
+      "belonging to the period before a war, especially the American Civil War",
     synonyms: [
       "prewar",
       "pre-Civil War",
@@ -2415,32 +2042,6 @@ const vocabData = [
       "The ambassador greeted his guests in the antechamber before leading them to the main hall.",
       "The antechamber was dimly lit, creating a sense of mystery and intrigue.",
       "The antechamber was filled with the aroma of fresh flowers.",
-    ],
-  },
-  {
-    word: "antedate",
-    definition:
-      "to assign a date to (an event, period, etc.) that is earlier than the actual date; to precede in time.",
-    synonyms: ["predate", "foredate", "precede"],
-    exampleSentences: [
-      "The manuscript was antedated by the author.",
-      "The painting was antedated to the 16th century.",
-      "The building antedates the city's founding.",
-      "The treaty antedated the war.",
-      "The fossil antedates the dinosaur era.",
-    ],
-  },
-  {
-    word: "antediluvian",
-    definition:
-      "of or belonging to the time before the biblical Flood; very old-fashioned or out of date.",
-    synonyms: ["ancient", "prehistoric", "primitive", "archaic", "outdated"],
-    exampleSentences: [
-      "The antediluvian civilization is shrouded in mystery.",
-      "His antediluvian views on women's rights are no longer acceptable.",
-      "The museum has a collection of antediluvian artifacts.",
-      "The antediluvian technology of this computer makes it impossible to run modern software.",
-      "His antediluvian dress sense is often the subject of ridicule.",
     ],
   },
   {
@@ -2529,19 +2130,6 @@ const vocabData = [
       "The comedian's antics on stage had the audience in stitches.",
       "The children's antics during recess often got them in trouble with the teacher.",
       "The politician's antics in office were widely criticized by the media.",
-    ],
-  },
-  {
-    word: "antimacassar",
-    definition:
-      "a small covering, usually made of cloth, placed over the back or arms of a chair or sofa to prevent soiling or wear from the head, hands, or clothing of the sitter.",
-    synonyms: ["chair protector", "chair cover", "furniture cover"],
-    exampleSentences: [
-      "She spent hours stitching an antimacassar for her favorite armchair.",
-      "The antique sofa was protected by a delicate antimacassar.",
-      "The hotel provided complimentary antimacassars to their guests.",
-      "My grandmother's living room was filled with doilies and antimacassars.",
-      "The cat kept scratching the armchair until we put an antimacassar on it.",
     ],
   },
   {
@@ -2683,24 +2271,6 @@ const vocabData = [
     ],
   },
   {
-    word: "apologia",
-    definition: "a formal written defense of one's opinions or conduct",
-    synonyms: [
-      "justification",
-      "vindication",
-      "defense",
-      "explanation",
-      "clarification",
-    ],
-    exampleSentences: [
-      "She wrote an apologia for her controversial article.",
-      "The politician gave an apologia for his past actions.",
-      "The CEO issued an apologia for the company's poor performance.",
-      "The artist's apologia explained the meaning behind his controversial artwork.",
-      "The athlete released an apologia for his behavior on the field.",
-    ],
-  },
-  {
     word: "apologist",
     definition:
       "a person who offers an argument in defense of something controversial",
@@ -2723,19 +2293,6 @@ const vocabData = [
       "The coach was apoplectic after his team lost the game due to a bad call by the referee.",
       "The politician's apoplectic reaction to the journalist's question suggested that he had something to hide.",
       "The customer became apoplectic when she was told that the store had run out of her favorite product.",
-    ],
-  },
-  {
-    word: "aporia",
-    definition:
-      "an irresolvable internal contradiction or logical disjunction in a text, argument, or theory.",
-    synonyms: ["paradox", "contradiction", "dilemma", "impasse", "quandary"],
-    exampleSentences: [
-      "The aporia in his argument was evident to everyone in the room.",
-      "The novel contained an aporia that left readers questioning the author's intentions.",
-      "The philosopher spent years trying to resolve the aporia in his theory.",
-      "The aporia in the legal system left many feeling frustrated and helpless.",
-      "The aporia in the scientific theory was eventually resolved with new evidence.",
     ],
   },
   {
@@ -2762,38 +2319,6 @@ const vocabData = [
       "The group excommunicated the apostate member who spoke out against their teachings.",
       "She was seen as an apostate for questioning the fundamental beliefs of the organization.",
       "The community shunned the apostate who rejected their traditional customs and practices.",
-    ],
-  },
-  {
-    word: "apotheosis",
-    definition:
-      "the highest point in the development of something; culmination or climax; deification; the elevation of a person to the rank of a god",
-    synonyms: ["climax", "culmination", "pinnacle", "acme", "deification"],
-    exampleSentences: [
-      "His performance in the final game was the apotheosis of his career.",
-      "The apotheosis of the Renaissance was the work of Michelangelo.",
-      "The apotheosis of Julius Caesar was a political move to win the favor of the people.",
-      "The apotheosis of a monarch was a common practice in ancient Egypt.",
-      "The apotheosis of a hero was a common theme in Greek mythology.",
-    ],
-  },
-  {
-    word: "apparatchik",
-    definition:
-      "a member of a Communist party apparat; a blindly obedient official or follower",
-    synonyms: [
-      "functionary",
-      "bureaucrat",
-      "official",
-      "commissar",
-      "politician",
-    ],
-    exampleSentences: [
-      "The company was run by apparatchiks who cared more about their own power than the success of the business.",
-      "He was just another apparatchik who blindly followed the party's orders.",
-      "The government was filled with apparatchiks who cared more about their positions than serving the people.",
-      "The apparatchik was tasked with carrying out the party's agenda without question.",
-      "The apparatchik was promoted for his loyalty to the party, not for his competence.",
     ],
   },
   {
@@ -2832,38 +2357,6 @@ const vocabData = [
       "He tried to appease her with flowers and chocolates.",
       "The company made concessions to the union in an attempt to appease the workers.",
       "The politician promised to try to appease the concerns of the minority community.",
-    ],
-  },
-  {
-    word: "appellate",
-    definition:
-      "relating to or having the power to consider appeals, especially from a legal court or tribunal.",
-    synonyms: [
-      "appeal",
-      "review",
-      "reconsideration",
-      "judicial review",
-      "objection",
-    ],
-    exampleSentences: [
-      "The appellate court upheld the lower court's decision.",
-      "The defendant filed an appellate brief.",
-      "The appellate judge was known for his strict adherence to the law.",
-      "The appellate process can be lengthy and costly.",
-      "The Supreme Court is the highest appellate court in the United States.",
-    ],
-  },
-  {
-    word: "appellation",
-    definition:
-      "a name or title that distinguishes or identifies a person, group, or thing.",
-    synonyms: ["designation", "title", "name", "label", "denomination"],
-    exampleSentences: [
-      "The appellation 'Doctor' is given to those who have earned a doctoral degree.",
-      "The appellation 'The Big Apple' is a nickname for New York City.",
-      "His appellation as 'The King of Pop' is well-known throughout the world.",
-      "The appellation 'The Great One' was given to Wayne Gretzky for his outstanding hockey career.",
-      "The appellation 'The Iron Lady' was given to Margaret Thatcher during her time as Prime Minister of the UK.",
     ],
   },
   {
@@ -2918,19 +2411,6 @@ const vocabData = [
     ],
   },
   {
-    word: "apposite",
-    definition:
-      "apt in the circumstances or in relation to something; appropriate",
-    synonyms: ["pertinent", "relevant", "suitable", "fitting", "appropriate"],
-    exampleSentences: [
-      "His remarks were very apposite to the subject under discussion.",
-      "The teacher's example was apposite to the lesson.",
-      "She made an apposite remark about the current political situation.",
-      "The analogy he used was apposite and helped to clarify the issue.",
-      "The advertisement was apposite to the target audience and generated a lot of interest.",
-    ],
-  },
-  {
     word: "apprehensive",
     definition:
       "anxious or fearful that something bad or unpleasant will happen",
@@ -2954,19 +2434,6 @@ const vocabData = [
       "Our team decided to approach the project using a different strategy.",
       "I didn't want to approach the topic until I knew more information.",
       "The police officer approached the suspect cautiously.",
-    ],
-  },
-  {
-    word: "appurtenance",
-    definition:
-      "an accessory or other item associated with a particular activity or style of living",
-    synonyms: ["accessory", "attachment", "adjunct", "addition", "appendage"],
-    exampleSentences: [
-      "The tennis court was an appurtenance of the estate.",
-      "The appurtenances of the kitchen included a large refrigerator and a gas stove.",
-      "The horse's saddle and bridle are appurtenances to riding.",
-      "The car comes with several appurtenances, including a GPS and a sunroof.",
-      "In order to go camping, we need to gather all the necessary appurtenances such as tents and sleeping bags.",
     ],
   },
   {
@@ -3032,18 +2499,6 @@ const vocabData = [
     ],
   },
   {
-    word: "aquiver",
-    definition: "trembling; quivering",
-    synonyms: ["trembling", "quivering", "shaking", "shivering", "shuddering"],
-    exampleSentences: [
-      "She was aquiver with excitement for her first day of school.",
-      "The leaves of the trees were aquiver in the wind.",
-      "The dog's tail was aquiver with anticipation of his owner coming home.",
-      "Her voice was aquiver with emotion as she delivered the news.",
-      "The audience was aquiver with anticipation as the curtains opened for the play.",
-    ],
-  },
-  {
     word: "arbitrary",
     definition:
       "based on random choice or personal whim, rather than any reason or system",
@@ -3073,18 +2528,6 @@ const vocabData = [
       "The UN sent a team to arbitrate the peace talks between the two warring countries.",
       "The labor union requested an arbitrator to arbitrate the collective bargaining agreement.",
       "The sports league hired a commissioner to arbitrate disputes between teams and players.",
-    ],
-  },
-  {
-    word: "arcadia",
-    definition: "a region or setting of rural pleasure and peacefulness",
-    synonyms: ["idyllic place", "utopia", "paradise", "heaven", "dreamland"],
-    exampleSentences: [
-      "The small town nestled in the mountains was a true arcadia.",
-      "The garden behind her house was her own personal arcadia.",
-      "The beach resort was advertised as an arcadia of relaxation and luxury.",
-      "The painting depicted a beautiful arcadia with rolling hills and babbling brooks.",
-      "The novel was set in a fictional arcadia where the characters lived simple and happy lives.",
     ],
   },
   {
@@ -3175,31 +2618,6 @@ const vocabData = [
     ],
   },
   {
-    word: "argent",
-    definition: "silver or silver-colored",
-    synonyms: ["silver", "silvery", "white", "gray", "pale"],
-    exampleSentences: [
-      "The knight's armor was adorned with argent accents.",
-      "The moon shone argent in the night sky.",
-      "The artist used an argent paint to create a metallic effect.",
-      "The building was trimmed with argent details.",
-      "The clouds were a soft shade of argent as the sun set.",
-    ],
-  },
-  {
-    word: "argot",
-    definition:
-      "a specialized vocabulary or set of idioms used by a particular group, especially criminals.",
-    synonyms: ["jargon", "slang", "cant", "vernacular", "patois"],
-    exampleSentences: [
-      "The thieves used an argot to communicate with each other.",
-      "The medical profession has its own argot that can be difficult for non-experts to understand.",
-      "The hacker community has a constantly evolving argot.",
-      "The gang members spoke in an argot that was unfamiliar to the police.",
-      "The prison inmates used a secret argot to keep their conversations private.",
-    ],
-  },
-  {
     word: "aria",
     definition:
       "an elaborate melody sung solo with accompaniment, as in an opera or oratorio",
@@ -3272,19 +2690,6 @@ const vocabData = [
       "His arrogant behavior made it difficult for him to make friends.",
       "The CEO's arrogant attitude towards his employees caused a lot of resentment.",
       "She was so arrogant that she believed she could do no wrong.",
-    ],
-  },
-  {
-    word: "arrogate",
-    definition:
-      "to claim or seize without justification; to take or claim for oneself without right",
-    synonyms: ["usurp", "appropriate", "seize", "take", "commandeer"],
-    exampleSentences: [
-      "The dictator arrogated power to himself and ignored the country's constitution.",
-      "He arrogated the credit for the successful project to himself, even though his team did most of the work.",
-      "The company tried to arrogate the profits from the invention, but the inventor sued to protect his rights.",
-      "She arrogated the role of leader without consulting the rest of the team.",
-      "The mayor was accused of having arrogated public funds for personal use.",
     ],
   },
   {
@@ -3493,18 +2898,6 @@ const vocabData = [
     ],
   },
   {
-    word: "assay",
-    definition: "to analyze or evaluate; a test or analysis of a substance",
-    synonyms: ["test", "evaluate", "analyze", "examine", "assess"],
-    exampleSentences: [
-      "The scientists will assay the new drug to determine its effectiveness.",
-      "He conducted an assay of the soil to see if it was suitable for planting.",
-      "The company will assay the market to determine demand for the new product.",
-      "The jeweler will assay the gold to determine its purity.",
-      "The lab will assay the blood sample to check for any abnormalities.",
-    ],
-  },
-  {
     word: "assemblage",
     definition: "a collection or gathering of things or people",
     synonyms: ["collection", "gathering", "assembly", "grouping", "cluster"],
@@ -3606,24 +2999,6 @@ const vocabData = [
       "She tried to assuage her anxiety by taking deep breaths.",
       "The apology did little to assuage his anger.",
       "The company offered a raise to assuage employee dissatisfaction.",
-    ],
-  },
-  {
-    word: "astonied",
-    definition: "filled with shock or amazement; astounded",
-    synonyms: [
-      "amazed",
-      "stunned",
-      "surprised",
-      "flabbergasted",
-      "dumbfounded",
-    ],
-    exampleSentences: [
-      "She was astonied by the size of the crowd that gathered for the concert.",
-      "He was utterly astonied by the news of his promotion.",
-      "The magician's tricks left the audience astonied.",
-      "I was completely astonied by the beauty of the sunset.",
-      "The unexpected turn of events in the movie left me astonied.",
     ],
   },
   {
@@ -3732,74 +3107,6 @@ const vocabData = [
     ],
   },
   {
-    word: "ataraxia",
-    definition: "a state of serene calmness and tranquility",
-    synonyms: [
-      "peace of mind",
-      "composure",
-      "equanimity",
-      "serenity",
-      "tranquility",
-    ],
-    exampleSentences: [
-      "After a long day at work, she found ataraxia in her garden.",
-      "Meditation helps me achieve a state of ataraxia.",
-      "He was able to approach the stressful situation with ataraxia.",
-      "The sound of the waves brought a sense of ataraxia to her mind.",
-      "The monks lived a life of ataraxia in the monastery.",
-    ],
-  },
-  {
-    word: "atavism",
-    definition:
-      "the reappearance of a trait or characteristic in an organism after several generations of absence; a throwback to an earlier ancestral type",
-    synonyms: [
-      "throwback",
-      "reversion",
-      "throwbackness",
-      "ancestral trait",
-      "reappearance of a trait",
-    ],
-    exampleSentences: [
-      "The presence of webbed toes in the baby was an atavism, as nobody in the family had that trait.",
-      "The fierce territoriality of the lion is an atavism from the days when it was a solitary predator.",
-      "The long neck of the giraffe is an atavism from its ancestors, who needed to reach high foliage to survive.",
-      "The ability of some people to wiggle their ears is an atavism, as it was a useful trait for some primates to communicate non-verbally.",
-      "The appearance of a vestigial tail in the human embryo is an atavism from our primate ancestors.",
-    ],
-  },
-  {
-    word: "atavistic",
-    definition:
-      "relating to or characterized by reversion to something ancient or ancestral.",
-    synonyms: [
-      "primitive",
-      "ancestral",
-      "throwback",
-      "retrogressive",
-      "regressive",
-    ],
-    exampleSentences: [
-      "The atavistic behavior of the tribe was fascinating to the anthropologists.",
-      "His atavistic aggression came out when he was under stress.",
-      "The old abandoned house had an atavistic feel to it.",
-      "The idea of monarchy seemed atavistic in the modern age.",
-      "Her atavistic fear of the dark was irrational but real.",
-    ],
-  },
-  {
-    word: "atingle",
-    definition: "having a sensation of slight prickling or stinging",
-    synonyms: ["tingling", "prickling", "stinging", "itching"],
-    exampleSentences: [
-      "The cold air made my fingers atingle.",
-      "She felt atingle with excitement as she waited for her favorite band to take the stage.",
-      "The bee sting left her arm atingle for hours.",
-      "The spicy food left my tongue atingle.",
-      "The anticipation of the roller coaster had her whole body atingle.",
-    ],
-  },
-  {
     word: "atonement",
     definition:
       "the act of making amends for wrongdoings or mistakes; reconciliation between God and humans through sacrifice or repentance",
@@ -3841,31 +3148,6 @@ const vocabData = [
       "The company's profits were attentuated by high operating costs.",
       "The artist attentuated the colors in the painting to create a softer effect.",
       "Over time, exposure to the sun will attentuate the fabric of the curtains.",
-    ],
-  },
-  {
-    word: "attitude",
-    definition:
-      "a settled way of thinking or feeling about something; a position of the body indicating a particular mental state",
-    synonyms: ["outlook", "perspective", "approach", "demeanor", "posture"],
-    exampleSentences: [
-      "She has a positive attitude towards life.",
-      "His attitude towards work is very professional.",
-      "The team's attitude towards the competition was confident.",
-      "Her attitude towards the project was very enthusiastic.",
-      "The teacher's attitude towards the students was very supportive.",
-    ],
-  },
-  {
-    word: "attractive",
-    definition: "pleasing or appealing to the senses, especially to the sight",
-    synonyms: ["appealing", "charming", "enticing", "fetching", "engaging"],
-    exampleSentences: [
-      "The new dress she bought is very attractive.",
-      "The colorful flowers in the garden are very attractive.",
-      "The attractive job offer was too good to pass up.",
-      "The website design is very attractive and user-friendly.",
-      "His attractive personality made him very popular among his colleagues.",
     ],
   },
   {
@@ -3975,18 +3257,6 @@ const vocabData = [
     ],
   },
   {
-    word: "aught",
-    definition: "anything at all; zero",
-    synonyms: ["nothing", "zero", "zilch", "nil", "naught"],
-    exampleSentences: [
-      "He didn't know aught about the topic.",
-      "I have not seen aught like it before.",
-      "Aught is better than naught.",
-      "The bag was empty, it contained aught.",
-      "He didn't leave aught to his children.",
-    ],
-  },
-  {
     word: "augment",
     definition: "to make something greater by adding to it; increase",
     synonyms: ["increase", "expand", "enlarge", "boost", "amplify"],
@@ -4024,32 +3294,6 @@ const vocabData = [
     ],
   },
   {
-    word: "august",
-    definition:
-      "having a majestic or impressive quality, having a formal and serious demeanor",
-    synonyms: ["majestic", "dignified", "grand", "imposing", "stately"],
-    exampleSentences: [
-      "The august building towered above the city skyline.",
-      "The august professor commanded the attention of the entire lecture hall.",
-      "The august ceremony was attended by heads of state from around the world.",
-      "The august judge presided over the high-profile case with great solemnity.",
-      "The august ambassador spoke eloquently about the importance of diplomacy and cooperation.",
-    ],
-  },
-  {
-    word: "aumbry",
-    definition:
-      "a recessed cupboard in a church used for storing sacred vessels, vestments, and reserved sacrament",
-    synonyms: ["ambry", "sacristy", "reliquary", "tabernacle"],
-    exampleSentences: [
-      "The priest went to the aumbry to retrieve the sacramental bread.",
-      "The aumbry was beautifully crafted and adorned with intricate carvings.",
-      "The sacred vessels were carefully arranged in the aumbry.",
-      "The aumbry was locked to ensure the security of the reserved sacrament.",
-      "The vestments were neatly hung in the aumbry for safekeeping.",
-    ],
-  },
-  {
     word: "aurora",
     definition:
       "a natural electrical phenomenon characterized by the appearance of streamers of reddish or greenish light in the sky, usually near the northern or southern magnetic pole.",
@@ -4060,31 +3304,6 @@ const vocabData = [
       "The colors of the aurora danced across the night sky.",
       "The aurora is caused by charged particles from the sun colliding with gases in the Earth's atmosphere.",
       "The indigenous people of Alaska and Canada have many legends and stories about the aurora.",
-    ],
-  },
-  {
-    word: "auspex",
-    definition:
-      "a Roman religious official who observed natural signs, especially the behavior of birds, interpreting these as an indication of divine approval or disapproval of a proposed action.",
-    synonyms: ["augur", "seer", "prophet", "oracle", "diviner"],
-    exampleSentences: [
-      "The auspex interpreted the flight of birds as a sign of good fortune.",
-      "The Roman generals consulted the auspex before going to battle.",
-      "The auspex warned the emperor of impending danger.",
-      "The auspex was highly respected in Roman society.",
-      "The auspex predicted a bountiful harvest based on the behavior of birds.",
-    ],
-  },
-  {
-    word: "auspices",
-    definition: "patronage or support; guidance, direction, or control",
-    synonyms: ["sponsorship", "backing", "protection", "aid", "assistance"],
-    exampleSentences: [
-      "The fundraising event was held under the auspices of the local charity organization.",
-      "The project received the auspices of the government and was able to secure funding.",
-      "The company provided auspices to the new startup and helped it grow.",
-      "The school operates under the auspices of the church.",
-      "The peace talks were held under the auspices of the United Nations.",
     ],
   },
   {
@@ -4343,22 +3562,8 @@ const vocabData = [
     ],
   },
   {
-    word: "bacchanalian",
-    definition:
-      "characterized by or given to drunken revelry; riotously drunken",
-    synonyms: ["boozy", "carousing", "debauched", "riotous", "intemperate"],
-    exampleSentences: [
-      "The party turned into a bacchanalian affair, with people dancing on tables and drinking excessively.",
-      "The hotel was known for its bacchanalian weekends, attracting partygoers from all over the city.",
-      "The college students threw a bacchanalian celebration after finishing their exams.",
-      "The music festival turned into a bacchanalian frenzy, with fans dancing wildly and drinking heavily.",
-      "The city council was criticized for allowing a bacchanalian event to take place in a residential area.",
-    ],
-  },
-  {
     word: "bade",
-    definition:
-      "past tense of bid; to command or order someone to do something",
+    definition: "to command or order someone to do something",
     synonyms: ["commanded", "ordered", "directed", "instructed", "enjoined"],
     exampleSentences: [
       "She bade him farewell at the airport.",
@@ -4366,69 +3571,6 @@ const vocabData = [
       "He bade his guests to sit down and make themselves comfortable.",
       "The coach bade the team to give their best effort.",
       "The king bade his subjects to attend the royal ball.",
-    ],
-  },
-  {
-    word: "badinage",
-    definition: "humorous or witty conversation; playful banter",
-    synonyms: ["banter", "raillery", "teasing", "joking", "wit"],
-    exampleSentences: [
-      "The two friends engaged in some amiable badinage as they walked to the park.",
-      "The comedian's badinage with the audience kept the show lively and entertaining.",
-      "The interview was filled with lighthearted badinage that put everyone at ease.",
-      "Their badinage was so clever and amusing that it drew a crowd of onlookers.",
-      "The politician used badinage to deflect some of the tougher questions from the press.",
-    ],
-  },
-  {
-    word: "baedeker",
-    definition:
-      "a guidebook or travel guide, especially one containing information about a particular country or area",
-    synonyms: [
-      "travel guide",
-      "guidebook",
-      "tourist guide",
-      "handbook",
-      "companion",
-    ],
-    exampleSentences: [
-      "I used a Baedeker guide to plan my trip to France.",
-      "The Baedeker provided detailed information about the history and culture of the region.",
-      "She carried a Baedeker with her during her travels through Europe.",
-      "The Baedeker was an essential tool for any traveler in the early 20th century.",
-      "The Baedeker gave recommendations for restaurants and hotels in the area.",
-    ],
-  },
-  {
-    word: "bafflegab",
-    definition:
-      "Language that is meaningless or hard to understand, often used to impress or confuse people.",
-    synonyms: [
-      "jargon",
-      "gobbledygook",
-      "double-talk",
-      "nonsense",
-      "gibberish",
-    ],
-    exampleSentences: [
-      "The politician's speech was full of bafflegab and didn't really say anything.",
-      "I hate reading legal documents because of all the bafflegab they contain.",
-      "The company's mission statement was just a bunch of bafflegab about 'synergizing solutions'.",
-      "The professor's lecture was so full of bafflegab that I couldn't follow his argument.",
-      "The advertisement's claims were just bafflegab designed to trick people into buying the product.",
-    ],
-  },
-  {
-    word: "bailiwick",
-    definition:
-      "a person's area of skill, knowledge, authority, or work; a person's specific responsibility or concern",
-    synonyms: ["domain", "sphere", "field", "territory", "realm"],
-    exampleSentences: [
-      "As a chef, Italian cuisine is my bailiwick.",
-      "The marketing department is not in my bailiwick, so I cannot help you with that.",
-      "The detective's bailiwick is solving complicated crimes.",
-      "The CEO's bailiwick is making strategic decisions for the company.",
-      "I am not comfortable giving my opinion on that topic as it is not within my bailiwick.",
     ],
   },
   {
@@ -4441,19 +3583,6 @@ const vocabData = [
       "The politician's speech was filled with balderdash and empty promises.",
       "I can't believe people actually pay money to read such balderdash.",
       "The professor dismissed the student's argument as balderdash and refused to entertain it further.",
-    ],
-  },
-  {
-    word: "baldric",
-    definition:
-      "a belt or sash worn over the shoulder and across the chest to hold a sword or other weapon or to support a trumpet or bugle",
-    synonyms: ["sash", "belt", "shoulder strap", "crossbelt"],
-    exampleSentences: [
-      "The knight wore a baldric to hold his sword.",
-      "The trumpet player slung his instrument over his baldric.",
-      "The soldier's baldric was adorned with medals.",
-      "The captain fastened his baldric tightly before battle.",
-      "The ceremonial baldric was embroidered with gold thread.",
     ],
   },
   {
@@ -4470,19 +3599,6 @@ const vocabData = [
     ],
   },
   {
-    word: "balletic",
-    definition:
-      "resembling the graceful and precise movements of ballet dancers",
-    synonyms: ["graceful", "elegant", "poised", "lithe", "nimble"],
-    exampleSentences: [
-      "She moved with balletic grace across the stage.",
-      "The gymnast's movements were so balletic that they were mistaken for dance.",
-      "The skater's performance was balletic in its fluidity and precision.",
-      "The yoga instructor guided her students in performing the balletic pose with ease.",
-      "The ballerina's balletic leaps and twirls left the audience in awe.",
-    ],
-  },
-  {
     word: "ballistic",
     definition:
       "relating to projectiles or their flight; extremely angry or out of control",
@@ -4493,18 +3609,6 @@ const vocabData = [
       "The coach was ballistic after the team lost yet another game.",
       "The ballistic trajectory of the bullet was carefully calculated.",
       "When she found out her apartment had been robbed, she went ballistic.",
-    ],
-  },
-  {
-    word: "balter",
-    definition: "to dance or move clumsily or awkwardly",
-    synonyms: ["shuffle", "stumble", "flounder", "lurch", "waddle"],
-    exampleSentences: [
-      "She baltered around the dance floor, trying to keep up with the fast-paced music.",
-      "The toddler attempted to balter across the room, but kept tripping over their own feet.",
-      "Despite her lack of coordination, she still loved to balter at parties.",
-      "He couldn't help but balter along to the silly song playing on the radio.",
-      "The group of friends decided to balter their way through the park, enjoying the warm weather.",
     ],
   },
   {
@@ -4529,19 +3633,6 @@ const vocabData = [
       "I was disappointed by the banal plot of the book.",
       "The artist's work was criticized for being banal and uninspired.",
       "The conversation was banal and uninteresting.",
-    ],
-  },
-  {
-    word: "bandy",
-    definition:
-      "to toss or throw back and forth; to exchange (words) in a heated or argumentative manner",
-    synonyms: ["toss", "throw", "exchange", "barter", "argue"],
-    exampleSentences: [
-      "The kids enjoyed bandying the ball around the yard.",
-      "The negotiators then bandy offers until they reached a compromise.",
-      "The couple would bandy insults at each other during the argument.",
-      "The two politicians often bandy accusations during the debate.",
-      "The coworkers would bandy ideas back and forth during the brainstorming session.",
     ],
   },
   {
@@ -4583,31 +3674,6 @@ const vocabData = [
     ],
   },
   {
-    word: "barbu",
-    definition: "a barbel or whisker, especially of a catfish.",
-    synonyms: ["whisker", "beard", "moustache"],
-    exampleSentences: [
-      "The barbu on the catfish helps it to detect prey in murky waters.",
-      "He stroked his beard, feeling the rough texture of the barbu.",
-      "The moustache and barbu made him look distinguished.",
-      "The catfish's barbu twitched as it searched for food.",
-      "The barbu on the fish made it easier for predators to spot it.",
-    ],
-  },
-  {
-    word: "baronial",
-    definition:
-      "of or relating to a baron or the aristocracy; grand and impressive in appearance",
-    synonyms: ["noble", "aristocratic", "majestic", "impressive", "stately"],
-    exampleSentences: [
-      "The baronial estate was a sight to behold.",
-      "The ballroom was decorated in a baronial style.",
-      "The baronial family had a long and storied history.",
-      "The castle was a perfect example of baronial architecture.",
-      "The baronial hall was filled with important guests.",
-    ],
-  },
-  {
     word: "barrage",
     definition:
       "a concentrated artillery bombardment over a wide area; a rapid and continuous outpouring of something",
@@ -4633,19 +3699,6 @@ const vocabData = [
     ],
   },
   {
-    word: "bason",
-    definition:
-      "a large, shallow dish or bowl, typically used for washing or serving food.",
-    synonyms: ["bowl", "dish", "platter", "tray", "saucer"],
-    exampleSentences: [
-      "She used the bason to wash the fruits.",
-      "The bason was filled with hot soup.",
-      "The bason was made of silver and had intricate designs.",
-      "He placed the bason of gravy on the table.",
-      "The bason was too heavy for her to lift.",
-    ],
-  },
-  {
     word: "bastion",
     definition: "a fortified place or stronghold",
     synonyms: ["fortress", "citadel", "stronghold", "redoubt", "keep"],
@@ -4655,19 +3708,6 @@ const vocabData = [
       "The city wall was a bastion against invaders.",
       "The army built a bastion to protect their base.",
       "The mountain range acted as a natural bastion against the strong winds.",
-    ],
-  },
-  {
-    word: "bate",
-    definition:
-      "to lessen the force or intensity of something; to restrain or moderate",
-    synonyms: ["abate", "diminish", "moderate", "reduce", "weaken"],
-    exampleSentences: [
-      "He bated his anger when he realized it wouldn't solve the problem.",
-      "She bated her enthusiasm for the project after learning of its difficulties.",
-      "The storm bated in intensity as it moved further inland.",
-      "He couldn't wait to bate his hunger with a delicious meal.",
-      "She had to bate her excitement to keep the surprise party a secret.",
     ],
   },
   {
@@ -4683,66 +3723,6 @@ const vocabData = [
     ],
   },
   {
-    word: "bay",
-    definition: "a broad inlet of the sea where the land curves inward",
-    synonyms: ["cove", "gulf", "inlet", "harbor", "lagoon"],
-    exampleSentences: [
-      "The ship sailed into the bay at dawn.",
-      "The bay was calm and peaceful.",
-      "The town is situated on a bay.",
-      "The bay was surrounded by high cliffs.",
-      "The bay is a popular spot for fishing and boating.",
-    ],
-  },
-  {
-    word: "beamish",
-    definition: "bright, cheerful, and optimistic",
-    synonyms: ["smiling", "grinning", "happy", "jovial", "buoyant"],
-    exampleSentences: [
-      "She had a beamish smile on her face as she walked down the aisle.",
-      "Despite the rain, he remained beamish and enjoyed the outdoor concert.",
-      "The children's laughter was beamish and infectious.",
-      "The bride's father gave a beamish speech at the wedding reception.",
-      "Even under pressure, the team captain remained beamish and motivated the team to victory.",
-    ],
-  },
-  {
-    word: "beatific",
-    definition: "displaying or imparting joy or serenity; blissful",
-    synonyms: ["blissful", "rapturous", "serene", "ecstatic", "heavenly"],
-    exampleSentences: [
-      "The beatific smile on her face was infectious.",
-      "The sunset view was beatific and calming.",
-      "The monk's beatific expression exuded peace and contentment.",
-      "She felt a beatific sense of accomplishment after finishing the marathon.",
-      "The melody of the music was so beatific that it brought tears to her eyes.",
-    ],
-  },
-  {
-    word: "beatify",
-    definition: "to make supremely happy; to bless or declare as holy",
-    synonyms: ["bless", "sanctify", "consecrate", "glorify", "exalt"],
-    exampleSentences: [
-      "I have chosen to beatify this altar, making it forever sacred for our people.",
-      "Winning the championship game would beatify the entire team.",
-      "The beautiful sunrise seemed to beatify the landscape.",
-      "I wonder what it takes to have the church beatify you as a saint.",
-      "The local church plans to beatify the founder of their organization.",
-    ],
-  },
-  {
-    word: "beatitude",
-    definition: "supreme blessedness or happiness",
-    synonyms: ["bliss", "joy", "ecstasy", "euphoria", "rapture"],
-    exampleSentences: [
-      "The monk lived a life of beatitude, free from worldly worries.",
-      "She experienced a moment of beatitude as she gazed out at the sunset.",
-      "The artist captured the beatitude of the children in his painting.",
-      "The couple's honeymoon was a time of utter beatitude.",
-      "The yogi achieved a state of beatitude through meditation and mindfulness.",
-    ],
-  },
-  {
     word: "beauteous",
     definition:
       "having qualities that delight or appeal to the senses and often the mind, especially in relation to a woman's appearance",
@@ -4753,18 +3733,6 @@ const vocabData = [
       "The beauteous garden was filled with colorful flowers and fragrant herbs.",
       "Her beauteous voice filled the concert hall and left the audience in awe.",
       "He was struck by the beauteous smile she flashed him as she walked by.",
-    ],
-  },
-  {
-    word: "bebother",
-    definition: "to cause annoyance or trouble to someone",
-    synonyms: ["bother", "annoy", "irritate", "aggravate", "vex"],
-    exampleSentences: [
-      "Please don't bebother me with your constant complaints.",
-      "He was bebothered by the loud music from his neighbor's house.",
-      "She didn't want to bebother her friend with her problems.",
-      "The heat was bebothering him all day.",
-      "I don't mean to bebother you, but can you help me with this?",
     ],
   },
   {
@@ -4898,15 +3866,15 @@ const vocabData = [
     ],
   },
   {
-    word: "belabour",
+    word: "belabor",
     definition: "to attack or criticize repeatedly or relentlessly",
     synonyms: ["beat", "pound", "hammer", "flog", "reprimand"],
     exampleSentences: [
-      "The coach belaboured the team for their poor performance.",
-      "The politician belaboured his opponent's policies in the debate.",
-      "The supervisor belaboured the employee for being late to work.",
-      "The teacher belaboured the students for not studying for the test.",
-      "The critic belaboured the artist's latest work as uninspired.",
+      "The coach belabored the team for their poor performance.",
+      "The politician belabored his opponent's policies in the debate.",
+      "The supervisor belabored the employee for being late to work.",
+      "The teacher belabored the students for not studying for the test.",
+      "The critic belabored the artist's latest work as uninspired.",
     ],
   },
   {
@@ -4971,19 +3939,6 @@ const vocabData = [
     ],
   },
   {
-    word: "bellwether",
-    definition:
-      "a person or thing that assumes the leadership or forefront in a particular field",
-    synonyms: ["leader", "trendsetter", "pioneer", "trailblazer", "forefront"],
-    exampleSentences: [
-      "She was the bellwether of the fashion industry.",
-      "The company is seen as a bellwether of the economy.",
-      "The success of the new product will be a bellwether for the company's future.",
-      "The restaurant is a bellwether for the city's food scene.",
-      "The team's star player is a bellwether for their success on the field.",
-    ],
-  },
-  {
     word: "bemoan",
     definition: "to express distress or grief over; lament",
     synonyms: ["lament", "deplore", "bewail", "regret", "mourn"],
@@ -5005,18 +3960,6 @@ const vocabData = [
       "The abstract art exhibit left many visitors bemused.",
       "The math problem bemused the entire class.",
       "The unexpected twist in the movie's plot left the audience bemused.",
-    ],
-  },
-  {
-    word: "bemused",
-    definition: "puzzled, confused, or bewildered",
-    synonyms: ["perplexed", "bewildered", "confused", "dazed", "disoriented"],
-    exampleSentences: [
-      "He looked bemused when I asked him about the new project.",
-      "She gave me a bemused smile when I told her the news.",
-      "The instructions were so complicated that I was left feeling bemused.",
-      "The bemused expression on his face suggested he had no idea what was going on.",
-      "I must admit, I was a little bemused by his behavior.",
     ],
   },
   {
@@ -5193,19 +4136,6 @@ const vocabData = [
     ],
   },
   {
-    word: "besom",
-    definition:
-      "a broom made of twigs tied around a stick; a bundle of twigs attached to the end of a long handle, used for sweeping.",
-    synonyms: ["broom", "whisk", "scrubber", "brush", "sweeper"],
-    exampleSentences: [
-      "I swept the floor with a besom.",
-      "The old lady was sweeping the street with a besom.",
-      "She made a besom out of twigs and a stick.",
-      "I need to buy a new besom for the kitchen.",
-      "The besom was leaning against the wall.",
-    ],
-  },
-  {
     word: "besotted",
     definition: "strongly infatuated; intoxicated; obsessed",
     synonyms: ["infatuated", "smitten", "enamored", "captivated", "obsessed"],
@@ -5341,37 +4271,6 @@ const vocabData = [
     ],
   },
   {
-    word: "bhakti",
-    definition:
-      "devotion, love, and surrender to a personal god or spiritual teacher",
-    synonyms: ["devotion", "worship", "adoration", "piety", "veneration"],
-    exampleSentences: [
-      "Her bhakti to Lord Krishna was unwavering.",
-      "The guru taught his followers the path of bhakti yoga.",
-      "She expressed her bhakti through singing hymns and offering prayers.",
-      "The festival was a celebration of devotion and bhakti.",
-      "The ashram was a place for those seeking to deepen their bhakti practice.",
-    ],
-  },
-  {
-    word: "biblioklept",
-    definition: "a person who steals books",
-    synonyms: [
-      "book thief",
-      "book stealer",
-      "book rustler",
-      "book pilferer",
-      "bookpincher",
-    ],
-    exampleSentences: [
-      "The librarian caught the biblioklept stealing a rare edition of Hemingway's 'The Sun Also Rises.'",
-      "The bookstore owner installed video cameras to catch any biblioklepts trying to shoplift.",
-      "The biblioklept was caught with a backpack full of stolen books.",
-      "The police arrested the biblioklept and recovered over 100 stolen books from his apartment.",
-      "The library had to increase security measures to prevent biblioklepts from stealing valuable books.",
-    ],
-  },
-  {
     word: "bibliophile",
     definition:
       "a person who loves or collects books, especially as examples of fine or unusual printing, binding, or the like.",
@@ -5391,18 +4290,6 @@ const vocabData = [
     ],
   },
   {
-    word: "bibulous",
-    definition: "excessively fond of drinking alcohol; absorbent; spongy",
-    synonyms: ["drunken", "alcoholic", "spongy", "absorbent", "thirsty"],
-    exampleSentences: [
-      "He was known to be a bibulous person, often seen with a glass in his hand.",
-      "The party was filled with bibulous guests, all enjoying the open bar.",
-      "The bibulous sponge soaked up all the spilled wine on the table.",
-      "Her bibulous nature got her into trouble at work when she showed up drunk.",
-      "The bibulous tendencies of the character in the novel were a major theme throughout the story.",
-    ],
-  },
-  {
     word: "bicker",
     definition: "to argue or quarrel about petty matters",
     synonyms: ["quarrel", "argue", "squabble", "wrangle", "brawl"],
@@ -5412,19 +4299,6 @@ const vocabData = [
       "The coworkers bickered over who should be in charge of the project.",
       "The politicians bickered over the details of the new law.",
       "The neighbors bickered over whose tree was dropping leaves in the other's yard.",
-    ],
-  },
-  {
-    word: "bier",
-    definition:
-      "a stand on which a corpse or coffin is placed at a funeral prior to burial or cremation",
-    synonyms: ["coffin stand", "funeral stretcher", "mortuary platform"],
-    exampleSentences: [
-      "The mourners followed the bier as it was carried through the streets.",
-      "The casket was placed on the bier at the front of the chapel.",
-      "The pallbearers lifted the bier and carried it to the gravesite.",
-      "The family gathered around the bier to say goodbye to their loved one.",
-      "The funeral director placed the flowers on the bier before the service began.",
     ],
   },
   {
@@ -5507,32 +4381,6 @@ const vocabData = [
       "The two leaders came to a bipartisan agreement on the issue.",
       "The bipartisan effort to reform healthcare was unsuccessful.",
       "The governor called for a bipartisan effort to address climate change.",
-    ],
-  },
-  {
-    word: "bivouac",
-    definition:
-      "a temporary camp without tents or cover, used especially by soldiers or mountaineers.",
-    synonyms: ["camp", "encampment", "shelter", "lodging", "lodge"],
-    exampleSentences: [
-      "We will bivouac in the forest tonight.",
-      "The mountaineers stopped to bivouac on the mountain.",
-      "The soldiers set up a bivouac in the field.",
-      "We had no tents, so we had to bivouac under the stars.",
-      "The hikers planned to bivouac at the top of the mountain.",
-    ],
-  },
-  {
-    word: "bizarre",
-    definition:
-      "very strange or unusual, especially so as to cause interest or amusement.",
-    synonyms: ["strange", "weird", "odd", "peculiar", "unusual"],
-    exampleSentences: [
-      "The fashion show featured some truly bizarre outfits.",
-      "The movie had a bizarre plot.",
-      "He had a bizarre sense of humor.",
-      "The painting was a bizarre mix of colors and shapes.",
-      "The party had some bizarre decorations.",
     ],
   },
   {
@@ -5696,50 +4544,6 @@ const vocabData = [
     ],
   },
   {
-    word: "blooming",
-    definition:
-      "developing flowers; in full bloom; flourishing; growing vigorously",
-    synonyms: [
-      "blossoming",
-      "flourishing",
-      "thriving",
-      "burgeoning",
-      "prospering",
-    ],
-    exampleSentences: [
-      "The garden is blooming with colorful flowers.",
-      "The cherry tree is in full blooming.",
-      "After a long period of hardship, the company is now blooming.",
-      "The economy is blooming, and unemployment rates are decreasing.",
-      "She is blooming with happiness since she got engaged.",
-    ],
-  },
-  {
-    word: "blossom",
-    definition:
-      "the flower or flowers on a plant that open and are typically colorful and fragrant",
-    synonyms: ["flower", "bloom", "bud", "blossoming", "efflorescence"],
-    exampleSentences: [
-      "The cherry tree was covered in beautiful pink blossoms.",
-      "The apple tree was full of white blossoms.",
-      "The wildflowers were beginning to blossom in the meadow.",
-      "The rose bush had a few blossoms, but not many.",
-      "The magnolia tree had large, fragrant blossoms.",
-    ],
-  },
-  {
-    word: "blossoming",
-    definition: "the process of coming into bloom; developing or flourishing",
-    synonyms: ["blooming", "flourishing", "thriving", "budding", "burgeoning"],
-    exampleSentences: [
-      "The cherry trees are blossoming beautifully this year.",
-      "The garden is a sight to behold, with flowers and plants blossoming everywhere.",
-      "Her career is blossoming and she's finally getting the recognition she deserves.",
-      "The young couple's love was blossoming into something special.",
-      "The city is undergoing a period of blossoming, with new businesses and attractions popping up all over.",
-    ],
-  },
-  {
     word: "bludgeon",
     definition: "a thick stick with a heavy end, used as a weapon",
     synonyms: ["club", "mace", "baton", "cudgel", "truncheon"],
@@ -5749,18 +4553,6 @@ const vocabData = [
       "The thief used a bludgeon to break into the house.",
       "The medieval knight wielded a bludgeon in battle.",
       "The angry mob armed themselves with bludgeons.",
-    ],
-  },
-  {
-    word: "blurry",
-    definition: "not clear or sharply defined",
-    synonyms: ["fuzzy", "unclear", "indistinct", "hazy", "vague"],
-    exampleSentences: [
-      "I need new glasses because everything looks blurry.",
-      "The photograph came out blurry because of the low light.",
-      "He couldn't read the sign because the letters were blurry.",
-      "Her memory of the event was blurry because it had been so long ago.",
-      "The outline of the object was blurry and hard to identify.",
     ],
   },
   {
@@ -5822,18 +4614,6 @@ const vocabData = [
     ],
   },
   {
-    word: "bole",
-    definition: "the trunk of a tree",
-    synonyms: ["trunk", "stem", "shaft"],
-    exampleSentences: [
-      "The bole of the oak tree was thick and sturdy.",
-      "The woodcutter chopped down the bole of the pine tree.",
-      "The climbers held onto the bole of the palm tree while reaching for the fruit.",
-      "The birdhouse was attached to the bole of the maple tree.",
-      "The forest ranger measured the height and girth of the bole of the redwood tree.",
-    ],
-  },
-  {
     word: "bolster",
     definition: "to support or strengthen; to prop up",
     synonyms: ["strengthen", "support", "reinforce", "buttress", "prop up"],
@@ -5865,63 +4645,6 @@ const vocabData = [
     ],
   },
   {
-    word: "bombinate",
-    definition: "to make a humming or buzzing noise",
-    synonyms: ["buzz", "hum", "whir", "whiz", "drone"],
-    exampleSentences: [
-      "The bees bombinated around the hive.",
-      "The sound of the fan bombinated in the background.",
-      "The electric wires bombinated with energy.",
-      "The audience waited silently as the orchestra bombinated their instruments.",
-      "The old refrigerator bombinated loudly in the kitchen.",
-    ],
-  },
-  {
-    word: "bond",
-    definition:
-      "a thing used to tie or fasten things together; an agreement with legal force, in particular.",
-    synonyms: [
-      "tie, link, connection, knot, pact, agreement, contract, pledge, commitment",
-    ],
-    exampleSentences: [
-      "The glue created a strong bond between the two pieces of wood.",
-      "The bond between the two sisters was unbreakable.",
-      "The company issued bonds to fund their expansion.",
-      "The two countries formed a bond of friendship.",
-      "I have a close bond with my dog.",
-    ],
-  },
-  {
-    word: "bonhomie",
-    definition: "a pleasant and affable disposition; geniality",
-    synonyms: [
-      "amiability",
-      "cordiality",
-      "friendliness",
-      "good-naturedness",
-      "sociability",
-    ],
-    exampleSentences: [
-      "His bonhomie made him a popular host among his friends.",
-      "Despite the long hours, the team's bonhomie kept morale high.",
-      "The politician's bonhomie and charm helped him win over many voters.",
-      "The restaurant's atmosphere was filled with bonhomie and laughter.",
-      "The group's bonhomie was contagious and soon everyone was chatting and joking.",
-    ],
-  },
-  {
-    word: "booby",
-    definition: "a foolish or stupid person",
-    synonyms: ["idiot", "nincompoop", "dolt", "simpleton", "moron"],
-    exampleSentences: [
-      "Don't be such a booby and listen to what I'm saying.",
-      "He's a complete booby and can't even tie his own shoes.",
-      "I can't believe I was such a booby to trust her.",
-      "The booby thought he could jump over the fence and ended up falling on his face.",
-      "She's always making booby mistakes in her work.",
-    ],
-  },
-  {
     word: "boon",
     definition: "something that is helpful or beneficial; a blessing",
     synonyms: ["benefit", "advantage", "gift", "blessing", "perk"],
@@ -5946,32 +4669,6 @@ const vocabData = [
     ],
   },
   {
-    word: "borzoi",
-    definition:
-      "a large breed of dog of Russian origin, with a long silky coat and a narrow head",
-    synonyms: ["Russian wolfhound"],
-    exampleSentences: [
-      "I saw a beautiful borzoi at the dog show.",
-      "The borzoi is known for its speed and grace.",
-      "My neighbor owns a borzoi named Sasha.",
-      "The borzoi's coat requires regular grooming.",
-      "The borzoi was originally bred for hunting wolves in Russia.",
-    ],
-  },
-  {
-    word: "bouillon",
-    definition:
-      "a clear broth made by simmering meat, fish, or vegetables in water with herbs and spices",
-    synonyms: ["broth", "stock", "consommé", "soup"],
-    exampleSentences: [
-      "I made a delicious chicken bouillon for dinner.",
-      "The soup was made with a rich bouillon base.",
-      "She added bouillon cubes to the pot to enhance the flavor.",
-      "The bouillon was served as a starter for the meal.",
-      "He used the bouillon as a base for his homemade gravy.",
-    ],
-  },
-  {
     word: "boulevard",
     definition: "a wide street in a city, typically one lined with trees.",
     synonyms: ["avenue", "drive", "thoroughfare", "street"],
@@ -5984,19 +4681,6 @@ const vocabData = [
     ],
   },
   {
-    word: "boulevardier",
-    definition:
-      "a wealthy, fashionable socialite who frequents fashionable places",
-    synonyms: ["man-about-town", "flaneur", "dandy", "swell", "gadabout"],
-    exampleSentences: [
-      "He was a boulevardier who spent his evenings at the most exclusive clubs.",
-      "The boulevardier was always impeccably dressed in the latest fashion.",
-      "She was a true boulevardier, always seen at the trendiest restaurants and nightclubs.",
-      "The young man was a boulevardier, spending his days exploring the city and his nights partying.",
-      "The boulevardier was the center of attention wherever he went.",
-    ],
-  },
-  {
     word: "bounteous",
     definition: "generously giving, abundant, plentiful",
     synonyms: ["generous", "liberal", "plentiful", "abundant", "ample"],
@@ -6006,19 +4690,6 @@ const vocabData = [
       "The bounteous rain brought new life to the dry fields.",
       "She was grateful for the bounteous blessings in her life.",
       "The bounteous gifts from the wedding guests overwhelmed the couple.",
-    ],
-  },
-  {
-    word: "bowdlerize",
-    definition:
-      "to remove or modify parts of a text that are considered vulgar or offensive",
-    synonyms: ["censor", "sanitize", "expurgate", "purify", "cleanse"],
-    exampleSentences: [
-      "The movie was bowdlerized before it was released to make it suitable for all audiences.",
-      "The publisher bowdlerized the classic novel to make it more appropriate for young readers.",
-      "The government censors have been known to bowdlerize news articles before they are published.",
-      "I refuse to bowdlerize my writing just to please sensitive readers.",
-      "The university administration bowdlerized the student newspaper to avoid controversy.",
     ],
   },
   {
@@ -6045,19 +4716,6 @@ const vocabData = [
       "The pirate captain brandished his sword and shouted orders to his crew.",
       "She brandished the letter from her lawyer, threatening to sue if they didn't pay her.",
       "The knight brandished his lance and charged at the dragon.",
-    ],
-  },
-  {
-    word: "brattle",
-    definition:
-      "to make a rattling noise, especially of horses or cattle galloping over hard ground",
-    synonyms: ["clatter", "rattle", "thunder", "gallop", "patter"],
-    exampleSentences: [
-      "The sound of the horses' brattle could be heard from miles away.",
-      "The cows brattled across the field to get to their feeding troughs.",
-      "The sound of the brattle echoed through the valley.",
-      "The brattle of the horses' hooves was deafening.",
-      "She could hear the brattle of the cattle in the distance.",
     ],
   },
   {
@@ -6104,31 +4762,6 @@ const vocabData = [
     ],
   },
   {
-    word: "breeziness",
-    definition: "the quality or state of being fresh, light, and invigorating",
-    synonyms: ["airiness", "briskness", "vitality", "buoyancy", "liveliness"],
-    exampleSentences: [
-      "The breeziness of the ocean air was refreshing.",
-      "I love the breeziness of springtime.",
-      "Her dress had a certain breeziness to it.",
-      "The music had a breeziness that made everyone want to dance.",
-      "The artist captured the breeziness of the countryside in his painting.",
-    ],
-  },
-  {
-    word: "breviloquent",
-    definition:
-      "using few words in speech or writing; concise and to the point",
-    synonyms: ["terse", "succinct", "pithy", "laconic", "concise"],
-    exampleSentences: [
-      "His breviloquent speech was well-received by the audience.",
-      "The article was written in a breviloquent style, making it easy to read and understand.",
-      "She was known for her breviloquent emails that got straight to the point.",
-      "His breviloquent response didn't reveal much information.",
-      "The breviloquent nature of the poem made it all the more powerful.",
-    ],
-  },
-  {
     word: "brevity",
     definition: "concise and exact use of words in writing or speech",
     synonyms: [
@@ -6144,25 +4777,6 @@ const vocabData = [
       "The article was notable for its brevity.",
       "She has a talent for brevity when it comes to writing emails.",
       "The tweet's brevity made it perfect for sharing quickly.",
-    ],
-  },
-  {
-    word: "bricolage",
-    definition:
-      "the construction or creation of something using whatever materials and tools are available or on hand",
-    synonyms: [
-      "DIY",
-      "handyman work",
-      "craftsmanship",
-      "repurposing",
-      "upcycling",
-    ],
-    exampleSentences: [
-      "He made a lamp out of old bicycle parts using bricolage techniques.",
-      "She created a mosaic using bricolage with broken tiles and glass.",
-      "Their furniture was made from bricolage with reclaimed wood and metal scraps.",
-      "The artist's sculptures were made using bricolage with found objects.",
-      "The costume designer used bricolage to create unique outfits for the play by repurposing old clothing.",
     ],
   },
   {
@@ -6190,31 +4804,6 @@ const vocabData = [
     ],
   },
   {
-    word: "brock",
-    definition: "a badger, especially a European badger",
-    synonyms: ["badger"],
-    exampleSentences: [
-      "The brock dug a burrow under the tree.",
-      "The brock was spotted in the woods by the hikers.",
-      "The farmer tried to catch the brock that was stealing his chickens.",
-      "The brock is known for its black and white striped face.",
-      "The brock is a nocturnal animal.",
-    ],
-  },
-  {
-    word: "brooch",
-    definition:
-      "a decorative jewelry item worn on clothing, typically fastened with a pin",
-    synonyms: ["pin", "badge", "decoration", "ornament", "jewel"],
-    exampleSentences: [
-      "She wore a beautiful brooch on her coat.",
-      "The antique brooch was passed down from her grandmother.",
-      "He gave her a diamond brooch for their anniversary.",
-      "The brooch was intricately designed with pearls and gold.",
-      "She fastened her scarf with a brooch.",
-    ],
-  },
-  {
     word: "brood",
     definition:
       "to think or worry persistently, often about something that makes one unhappy",
@@ -6228,31 +4817,6 @@ const vocabData = [
     ],
   },
   {
-    word: "brook",
-    definition: "a small stream",
-    synonyms: ["stream", "creek", "rivulet", "runnel", "brooklet"],
-    exampleSentences: [
-      "I love to sit by the brook and listen to the water flow.",
-      "The children hunted for crayfish in the brook.",
-      "The path followed the brook through the woods.",
-      "The brook was dry during the summer months.",
-      "The cabin was situated next to a babbling brook.",
-    ],
-  },
-  {
-    word: "browbeat",
-    definition:
-      "to intimidate or dominate in an aggressive way, often using threats or harsh words",
-    synonyms: ["bully", "intimidate", "coerce", "pressurize", "dominate"],
-    exampleSentences: [
-      "The boss tried to browbeat his employees into working overtime.",
-      "Don't let him browbeat you into doing something you don't want to do.",
-      "She was browbeaten by her husband and felt trapped in the relationship.",
-      "The politician was accused of trying to browbeat his opponents into silence.",
-      "I refuse to be browbeaten by anyone.",
-    ],
-  },
-  {
     word: "brusque",
     definition: "abrupt or offhand in speech or manner",
     synonyms: ["blunt", "curt", "abrupt", "terse", "gruff"],
@@ -6262,31 +4826,6 @@ const vocabData = [
       "She received a brusque response from her boss when she asked for a raise.",
       "The company's CEO was known for his brusque management style.",
       "The nurse's brusque tone made the patient feel uncomfortable.",
-    ],
-  },
-  {
-    word: "bubbling",
-    definition:
-      "Making or characterized by a sound as if a liquid is boiling fiercely; full of lively or ebullient activity or excitement.",
-    synonyms: ["effervescing", "fizzing", "frothy", "sparkling", "boiling"],
-    exampleSentences: [
-      "The water was bubbling in the pot.",
-      "The children were bubbling over with excitement.",
-      "The champagne was bubbling in the glass.",
-      "The volcano was bubbling with lava.",
-      "The pot of soup was bubbling on the stove.",
-    ],
-  },
-  {
-    word: "buckler",
-    definition: "a small round shield held by a handle or worn on the forearm",
-    synonyms: ["shield", "guard", "protection", "armor", "defender"],
-    exampleSentences: [
-      "The knight carried a buckler in addition to his sword.",
-      "The gladiator used his buckler to deflect his opponent's sword.",
-      "The soldier relied on his buckler for protection in battle.",
-      "The thief used the buckler to hide his face from the security camera.",
-      "The adventurer found an old buckler in the ruins of the castle.",
     ],
   },
   {
@@ -6303,25 +4842,6 @@ const vocabData = [
     ],
   },
   {
-    word: "bugbear",
-    definition:
-      "a cause of obsessive fear, irritation, or loathing; a persistent problem or source of annoyance.",
-    synonyms: [
-      "bête noire",
-      "anathema",
-      "abomination",
-      "aversion",
-      "detestation",
-    ],
-    exampleSentences: [
-      "For some people, public speaking is a bugbear that they can never seem to conquer.",
-      "The traffic in this city is a bugbear for commuters.",
-      "The lack of affordable housing is a bugbear for many young adults.",
-      "His ex-girlfriend was a bugbear that haunted him for years.",
-      "The constant interruptions from his coworkers were a bugbear that prevented him from getting any work done.",
-    ],
-  },
-  {
     word: "bulbous",
     definition: "fat, round, or bulging",
     synonyms: ["bulging", "swollen", "rounded", "pudgy", "plump"],
@@ -6331,18 +4851,6 @@ const vocabData = [
       "The chef made a bulbous pastry filled with cream.",
       "The artist painted a bulbous figure that looked like a cartoon character.",
       "The tumor on the patient's arm was bulbous and had to be removed.",
-    ],
-  },
-  {
-    word: "bullion",
-    definition: "gold or silver in bulk before coining, or valued by weight",
-    synonyms: ["bars", "ingots", "nuggets", "specie"],
-    exampleSentences: [
-      "The bank safe was filled with bullion.",
-      "He inherited a large amount of bullion from his grandfather.",
-      "The pirates stole several chests of bullion from the ship.",
-      "The company invested heavily in bullion.",
-      "The museum had a display of ancient bullion from different civilizations.",
     ],
   },
   {
@@ -6356,31 +4864,6 @@ const vocabData = [
       "The soldiers stood behind the bulwark to shield themselves from the enemy's gunfire.",
       "The company's CEO served as a bulwark against hostile takeovers.",
       "The new regulations acted as a bulwark against fraud and corruption.",
-    ],
-  },
-  {
-    word: "bumptious",
-    definition: "self-assertive or proud to an irritating degree",
-    synonyms: ["arrogant", "cocky", "conceited", "egotistical", "pompous"],
-    exampleSentences: [
-      "He was too bumptious to be elected.",
-      "Her bumptious behavior annoyed her classmates.",
-      "He had a bumptious air about him that made him unpopular.",
-      "She was bumptious and thought she knew everything.",
-      "His bumptious attitude made it difficult for him to make friends.",
-    ],
-  },
-  {
-    word: "bungalow",
-    definition:
-      "a low house, with a broad front porch, having either no upper floor or upper rooms set in the roof, typically with dormer windows.",
-    synonyms: ["cottage", "cabin", "chalet", "casa", "villa"],
-    exampleSentences: [
-      "The couple decided to retire in a bungalow by the beach.",
-      "The resort had several bungalows available for rent.",
-      "We spent the weekend at my friend's bungalow in the mountains.",
-      "The bungalow had a beautiful garden in front.",
-      "The architect designed a modern bungalow for the family.",
     ],
   },
   {
@@ -6471,19 +4954,6 @@ const vocabData = [
     ],
   },
   {
-    word: "burnished",
-    definition:
-      "polished, made shiny or glossy by rubbing; made bright and smooth; embellished or intensified by rubbing or polishing",
-    synonyms: ["polished", "shiny", "glossy", "gleaming", "bright"],
-    exampleSentences: [
-      "The brass candlestick had been burnished to a high shine.",
-      "The sun burnished the tops of the waves with gold.",
-      "The dancer's movements were burnished by her years of training.",
-      "The artist burnished the paint to create a smooth, glossy finish.",
-      "The CEO's reputation was burnished by his successful leadership of the company.",
-    ],
-  },
-  {
     word: "buttress",
     definition: "a projecting support of stone or brick built against a wall",
     synonyms: ["support", "brace", "prop", "stay", "underpinning"],
@@ -6526,31 +4996,6 @@ const vocabData = [
     ],
   },
   {
-    word: "byre",
-    definition:
-      "a shelter for cows or other livestock, typically consisting of a covered area surrounded by walls or fences",
-    synonyms: ["cowshed", "barn", "stable", "shelter", "pen"],
-    exampleSentences: [
-      "The farmer built a new byre for his cows.",
-      "The cows were kept in the byre during the winter months.",
-      "The byre was full of hay and straw for the cows to eat.",
-      "There was a strong smell of manure coming from the byre.",
-      "The byre was cleaned out every day to keep it hygienic.",
-    ],
-  },
-  {
-    word: "byrnie",
-    definition: "a coat of mail; hauberk.",
-    synonyms: ["hauberk", "armor", "chain mail", "mail shirt", "ring mail"],
-    exampleSentences: [
-      "The knight wore a byrnie under his surcoat.",
-      "The byrnie protected the soldier from sword strikes.",
-      "The museum's collection included a well-preserved byrnie from the medieval period.",
-      "The byrnie was heavy and uncomfortable to wear, but necessary for protection in battle.",
-      "The byrnie was a common component of early medieval military equipment.",
-    ],
-  },
-  {
     word: "cabal",
     definition: "a secret political clique or faction",
     synonyms: ["clique", "faction", "conspiracy", "plot", "scheme"],
@@ -6560,19 +5005,6 @@ const vocabData = [
       "There were rumors of a cabal of wealthy businessmen controlling the country's economy.",
       "The cabal of advisors had a strong influence on the king's decisions.",
       "The journalist uncovered a cabal within the police department involved in corruption.",
-    ],
-  },
-  {
-    word: "cachet",
-    definition:
-      "a mark or quality indicating that something is considered prestigious or valuable.",
-    synonyms: ["prestige", "status", "reputation", "distinction", "standing"],
-    exampleSentences: [
-      "Having a degree from an Ivy League school carries a certain cachet.",
-      "The designer handbag has a certain cachet among fashion enthusiasts.",
-      "The restaurant's Michelin star gives it a certain cachet.",
-      "The company's logo adds a certain cachet to their products.",
-      "Being associated with a famous celebrity adds a certain cachet to one's image.",
     ],
   },
   {
@@ -6638,18 +5070,6 @@ const vocabData = [
     ],
   },
   {
-    word: "calaba",
-    definition: "a large gourd used as a container or utensil",
-    synonyms: ["gourd", "squash"],
-    exampleSentences: [
-      "She used a calaba to serve soup at the dinner party.",
-      "The calaba was filled with water and used to wash the dishes.",
-      "He carved intricate designs into the calaba before using it to store rice.",
-      "The calaba was used as a musical instrument in some cultures.",
-      "She painted the calaba with bright colors and used it as a decorative piece in her home.",
-    ],
-  },
-  {
     word: "calamity",
     definition:
       "an event causing great and often sudden damage or distress; a disaster",
@@ -6663,19 +5083,6 @@ const vocabData = [
     ],
   },
   {
-    word: "calcination",
-    definition:
-      "the process of heating a substance to a high temperature in order to remove volatile substances or to convert it into a more stable form",
-    synonyms: ["roasting", "burning", "heating", "firing", "incineration"],
-    exampleSentences: [
-      "The calcination of limestone produces quicklime.",
-      "Calcination is an important step in the production of cement.",
-      "The calcination of gypsum is necessary before it can be used as a building material.",
-      "The process of calcination is used in metallurgy to extract metals from ores.",
-      "Calcination is also used in the production of ceramics and pottery.",
-    ],
-  },
-  {
     word: "caliginous",
     definition: "misty, dim, obscure, or dark",
     synonyms: ["murky", "obscure", "gloomy", "hazy", "dim"],
@@ -6685,31 +5092,6 @@ const vocabData = [
       "The caliginous depths of the ocean were both fascinating and terrifying.",
       "The caliginous alleyway made her feel uneasy.",
       "The caliginous forest was filled with mystery and danger.",
-    ],
-  },
-  {
-    word: "calliope",
-    definition:
-      "a musical instrument consisting of a set of steam whistles played from a keyboard, typically used on fairgrounds to produce a loud, shrill sound.",
-    synonyms: ["steam organ", "steam piano", "steam calliope"],
-    exampleSentences: [
-      "The calliope could be heard from miles away.",
-      "The fairground was alive with the sound of the calliope.",
-      "She learned to play the calliope at a young age.",
-      "The calliope's high-pitched sound could be heard over the roar of the crowd.",
-      "The calliope's music filled the air with a festive energy.",
-    ],
-  },
-  {
-    word: "callipygian",
-    definition: "having well-shaped buttocks",
-    synonyms: ["shapely", "well-formed", "curvaceous", "voluptuous"],
-    exampleSentences: [
-      "She was known for her callipygian figure.",
-      "The artist often painted callipygian women.",
-      "He couldn't help but appreciate her callipygian curves.",
-      "The swimsuit model's callipygian derriere was the envy of many.",
-      "The fashion industry has recently embraced a more callipygian ideal of beauty.",
     ],
   },
   {
@@ -6769,19 +5151,6 @@ const vocabData = [
     ],
   },
   {
-    word: "calypso",
-    definition:
-      "a style of music originating in Trinidad and Tobago, characterized by syncopated rhythms and lyrics that often address social and political issues",
-    synonyms: ["soca music", "Trinidadian music"],
-    exampleSentences: [
-      "The band played a lively calypso at the carnival parade.",
-      "Her favorite genre of music is calypso.",
-      "The calypso singer's lyrics were particularly poignant.",
-      "We danced all night to the pulsating beat of the calypso music.",
-      "The calypso rhythm is infectious and makes you want to move.",
-    ],
-  },
-  {
     word: "camaraderie",
     definition:
       "mutual trust and friendship among people who spend a lot of time together",
@@ -6833,18 +5202,6 @@ const vocabData = [
     ],
   },
   {
-    word: "canard",
-    definition: "an unfounded rumor or story",
-    synonyms: ["hoax", "rumor", "myth", "legend", "falsehood"],
-    exampleSentences: [
-      "The canard about the politician's secret wealth spread quickly online.",
-      "The canard that vaccines cause autism has been debunked by numerous studies.",
-      "The canard that eating carrots improves your eyesight was spread by the British during World War II.",
-      "The canard that sugar causes hyperactivity in children has been disproven by scientific research.",
-      "The canard that alligators live in New York City's sewers is a popular urban legend.",
-    ],
-  },
-  {
     word: "candid",
     definition: "truthful and straightforward; frank",
     synonyms: ["honest", "sincere", "direct", "forthright", "open"],
@@ -6875,19 +5232,6 @@ const vocabData = [
     ],
   },
   {
-    word: "canker",
-    definition:
-      "a destructive fungal disease of woody plants that results in damage to the bark and eventual death of the plant",
-    synonyms: ["blight", "rust", "mold", "fungus", "disease"],
-    exampleSentences: [
-      "The apple tree in the backyard has a canker that is spreading quickly.",
-      "The rose bushes were infected with canker and had to be removed.",
-      "The oak tree had a canker that weakened the trunk and caused it to fall during the storm.",
-      "The holly bushes were treated for canker and are beginning to recover.",
-      "The cherry orchard suffered a devastating loss due to a canker outbreak.",
-    ],
-  },
-  {
     word: "canon",
     definition:
       "a general law, rule, principle, or criterion by which something is judged; a collection or list of sacred books accepted as genuine.",
@@ -6911,19 +5255,6 @@ const vocabData = [
     ],
   },
   {
-    word: "cant",
-    definition:
-      "insincere talk, especially that which is regarded as morally unacceptable or hypocritical",
-    synonyms: ["hypocrisy", "pretense", "insincerity", "dishonesty", "deceit"],
-    exampleSentences: [
-      "The politician's speech was filled with cant and empty promises.",
-      "I can't stand the cant of these religious zealots.",
-      "The company's mission statement was full of corporate cant.",
-      "He spoke with such cant that nobody believed a word he said.",
-      "The teacher saw through the cant of the student who was trying to get out of doing their homework.",
-    ],
-  },
-  {
     word: "cantankerous",
     definition: "bad-tempered, argumentative, and uncooperative",
     synonyms: ["cranky", "irritable", "grumpy", "testy", "ornery"],
@@ -6933,18 +5264,6 @@ const vocabData = [
       "Her cantankerous attitude made it difficult to work with her.",
       "The cantankerous customer argued with the cashier over the price.",
       "The cantankerous cat hissed and scratched at anyone who came near.",
-    ],
-  },
-  {
-    word: "canto",
-    definition: "a principal division of a long poem",
-    synonyms: ["section", "part", "chapter", "verse", "stanza"],
-    exampleSentences: [
-      "I particularly like the fourth canto of Dante's Inferno.",
-      "The first canto of the epic poem sets the scene for the rest of the story.",
-      "The third canto of the poem describes a battle between two armies.",
-      "Each canto of the poem tells a different part of the hero's journey.",
-      "The final canto of the poem brings the story to a satisfying conclusion.",
     ],
   },
   {
@@ -6981,19 +5300,6 @@ const vocabData = [
       "The weather's caprices made planning a picnic impossible.",
       "The boss's caprice meant that the office had to work late on Friday.",
       "She indulged her caprice for unusual jewelry by collecting antique brooches.",
-    ],
-  },
-  {
-    word: "carcanet",
-    definition:
-      "a jeweled necklace or collar, especially of the Renaissance period, worn as a necklace or a headband.",
-    synonyms: ["necklace", "collar", "choker"],
-    exampleSentences: [
-      "She wore a beautiful carcanet to the ball.",
-      "The carcanet was adorned with precious stones.",
-      "The queen's carcanet was her most prized possession.",
-      "The carcanet was passed down from generation to generation.",
-      "He gifted her a stunning carcanet on their anniversary.",
     ],
   },
   {
@@ -7127,18 +5433,6 @@ const vocabData = [
     ],
   },
   {
-    word: "carven",
-    definition: "made or decorated by carving; sculpted",
-    synonyms: ["sculpted", "carved", "engraved", "chiseled"],
-    exampleSentences: [
-      "The intricate carven details on the wooden door were impressive.",
-      "The carven statue was a masterpiece of art.",
-      "The carven designs on the stone pillars were breathtaking.",
-      "The carven letters on the monument were still legible after centuries.",
-      "The carven images on the temple walls depicted scenes from ancient mythology.",
-    ],
-  },
-  {
     word: "cascade",
     definition:
       "a small waterfall, typically one of several that fall in stages down a steep rocky slope.",
@@ -7149,18 +5443,6 @@ const vocabData = [
       "The river flowed into a series of cascades.",
       "The cascade of water was mesmerizing to watch.",
       "The cascade of colors in the sunset was breathtaking.",
-    ],
-  },
-  {
-    word: "Cassandra",
-    definition: "a person who predicts doom or disaster; a pessimist",
-    synonyms: ["prophet of doom", "pessimist", "doomsayer", "fatalist"],
-    exampleSentences: [
-      "Don't be such a Cassandra!",
-      "She was always a Cassandra, never believing that things would turn out well.",
-      "The article painted a stark picture of a Cassandra who had long been warning about the impending crisis.",
-      "His reputation as a Cassandra was well-known among his colleagues.",
-      "The Cassandra-like warnings of the environmentalists were largely ignored.",
     ],
   },
   {
@@ -7215,18 +5497,6 @@ const vocabData = [
     ],
   },
   {
-    word: "catamaran",
-    definition: "a boat with two parallel hulls, usually of equal size",
-    synonyms: ["twin-hulled boat", "double-hulled boat", "bidecked boat"],
-    exampleSentences: [
-      "We rented a catamaran for the day and sailed around the bay.",
-      "The catamaran is known for its stability and speed.",
-      "The catamaran easily glided through the water with its two hulls.",
-      "The catamaran was equipped with a kitchen and sleeping quarters for overnight trips.",
-      "The catamaran race was a thrilling sight to see as the boats flew across the water.",
-    ],
-  },
-  {
     word: "cataract",
     definition:
       "a medical condition in which the lens of the eye becomes progressively opaque, resulting in blurred vision.",
@@ -7259,7 +5529,7 @@ const vocabData = [
   {
     word: "catatonic",
     definition:
-      "relating to or affected by catatonia, a condition characterized by muscular rigidity and mental stupor; appearing to be in a daze or stupor",
+      "relating to or affected a condition characterized by muscular rigidity and mental stupor; appearing to be in a daze or stupor",
     synonyms: [
       "motionless",
       "stuporous",
@@ -7357,18 +5627,6 @@ const vocabData = [
     ],
   },
   {
-    word: "causeway",
-    definition: "a raised road or track across low or wet ground.",
-    synonyms: ["embankment", "dike", "levee", "bank", "mound"],
-    exampleSentences: [
-      "The causeway was built to connect the island to the mainland.",
-      "The causeway across the marsh was difficult to traverse.",
-      "The causeway was flooded during the heavy rain.",
-      "The ancient causeway was made of stones and still stands today.",
-      "The construction crew built a causeway to transport equipment to the island.",
-    ],
-  },
-  {
     word: "cavalier",
     definition: "showing a lack of proper concern; offhand",
     synonyms: ["carefree", "nonchalant", "reckless", "indifferent", "heedless"],
@@ -7405,18 +5663,6 @@ const vocabData = [
     ],
   },
   {
-    word: "cavil",
-    definition: "to make petty or unnecessary objections; to quibble",
-    synonyms: ["nitpick", "carp", "complain", "criticize", "fault-find"],
-    exampleSentences: [
-      "The student would cavil at every little correction the teacher made.",
-      "He caviled about the price of the meal even though it was reasonable.",
-      "She always cavils at her husband's choice of movies.",
-      "The politician would cavil at every suggestion made by the opposing party.",
-      "The boss would cavil at every proposal made by his employees.",
-    ],
-  },
-  {
     word: "cavity",
     definition:
       "a hollow place or space within the body or in an organ, such as the sinuses",
@@ -7439,18 +5685,6 @@ const vocabData = [
       "The team ceded the lead in the final minutes of the game.",
       "The company decided to cede its operations in that region.",
       "The politician refused to cede any ground on the issue.",
-    ],
-  },
-  {
-    word: "celerity",
-    definition: "swiftness of movement",
-    synonyms: ["speed", "rapidity", "quickness", "haste", "promptness"],
-    exampleSentences: [
-      "The ambulance arrived with great celerity.",
-      "She moved with celerity to avoid the falling debris.",
-      "The company was praised for the celerity with which they responded to the crisis.",
-      "The athlete was known for his celerity on the track.",
-      "The project was completed with remarkable celerity.",
     ],
   },
   {
@@ -7479,18 +5713,6 @@ const vocabData = [
     ],
   },
   {
-    word: "centered",
-    definition: "having a focus or emphasis on a particular thing or person",
-    synonyms: ["focused", "concentrated", "directed", "aimed", "oriented"],
-    exampleSentences: [
-      "She is very centered on her career and doesn't have much time for a social life.",
-      "The meditation class helped her become more centered and calm.",
-      "His art is very centered around nature and the environment.",
-      "The team needs to stay centered on their goal if they want to win the championship.",
-      "She felt more centered and in control after practicing yoga regularly.",
-    ],
-  },
-  {
     word: "cerebral",
     definition:
       "relating to the brain or intellect; intellectual rather than emotional or physical",
@@ -7501,64 +5723,6 @@ const vocabData = [
       "Her interests were always cerebral rather than physical.",
       "The professor's lectures were highly cerebral and challenging.",
       "The film was criticized for being too cerebral and lacking in emotional depth.",
-    ],
-  },
-  {
-    word: "cesspool",
-    definition:
-      "an underground container for the temporary storage of liquid waste and sewage.",
-    synonyms: [
-      "septic tank",
-      "sewage pit",
-      "sump",
-      "tank",
-      "storage container",
-    ],
-    exampleSentences: [
-      "The old house had a cesspool in the backyard.",
-      "The cesspool was overflowing and needed to be pumped out.",
-      "The smell coming from the cesspool was unbearable.",
-      "The local government is responsible for maintaining the city's cesspools.",
-      "The house had to be condemned because of a leaking cesspool.",
-    ],
-  },
-  {
-    word: "cetacean",
-    definition:
-      "a marine mammal of the order Cetacea, which includes whales, dolphins, and porpoises",
-    synonyms: ["whale", "dolphin", "porpoise"],
-    exampleSentences: [
-      "The humpback whale is a cetacean.",
-      "Dolphins are known for their intelligence and are also a type of cetacean.",
-      "The blue whale is the largest cetacean and the largest animal on earth.",
-      "Some cetaceans, like killer whales, hunt in packs.",
-      "Porpoises are a smaller type of cetacean that are often found in shallow waters.",
-    ],
-  },
-  {
-    word: "chaddar",
-    definition:
-      "a large piece of cloth traditionally used as a garment by women in South Asia, typically worn as a head covering or shawl",
-    synonyms: ["shawl", "headscarf", "veil", "dupatta", "hijab"],
-    exampleSentences: [
-      "She draped the chaddar over her head to shield herself from the sun.",
-      "The bride wore a beautiful red chaddar with gold embroidery on her wedding day.",
-      "My grandmother always wears a white chaddar when she goes to the mosque.",
-      "In some cultures, a chaddar is used as a symbol of modesty and respect.",
-      "I bought a silk chaddar as a souvenir from my trip to India.",
-    ],
-  },
-  {
-    word: "chaff",
-    definition:
-      "the husks of corn or other seed separated by winnowing or threshing; worthless matter; banter or teasing",
-    synonyms: ["husks", "waste", "rubbish", "mockery", "ridicule"],
-    exampleSentences: [
-      "The farmer separated the chaff from the wheat using a winnowing fan.",
-      "The argument was full of chaff and lacked any real substance.",
-      "He took her teasing as good-natured chaff.",
-      "The comedian was known for his lighthearted chaffing of audience members.",
-      "The politician tried to evade the reporter's questions with chaff.",
     ],
   },
   {
@@ -7578,19 +5742,6 @@ const vocabData = [
       "She couldn't hide her chagrin when she saw her ex-boyfriend with his new girlfriend.",
       "To her chagrin, she realized she had left her wallet at home.",
       "The team felt a sense of chagrin after losing the championship game.",
-    ],
-  },
-  {
-    word: "chalcedony",
-    definition:
-      "a microcrystalline type of quartz occurring in several different forms including onyx, agate, and jasper",
-    synonyms: ["agate", "onyx", "jasper", "cryptocrystalline silica"],
-    exampleSentences: [
-      "She wore a necklace made of chalcedony.",
-      "The vase was carved out of chalcedony.",
-      "The ancient Greeks believed that chalcedony could ward off evil spirits.",
-      "The ring was set with a beautiful blue chalcedony.",
-      "The walls of the temple were made of chalcedony.",
     ],
   },
   {
@@ -7733,19 +5884,6 @@ const vocabData = [
     ],
   },
   {
-    word: "chary",
-    definition:
-      "cautious or careful; hesitant to take risks or make commitments",
-    synonyms: ["wary", "circumspect", "guarded", "prudent", "careful"],
-    exampleSentences: [
-      "She was chary about investing in the stock market.",
-      "He was chary of making promises he couldn't keep.",
-      "The company was chary of expanding too quickly.",
-      "She was chary of trusting him after he had lied before.",
-      "He was chary of getting involved in the political debate.",
-    ],
-  },
-  {
     word: "chastise",
     definition: "to criticize or punish someone severely",
     synonyms: ["rebuke", "reprimand", "scold", "castigate", "berate"],
@@ -7755,63 +5893,6 @@ const vocabData = [
       "The boss chastised the employee for coming late to work.",
       "The parents chastised their children for their bad behavior.",
       "The judge chastised the defendant for his criminal actions.",
-    ],
-  },
-  {
-    word: "chatoyant",
-    definition:
-      "having a changeable luster or color with an undulating narrow band of white light; like a cat's eye",
-    synonyms: [
-      "iridescent",
-      "shimmering",
-      "glistening",
-      "gleaming",
-      "glittering",
-    ],
-    exampleSentences: [
-      "The chatoyant colors of the stone made it seem almost alive.",
-      "The chatoyant fabric shimmered in the light.",
-      "The cat's eyes were chatoyant in the dark.",
-      "The sunset was so chatoyant that it was hard to capture its beauty in a photograph.",
-      "The chatoyant effect of the water made it seem like the lake was alive.",
-    ],
-  },
-  {
-    word: "chawbacon",
-    definition:
-      "a person who is not intelligent or interested in culture; a rustic or yokel",
-    synonyms: ["hick", "yokel", "bumpkin", "rube", "hayseed"],
-    exampleSentences: [
-      "The city slickers looked down on the chawbacons who lived in the rural areas.",
-      "He was a chawbacon who had never been outside of his small town.",
-      "The sophisticated art museum didn't appeal to the chawbacon tourists.",
-      "She felt out of place among the chawbacon crowd at the county fair.",
-      "The professor's lecture went over the heads of the chawbacon students in the class.",
-    ],
-  },
-  {
-    word: "checkered",
-    definition:
-      "marked by a pattern of alternating squares of different colors or textures; marked by periods of varied fortunes or conditions",
-    synonyms: ["check, patterned, squared, variegated, motley"],
-    exampleSentences: [
-      "He wore a checkered shirt to the picnic.",
-      "The checkered flag signaled the end of the race.",
-      "Her life had a checkered past.",
-      "The floor was covered in a checkered tile pattern.",
-      "The team's performance was checkered throughout the season.",
-    ],
-  },
-  {
-    word: "cheerful",
-    definition: "notably happy and optimistic; having or showing good spirits",
-    synonyms: ["happy", "joyful", "jolly", "merry", "upbeat"],
-    exampleSentences: [
-      "She had a cheerful disposition even on the gloomiest of days.",
-      "The children's laughter was a cheerful sound that filled the room.",
-      "The flowers in the garden added a cheerful touch of color.",
-      "He greeted everyone with a cheerful smile.",
-      "The upbeat music created a cheerful atmosphere at the party.",
     ],
   },
   {
@@ -7825,18 +5906,6 @@ const vocabData = [
       "He cherished the memories of his childhood.",
       "We should cherish the moments that make us happy.",
       "They both cherished their friendship and never let distance come between them.",
-    ],
-  },
-  {
-    word: "chestnut",
-    definition: "a glossy brown nut that may be roasted and eaten.",
-    synonyms: ["nut", "horse chestnut", "conker", "brown"],
-    exampleSentences: [
-      "I love eating roasted chestnuts during the fall season.",
-      "The horse chestnut tree produces large, shiny chestnuts.",
-      "We used to play conkers with horse chestnuts when we were kids.",
-      "The color of the leaves in autumn is a beautiful chestnut brown.",
-      "The chef used chestnuts in the stuffing for the Thanksgiving turkey.",
     ],
   },
   {
@@ -7871,25 +5940,6 @@ const vocabData = [
     ],
   },
   {
-    word: "chicanery",
-    definition:
-      "the use of clever but dishonest arguments and actions to deceive people",
-    synonyms: [
-      "deception",
-      "trickery",
-      "duplicity",
-      "subterfuge",
-      "manipulation",
-    ],
-    exampleSentences: [
-      "The politician was known for his chicanery and lies.",
-      "The salesman used chicanery to sell his product.",
-      "The lawyer accused the opposing counsel of chicanery.",
-      "The company's accounting chicanery led to a major scandal.",
-      "The magician's trick was revealed to be chicanery.",
-    ],
-  },
-  {
     word: "chide",
     definition: "to scold or rebuke someone mildly",
     synonyms: ["reprimand", "rebuke", "scold", "upbraid", "admonish"],
@@ -7915,44 +5965,6 @@ const vocabData = [
     ],
   },
   {
-    word: "chine",
-    definition:
-      "a backbone or spine, especially of a large animal such as a pig or sheep",
-    synonyms: ["spine", "backbone", "vertebrae"],
-    exampleSentences: [
-      "The butcher separated the chine from the rest of the pig.",
-      "The chine of the sheep was used to make a hearty soup.",
-      "The hunter carefully removed the chine from the deer.",
-      "The chine was too tough to eat, so it was used to flavor the broth.",
-      "The chine was a prized part of the animal and was often used in traditional dishes.",
-    ],
-  },
-  {
-    word: "chirk",
-    definition: "to make a cheerful or lively sound",
-    synonyms: ["chirp", "twitter", "cheep", "peep", "chatter"],
-    exampleSentences: [
-      "The birds chirked in the trees.",
-      "The children's laughter chirked through the playground.",
-      "The sound of the stream chirked in the background.",
-      "The cricket's chirp chirked in the night.",
-      "The sound of the bells chirked through the quiet church.",
-    ],
-  },
-  {
-    word: "chivy",
-    definition:
-      "to annoy or harass with persistent demands or criticism; to chase or hunt relentlessly",
-    synonyms: ["harass", "pester", "bother", "provoke", "badger"],
-    exampleSentences: [
-      "He was chivying me to finish my work quickly.",
-      "The kids were chivying the dog.",
-      "The salesperson kept chivying me to buy their product.",
-      "The boss would chivy the employees to work harder.",
-      "The hunters would chivy the deer until they caught them.",
-    ],
-  },
-  {
     word: "choleric",
     definition: "easily angered; hot-tempered",
     synonyms: ["irritable", "testy", "cranky", "grumpy", "peevish"],
@@ -7962,18 +5974,6 @@ const vocabData = [
       "The manager's choleric response to the mistake made everyone nervous.",
       "The teacher's choleric behavior scared the students.",
       "His choleric nature made him unpopular among his colleagues.",
-    ],
-  },
-  {
-    word: "chore",
-    definition: "a routine task, typically a household one",
-    synonyms: ["duty", "task", "job", "errand", "mission"],
-    exampleSentences: [
-      "Doing the dishes is my least favorite chore.",
-      "I have to do my daily chores before I can relax.",
-      "Mowing the lawn is one of my weekly chores.",
-      "Taking out the trash is a chore that nobody likes.",
-      "My parents always gave me chores to do on the weekends.",
     ],
   },
   {
@@ -8026,31 +6026,6 @@ const vocabData = [
     ],
   },
   {
-    word: "chutzpah",
-    definition: "supreme self-confidence; audacity; nerve",
-    synonyms: ["brazenness", "impudence", "gall", "boldness", "temerity"],
-    exampleSentences: [
-      "He had the chutzpah to ask for a raise after only working here for a month.",
-      "She had the chutzpah to show up uninvited to the party.",
-      "The politician had the chutzpah to lie to the public about his involvement in the scandal.",
-      "I can't believe he had the chutzpah to cheat on his taxes.",
-      "She had the chutzpah to tell her boss exactly what she thought of him.",
-    ],
-  },
-  {
-    word: "cimmerian",
-    definition:
-      "very dark or gloomy; relating to the ancient region of Cimmeria, believed to be a land of perpetual darkness",
-    synonyms: ["dark", "gloomy", "murky", "shadowy", "dim"],
-    exampleSentences: [
-      "The cimmerian sky made it difficult to see anything.",
-      "The room was lit only by a cimmerian candle.",
-      "The author used cimmerian imagery to set the mood.",
-      "The forest was dense and cimmerian.",
-      "The old castle was surrounded by cimmerian legends.",
-    ],
-  },
-  {
     word: "cinder",
     definition:
       "a small piece of partly burned coal or wood that has stopped giving off flames but still has combustible matter in it",
@@ -8061,19 +6036,6 @@ const vocabData = [
       "The cinder block wall was sturdy and durable.",
       "The train left a trail of cinders behind it as it passed.",
       "The firefighter stomped out the last of the cinders to prevent any chance of a flare-up.",
-    ],
-  },
-  {
-    word: "circlet",
-    definition:
-      "a small circular band, typically made of precious metal and precious stones, worn on the head as an ornament or a symbol of rank.",
-    synonyms: ["tiara", "diadem", "coronet", "crown", "headband"],
-    exampleSentences: [
-      "She wore a circlet of diamonds in her hair.",
-      "The queen's circlet was encrusted with emeralds and rubies.",
-      "The princess looked regal in her gold circlet.",
-      "The priest placed a circlet of flowers on the bride's head.",
-      "The king's circlet was a symbol of his power and authority.",
     ],
   },
   {
@@ -8196,19 +6158,6 @@ const vocabData = [
     ],
   },
   {
-    word: "clamant",
-    definition:
-      "urgently demanding attention; crying out loudly or insistently",
-    synonyms: ["urgent", "pressing", "insistent", "vociferous", "demanding"],
-    exampleSentences: [
-      "The clamant cries of the protesters could be heard from blocks away.",
-      "The patient's clamant need for medical attention required immediate action.",
-      "The clamant barking of the dog alerted the neighbors to the intruder.",
-      "The clamant demands of the union had to be addressed before the negotiations could continue.",
-      "The clamant pleas for help from the stranded hiker echoed through the mountains.",
-    ],
-  },
-  {
     word: "clamber",
     definition:
       "to climb, using both feet and hands; to climb with effort or difficulty",
@@ -8246,18 +6195,6 @@ const vocabData = [
     ],
   },
   {
-    word: "clarion",
-    definition: "clear and ringing, especially of a trumpet or singing voice",
-    synonyms: ["clear", "loud", "resounding", "sonorous", "vibrant"],
-    exampleSentences: [
-      "The clarion call of the trumpet signaled the start of the race.",
-      "The clarion voice of the singer filled the concert hall.",
-      "The clarion sound of the church bells echoed through the town.",
-      "The clarion notes of the piano echoed through the auditorium.",
-      "The clarion blast of the horn startled the sleeping dog.",
-    ],
-  },
-  {
     word: "clarity",
     definition:
       "the quality of being clear, transparent, or easy to understand",
@@ -8274,43 +6211,6 @@ const vocabData = [
       "The professor's lecture lacked clarity and left the students confused.",
       "He spoke with clarity and authority.",
       "The new policy brought clarity to the company's goals and objectives.",
-    ],
-  },
-  {
-    word: "classy",
-    definition: "stylish and sophisticated",
-    synonyms: ["elegant", "chic", "refined", "posh", "graceful"],
-    exampleSentences: [
-      "She looked very classy in her black dress.",
-      "The restaurant had a classy atmosphere with soft lighting and live piano music.",
-      "He always dresses in a classy suit and tie for work.",
-      "The wedding was a classy affair with champagne and caviar served to guests.",
-      "Her taste in art is very classy and she has a collection of valuable paintings.",
-    ],
-  },
-  {
-    word: "clave",
-    definition:
-      "a basic rhythmic pattern in Latin American music, typically played on wooden sticks or claves",
-    synonyms: ["rhythm pattern", "beat", "time signature"],
-    exampleSentences: [
-      "The clave is an essential element of salsa music.",
-      "The percussionist played the clave with precision.",
-      "The band leader demonstrated the clave to the new members.",
-      "The clave sets the tempo for the rest of the band.",
-      "The audience clapped along to the clave during the performance.",
-    ],
-  },
-  {
-    word: "clearheaded",
-    definition: "having a clear mind; able to think clearly",
-    synonyms: ["sober-minded", "lucid", "rational", "sensible", "sound"],
-    exampleSentences: [
-      "She remained clearheaded during the crisis and made rational decisions.",
-      "It's important to stay clearheaded when making important decisions.",
-      "He is a clearheaded thinker and always approaches problems logically.",
-      "In times of stress, it's important to remain clearheaded and focused.",
-      "She was the only one who remained clearheaded and took charge of the situation.",
     ],
   },
   {
@@ -8357,18 +6257,6 @@ const vocabData = [
     ],
   },
   {
-    word: "clomb",
-    definition: "past tense and past participle of climb",
-    synonyms: ["ascended", "scaled", "mounted", "scrambled", "clambered"],
-    exampleSentences: [
-      "She clomb the tree to get a better view of the sunset.",
-      "He clomb the ladder to fix the roof.",
-      "They clomb the mountain in record time.",
-      "The cat clomb up the curtains and wouldn't come down.",
-      "The hiker clomb over the boulders in the river.",
-    ],
-  },
-  {
     word: "cloven",
     definition: "divided; split; cleft",
     synonyms: ["split", "cleft", "divided", "bisected", "parted"],
@@ -8412,18 +6300,6 @@ const vocabData = [
     ],
   },
   {
-    word: "coast",
-    definition: "the part of the land that is near the sea",
-    synonyms: ["shore", "seaboard", "beach", "coastline", "land's end"],
-    exampleSentences: [
-      "We took a walk along the coast.",
-      "The ship sailed along the coast of Portugal.",
-      "There are many beautiful beaches along the coast of California.",
-      "The storm caused damage to the coast.",
-      "The town is located on the east coast of the United States.",
-    ],
-  },
-  {
     word: "coax",
     definition:
       "to persuade or manipulate someone or something to do something, often by flattery or gentle urging",
@@ -8434,30 +6310,6 @@ const vocabData = [
       "He tried to coax his boss into giving him a raise.",
       "She used her charm to coax the customer into buying the more expensive product.",
       "I had to coax the fire to keep burning by adding more logs.",
-    ],
-  },
-  {
-    word: "cob",
-    definition: "a rounded mass or lump, especially of coal, clay, or gold.",
-    synonyms: ["clod", "chunk", "nugget", "block", "mass"],
-    exampleSentences: [
-      "He found a cob of gold while panning in the river.",
-      "The farmer used dried corn cobs to start the fire.",
-      "She stumbled over a cob of coal in the dark.",
-      "The potter molded the clay into a rough cob before shaping it into a vase.",
-      "The geologist examined a cob of rock found in a nearby quarry.",
-    ],
-  },
-  {
-    word: "cockle",
-    definition: "a small, edible, bivalve mollusk with a heart-shaped shell.",
-    synonyms: ["clam", "mussel", "oyster", "scallop"],
-    exampleSentences: [
-      "I found a cockle on the beach and decided to cook it for dinner.",
-      "She ordered a dish of linguine with cockles and white wine sauce.",
-      "The cockle shells littered the shore after the tide went out.",
-      "The fishermen returned with a bucket full of cockles.",
-      "The cockle was served with a wedge of lemon and a sprinkle of parsley.",
     ],
   },
   {
@@ -8473,19 +6325,6 @@ const vocabData = [
     ],
   },
   {
-    word: "codicil",
-    definition:
-      "an addition or supplement that explains, modifies, or revokes a will or part of one",
-    synonyms: ["addendum", "supplement", "appendix", "postscript", "amendment"],
-    exampleSentences: [
-      "The lawyer drafted a codicil to the will, specifying a new beneficiary.",
-      "The codicil stated that the house be sold and the proceeds be donated to charity.",
-      "The old man made a codicil to his will, leaving his antique collection to his granddaughter.",
-      "The codicil revoked the previous bequest and replaced it with a new one.",
-      "She added a codicil to her will, naming her sister as the executor.",
-    ],
-  },
-  {
     word: "coerce",
     definition: "to persuade someone to do something by using force or threats",
     synonyms: ["compel", "pressure", "intimidate", "bully", "force"],
@@ -8495,18 +6334,6 @@ const vocabData = [
       "The government used threats to coerce the opposition party into supporting their bill.",
       "The bully tried to coerce the younger students into giving him their lunch money.",
       "The criminal used violence to coerce the witness into changing their testimony.",
-    ],
-  },
-  {
-    word: "coffer",
-    definition: "a strongbox or small chest for holding valuables",
-    synonyms: ["safe", "strongbox", "chest", "box", "vault"],
-    exampleSentences: [
-      "The bank kept the money in a steel coffer.",
-      "The pirate's coffer was filled with gold and jewels.",
-      "The king's coffer was guarded by knights.",
-      "The antique coffer was worth a fortune.",
-      "The coffer was locked and only the owner had the key.",
     ],
   },
   {
@@ -8526,36 +6353,6 @@ const vocabData = [
       "The scientific evidence provided a cogent explanation for the phenomenon.",
       "The CEO's cogent speech rallied the employees behind the company's mission.",
       "The teacher's cogent lesson plan kept the students engaged and interested.",
-    ],
-  },
-  {
-    word: "cogitate",
-    definition: "to think deeply about something; meditate or reflect",
-    synonyms: ["contemplate", "ponder", "ruminate", "deliberate", "reflect"],
-    exampleSentences: [
-      "I need some time to cogitate on this decision.",
-      "She cogitated over the problem for hours.",
-      "Let me cogitate on your proposal before I give you an answer.",
-      "He sat in silence and cogitated on his next move.",
-      "She cogitated for the whole afternoon on the meaning of life.",
-    ],
-  },
-  {
-    word: "cognate",
-    definition: "related by birth; having the same linguistic derivation",
-    synonyms: [
-      "related",
-      "kindred",
-      "connected",
-      "associated",
-      "corresponding",
-    ],
-    exampleSentences: [
-      "English and German are cognate languages.",
-      "The word 'mother' is cognate with the Latin 'mater'.",
-      "The two species are cognate and share many genetic traits.",
-      "The French word for 'cat', 'chat', is cognate with the English word 'cat'.",
-      "The word 'pedigree' is cognate with the French 'pied de grue', meaning 'crane's foot'.",
     ],
   },
   {
@@ -8664,18 +6461,6 @@ const vocabData = [
     ],
   },
   {
-    word: "coiffure",
-    definition: "a person's hairstyle, typically an elaborate one",
-    synonyms: ["hairstyle", "hairdo", "cut", "trim", "styling"],
-    exampleSentences: [
-      "She had a beautiful coiffure for the wedding.",
-      "The coiffure of the 1920s was characterized by short hair.",
-      "She spent hours perfecting her coiffure for the party.",
-      "The salon specializes in bridal coiffures.",
-      "She changed her coiffure frequently, always trying new styles.",
-    ],
-  },
-  {
     word: "coincidentally",
     definition:
       "happening by chance, especially at the same time as something else",
@@ -8711,18 +6496,6 @@ const vocabData = [
       "The software allows for easy collation of data from different spreadsheets.",
       "The collation of evidence in the case was a complex task.",
       "A collation of the author's most famous poems was placed in one book for readers to purchase.",
-    ],
-  },
-  {
-    word: "collogue",
-    definition: "to confer secretly; to conspire",
-    synonyms: ["conspire", "plot", "scheme", "collude", "connive"],
-    exampleSentences: [
-      "The two politicians would collogue about their plans to raise taxes.",
-      "I suspect my colleagues collogued against me to get me fired.",
-      "It's not ethical for executives to collogue to rig the stock market.",
-      "The conspirators collogued in a dimly lit room, discussing their next move.",
-      "The detectives discovered that the thieves collogued for months before they finally executed the heist.",
     ],
   },
   {
@@ -8809,50 +6582,6 @@ const vocabData = [
     ],
   },
   {
-    word: "colporteur",
-    definition:
-      "a person who travels from place to place selling or distributing religious texts or other books; a peddler of books",
-    synonyms: [
-      "book peddler",
-      "book hawker",
-      "book agent",
-      "book seller",
-      "book salesman",
-    ],
-    exampleSentences: [
-      "The colporteur sold Bibles door-to-door.",
-      "The colporteur was able to distribute many books in rural areas.",
-      "The colporteur's wagon was filled with books of all kinds.",
-      "The colporteur visited the local church to sell his books.",
-      "The colporteur's business was successful due to his excellent salesmanship.",
-    ],
-  },
-  {
-    word: "coltish",
-    definition: "playful or frisky, like a young horse",
-    synonyms: ["energetic", "lively", "vivacious", "sprightly", "youthful"],
-    exampleSentences: [
-      "The puppy was so coltish that it was difficult to keep up with him.",
-      "She had a coltish sense of humor that made everyone around her laugh.",
-      "The children were being especially coltish during recess.",
-      "He had a coltish charm that was irresistible to everyone he met.",
-      "The dancers moved in a coltish manner, as if they were wild horses being tamed.",
-    ],
-  },
-  {
-    word: "comely",
-    definition:
-      "attractive in appearance; pleasing; having a pleasing or wholesome appearance, not unattractive",
-    synonyms: ["beautiful", "pretty", "lovely", "handsome", "good-looking"],
-    exampleSentences: [
-      "The comely actress won the hearts of many with her performance.",
-      "The bride looked comely in her wedding dress.",
-      "The flowers in the garden were comely and colorful.",
-      "The comely sunset painted the sky with shades of pink and orange.",
-      "The comely young man turned heads wherever he went.",
-    ],
-  },
-  {
     word: "comeuppance",
     definition: "a punishment or fate that someone deserves",
     synonyms: [
@@ -8884,25 +6613,6 @@ const vocabData = [
     ],
   },
   {
-    word: "comity",
-    definition:
-      "courtesy and considerate behavior toward others; mutual respect",
-    synonyms: [
-      "courtesy",
-      "respect",
-      "consideration",
-      "politeness",
-      "civility",
-    ],
-    exampleSentences: [
-      "The two countries maintained a relationship of comity despite their political differences.",
-      "The comity among coworkers made the workplace a pleasant environment.",
-      "He approached the situation with comity, taking into account everyone's opinions.",
-      "The conference was characterized by a spirit of comity and collaboration.",
-      "We must strive for comity in our interactions with others.",
-    ],
-  },
-  {
     word: "commence",
     definition: "to begin, start",
     synonyms: ["begin", "start", "initiate", "launch", "embark"],
@@ -8912,24 +6622,6 @@ const vocabData = [
       "The project will commence next month.",
       "The show will commence in five minutes.",
       "The game will commence at the scheduled time.",
-    ],
-  },
-  {
-    word: "commensurate",
-    definition: "corresponding in size or degree; in proportion",
-    synonyms: [
-      "proportional",
-      "corresponding",
-      "equal",
-      "adequate",
-      "commensurable",
-    ],
-    exampleSentences: [
-      "She received a salary commensurate with her experience.",
-      "The punishment should be commensurate with the crime.",
-      "The amount of work required is commensurate with the pay.",
-      "His efforts were not commensurate with the results.",
-      "The size of the classroom is commensurate with the number of students.",
     ],
   },
   {
@@ -8959,19 +6651,6 @@ const vocabData = [
     ],
   },
   {
-    word: "commissar",
-    definition:
-      "an official of the Communist Party, especially in the former Soviet Union, who was assigned to teach party principles to a military unit or other group.",
-    synonyms: ["political officer", "party official", "commissary"],
-    exampleSentences: [
-      "During the Soviet era, the army was controlled by political commissars.",
-      "The commissar was responsible for ensuring that the military unit followed the party line.",
-      "The commissar's job was to indoctrinate the troops with Marxist ideology.",
-      "The commissar was feared and respected by the soldiers.",
-      "The commissar had the power to overrule the military commander.",
-    ],
-  },
-  {
     word: "commission",
     definition:
       "a formal request to do something, especially one made by a government, organization, or military authority",
@@ -8994,19 +6673,6 @@ const vocabData = [
       "They committed to finishing the project on time.",
       "I am committed to living a healthy lifestyle.",
       "He committed himself to helping those in need.",
-    ],
-  },
-  {
-    word: "common",
-    definition:
-      "belonging equally to, or shared alike by, two or more or all in question; of frequent occurrence; ordinary; not distinguished by superior excellence or beauty",
-    synonyms: ["ordinary", "usual", "everyday", "typical", "regular"],
-    exampleSentences: [
-      "It is common to see people walking on the street.",
-      "The flu is a common illness.",
-      "The movie was a common romantic comedy.",
-      "It is common for children to enjoy playing with toys.",
-      "The color blue is a common favorite among people.",
     ],
   },
   {
@@ -9133,18 +6799,6 @@ const vocabData = [
     ],
   },
   {
-    word: "complaining",
-    definition: "expressing dissatisfaction or annoyance about something.",
-    synonyms: ["whining", "grumbling", "moaning", "griping", "carping"],
-    exampleSentences: [
-      "She's always complaining about the weather.",
-      "He's been complaining about his job for months.",
-      "Stop complaining and do something about it.",
-      "I'm tired of hearing you complaining all the time.",
-      "The customer was complaining about the service.",
-    ],
-  },
-  {
     word: "complaisant",
     definition: "willing to please others; obliging; agreeable",
     synonyms: ["accommodating", "obliging", "amenable", "pliable", "flexible"],
@@ -9185,18 +6839,6 @@ const vocabData = [
       "The athlete was praised for his compliance with drug testing policies.",
       "The government agency ensured the company's compliance with environmental standards.",
       "The officer demanded compliance with his orders.",
-    ],
-  },
-  {
-    word: "comport",
-    definition: "to behave or conduct oneself in a particular way",
-    synonyms: ["behave", "conduct oneself", "act", "carry oneself", "perform"],
-    exampleSentences: [
-      "He comported himself with dignity at the funeral.",
-      "She always comports herself professionally in meetings.",
-      "It is important to comport oneself appropriately in formal settings.",
-      "He failed to comport himself in accordance with the rules of the game.",
-      "She comports herself like a true leader.",
     ],
   },
   {
@@ -9426,25 +7068,6 @@ const vocabData = [
     ],
   },
   {
-    word: "concomitant",
-    definition:
-      "naturally accompanying or associated; occurring at the same time",
-    synonyms: [
-      "accompanying",
-      "attendant",
-      "coexisting",
-      "coincidental",
-      "simultaneous",
-    ],
-    exampleSentences: [
-      "The rise in obesity rates was concomitant with a decrease in physical activity.",
-      "The new policy had many concomitant challenges for the organization.",
-      "The medication had several concomitant side effects.",
-      "The artist's success was concomitant with his dedication to his craft.",
-      "The company's expansion was concomitant with an increase in profits.",
-    ],
-  },
-  {
     word: "concourse",
     definition:
       "a large open area inside or in front of a public building, especially one used for a particular purpose",
@@ -9545,19 +7168,6 @@ const vocabData = [
     ],
   },
   {
-    word: "coney",
-    definition:
-      "a rabbit, especially the European rabbit (Oryctolagus cuniculus)",
-    synonyms: ["rabbit", "bunny", "hare"],
-    exampleSentences: [
-      "The coney scurried away when it heard the noise.",
-      "The children were delighted to see a coney in the park.",
-      "The stew was made with coney meat.",
-      "The coney's soft fur was a pleasure to pet.",
-      "The hunter set a trap to catch a coney.",
-    ],
-  },
-  {
     word: "confabulate",
     definition:
       "to engage in conversation or discussion; to fabricate imaginary experiences as compensation for loss of memory",
@@ -9581,18 +7191,6 @@ const vocabData = [
       "The university will confer degrees upon the graduates at the ceremony.",
       "The Queen will confer knighthood upon the brave soldier.",
       "Let's confer with the experts to get their opinion.",
-    ],
-  },
-  {
-    word: "confidant",
-    definition: "a person to whom one confides personal matters and secrets",
-    synonyms: ["trusty", "companion", "adviser", "friend", "ally"],
-    exampleSentences: [
-      "My best friend is my confidant.",
-      "She trusted her confidant with her deepest secrets.",
-      "He sought advice from his confidant before making a decision.",
-      "The confidant provided comfort and support during a difficult time.",
-      "She felt relieved after confiding in her confidant about her troubles.",
     ],
   },
   {
@@ -9687,31 +7285,6 @@ const vocabData = [
       "He was confounded by the sudden change in plans.",
       "The confounded traffic made me late for my appointment.",
       "I can't believe the confounded weather ruined our picnic.",
-    ],
-  },
-  {
-    word: "confusticate",
-    definition: "to confuse or perplex",
-    synonyms: ["baffle", "bewilder", "perplex", "puzzle", "stump"],
-    exampleSentences: [
-      "The complicated instructions confusticated the new employees.",
-      "The politician's vague answers confusticated the reporters.",
-      "The math problem confusticated the entire class.",
-      "The unfamiliar technology confusticated the elderly couple.",
-      "The unexpected twist in the plot confusticated the audience.",
-    ],
-  },
-  {
-    word: "confute",
-    definition:
-      "to prove to be false, invalid, or incorrect; to refute decisively",
-    synonyms: ["disprove", "refute", "deny", "contradict", "discredit"],
-    exampleSentences: [
-      "The evidence presented by the defense team was enough to confute the prosecution's case.",
-      "I was able to confute his argument with a simple counterexample.",
-      "Scientists were able to confute the theory that the earth was flat.",
-      "The author used extensive research to confute the commonly held belief.",
-      "His own words confuted his earlier statement.",
     ],
   },
   {
@@ -10050,8 +7623,7 @@ const vocabData = [
   },
   {
     word: "constellate",
-    definition:
-      "to gather or cluster together in a group, especially stars in a constellation",
+    definition: "to gather or cluster together in a group, especially stars",
     synonyms: ["cluster", "group", "assemble", "congregate", "collect"],
     exampleSentences: [
       "The night sky was constellated with sparkling stars.",
@@ -10350,19 +7922,6 @@ const vocabData = [
     ],
   },
   {
-    word: "contretemps",
-    definition:
-      "a minor dispute or disagreement, a clumsy or embarrassing incident",
-    synonyms: ["dispute", "argument", "misunderstanding", "mishap", "blunder"],
-    exampleSentences: [
-      "Their conversation ended in a contretemps.",
-      "The party was going smoothly until a contretemps occurred.",
-      "The meeting was marred by a series of contretemps.",
-      "The actress had a contretemps with the director on the set.",
-      "The restaurant encounter turned into a contretemps when the waiter spilled soup on the customer.",
-    ],
-  },
-  {
     word: "contrite",
     definition: "feeling or expressing remorse or penitence; affected by guilt",
     synonyms: ["remorseful", "penitent", "regretful", "apologetic", "ashamed"],
@@ -10388,19 +7947,6 @@ const vocabData = [
     ],
   },
   {
-    word: "contrived",
-    definition:
-      "deliberately created rather than arising naturally or spontaneously; forced or strained.",
-    synonyms: ["artificial", "fabricated", "manufactured", "staged", "planned"],
-    exampleSentences: [
-      "The plot of the movie seemed contrived and unrealistic.",
-      "The dialogue in the play felt contrived and forced.",
-      "The comedian's jokes were contrived and lacked humor.",
-      "The party decorations seemed contrived and over-the-top.",
-      "The team's victory celebration felt contrived and insincere.",
-    ],
-  },
-  {
     word: "controvert",
     definition: "to argue or dispute; to contradict or oppose",
     synonyms: ["dispute", "oppose", "contradict", "challenge", "debate"],
@@ -10410,24 +7956,6 @@ const vocabData = [
       "I cannot controvert the fact that the Earth is round.",
       "The scientist controverted the popular belief with his research findings.",
       "The lawyer controverted the witness's testimony during cross-examination.",
-    ],
-  },
-  {
-    word: "contumacious",
-    definition: "willfully disobedient to authority; rebellious",
-    synonyms: [
-      "defiant",
-      "insubordinate",
-      "rebellious",
-      "disobedient",
-      "recalcitrant",
-    ],
-    exampleSentences: [
-      "The contumacious student refused to follow the teacher's instructions.",
-      "The contumacious employee refused to comply with company policies.",
-      "The contumacious protesters refused to disperse despite police orders.",
-      "The contumacious defendant refused to answer the judge's questions in court.",
-      "The contumacious prisoner refused to obey the guards and caused chaos in the cell block.",
     ],
   },
   {
@@ -10555,32 +8083,6 @@ const vocabData = [
     ],
   },
   {
-    word: "cony",
-    definition:
-      "a small, furry, burrowing mammal also known as a rabbit or hare",
-    synonyms: ["rabbit", "hare", "bunny"],
-    exampleSentences: [
-      "The cony darted across the field and disappeared into its burrow.",
-      "She kept a pet cony in a cage in her room.",
-      "The chef prepared a delicious cony stew.",
-      "The cony population in the area was thriving thanks to conservation efforts.",
-      "The children giggled as they chased the cony through the garden.",
-    ],
-  },
-  {
-    word: "coomb",
-    definition:
-      "a narrow valley or deep hollow, especially in southern England",
-    synonyms: ["dale", "glen", "ravine", "canyon", "gorge"],
-    exampleSentences: [
-      "The coomb was filled with wildflowers.",
-      "We hiked through the coomb to reach the summit.",
-      "The river flowed through the coomb, creating a peaceful sound.",
-      "The coomb was a popular spot for birdwatchers.",
-      "The coomb was shaded by tall trees on either side.",
-    ],
-  },
-  {
     word: "coop",
     definition: "a small enclosure or cage, typically for poultry",
     synonyms: ["cage", "pen", "enclosure", "hutch", "aviary"],
@@ -10614,50 +8116,6 @@ const vocabData = [
       "The restaurant served us a copious amount of food.",
       "He had copious amounts of free time during the summer.",
       "The author provided copious details about the character's background.",
-    ],
-  },
-  {
-    word: "coquetry",
-    definition: "flirtatious behavior or a flirtatious manner",
-    synonyms: ["flirtation", "teasing", "flirting", "coyness", "playfulness"],
-    exampleSentences: [
-      "She was known for her coquetry with all the eligible bachelors in town.",
-      "His coquetry was charming, but it didn't fool anyone into thinking he was serious about a relationship.",
-      "She used coquetry to get her way with men.",
-      "The actress was accused of using coquetry to advance her career.",
-      "The coquetry between the two characters added a playful element to the film.",
-    ],
-  },
-  {
-    word: "corbel",
-    definition:
-      "a projection jutting out from a wall to support a structure above it",
-    synonyms: ["bracket", "cantilever", "console"],
-    exampleSentences: [
-      "The ancient Mayans used corbels to support the roofs of their buildings.",
-      "The weight of the statue is supported by a corbel.",
-      "The architect designed a corbel to hold up the balcony.",
-      "The corbels on the cathedral were elaborately carved.",
-      "The roof of the barn was held up by a series of wooden corbels.",
-    ],
-  },
-  {
-    word: "cordate",
-    definition:
-      "heart-shaped; having a shape like a heart with the pointed end at the base",
-    synonyms: [
-      "heart-shaped",
-      "heartlike",
-      "cordiform",
-      "cordated",
-      "cordiforme",
-    ],
-    exampleSentences: [
-      "The leaves of the plant were cordate in shape.",
-      "The Valentine's Day card had a cordate design.",
-      "The cordate symbol on the map represented a popular tourist attraction.",
-      "The artist's painting featured a prominent cordate element.",
-      "The fossilized imprint was identified as belonging to a cordate organism.",
     ],
   },
   {
@@ -10742,31 +8200,6 @@ const vocabData = [
     ],
   },
   {
-    word: "corslet",
-    definition:
-      "a piece of armor covering the body from the neck to the waist; a cuirass.",
-    synonyms: ["cuirass", "breastplate", "armor", "plate armor", "body armor"],
-    exampleSentences: [
-      "The knight donned his corslet before heading into battle.",
-      "The museum displayed a variety of ancient corslets.",
-      "The soldier's corslet was dented from the enemy's attack.",
-      "The blacksmith crafted a new corslet for the king's army.",
-      "The historical reenactor wore a replica corslet for the demonstration.",
-    ],
-  },
-  {
-    word: "coruscate",
-    definition: "to give off flashes of light; to sparkle",
-    synonyms: ["sparkle", "shimmer", "glitter", "twinkle", "flash"],
-    exampleSentences: [
-      "The diamonds on her necklace coruscated in the sunlight.",
-      "The fireworks coruscated in the night sky.",
-      "The water coruscated as the sun began to rise.",
-      "The stars coruscated in the clear night sky.",
-      "The disco ball coruscated as it spun above the dance floor.",
-    ],
-  },
-  {
     word: "cosmogyral",
     definition: "moving in a circular or spiral path as if around the universe",
     synonyms: ["circular", "spiral", "orbiting", "revolving", "rotating"],
@@ -10807,31 +8240,6 @@ const vocabData = [
       "The army set up rows of cots in the barracks.",
       "I prefer sleeping on a cot rather than on the ground.",
       "My friend keeps a cot in his guest room for visitors.",
-    ],
-  },
-  {
-    word: "coterie",
-    definition:
-      "a small group of people with shared interests or tastes, especially one that is exclusive of other people",
-    synonyms: ["clique", "circle", "set", "group", "gang"],
-    exampleSentences: [
-      "The coterie of friends always went to the same coffee shop on Saturdays.",
-      "The literary coterie met monthly to discuss their favorite authors.",
-      "The political coterie was made up of influential donors and lobbyists.",
-      "The film festival attracted a coterie of movie buffs from around the world.",
-      "The exclusive coterie of fashion insiders had access to the hottest runway shows.",
-    ],
-  },
-  {
-    word: "cottage",
-    definition: "a small, typically cozy house in a rural or semi-rural area",
-    synonyms: ["cabin", "bungalow", "chalet", "shack", "hut"],
-    exampleSentences: [
-      "We spent our summer vacations in a little cottage by the lake.",
-      "The couple retired to a cozy cottage in the countryside.",
-      "The old cottage had a thatched roof and a beautiful garden.",
-      "The artist rented a small cottage in the woods to work on his paintings.",
-      "The family rented a beach cottage for their summer vacation.",
     ],
   },
   {
@@ -10953,19 +8361,6 @@ const vocabData = [
     ],
   },
   {
-    word: "coverlet",
-    definition:
-      "a decorative bedspread, typically quilted and made of linen, cotton, or silk.",
-    synonyms: ["bedspread", "quilt", "counterpane", "blanket", "throw"],
-    exampleSentences: [
-      "She threw the coverlet over the bed and fluffed the pillows.",
-      "The coverlet was made of soft, quilted cotton.",
-      "He pulled the coverlet up to his chin and settled in for the night.",
-      "The antique coverlet was passed down through generations of her family.",
-      "The hotel room came with a fluffy coverlet and matching pillows.",
-    ],
-  },
-  {
     word: "covert",
     definition: "not openly acknowledged or displayed; secret",
     synonyms: [
@@ -11031,43 +8426,6 @@ const vocabData = [
       "She was coy about her age.",
       "The politician was being coy about his stance on the issue.",
       "The actress was known for her coy demeanor.",
-    ],
-  },
-  {
-    word: "cozen",
-    definition: "to deceive or trick through fraud or deceit",
-    synonyms: ["swindle", "cheat", "deceive", "dupe", "trick"],
-    exampleSentences: [
-      "He tried to cozen his way out of the situation.",
-      "The salesman cozened the old woman into buying the expensive product.",
-      "She cozened her way into the job by lying on her resume.",
-      "The con artist cozened the naive couple out of their life savings.",
-      "He was skilled at cozening people into giving him what he wanted.",
-    ],
-  },
-  {
-    word: "crabbed",
-    definition: "bad-tempered and unfriendly; difficult to read or decipher",
-    synonyms: ["grumpy", "sour", "testy", "perplexing", "indecipherable"],
-    exampleSentences: [
-      "The old man was known to be quite crabbed with anyone who disturbed his peace.",
-      "The teacher's crabbed handwriting made it hard for the students to read the notes.",
-      "Her crabbed attitude made it hard for her to make friends.",
-      "The book's crabbed language made it difficult for me to follow the plot.",
-      "The doctor's crabbed handwriting on the prescription caused confusion at the pharmacy.",
-    ],
-  },
-  {
-    word: "crabwise",
-    definition:
-      "sideways or obliquely; in a sideways motion like that of a crab",
-    synonyms: ["sideways", "obliquely", "askance", "sidling", "laterally"],
-    exampleSentences: [
-      "The cat approached the dog crabwise, ready to pounce.",
-      "She walked crabwise along the slippery rocks.",
-      "The car moved crabwise down the narrow street.",
-      "He glanced at her crabwise, unsure of how to respond.",
-      "The dancer moved crabwise across the stage, adding an unusual element to the performance.",
     ],
   },
   {
@@ -11170,31 +8528,6 @@ const vocabData = [
     ],
   },
   {
-    word: "crepuscular",
-    definition: "relating to or resembling twilight; dim; indistinct",
-    synonyms: ["twilight", "dusky", "dim", "obscure", "shadowy"],
-    exampleSentences: [
-      "The crepuscular light made it difficult to see clearly.",
-      "Many animals are crepuscular, meaning they are most active during dawn and dusk.",
-      "The forest was eerie in the crepuscular light of the setting sun.",
-      "The crepuscular atmosphere was perfect for a spooky ghost story.",
-      "The crepuscular glow of the street lamps made the city feel magical.",
-    ],
-  },
-  {
-    word: "crepuscule",
-    definition:
-      "the period of partial darkness between day and night; the twilight",
-    synonyms: ["twilight", "dusk", "evening", "sunset", "nightfall"],
-    exampleSentences: [
-      "The crepuscule was especially beautiful that evening, with shades of pink, purple, and orange streaking across the sky.",
-      "The crepuscule is a magical time for photographers, as the light is soft and diffused.",
-      "The birds sang a haunting melody during the crepuscule.",
-      "The couple walked hand in hand during the crepuscule, enjoying the quiet beauty of the park.",
-      "The crepuscule signaled the end of another day and the beginning of a new night.",
-    ],
-  },
-  {
     word: "crescendo",
     definition: "a gradual increase in loudness or intensity",
     synonyms: [
@@ -11241,62 +8574,6 @@ const vocabData = [
       "I found a crevice in the pavement where the grass was growing.",
       "The cold air was seeping through a crevice in the window.",
       "The treasure was hidden in a crevice in the cave.",
-    ],
-  },
-  {
-    word: "crew",
-    definition:
-      "a group of people who work together, especially all those who work on and operate a ship, aircraft, or train",
-    synonyms: ["team", "staff", "group", "squad", "gang"],
-    exampleSentences: [
-      "The crew of the ship worked through the night to keep it afloat.",
-      "The airline crew was delayed due to bad weather.",
-      "The train crew consisted of an engineer and a conductor.",
-      "The film crew was busy setting up lights and cameras.",
-      "The construction crew was working on building a new office tower.",
-    ],
-  },
-  {
-    word: "crisp",
-    definition:
-      "firm, dry, and brittle, especially in a way that is pleasingly satisfying to bite into",
-    synonyms: ["crunchy", "brittle", "firm", "stiff", "hard"],
-    exampleSentences: [
-      "The apple was crisp and juicy.",
-      "The leaves crunch underfoot, crisp with autumn frost.",
-      "The fried chicken was perfectly crisp on the outside and juicy on the inside.",
-      "The sheets on the bed were cool and crisp.",
-      "The air was crisp and clean after the rain.",
-    ],
-  },
-  {
-    word: "crocks",
-    definition: "a thick earthenware pot or jar",
-    synonyms: ["pot", "jar", "urn", "vessel"],
-    exampleSentences: [
-      "She stored her homemade pickles in crocks.",
-      "The crocks were filled with water for the horses.",
-      "The antique shop had a collection of old crocks.",
-      "The crocks were used to ferment sauerkraut.",
-      "We kept the crocks in the cellar to keep them cool.",
-    ],
-  },
-  {
-    word: "croesus",
-    definition: "a very wealthy person",
-    synonyms: [
-      "millionaire",
-      "billionaire",
-      "tycoon",
-      "magnate",
-      "rich person",
-    ],
-    exampleSentences: [
-      "The new CEO of the company is a real croesus.",
-      "Her inheritance made her a croesus overnight.",
-      "The stock market made many people croesuses.",
-      "The croesus donated a large sum of money to charity.",
-      "He lived like a croesus, surrounded by luxury and opulence.",
     ],
   },
   {
@@ -11394,32 +8671,6 @@ const vocabData = [
     ],
   },
   {
-    word: "crystalline",
-    definition:
-      "having the structure and form of a crystal; clear and transparent like crystal",
-    synonyms: ["crystal-like", "clear", "transparent", "lustrous", "shiny"],
-    exampleSentences: [
-      "The snowflakes were beautiful and crystalline.",
-      "The gemstones were cut to reveal their crystalline structure.",
-      "The water in the lake was so clear and crystalline that you could see the fish swimming below.",
-      "The artist used a crystalline glaze on the pottery to give it a shiny, reflective surface.",
-      "The scientist studied the crystalline structure of the mineral to determine its properties.",
-    ],
-  },
-  {
-    word: "cuirassier",
-    definition:
-      "a cavalry soldier wearing a cuirass, especially a heavy-armored cavalry soldier of the 17th and 18th centuries.",
-    synonyms: ["heavy cavalryman", "armored cavalryman", "horse soldier"],
-    exampleSentences: [
-      "The cuirassier charged into battle with his sword drawn.",
-      "The French cuirassiers were feared for their bravery and ferocity.",
-      "The cuirassier's armor protected him from the enemy's weapons.",
-      "The cuirassiers were a vital component of Napoleon's army.",
-      "The cuirassier regiment was known for its discipline and precision.",
-    ],
-  },
-  {
     word: "cull",
     definition:
       "to select or gather the best or desirable from a group or collection; to remove inferior or unwanted members from a group or collection",
@@ -11471,32 +8722,6 @@ const vocabData = [
     ],
   },
   {
-    word: "culvert",
-    definition:
-      "a tunnel carrying a stream or open drain under a road or railroad.",
-    synonyms: ["drainage pipe", "pipe", "conduit", "channel", "sewer"],
-    exampleSentences: [
-      "The water flowed through the culvert under the bridge.",
-      "The city is planning to replace the old culvert with a larger one.",
-      "The culvert was clogged with debris after the storm.",
-      "The construction crew installed a new culvert to improve drainage.",
-      "The culvert was too small to handle the heavy rainfall, causing flooding in the area.",
-    ],
-  },
-  {
-    word: "cumbrous",
-    definition:
-      "difficult to handle or use especially because of size or weight; troublesome or burdensome",
-    synonyms: ["cumbersome", "unwieldy", "clumsy", "awkward", "bulky"],
-    exampleSentences: [
-      "The cumbrous package was difficult to carry up the stairs.",
-      "The cumbrous machinery required a team of workers to operate.",
-      "The cumbrous regulations made it difficult for small businesses to compete.",
-      "The cumbrous bureaucracy slowed down the process of getting a permit.",
-      "The cumbrous furniture made it hard to move around the room.",
-    ],
-  },
-  {
     word: "cumulative",
     definition: "increasing or growing by accumulation or successive additions",
     synonyms: [
@@ -11512,50 +8737,6 @@ const vocabData = [
       "Her savings account had a cumulative balance of $10,000 after years of consistent deposits.",
       "The team's cumulative score was enough to secure their spot in the championship game.",
       "The cumulative weight of the books in her backpack was starting to strain her shoulders.",
-    ],
-  },
-  {
-    word: "cunning-handed",
-    definition:
-      "skillful or dexterous with the hands; crafty or sly in a manipulative way",
-    synonyms: ["deceitful", "sneaky", "manipulative", "crafty", "tricky"],
-    exampleSentences: [
-      "The magician was cunning-handed with his card tricks.",
-      "The pickpocket was cunning-handed and managed to steal the tourist's wallet without being noticed.",
-      "The con artist was cunning-handed in his schemes to swindle people out of their money.",
-      "The sculptor was known for his cunning-handed ability to create lifelike statues.",
-      "The chef was cunning-handed in the kitchen, able to whip up a delicious meal in no time.",
-    ],
-  },
-  {
-    word: "cupidity",
-    definition: "excessive desire for wealth or material possessions; greed",
-    synonyms: [
-      "avarice",
-      "greed",
-      "acquisitiveness",
-      "covetousness",
-      "rapacity",
-    ],
-    exampleSentences: [
-      "His cupidity led him to embezzle company funds for his own personal gain.",
-      "The CEO's cupidity knew no bounds as he continued to amass wealth at the expense of his employees.",
-      "The politician's cupidity for power was evident in his willingness to betray his own party.",
-      "The company's cupidity for profits led to the exploitation of workers in developing countries.",
-      "She was disgusted by the cupidity of her ex-husband, who cared only about money and possessions.",
-    ],
-  },
-  {
-    word: "cur",
-    definition:
-      "a contemptible, dishonest, or unscrupulous person; a mongrel dog, especially one that is inferior or unruly",
-    synonyms: ["rascal", "scoundrel", "rogue", "vagabond", "mutt"],
-    exampleSentences: [
-      "That cur stole my wallet!",
-      "I can't believe you cheated on the test, you're such a cur.",
-      "He's always causing trouble, a real cur if you ask me.",
-      "The stray cur wandered aimlessly through the streets.",
-      "The farmer had to put down the cur for attacking his livestock.",
     ],
   },
   {
@@ -11632,56 +8813,6 @@ const vocabData = [
     ],
   },
   {
-    word: "cushioned",
-    definition: "having a cushion or cushions, typically soft and comfortable",
-    synonyms: ["padded", "softened", "comforted", "protected", "insulated"],
-    exampleSentences: [
-      "The couch was cushioned with plush pillows.",
-      "The athlete's shoes were cushioned to reduce impact on the joints.",
-      "The baby's stroller had a cushioned seat for extra comfort.",
-      "The package was cushioned with bubble wrap to protect the fragile contents.",
-      "The sound of the music was cushioned by the thick drapes on the walls.",
-    ],
-  },
-  {
-    word: "cushy",
-    definition: "Easy, comfortable, or undemanding.",
-    synonyms: ["easy", "comfortable", "undemanding", "pleasant", "effortless"],
-    exampleSentences: [
-      "After years of working hard, he finally landed a cushy job at a tech company.",
-      "She enjoys a cushy lifestyle thanks to her wealthy parents.",
-      "The hotel room was quite cushy with its soft beds and fluffy pillows.",
-      "He thought the job would be cushy, but it turned out to be more challenging than he expected.",
-      "Many people dream of retiring to a cushy life on a tropical island.",
-    ],
-  },
-  {
-    word: "cyclopean",
-    definition:
-      "relating to or suggestive of a Cyclops; massive or monumental; of, relating to, or characteristic of a style of ancient architecture marked by the use of massive stone blocks of irregular shape and size.",
-    synonyms: ["massive", "monumental", "immense", "gigantic", "colossal"],
-    exampleSentences: [
-      "The cyclopean wall surrounded the ancient city.",
-      "The fortress was built with cyclopean blocks of stone.",
-      "The temple was a cyclopean structure that impressed all who saw it.",
-      "The cyclopean gate was large enough to allow an army to pass through.",
-      "The ruins of the cyclopean civilization were discovered by archaeologists.",
-    ],
-  },
-  {
-    word: "cymose",
-    definition:
-      "having a flat-topped or convex inflorescence in which the central or terminal flower opens first, followed by the lateral or subordinate ones",
-    synonyms: ["cymaceous", "cymoid", "cymose-inflorescence"],
-    exampleSentences: [
-      "The plant's cymose inflorescence is quite striking.",
-      "The cymose flowers were arranged in a neat pattern.",
-      "The cymose structure of the plant allowed for efficient pollination.",
-      "The cymose inflorescence gave the plant a unique appearance.",
-      "The cymose flowers bloomed in a particular sequence.",
-    ],
-  },
-  {
     word: "cynical",
     definition:
       "believing that people are motivated by self-interest; distrustful of human sincerity or integrity",
@@ -11698,32 +8829,6 @@ const vocabData = [
       "The article paints a cynical picture of modern life.",
       "I've become more cynical about politics over the years.",
       "His cynical attitude often gets in the way of his relationships.",
-    ],
-  },
-  {
-    word: "cynodont",
-    definition:
-      "any of a group of extinct mammal-like reptiles that lived during the Permian and Triassic periods, characterized by large temporal openings in the skull and differentiated teeth",
-    synonyms: ["cynodonts", "dog-toothed reptiles"],
-    exampleSentences: [
-      "The cynodont was one of the earliest mammals.",
-      "Cynodonts were once considered reptiles.",
-      "The cynodonts were an important group of prehistoric animals.",
-      "Scientists believe that cynodonts were warm-blooded.",
-      "The fossils of cynodonts have helped scientists understand the evolution of mammals.",
-    ],
-  },
-  {
-    word: "cynosure",
-    definition:
-      "a person or thing that is the center of attention or admiration",
-    synonyms: ["centerpiece", "focus", "star", "highlight", "celebrity"],
-    exampleSentences: [
-      "The bride was the cynosure of all eyes.",
-      "The new product became the cynosure of the industry.",
-      "The famous actor was the cynosure of the event.",
-      "The painting was the cynosure of the art exhibition.",
-      "The athlete was the cynosure of the sports world.",
     ],
   },
   {
@@ -11745,18 +8850,6 @@ const vocabData = [
     ],
   },
   {
-    word: "dactylomegaly",
-    definition: "abnormal enlargement of fingers or toes",
-    synonyms: ["macrocheiria", "macrodactyly", "megalodactyly"],
-    exampleSentences: [
-      "The patient had dactylomegaly in both hands.",
-      "The condition of dactylomegaly is often associated with other medical conditions.",
-      "The doctor diagnosed the patient with dactylomegaly after noticing the abnormal finger size.",
-      "The patient's dactylomegaly resulted in difficulty performing everyday tasks.",
-      "Dactylomegaly is a rare condition that requires specialized treatment.",
-    ],
-  },
-  {
     word: "daft",
     definition: "silly; foolish",
     synonyms: ["absurd", "ridiculous", "foolish", "stupid", "crazy"],
@@ -11766,19 +8859,6 @@ const vocabData = [
       "He's a bit daft when it comes to technology.",
       "I'm not going to waste my time on such a daft idea.",
       "The whole plan sounds daft to me.",
-    ],
-  },
-  {
-    word: "dagga",
-    definition:
-      "a plant native to southern Africa that is used as a recreational drug; also known as cannabis or marijuana",
-    synonyms: ["cannabis", "marijuana", "weed", "pot", "herb"],
-    exampleSentences: [
-      "The police found dagga plants growing in the backyard.",
-      "He was caught with a bag of dagga in his possession.",
-      "Some people use dagga for medicinal purposes.",
-      "Dagga is illegal in many countries.",
-      "She smokes dagga to relax after a long day.",
     ],
   },
   {
@@ -11825,32 +8905,6 @@ const vocabData = [
     ],
   },
   {
-    word: "damask",
-    definition:
-      "a figured woven fabric with a pattern visible on both sides, typically used for table linen and upholstery.",
-    synonyms: ["brocade", "jacquard", "tapestry", "embossed fabric"],
-    exampleSentences: [
-      "The table was laid with a beautiful damask cloth.",
-      "The elegant damask curtains added a touch of luxury to the room.",
-      "She wore a gown made of pale pink damask.",
-      "The sofa was upholstered in a rich red damask.",
-      "The wallpaper had a damask pattern in shades of blue and grey.",
-    ],
-  },
-  {
-    word: "dandy",
-    definition:
-      "a man who is excessively concerned about his appearance and clothes; a fashionable man",
-    synonyms: ["fop", "beau", "swell", "dude", "gallant"],
-    exampleSentences: [
-      "He always dressed like a dandy, with tailored suits and polished shoes.",
-      "The dandy spent hours getting ready for the party, meticulously styling his hair and selecting the perfect accessories.",
-      "She was impressed by the dandy's impeccable taste in fashion.",
-      "The dandy strutted down the street, turning heads with his confident demeanor and stylish attire.",
-      "Although he was a dandy, he was also a talented artist and musician.",
-    ],
-  },
-  {
     word: "dapper",
     definition: "neat and trim in dress, appearance, or bearing",
     synonyms: ["smart", "stylish", "well-groomed", "natty", "snappy"],
@@ -11875,18 +8929,6 @@ const vocabData = [
     ],
   },
   {
-    word: "darkling",
-    definition: "in the dark; darkening or obscure; a poetic word for darkness",
-    synonyms: ["dark", "obscure", "shadowy", "dim", "gloomy"],
-    exampleSentences: [
-      "The darkling forest was eerie and unsettling.",
-      "As the sun set, the sky turned darkling.",
-      "The darkling alleyway made her nervous.",
-      "He peered into the darkling room, trying to discern any movement.",
-      "The darkling mood of the film was perfect for the horror genre.",
-    ],
-  },
-  {
     word: "dastard",
     definition: "a cowardly or treacherous person",
     synonyms: ["coward", "craven", "pusillanimous", "timid", "faint-hearted"],
@@ -11896,18 +8938,6 @@ const vocabData = [
       "She accused him of being a dastard for breaking up with her via text message.",
       "The dastardly scheme was uncovered by the detectives.",
       "The dastardly villain was finally brought to justice.",
-    ],
-  },
-  {
-    word: "dastardly",
-    definition: "cowardly and treacherous.",
-    synonyms: ["cowardly", "dishonorable", "villainous", "base", "low"],
-    exampleSentences: [
-      "The dastardly act of stealing from the charity fund.",
-      "He made a dastardly attempt to overthrow the government.",
-      "The villain in the story had a dastardly plan to destroy the city.",
-      "It was a dastardly move to abandon his friends in their time of need.",
-      "She was shocked by the dastardly behavior of her former friend.",
     ],
   },
   {
@@ -12145,19 +9175,6 @@ const vocabData = [
     ],
   },
   {
-    word: "declaim",
-    definition:
-      "to speak loudly and with feeling, often in a way that is intended to persuade others",
-    synonyms: ["oratorize", "rhetorize", "speechify", "spout", "spiel"],
-    exampleSentences: [
-      "The politician declaimed about the need for change.",
-      "The preacher declaimed a powerful sermon.",
-      "The teacher declaimed a poem to the class.",
-      "The actor declaimed his lines with great passion.",
-      "The lawyer declaimed his closing argument to the jury.",
-    ],
-  },
-  {
     word: "declivity",
     definition: "a downward slope",
     synonyms: ["slope", "descent", "incline", "gradient", "pitch"],
@@ -12263,31 +9280,6 @@ const vocabData = [
     ],
   },
   {
-    word: "defenestrate",
-    definition:
-      "to throw someone or something out of a window, a usually swift dismissal or expulsion (as from a political party or office)",
-    synonyms: ["eject", "expel", "cast out", "oust", "banish"],
-    exampleSentences: [
-      "He threatened to defenestrate the computer if it didn't start working.",
-      "The angry mob defenestrated their corrupt leader.",
-      "I accidentally defenestrated my phone while trying to take a picture.",
-      "The cat defenestrated a mouse from the third floor window.",
-      "The king was defenestrated when his people had a revolution and overthrew him from his position of power.",
-    ],
-  },
-  {
-    word: "defenestration",
-    definition: "the action of throwing someone or something out of a window",
-    synonyms: ["ejection", "expulsion", "exile", "banishment", "ouster"],
-    exampleSentences: [
-      "The defenestration of Prague in 1618 helped to spark the Thirty Years' War.",
-      "The movie's climax featured a dramatic defenestration scene.",
-      "The protesters threatened to resort to defenestration if their demands weren't met.",
-      "The historical society is commemorating the 632nd anniversary of the defenestration of Zurich.",
-      "The politician narrowly avoided defenestration after making an offensive remark to the press.",
-    ],
-  },
-  {
     word: "deference",
     definition:
       "respectful submission or yielding to the judgment, opinion, will, etc., of another.",
@@ -12316,18 +9308,6 @@ const vocabData = [
       "She showed a deferential attitude towards her elders.",
       "The students were deferential to their teacher.",
       "He greeted his superior with a deferential bow.",
-    ],
-  },
-  {
-    word: "defervescence",
-    definition: "the gradual lessening of fever",
-    synonyms: ["abatement", "subsidence", "decline", "decrease", "recession"],
-    exampleSentences: [
-      "After three days of high fever, the patient's defervescence was a relief to everyone.",
-      "The doctor noted the patient's defervescence and prescribed a lower dose of medication.",
-      "The nurse monitored the patient's temperature closely to track their defervescence.",
-      "The defervescence of the child's fever allowed them to finally get some rest.",
-      "The defervescence of the epidemic was a sign that the disease was finally under control.",
     ],
   },
   {
@@ -12366,24 +9346,6 @@ const vocabData = [
       "The goalie deflected the puck with his stick.",
       "She tried to deflect attention away from her poor performance.",
       "The politician deflected questions about his controversial policies.",
-    ],
-  },
-  {
-    word: "defray",
-    definition: "to pay for (something)",
-    synonyms: [
-      "pay for",
-      "cover the cost of",
-      "bear the expense of",
-      "meet the cost of",
-      "take care of the bill for",
-    ],
-    exampleSentences: [
-      "The company will defray the cost of the business trip.",
-      "The scholarship will defray the cost of tuition.",
-      "The government will defray the cost of the program.",
-      "The fundraiser will defray the cost of the new playground equipment.",
-      "The grant will defray the cost of the research project.",
     ],
   },
   {
@@ -12473,24 +9435,6 @@ const vocabData = [
       "The restaurant is known for its delectable seafood dishes.",
       "The wine connoisseur savored every sip of the delectable red wine.",
       "He couldn't resist the delectable smell coming from the bakery.",
-    ],
-  },
-  {
-    word: "delectation",
-    definition: "pleasure and delight",
-    synonyms: [
-      "delight",
-      "pleasure",
-      "enjoyment",
-      "gratification",
-      "satisfaction",
-    ],
-    exampleSentences: [
-      "The delectation on her face was evident as she tasted the delicious dessert.",
-      "I find delectation in spending time with my family.",
-      "The delectation of going on vacation is what motivates me to work hard.",
-      "He watched with delectation as the sunset painted the sky in shades of pink and orange.",
-      "The delectation of reading a good book is unmatched by anything else.",
     ],
   },
   {
@@ -12700,31 +9644,6 @@ const vocabData = [
     ],
   },
   {
-    word: "demesne",
-    definition:
-      "land attached to a manor and retained for the owner's own use or support; an estate; possession or dominion over something",
-    synonyms: ["estate", "property", "land", "domain", "territory"],
-    exampleSentences: [
-      "The lord of the manor had a large demesne that he used for hunting.",
-      "The castle was surrounded by the lord's demesne.",
-      "The demesne was passed down from generation to generation.",
-      "The king had demesne over the entire kingdom.",
-      "The estate included a large demesne where the family grew crops.",
-    ],
-  },
-  {
-    word: "demitasse",
-    definition: "a small cup used for serving coffee, typically after a meal.",
-    synonyms: ["espresso cup", "small coffee cup", "after-dinner cup"],
-    exampleSentences: [
-      "She sipped her demitasse of coffee.",
-      "He ordered a demitasse of espresso.",
-      "The waiter brought a demitasse of Turkish coffee.",
-      "The set of demitasses were delicate and beautifully crafted.",
-      "The restaurant offered a demitasse of hot chocolate as a dessert option.",
-    ],
-  },
-  {
     word: "demonstrable",
     definition: "able to be shown or proven",
     synonyms: ["provable", "evident", "observable", "verifiable", "testable"],
@@ -12746,19 +9665,6 @@ const vocabData = [
       "The failure of the project demoralized the entire team.",
       "The negative comments from the judges demoralized the contestant.",
       "The news of the lay-offs demoralized the employees.",
-    ],
-  },
-  {
-    word: "demotic",
-    definition:
-      "relating to the ordinary people of a country or region, as opposed to the educated or privileged classes",
-    synonyms: ["popular", "vernacular", "common", "everyday", "proletarian"],
-    exampleSentences: [
-      "The demotic language of Egypt was used by the common people.",
-      "The politician tried to appeal to the demotic sentiments of the working class.",
-      "The demotic culture of the region was celebrated in the annual festival.",
-      "The demotic music was played on the streets during the carnival.",
-      "The demotic art was characterized by its simplicity and accessibility.",
     ],
   },
   {
@@ -12884,18 +9790,6 @@ const vocabData = [
     ],
   },
   {
-    word: "deportment",
-    definition: "the way a person behaves towards others; manners",
-    synonyms: ["demeanor", "conduct", "bearing", "attitude", "posture"],
-    exampleSentences: [
-      "Her deportment towards her boss was always respectful.",
-      "The teacher praised the student's excellent deportment in class.",
-      "His polite deportment impressed the guests at the party.",
-      "The company values professionalism and good deportment in its employees.",
-      "The queen's graceful deportment was admired by all who saw her.",
-    ],
-  },
-  {
     word: "depose",
     definition:
       "to remove from a high position or office, especially from a throne; to testify or give evidence under oath",
@@ -12918,42 +9812,6 @@ const vocabData = [
       "The cult leader used mind control techniques to deprave his followers.",
       "Drinking too much alcohol can deprave a person's judgment.",
       "The internet can be a tool to educate or to deprave, depending on how it's used.",
-    ],
-  },
-  {
-    word: "depredation",
-    definition: "the act of plundering, robbing, or looting; predatory attack",
-    synonyms: ["plundering", "raiding", "looting", "pillaging", "despoliation"],
-    exampleSentences: [
-      "The depredation of the village left the people homeless and destitute.",
-      "The depredations of the invading army were devastating to the countryside.",
-      "The wolf pack's depredations on the sheep herd were causing significant losses for the farmer.",
-      "The pirates were known for their depredations on merchant ships in the region.",
-      "The depredations of the locust swarm destroyed the crops and threatened the food supply.",
-    ],
-  },
-  {
-    word: "depute",
-    definition: "to appoint or assign (someone) to a particular office or duty",
-    synonyms: ["assign", "delegate", "appoint", "commission", "entrust"],
-    exampleSentences: [
-      "The manager decided to depute the new employee to handle the project.",
-      "The CEO deputed the task of hiring new employees to the HR department.",
-      "The teacher deputed the responsibility of leading the class discussion to a student.",
-      "The coach deputed the captain to lead the team in the absence of the regular captain.",
-      "The company deputed a team of experts to investigate the cause of the fire.",
-    ],
-  },
-  {
-    word: "deracinate",
-    definition: "to uproot or remove from a native or accustomed environment",
-    synonyms: ["uproot", "eradicate", "displace", "extricate", "tear out"],
-    exampleSentences: [
-      "The construction of the new highway will deracinate many trees.",
-      "The family was deracinated from their home by the war.",
-      "The company decided to deracinate their entire workforce and move production overseas.",
-      "The invasive species has deracinated the native plants.",
-      "The political revolution deracinated the established government.",
     ],
   },
   {
@@ -12991,24 +9849,6 @@ const vocabData = [
       "She was cruelly subjected to derision and bullying by her classmates.",
       "His attempts at humor were met with derision rather than laughter.",
       "The politician's proposal was met with derision by the opposing party.",
-    ],
-  },
-  {
-    word: "derisive",
-    definition: "expressing contempt or ridicule",
-    synonyms: [
-      "mocking",
-      "scornful",
-      "scoffing",
-      "contemptuous",
-      "disparaging",
-    ],
-    exampleSentences: [
-      "The audience responded with derisive laughter.",
-      "Her tone was derisive as she spoke about his ideas.",
-      "He made a derisive comment about their intelligence.",
-      "The article was filled with derisive remarks about the politician.",
-      "The students were punished for their derisive behavior towards their teacher.",
     ],
   },
   {
@@ -13078,24 +9918,6 @@ const vocabData = [
       "Repeatedly exposing yourself to your fear can help desensitize you to it.",
       "Violent video games can desensitize children to real-life violence.",
       "The goal of therapy is to desensitize the patient to their phobia.",
-    ],
-  },
-  {
-    word: "desideratum",
-    definition: "something that is desired or needed",
-    synonyms: [
-      "requirement",
-      "necessity",
-      "essential",
-      "prerequisite",
-      "must-have",
-    ],
-    exampleSentences: [
-      "A good education is a desideratum for a successful career.",
-      "The company's desideratum is to increase profits.",
-      "A reliable internet connection is a desideratum for remote workers.",
-      "Good communication skills are a desideratum in many professions.",
-      "The desideratum for this project is to improve customer satisfaction.",
     ],
   },
   {
@@ -13229,18 +10051,6 @@ const vocabData = [
     ],
   },
   {
-    word: "desuetude",
-    definition: "a state of disuse or inactivity",
-    synonyms: ["disuse", "nonuse", "abeyance", "dormancy", "inactivity"],
-    exampleSentences: [
-      "The old law had fallen into desuetude and was no longer enforced.",
-      "The disused factory was a symbol of the desuetude of the town's industrial past.",
-      "The once-popular dance had fallen into desuetude and was rarely performed anymore.",
-      "The museum was filled with artifacts that had fallen into desuetude and were no longer used.",
-      "The language had fallen into desuetude and was no longer spoken by anyone.",
-    ],
-  },
-  {
     word: "desultory",
     definition:
       "lacking a plan, purpose, or enthusiasm; happening randomly or occasionally",
@@ -13251,25 +10061,6 @@ const vocabData = [
       "The conversation was desultory, jumping from topic to topic with no real depth.",
       "Her desultory attendance at class resulted in poor grades.",
       "The project was abandoned after a few desultory attempts to get it off the ground.",
-    ],
-  },
-  {
-    word: "detente",
-    definition:
-      "the easing of hostility or strained relations, especially between countries",
-    synonyms: [
-      "reconciliation",
-      "rapprochement",
-      "peaceful coexistence",
-      "thaw",
-      "relaxation",
-    ],
-    exampleSentences: [
-      "The detente between the two countries led to increased trade and cultural exchanges.",
-      "The leaders of the two nations met to discuss ways to promote detente and prevent future conflicts.",
-      "The treaty was seen as a significant step towards detente and long-term peace.",
-      "The detente between the warring factions brought relief to the war-torn region.",
-      "The success of the summit was attributed to the willingness of both sides to engage in detente.",
     ],
   },
   {
@@ -13500,18 +10291,6 @@ const vocabData = [
     ],
   },
   {
-    word: "diadem",
-    definition: "a jeweled crown or headband worn as a symbol of sovereignty",
-    synonyms: ["crown", "tiara", "coronet", "circlet", "headband"],
-    exampleSentences: [
-      "The queen's diadem was encrusted with diamonds and rubies.",
-      "The diadem of the ancient king was discovered in a tomb.",
-      "The princess wore a simple diadem for her wedding.",
-      "The diadem was passed down through generations of the royal family.",
-      "The diadem was a symbol of power and authority in the kingdom.",
-    ],
-  },
-  {
     word: "diagnose",
     definition:
       "to identify the nature of an illness or problem by examination of the symptoms",
@@ -13693,18 +10472,6 @@ const vocabData = [
     ],
   },
   {
-    word: "dilatory",
-    definition: "tending to delay or procrastinate; slow; tardy",
-    synonyms: ["delaying", "procrastinating", "sluggish", "slow", "tardy"],
-    exampleSentences: [
-      "His dilatory behavior caused him to miss the deadline.",
-      "She was criticized for her dilatory response to the urgent matter.",
-      "The company's dilatory tactics in responding to customer complaints led to a decline in sales.",
-      "The government's dilatory approach to solving the crisis angered many citizens.",
-      "The student's dilatory habits resulted in poor grades.",
-    ],
-  },
-  {
     word: "dilemma",
     definition:
       "a situation in which a difficult choice has to be made between two or more alternatives, especially ones that are equally undesirable.",
@@ -13750,18 +10517,6 @@ const vocabData = [
     ],
   },
   {
-    word: "diminution",
-    definition: "a reduction in size, extent, or importance",
-    synonyms: ["decrease", "lessening", "shrinking", "reduction", "decline"],
-    exampleSentences: [
-      "There has been a diminution in the number of students applying to the school.",
-      "The company experienced a diminution in profits due to increased competition.",
-      "The storm caused a diminution in the size of the beach.",
-      "The CEO's resignation led to a diminution in the company's reputation.",
-      "The medicine caused a diminution in the patient's pain.",
-    ],
-  },
-  {
     word: "diminutive",
     definition: "extremely or unusually small",
     synonyms: ["tiny", "small", "petite", "minuscule", "little"],
@@ -13771,18 +10526,6 @@ const vocabData = [
       "The toy car was a diminutive version of the real thing.",
       "His diminutive stature made it difficult for him to reach high shelves.",
       "The restaurant served diminutive portions of food.",
-    ],
-  },
-  {
-    word: "dingle",
-    definition: "a small, narrow, secluded valley, usually wooded",
-    synonyms: ["dale", "glen", "ravine", "canyon"],
-    exampleSentences: [
-      "The hiker followed the trail through the dingle.",
-      "The cabin was nestled in a dingle surrounded by trees.",
-      "The birds chirped in the peaceful dingle.",
-      "The stream flowed through the dingle, creating a serene atmosphere.",
-      "The autumn leaves painted the dingle in vibrant colors.",
     ],
   },
   {
@@ -13845,19 +10588,6 @@ const vocabData = [
       "The teacher gave a directive to the students to complete their homework on time.",
       "The CEO issued a directive to increase the sales target for the next quarter.",
       "The manager issued a directive to the team to work overtime to meet the deadline.",
-    ],
-  },
-  {
-    word: "dirge",
-    definition:
-      "a mournful song, piece of music, or poem that expresses grief or sorrow",
-    synonyms: ["lament", "requiem", "funeral song", "elegy", "threnody"],
-    exampleSentences: [
-      "The mourners sang a dirge at the funeral.",
-      "The sound of the bagpipes playing a dirge echoed through the cemetery.",
-      "The poet wrote a dirge in memory of his deceased friend.",
-      "The orchestra played a dirge during the solemn procession.",
-      "The church choir sang a dirge during the memorial service.",
     ],
   },
   {
@@ -13947,24 +10677,6 @@ const vocabData = [
     ],
   },
   {
-    word: "discombobulated",
-    definition: "confused and disconcerted",
-    synonyms: [
-      "bewildered",
-      "flustered",
-      "disoriented",
-      "disconcerted",
-      "perplexed",
-    ],
-    exampleSentences: [
-      "After getting off the rollercoaster, I felt discombobulated and had to sit down for a few minutes.",
-      "The confusing instructions left me feeling discombobulated and unsure of what to do.",
-      "The sudden change in plans discombobulated everyone and caused chaos.",
-      "He was so discombobulated by the news that he couldn't even speak.",
-      "The loud and chaotic environment made me feel discombobulated and overwhelmed.",
-    ],
-  },
-  {
     word: "disconcert",
     definition: "to disturb the composure of; unsettle",
     synonyms: ["unsettle", "disturb", "perturb", "rattle", "throw off"],
@@ -13974,18 +10686,6 @@ const vocabData = [
       "The change in plans disconcerted everyone.",
       "The failure of the project disconcerted the team.",
       "His rude behavior disconcerted me.",
-    ],
-  },
-  {
-    word: "disconsolate",
-    definition: "without consolation or comfort; unhappy",
-    synonyms: ["miserable", "dejected", "crestfallen", "despondent", "forlorn"],
-    exampleSentences: [
-      "She was disconsolate after her dog died.",
-      "The team was disconsolate after losing the championship game.",
-      "He was disconsolate when he found out he didn't get the job.",
-      "She felt disconsolate after the breakup.",
-      "The family was disconsolate after their house burned down.",
     ],
   },
   {
@@ -14066,25 +10766,6 @@ const vocabData = [
     ],
   },
   {
-    word: "discursive",
-    definition:
-      "digressing from subject to subject; relating to discourse or modes of discourse; proceeding coherently from topic to topic",
-    synonyms: [
-      "rambling",
-      "circumlocutory",
-      "digressive",
-      "meandering",
-      "wandering",
-    ],
-    exampleSentences: [
-      "His discursive style made it difficult for the audience to follow his arguments.",
-      "The book was criticized for being too discursive and unfocused.",
-      "The professor's discursive lecture covered a wide range of topics.",
-      "The author's discursive writing style was praised for its creativity.",
-      "Her discursive thinking led her to explore many different ideas before arriving at a conclusion.",
-    ],
-  },
-  {
     word: "disembark",
     definition: "to leave a ship, aircraft, or other vehicle",
     synonyms: ["debark", "disembowel", "discharge", "unload", "alight"],
@@ -14094,19 +10775,6 @@ const vocabData = [
       "The crew helped the passengers disembark from the ferry.",
       "The soldiers were ordered to disembark from the helicopter.",
       "The astronauts will disembark from the spacecraft when they arrive at the space station.",
-    ],
-  },
-  {
-    word: "disgorge",
-    definition:
-      "to eject or discharge violently; to pour forth or release suddenly and copiously",
-    synonyms: ["spew", "vomit", "regurgitate", "expel", "evacuate"],
-    exampleSentences: [
-      "The volcano began to disgorge lava and ash.",
-      "The overflowing river disgorge its contents into the sea.",
-      "The garbage truck disgorge its load at the landfill.",
-      "The fisherman disgorge the fish from his net.",
-      "The snake disgorge the mouse it had swallowed.",
     ],
   },
   {
@@ -14307,18 +10975,6 @@ const vocabData = [
     ],
   },
   {
-    word: "disport",
-    definition: "to amuse oneself in a lively or playful way",
-    synonyms: ["frolic", "recreate", "entertain", "enjoy", "divert"],
-    exampleSentences: [
-      "The children disported themselves in the park.",
-      "The guests disported on the dance floor.",
-      "He disported in the pool for hours.",
-      "She disported with her friends at the beach.",
-      "The puppies disported in the grassy field.",
-    ],
-  },
-  {
     word: "disposition",
     definition:
       "a person's inherent qualities of mind and character; the way in which something is placed or arranged, especially in relation to other things",
@@ -14329,19 +10985,6 @@ const vocabData = [
       "He has a very kind disposition towards animals.",
       "The company's disposition towards green energy is admirable.",
       "The disposition of the troops was strategically planned.",
-    ],
-  },
-  {
-    word: "disquisition",
-    definition:
-      "a long or detailed essay or discussion on a particular subject",
-    synonyms: ["treatise", "thesis", "dissertation", "essay", "paper"],
-    exampleSentences: [
-      "Her disquisition on the history of art was quite informative.",
-      "The professor assigned a disquisition on the political climate in the Middle East.",
-      "His disquisition on the philosophy of science was well-received.",
-      "The author's disquisition on human nature was thought-provoking.",
-      "The student presented a disquisition on the effects of global warming.",
     ],
   },
   {
@@ -14380,19 +11023,6 @@ const vocabData = [
       "The dissidence between the two business partners caused the company to fail.",
       "The dissidence of the employees led to a strike.",
       "The dissidence of the citizens resulted in protests against the government's policies.",
-    ],
-  },
-  {
-    word: "dissimilate",
-    definition:
-      "to become or cause to become dissimilar or different in character or nature",
-    synonyms: ["differentiate", "distinguish", "contrast", "vary", "diverge"],
-    exampleSentences: [
-      "The two twins began to dissimilate as they grew older.",
-      "The company tried to dissimilate their product from their competitors.",
-      "The artist used contrasting colors to dissimilate the foreground from the background.",
-      "The politician tried to dissimilate their stance from their opponent's on the controversial issue.",
-      "The flavors of the dish began to dissimilate as it cooled down.",
     ],
   },
   {
@@ -14499,19 +11129,6 @@ const vocabData = [
     ],
   },
   {
-    word: "divagate",
-    definition:
-      "to wander or digress in speech or thought; to stray from the topic",
-    synonyms: ["ramble", "drift", "stray", "wander", "digress"],
-    exampleSentences: [
-      "During the meeting, he would often divagate from the main topic.",
-      "Her mind would divagate from her studies and get lost in daydreams.",
-      "The speaker divagated from the topic and ended up discussing something entirely different.",
-      "I tend to divagate when I'm excited about a topic.",
-      "The professor's lectures often divagate into personal anecdotes and stories.",
-    ],
-  },
-  {
     word: "diversify",
     definition:
       "to vary or expand the range of something, especially a business or investments",
@@ -14605,25 +11222,6 @@ const vocabData = [
     ],
   },
   {
-    word: "doctrinaire",
-    definition:
-      "seeking to impose a doctrine in all circumstances without regard to practical considerations; dogmatic",
-    synonyms: [
-      "dogmatic",
-      "uncompromising",
-      "inflexible",
-      "unyielding",
-      "rigid",
-    ],
-    exampleSentences: [
-      "The politician's doctrinaire approach to taxation was criticized for not taking into account the needs of the working class.",
-      "The boss's doctrinaire management style left no room for employee input or creativity.",
-      "The professor's doctrinaire views on Marxism influenced his teaching and research.",
-      "The artist rejected the doctrinaire constraints of the art world and pursued his own vision.",
-      "The religious leader's doctrinaire interpretation of scripture led to conflict within the community.",
-    ],
-  },
-  {
     word: "doctrine",
     definition:
       "a belief or set of beliefs held and taught by a church, political party, or other group",
@@ -14652,36 +11250,6 @@ const vocabData = [
       "His dogged efforts paid off in the end.",
       "The team's dogged defense kept the opposing team from scoring.",
       "She had a dogged commitment to social justice.",
-    ],
-  },
-  {
-    word: "doggerel",
-    definition: "comic or crude verse, typically in sing-song rhyme",
-    synonyms: [
-      "nursery rhyme",
-      "jingle",
-      "rude verse",
-      "nonsense verse",
-      "drivel",
-    ],
-    exampleSentences: [
-      "His poetry is nothing but doggerel.",
-      "The song lyrics were written in doggerel.",
-      "The comedian recited some doggerel to get the audience laughing.",
-      "The children enjoyed singing the doggerel rhymes.",
-      "The poet was criticized for his use of doggerel in his latest work.",
-    ],
-  },
-  {
-    word: "doggrel",
-    definition: "poor quality verse characterized by forced or awkward rhyming",
-    synonyms: ["doggerel", "poetry", "verse"],
-    exampleSentences: [
-      "He scribbled doggrel in the margins of his notebook during class.",
-      "The poem was filled with doggrel and lacked any real depth.",
-      "The poet was criticized for his use of doggrel in his work.",
-      "The nursery rhyme was full of silly doggrel that made the children laugh.",
-      "The amateur poet's doggrel was no match for the seasoned writer's masterful verse.",
     ],
   },
   {
@@ -14782,25 +11350,6 @@ const vocabData = [
     ],
   },
   {
-    word: "dormer",
-    definition:
-      "a vertical window in a projection built out from a sloping roof",
-    synonyms: [
-      "projection window",
-      "roof window",
-      "skylight",
-      "gable window",
-      "attic window",
-    ],
-    exampleSentences: [
-      "The dormer window provided a great view of the city skyline.",
-      "The attic room had a cozy dormer for extra light.",
-      "The old house had several dormers that added character to the roof.",
-      "The architect designed a dormer to bring more natural light into the bedroom.",
-      "The contractor installed a new dormer to improve the ventilation in the attic.",
-    ],
-  },
-  {
     word: "dorsal",
     definition:
       "of, on, or relating to the upper side or back of an animal, plant, or organ",
@@ -14811,37 +11360,6 @@ const vocabData = [
       "The doctor examined the patient's dorsal surface for any signs of injury.",
       "The lizard's dorsal scales were a vibrant shade of green.",
       "The surgeon made an incision along the dorsal aspect of the spine.",
-    ],
-  },
-  {
-    word: "dotage",
-    definition:
-      "the period of life in which a person is old and weak; senility",
-    synonyms: ["senility", "old age", "decline", "feebleness", "infirmity"],
-    exampleSentences: [
-      "My great-grandmother was in her dotage when she passed away at the age of 98.",
-      "The old man's mind had weakened in his dotage, and he often forgot things.",
-      "The elderly woman's dotage was marked by a decrease in mobility and energy.",
-      "The retired professor spent his dotage traveling the world and writing books.",
-      "In his dotage, the once powerful CEO was reduced to a frail and forgetful old man.",
-    ],
-  },
-  {
-    word: "dotard",
-    definition: "an old person, especially one who has become weak or senile",
-    synonyms: [
-      "senile person",
-      "elderly person",
-      "geriatric",
-      "old-timer",
-      "senior citizen",
-    ],
-    exampleSentences: [
-      "The dotard struggled to remember his own name.",
-      "The nursing home was filled with dotards.",
-      "The dotard needed help walking up the stairs.",
-      "The dotard kept repeating the same story over and over again.",
-      "The family was concerned about the dotard's ability to live independently.",
     ],
   },
   {
@@ -14907,19 +11425,6 @@ const vocabData = [
     ],
   },
   {
-    word: "doyen",
-    definition:
-      "the most senior member of a group; a person regarded as knowledgeable or uniquely skilled in a particular field",
-    synonyms: ["senior member", "dean", "leader", "expert", "veteran"],
-    exampleSentences: [
-      "The doyen of the group, who has been with the company for over 30 years, will be retiring next month.",
-      "As the doyen of the fashion industry, she is often consulted for her opinions on the latest trends.",
-      "He is the doyen of the music world and has been performing for over five decades.",
-      "The doyen of the legal profession has been appointed as the head of the bar association.",
-      "The museum's collection was curated by the doyen of art historians, who passed away last year.",
-    ],
-  },
-  {
     word: "drab",
     definition: "dull; lacking brightness or interest",
     synonyms: ["dreary", "dull", "boring", "uninteresting", "colorless"],
@@ -14941,43 +11446,6 @@ const vocabData = [
       "The coach had a draconian training regimen that left the players exhausted.",
       "The government's response to the crisis was criticized for being draconian.",
       "The school imposed draconian rules on its students.",
-    ],
-  },
-  {
-    word: "draught",
-    definition: "a current of cool air in a room or other confined space",
-    synonyms: ["draft", "breeze", "wind", "gust", "puff"],
-    exampleSentences: [
-      "I felt a draught when I opened the window.",
-      "The room was cold due to the draught coming in from the window.",
-      "She closed the door to stop the draught.",
-      "The fire in the fireplace created a warm draught that circulated throughout the room.",
-      "He complained about the draught in the restaurant and asked to be moved to a different table.",
-    ],
-  },
-  {
-    word: "dreamy",
-    definition:
-      "having a pleasantly surreal or unreal quality; tending to dream; thoughtful or absent-minded",
-    synonyms: ["ethereal", "fantastic", "whimsical", "romantic", "mystical"],
-    exampleSentences: [
-      "The dreamy atmosphere of the forest made her feel as though she were walking through a fairytale.",
-      "He had a dreamy expression on his face as he watched the sunset.",
-      "The novel was filled with dreamy descriptions of far-off lands and magical creatures.",
-      "She was lost in a dreamy haze as she listened to the music.",
-      "The artist's paintings had a dreamy quality that transported viewers to another world.",
-    ],
-  },
-  {
-    word: "drear",
-    definition: "dull, bleak, and lifeless; depressing",
-    synonyms: ["drab", "dreary", "gloomy", "grim", "sombre"],
-    exampleSentences: [
-      "The drear weather made her feel sad.",
-      "The drear landscape was devoid of any color.",
-      "The drear atmosphere of the room made it difficult to focus.",
-      "The drear outlook for the economy was discouraging.",
-      "The drear mood of the party made everyone want to leave early.",
     ],
   },
   {
@@ -15153,19 +11621,6 @@ const vocabData = [
     ],
   },
   {
-    word: "dyspeptic",
-    definition:
-      "suffering from indigestion; having a sour mood or disposition; pessimistic.",
-    synonyms: ["indigestive", "upset", "acidic", "grouchy", "crabby"],
-    exampleSentences: [
-      "After eating too much junk food, I felt dyspeptic and uncomfortable.",
-      "The constant rain made her dyspeptic and gloomy.",
-      "He had a dyspeptic view of the world and never believed anything good would happen.",
-      "Her dyspeptic attitude made it hard for her to make friends.",
-      "The politician's dyspeptic speech left a bad taste in everyone's mouth.",
-    ],
-  },
-  {
     word: "dysphoria",
     definition: "a state of unease or generalized dissatisfaction with life",
     synonyms: [
@@ -15200,18 +11655,6 @@ const vocabData = [
       "The medication helped alleviate her dysphoric symptoms.",
       "The dysphoric atmosphere in the room was palpable.",
       "He knew he needed to seek help for his dysphoric mood.",
-    ],
-  },
-  {
-    word: "dysplasia",
-    definition: "abnormal development or growth of cells, tissues, or organs",
-    synonyms: ["abnormal growth", "atypical development", "anomaly"],
-    exampleSentences: [
-      "The doctor discovered dysplasia in the patient's cervical cells.",
-      "Dysplasia can be a precursor to cancer.",
-      "The puppy was born with hip dysplasia.",
-      "The biopsy showed signs of dysplasia in the tissue sample.",
-      "The patient underwent surgery to remove the dysplasia in his colon.",
     ],
   },
   {
@@ -15285,19 +11728,6 @@ const vocabData = [
     ],
   },
   {
-    word: "earwig",
-    definition:
-      "a small, elongated insect with pincers on the end of its abdomen, typically living under stones and logs.",
-    synonyms: ["pincher bug", "forficula"],
-    exampleSentences: [
-      "I found an earwig crawling on my pillow.",
-      "Earwigs are known to feed on other insects.",
-      "The earwig's pincers may look intimidating, but they are not harmful to humans.",
-      "I accidentally stepped on an earwig while walking barefoot in the yard.",
-      "Earwigs can be a pest in gardens, as they can damage plants and flowers.",
-    ],
-  },
-  {
     word: "eaves",
     definition:
       "the part of a roof that meets or overhangs the walls of a building",
@@ -15337,24 +11767,6 @@ const vocabData = [
     ],
   },
   {
-    word: "ebullience",
-    definition: "the quality of being cheerful and full of energy; exuberance",
-    synonyms: [
-      "enthusiasm",
-      "exuberance",
-      "high spirits",
-      "vivacity",
-      "animation",
-    ],
-    exampleSentences: [
-      "His ebullience was contagious and made everyone in the room feel more lively.",
-      "The ebullience of the children playing in the park was a joy to watch.",
-      "Her ebullience was evident in the way she smiled and laughed throughout the day.",
-      "The success of the project was due in part to the team's ebullience and dedication.",
-      "The ebullience of the crowd at the concert was overwhelming.",
-    ],
-  },
-  {
     word: "ebullient",
     definition: "cheerful and full of energy; exuberant",
     synonyms: ["exuberant", "buoyant", "effervescent", "animated", "vivacious"],
@@ -15364,18 +11776,6 @@ const vocabData = [
       "The children were ebullient with excitement about going to the amusement park.",
       "The party was filled with ebullient laughter and dancing.",
       "Despite the rainy weather, the crowd at the concert remained ebullient.",
-    ],
-  },
-  {
-    word: "eccedentesiast",
-    definition: "Someone who fakes a smile, as on stage or in photographs.",
-    synonyms: ["poser", "faker", "pretender", "actor", "ham"],
-    exampleSentences: [
-      "She was an eccedentesiast, always pretending to be happy even when she was sad.",
-      "He put on his eccedentesiast smile for the cameras.",
-      "She was tired of being an eccedentesiast, always pretending to be fine when she was really struggling.",
-      "The actor was a master eccedentesiast, able to fake a smile even when he was exhausted.",
-      "The politician was accused of being an eccedentesiast, always pretending to care about the issues just for votes.",
     ],
   },
   {
@@ -15437,24 +11837,6 @@ const vocabData = [
     ],
   },
   {
-    word: "ectopia",
-    definition: "an abnormal location or displacement of an organ or body part",
-    synonyms: [
-      "displacement",
-      "misplacement",
-      "aberration",
-      "anomaly",
-      "irregularity",
-    ],
-    exampleSentences: [
-      "The ectopia of the heart caused her severe chest pain.",
-      "The ectopia of the kidney was discovered during a routine exam.",
-      "The ectopia of the tooth caused it to grow in an unusual direction.",
-      "The ectopia of the spleen can cause serious health problems.",
-      "The ectopia of the uterus can lead to infertility.",
-    ],
-  },
-  {
     word: "edict",
     definition:
       "an official order or proclamation issued by a person in authority",
@@ -15492,37 +11874,6 @@ const vocabData = [
     ],
   },
   {
-    word: "edifying",
-    definition: "providing moral or intellectual instruction",
-    synonyms: [
-      "enlightening",
-      "instructive",
-      "educational",
-      "uplifting",
-      "enriching",
-    ],
-    exampleSentences: [
-      "The sermon was an edifying experience for the congregation.",
-      "Reading the book was an edifying experience, as it taught me a lot about history.",
-      "The documentary was very edifying and informative.",
-      "The teacher's lecture was very edifying and helped the students understand the topic better.",
-      "Attending the conference was an edifying experience as I learned a lot about the industry.",
-    ],
-  },
-  {
-    word: "eelblenny",
-    definition:
-      "a small marine fish with an elongated body and a blunt head, typically living among rocks or in crevices and having a mottled or spotted coloration.",
-    synonyms: ["rock blenny", "sleeper", "sleeper blenny"],
-    exampleSentences: [
-      "The eelblenny hid in a crevice when it saw the diver approaching.",
-      "The mottled coloration of the eelblenny allowed it to blend in with the rocks.",
-      "The aquarium had a tank dedicated to showcasing different species of eelblenny.",
-      "The eelblenny darted out of its hiding place to grab a passing crustacean.",
-      "The eelblenny's elongated body allowed it to maneuver through narrow crevices in the rocks.",
-    ],
-  },
-  {
     word: "effervescence",
     definition:
       "the state of being lively or bubbly; the escape of gas from a liquid in the form of bubbles",
@@ -15557,18 +11908,6 @@ const vocabData = [
       "The children's laughter was effervescent and infectious.",
       "The comedian's jokes were effervescent and kept the audience laughing.",
       "The music had an effervescent quality that made everyone want to dance.",
-    ],
-  },
-  {
-    word: "effete",
-    definition: "lacking in vitality, unproductive, exhausted, outmoded",
-    synonyms: ["barren", "sterile", "impotent", "spent", "decadent"],
-    exampleSentences: [
-      "The once vibrant city had become effete and lifeless.",
-      "The ideas presented in that book are effete and no longer relevant.",
-      "His effete attempts at leadership were met with ridicule.",
-      "The old aristocracy was seen as effete and unable to adapt to the changing times.",
-      "The company's effete marketing strategy failed to attract new customers.",
     ],
   },
   {
@@ -15616,18 +11955,6 @@ const vocabData = [
     ],
   },
   {
-    word: "effluvium",
-    definition: "an unpleasant or harmful odor, secretion, or discharge",
-    synonyms: ["stench", "reek", "foulness", "stenchiness", "miasma"],
-    exampleSentences: [
-      "The effluvium from the garbage dump filled the air.",
-      "The effluvium from the sewage treatment plant was overwhelming.",
-      "The effluvium from the skunk made our eyes water.",
-      "The effluvium from the chemical spill was toxic.",
-      "The effluvium from the moldy carpet made me sneeze.",
-    ],
-  },
-  {
     word: "effortless",
     definition: "requiring no physical or mental exertion",
     synonyms: ["easy", "simple", "uncomplicated", "smooth", "painless"],
@@ -15637,18 +11964,6 @@ const vocabData = [
       "The car glided effortlessly down the highway.",
       "The musician played the complex piece with effortless grace.",
       "The writer's prose was effortless and flowed smoothly.",
-    ],
-  },
-  {
-    word: "effulgence",
-    definition: "a brilliant radiance; a shining forth",
-    synonyms: ["radiance", "brilliance", "luminosity", "resplendence", "glow"],
-    exampleSentences: [
-      "The sun's effulgence illuminated the entire valley.",
-      "The diamond's effulgence was blinding in the sunlight.",
-      "The fireworks display was a dazzling effulgence of colors.",
-      "The bride's beauty was matched only by the effulgence of her smile.",
-      "The artist captured the effulgence of the sunrise in his painting.",
     ],
   },
   {
@@ -15727,19 +12042,6 @@ const vocabData = [
     ],
   },
   {
-    word: "eidetic",
-    definition:
-      "relating to or denoting mental images having unusual vividness and detail, as if actually visible.",
-    synonyms: ["photographic", "memorable", "vivid", "graphic", "lifelike"],
-    exampleSentences: [
-      "She had an eidetic memory and could recall every detail of the scene.",
-      "The artist's eidetic imagination allowed her to create stunningly detailed paintings.",
-      "The eidetic quality of the book's descriptions made the story come to life in the reader's mind.",
-      "His eidetic visualizations helped him solve the puzzle quickly.",
-      "The scientist's eidetic recall of the experiment allowed her to identify the flaw in the methodology.",
-    ],
-  },
-  {
     word: "elaborate",
     definition:
       "involving many carefully arranged parts or details; detailed and complicated in design and planning",
@@ -15778,48 +12080,6 @@ const vocabData = [
     ],
   },
   {
-    word: "eld",
-    definition: "old age, old people collectively",
-    synonyms: ["seniors", "elderly", "aged", "ancients", "patriarchs"],
-    exampleSentences: [
-      "The eld were respected members of the community.",
-      "The eld gathered together for their weekly bingo game.",
-      "The eld enjoyed reminiscing about their younger days.",
-      "The eld were given priority seating on the bus.",
-      "The eld shared their wisdom and life experiences with the younger generation.",
-    ],
-  },
-  {
-    word: "eldritch",
-    definition: "weird and eerie; supernatural or unearthly",
-    synonyms: ["weird", "eerie", "spooky", "supernatural", "otherworldly"],
-    exampleSentences: [
-      "The eldritch glow of the full moon cast an eerie light over the forest.",
-      "The old abandoned house had an eldritch atmosphere that made everyone feel uneasy.",
-      "The mysterious figure was draped in an eldritch cloak that seemed to move on its own.",
-      "The sound emanating from the haunted graveyard was an eldritch wail that chilled the bones.",
-      "The eldritch powers of the ancient witch were said to be unparalleled in their potency.",
-    ],
-  },
-  {
-    word: "eleemosynary",
-    definition: "of or relating to charity or donations, given as charity",
-    synonyms: [
-      "charitable",
-      "philanthropic",
-      "benevolent",
-      "generous",
-      "liberal",
-    ],
-    exampleSentences: [
-      "The foundation's purpose is purely eleemosynary.",
-      "The church relies on eleemosynary donations to support its programs.",
-      "She gave an eleemosynary gift to the homeless shelter.",
-      "The wealthy businessman made an eleemosynary contribution to the hospital.",
-      "The university received an eleemosynary grant to fund research.",
-    ],
-  },
-  {
     word: "elegance",
     definition:
       "the quality of being graceful and stylish in appearance or manner; tastefulness or refinement of manners, appearance, or style.",
@@ -15845,42 +12105,6 @@ const vocabData = [
     ],
   },
   {
-    word: "eleutheromania",
-    definition: "an intense and irresistible desire for freedom",
-    synonyms: [
-      "freedom obsession",
-      "liberty fever",
-      "autonomia",
-      "self-rule mania",
-    ],
-    exampleSentences: [
-      "His eleutheromania drove him to leave his job and travel the world.",
-      "Her eleutheromania made her reject the traditional path and start her own business.",
-      "The country's struggle for independence was fueled by the people's eleutheromania.",
-      "He felt trapped in his routine and developed eleutheromania as a result.",
-      "Her eleutheromania was seen as a threat to the authoritarian regime.",
-    ],
-  },
-  {
-    word: "elision",
-    definition:
-      "the omission of a sound or syllable when speaking; a contraction or slurring of sounds within a word",
-    synonyms: [
-      "omission",
-      "deletion",
-      "abbreviation",
-      "contraction",
-      "compression",
-    ],
-    exampleSentences: [
-      "The elision of the 'e' in 'come' is common in casual speech.",
-      "In some dialects, the elision of certain consonants is a regular feature.",
-      "The singer's elision of the final syllable gave the song a unique sound.",
-      "The writer used elision to create a sense of rhythm and flow in the text.",
-      "The elision of the second 'o' in 'probably' is often heard in spoken language.",
-    ],
-  },
-  {
     word: "elixir",
     definition: "a magical or medicinal potion believed to cure all ills.",
     synonyms: ["potion", "cure-all", "tonic", "panacea", "remedy"],
@@ -15890,19 +12114,6 @@ const vocabData = [
       "Some people believe that a daily dose of apple cider vinegar is the elixir of health.",
       "The alchemist spent years searching for the ultimate elixir that would transform base metals into gold.",
       "The new energy drink on the market claims to be an elixir that will give you endless energy.",
-    ],
-  },
-  {
-    word: "ell",
-    definition:
-      "a former measure of length (equivalent to six hand breadths) used mainly for textiles, locally variable but standardized in English-speaking countries as 45 inches (1.14 meters).",
-    synonyms: ["yard", "arm", "spans"],
-    exampleSentences: [
-      "She purchased four ells of fabric for her project.",
-      "The tailor measured the length of the cloth in ells.",
-      "The rug was advertised as being six ells in length.",
-      "The medieval market sold cloth by the ell.",
-      "The merchant offered to sell the fabric by the ell or by the yard.",
     ],
   },
   {
@@ -16111,19 +12322,6 @@ const vocabData = [
     ],
   },
   {
-    word: "embezzlement",
-    definition:
-      "the act of stealing money or property that has been trusted to you, especially by your employer",
-    synonyms: ["misappropriation", "theft", "fraud", "swindling", "larceny"],
-    exampleSentences: [
-      "He was charged with embezzlement of company funds.",
-      "The treasurer was found guilty of embezzlement.",
-      "The accountant was caught committing embezzlement.",
-      "The embezzlement of public funds is a serious crime.",
-      "The businessman was jailed for embezzlement.",
-    ],
-  },
-  {
     word: "emblazon",
     definition:
       "to decorate or display prominently, especially with a design or symbol",
@@ -16193,32 +12391,6 @@ const vocabData = [
     ],
   },
   {
-    word: "embrasure",
-    definition:
-      "a small opening or loophole in a wall or fortification, through which weapons may be fired",
-    synonyms: ["loophole", "slit", "opening", "port", "aperture"],
-    exampleSentences: [
-      "The archers took position in the embrasure and started firing at the enemy.",
-      "The castle had embrasures along the walls where the soldiers could shoot arrows.",
-      "He peered through the embrasure to see if anyone was coming.",
-      "The enemy soldiers tried to shoot arrows through the embrasures, but the defenders were well protected.",
-      "The soldiers covered the embrasure with a wooden board to prevent any arrows from coming through.",
-    ],
-  },
-  {
-    word: "embrocation",
-    definition:
-      "a liquid or lotion, especially one that is medicinal and is applied to the skin",
-    synonyms: ["liniment", "lotion", "ointment", "rub", "salve"],
-    exampleSentences: [
-      "I rubbed some embrocation on my sore muscles.",
-      "The embrocation helped ease the pain in my joints.",
-      "I applied some embrocation to the cut on my finger.",
-      "The embrocation had a strong medicinal smell.",
-      "The athlete used embrocation to warm up his muscles before the race.",
-    ],
-  },
-  {
     word: "embroil",
     definition:
       "to involve (someone or something) deeply in an argument, conflict, or difficult situation",
@@ -16229,31 +12401,6 @@ const vocabData = [
       "She tried to avoid getting embroiled in the drama at work.",
       "The family was embroiled in a heated argument over the will.",
       "The company's financial troubles embroiled it in a series of lawsuits.",
-    ],
-  },
-  {
-    word: "emend",
-    definition: "to correct or revise a written text",
-    synonyms: ["amend", "correct", "revise", "edit", "modify"],
-    exampleSentences: [
-      "She had to emend her essay before submitting it.",
-      "The author spent months emending his manuscript.",
-      "The editor emended the document for grammar errors.",
-      "He emended his speech after receiving feedback from his colleagues.",
-      "I had to emend my report after realizing I had made a mistake.",
-    ],
-  },
-  {
-    word: "emetic",
-    definition:
-      "causing vomiting; a medicine or other substance that causes vomiting",
-    synonyms: ["vomit-inducing", "nauseating", "queasy", "sickening", "pukish"],
-    exampleSentences: [
-      "The emetic effect of the medication was so strong that the patient vomited immediately after taking it.",
-      "The chef accidentally added an emetic ingredient to the dish, causing several customers to become sick.",
-      "The doctor prescribed an emetic to help the patient expel the poison from their system.",
-      "The smell of the spoiled food was so emetic that it made me feel nauseous.",
-      "The emetic properties of the plant were known to the indigenous people and used for medicinal purposes.",
     ],
   },
   {
@@ -16272,50 +12419,6 @@ const vocabData = [
       "The king's emissary delivered a message of diplomacy to the neighboring kingdom.",
       "The church sent an emissary to spread the gospel to remote villages.",
       "The politician's emissary was tasked with convincing the opposition to support the bill.",
-    ],
-  },
-  {
-    word: "emollient",
-    definition: "having the quality of softening or soothing the skin",
-    synonyms: [
-      "soothing",
-      "softening",
-      "moisturizing",
-      "palliative",
-      "calming",
-    ],
-    exampleSentences: [
-      "The emollient properties of this lotion make it ideal for dry skin.",
-      "She rubbed the emollient cream into her hands.",
-      "The nurse applied an emollient ointment to the patient's rash.",
-      "The emollient effect of the oil reduced the redness of her skin.",
-      "This emollient cream is recommended for people with sensitive skin.",
-    ],
-  },
-  {
-    word: "emolument",
-    definition:
-      "profit, salary, or fees from office or employment; compensation for services rendered",
-    synonyms: ["pay", "remuneration", "compensation", "wages", "salary"],
-    exampleSentences: [
-      "The CEO earned a substantial emolument for his work with the company.",
-      "The senator was criticized for accepting emoluments from foreign governments.",
-      "The actress demanded a high emolument for her role in the film.",
-      "The union negotiated for higher emoluments for its members.",
-      "The company's emolument package included health benefits and stock options.",
-    ],
-  },
-  {
-    word: "emotional",
-    definition:
-      "relating to or characterized by emotion; having strong feelings",
-    synonyms: ["passionate", "sensitive", "sentimental", "touchy", "intense"],
-    exampleSentences: [
-      "She had an emotional response to the news.",
-      "He's always been an emotional person.",
-      "The movie was very emotional and made me cry.",
-      "She gave an emotional speech at the wedding.",
-      "The breakup was very emotional for both of them.",
     ],
   },
   {
@@ -16405,31 +12508,6 @@ const vocabData = [
     ],
   },
   {
-    word: "enamored",
-    definition:
-      "to be filled with a feeling of love or admiration for someone or something",
-    synonyms: ["infatuated", "charmed", "captivated", "smitten", "enraptured"],
-    exampleSentences: [
-      "He was completely enamored with her from the moment he met her.",
-      "The audience was enamored by the beautiful performance of the ballet dancers.",
-      "She was enamored with the idea of traveling to exotic destinations.",
-      "The book left me enamored with the author's writing style.",
-      "The young girl was enamored with the idea of becoming a ballerina.",
-    ],
-  },
-  {
-    word: "enamour",
-    definition: "to fill with love or admiration; to charm or captivate",
-    synonyms: ["captivate", "charm", "beguile", "enchant", "fascinate"],
-    exampleSentences: [
-      "He was enamoured with her from the first moment he saw her.",
-      "The singer's voice enamoured the audience.",
-      "The beautiful sunset enamoured the couple on their honeymoon.",
-      "The young girl was completely enamoured with the handsome actor.",
-      "The exotic spices in the dish enamoured the food critic.",
-    ],
-  },
-  {
     word: "enchanted",
     definition: "charmed or delighted",
     synonyms: [
@@ -16489,19 +12567,6 @@ const vocabData = [
       "The wealthy neighborhood is an enclave of privilege in an otherwise poor area.",
       "The university campus is an enclave of academia in the middle of the bustling city.",
       "The military base is an enclave that is off-limits to civilians.",
-    ],
-  },
-  {
-    word: "encomium",
-    definition:
-      "a speech or piece of writing that praises someone or something highly; a tribute.",
-    synonyms: ["eulogy", "panegyric", "tribute", "commendation", "accolade"],
-    exampleSentences: [
-      "His encomiums to his teacher were heartfelt and sincere.",
-      "The book received encomiums from critics and readers alike.",
-      "She delivered an encomium to her father at his retirement party.",
-      "The president's encomium to the fallen soldiers was deeply moving.",
-      "The actor's encomium to his late co-star brought tears to the audience's eyes.",
     ],
   },
   {
@@ -16807,24 +12872,6 @@ const vocabData = [
     ],
   },
   {
-    word: "enraptured",
-    definition: "filled with great pleasure or delight; captivated",
-    synonyms: [
-      "ecstatic",
-      "enthralled",
-      "transported",
-      "enthused",
-      "enchanted",
-    ],
-    exampleSentences: [
-      "She was enraptured by the beauty of the sunset.",
-      "The audience was enraptured by the singer's performance.",
-      "He was enraptured by her smile.",
-      "The children were enraptured by the magician's tricks.",
-      "The couple was enraptured by the view from the mountaintop.",
-    ],
-  },
-  {
     word: "ensconce",
     definition:
       "to settle comfortably or securely; to establish or conceal oneself in a safe or secret place",
@@ -16896,25 +12943,6 @@ const vocabData = [
       "The beautiful scenery of the mountains enthralled the hikers.",
       "The concert enthralled the crowd with its amazing music.",
       "The movie's special effects enthralled the viewers.",
-    ],
-  },
-  {
-    word: "enthralled",
-    definition:
-      "captivated or fascinated by someone or something; completely absorbed or engrossed",
-    synonyms: [
-      "captivated",
-      "charmed",
-      "enraptured",
-      "mesmerized",
-      "spellbound",
-    ],
-    exampleSentences: [
-      "She was completely enthralled by the magic show.",
-      "The audience was enthralled by the performance.",
-      "He was enthralled by the beauty of nature.",
-      "The book was so captivating that I was enthralled until the very end.",
-      "She was absolutely enthralled by the new art exhibit.",
     ],
   },
   {
@@ -17056,19 +13084,6 @@ const vocabData = [
       "The popularity of certain fashion trends can be ephemeral, fading quickly.",
       "The joy of a vacation can be ephemeral, quickly replaced by the stresses of daily life.",
       "The lifespan of a mayfly is incredibly ephemeral, lasting only a day or two.",
-    ],
-  },
-  {
-    word: "epicure",
-    definition:
-      "a person who takes particular pleasure in fine food and drink; connoisseur of food and drink",
-    synonyms: ["gourmet", "foodie", "bon vivant", "gastronome", "connoisseur"],
-    exampleSentences: [
-      "As an epicure, he always chooses the finest restaurants.",
-      "The epicure savored every bite of the exquisite meal.",
-      "She was considered an epicure among her friends and family.",
-      "The restaurant is a favorite among epicures.",
-      "He spent his life traveling the world in search of new culinary experiences as an epicure.",
     ],
   },
   {
@@ -17267,18 +13282,6 @@ const vocabData = [
     ],
   },
   {
-    word: "equable",
-    definition: "not easily disturbed or angered; calm and even-tempered",
-    synonyms: ["composed", "serene", "placid", "levelheaded", "unflappable"],
-    exampleSentences: [
-      "Despite the chaos around her, she remained equable and focused.",
-      "His equable disposition made him a great leader during times of crisis.",
-      "She was known for her equable temperament and ability to keep the peace.",
-      "The equable climate in this region makes it a popular vacation spot.",
-      "He approached every situation with an equable mind and a clear head.",
-    ],
-  },
-  {
     word: "equanimity",
     definition:
       "mental calmness, composure, and evenness of temper, especially in a difficult situation",
@@ -17417,25 +13420,6 @@ const vocabData = [
     ],
   },
   {
-    word: "errantry",
-    definition:
-      "the practice of engaging in romantic adventures or quests, especially those involving knightly pursuits",
-    synonyms: [
-      "chivalry",
-      "adventure",
-      "romance",
-      "knight-errantry",
-      "heroism",
-    ],
-    exampleSentences: [
-      "The young knight set out on a quest of errantry to prove his worthiness.",
-      "His tales of errantry and heroic deeds captivated the audience.",
-      "The book was full of tales of errantry and chivalry.",
-      "The king bestowed upon him the title of 'Knight of Errantry' for his bravery.",
-      "She was fascinated by the stories of knights and their errantry.",
-    ],
-  },
-  {
     word: "erratic",
     definition: "not even or regular in pattern or movement; unpredictable.",
     synonyms: [
@@ -17463,18 +13447,6 @@ const vocabData = [
       "The article was filled with erroneous information.",
       "The idea that all politicians are corrupt is erroneous.",
       "The teacher corrected the student's erroneous answer.",
-    ],
-  },
-  {
-    word: "ersatz",
-    definition: "serving as a substitute; artificial; inferior in quality",
-    synonyms: ["substitute", "artificial", "imitation", "fake", "phony"],
-    exampleSentences: [
-      "The coffee was made from ersatz beans.",
-      "The watch was an ersatz Rolex.",
-      "The designer bag was an ersatz knockoff.",
-      "The artificial sweetener tasted like ersatz sugar.",
-      "The plastic flowers were an ersatz version of the real thing.",
     ],
   },
   {
@@ -17534,24 +13506,6 @@ const vocabData = [
     ],
   },
   {
-    word: "esculent",
-    definition: "suitable for eating; edible",
-    synonyms: [
-      "eatable",
-      "comestible",
-      "palatable",
-      "digestible",
-      "nutritious",
-    ],
-    exampleSentences: [
-      "The garden provides a variety of esculent vegetables.",
-      "The chef prepared an esculent dish using locally sourced ingredients.",
-      "The fruit looked ripe and esculent, so I picked it from the tree.",
-      "The market was filled with esculent options for shoppers.",
-      "We were starving after the hike and eagerly searched for esculent options in town.",
-    ],
-  },
-  {
     word: "esoteric",
     definition:
       "intended for or likely to be understood by only a small number of people with a specialized knowledge or interest",
@@ -17562,24 +13516,6 @@ const vocabData = [
       "The artist's work was too esoteric for most people to appreciate.",
       "The philosopher's ideas were esoteric and challenging to comprehend.",
       "The club was known for its esoteric taste in music, playing only obscure and experimental tracks.",
-    ],
-  },
-  {
-    word: "espial",
-    definition: "the act of spying or observing; surveillance",
-    synonyms: [
-      "surveillance",
-      "observation",
-      "watching",
-      "monitoring",
-      "spying",
-    ],
-    exampleSentences: [
-      "The government's espial on citizens' internet activity has raised concerns about privacy.",
-      "The detective's espial led to the arrest of the suspect.",
-      "The company's espial on employee emails created a hostile work environment.",
-      "The spy relied on his espial skills to gather intel for his agency.",
-      "The journalist's espial on the corrupt politician exposed the truth to the public.",
     ],
   },
   {
@@ -17671,18 +13607,6 @@ const vocabData = [
     ],
   },
   {
-    word: "et",
-    definition: "a Latin conjunction meaning 'and'",
-    synonyms: ["and"],
-    exampleSentences: [
-      "I need to buy apples et oranges at the grocery store.",
-      "He likes to read et write poetry.",
-      "We will travel to Paris, et then to London.",
-      "She wants to learn French et Spanish.",
-      "He enjoys playing tennis et golf.",
-    ],
-  },
-  {
     word: "etched",
     definition: "engraved or impressed deeply into a surface",
     synonyms: [
@@ -17755,19 +13679,6 @@ const vocabData = [
       "The political party's ethos emphasizes equality and social justice.",
       "The ethos of the 1960s was one of rebellion and counterculture.",
       "The ethos of the ancient Greeks emphasized the importance of wisdom and honor.",
-    ],
-  },
-  {
-    word: "etiolate",
-    definition:
-      "to cause to become weakened or pale, as from lack of sunlight; to bleach or make white due to lack of sunlight",
-    synonyms: ["blanch", "fade", "weaken", "pale", "whiten"],
-    exampleSentences: [
-      "The plant became etiolated after being kept in a dark room for weeks.",
-      "The curtains had etiolated from being exposed to the sun for too long.",
-      "The skin on his hands had etiolated from too much washing.",
-      "The painting had etiolated over time due to exposure to light.",
-      "The flowers in the vase had etiolated because they were not getting enough sunlight.",
     ],
   },
   {
@@ -17908,24 +13819,6 @@ const vocabData = [
     ],
   },
   {
-    word: "euphonious",
-    definition: "pleasing to the ear; harmonious",
-    synonyms: [
-      "melodious",
-      "tuneful",
-      "harmonious",
-      "musical",
-      "sweet-sounding",
-    ],
-    exampleSentences: [
-      "The orchestra delivered a euphonious performance.",
-      "The singer's euphonious voice left the audience spellbound.",
-      "As I walked through the forest, I was lulled by the euphonious sound of the birds.",
-      "The wind chimes produced a euphonious sound in the breeze.",
-      "The poet's words flowed together in a euphonious rhythm.",
-    ],
-  },
-  {
     word: "euphony",
     definition:
       "pleasing or agreeable to the ear; harmonious combination of sounds",
@@ -18026,18 +13919,6 @@ const vocabData = [
     ],
   },
   {
-    word: "evince",
-    definition: "to show or demonstrate clearly; to manifest",
-    synonyms: ["display", "exhibit", "demonstrate", "reveal", "betray"],
-    exampleSentences: [
-      "The student's excellent grades evince her dedication to her studies.",
-      "The suspect's nervous behavior evinced his guilt to the detective.",
-      "The painting evinced the artist's skill and creativity.",
-      "Her tone of voice evinced her disappointment with the decision.",
-      "The data evinced a clear correlation between exercise and improved health.",
-    ],
-  },
-  {
     word: "evocate",
     definition: "to call forth or summon a memory, feeling, or image",
     synonyms: ["evoke", "bring to mind", "recall", "rekindle", "raise"],
@@ -18112,18 +13993,6 @@ const vocabData = [
     ],
   },
   {
-    word: "exasperated",
-    definition: "feeling intensely irritated and frustrated",
-    synonyms: ["irritated", "annoyed", "frustrated", "angry", "aggravated"],
-    exampleSentences: [
-      "After his third attempt failed, he became exasperated and gave up.",
-      "She was exasperated by his constant interruptions.",
-      "The teacher was exasperated with the students' lack of focus.",
-      "He let out an exasperated sigh when he realized he forgot his keys.",
-      "The customer was exasperated with the poor service at the restaurant.",
-    ],
-  },
-  {
     word: "exasperation",
     definition: "a feeling of intense irritation or annoyance.",
     synonyms: [
@@ -18166,19 +14035,6 @@ const vocabData = [
     ],
   },
   {
-    word: "excoriate",
-    definition:
-      "to criticize or berate severely; to strip off or remove the skin or surface of",
-    synonyms: ["condemn", "castigate", "rebuke", "flay", "strip"],
-    exampleSentences: [
-      "The coach will excoriate the team for their lackluster performance.",
-      "She was excoriated for her controversial statements.",
-      "The company was excoriated in the media for their unethical practices.",
-      "He excoriated the government for their handling of the crisis.",
-      "The review excoriated the film for its poor plot and acting.",
-    ],
-  },
-  {
     word: "excursion",
     definition:
       "a short journey or trip, especially one taken for pleasure or education by a group of people.",
@@ -18189,49 +14045,6 @@ const vocabData = [
       "The hiking club planned an excursion to the mountains.",
       "The cruise ship offered an excursion to the nearby island.",
       "The company arranged an excursion for its employees to a theme park.",
-    ],
-  },
-  {
-    word: "execrable",
-    definition: "extremely bad or unpleasant",
-    synonyms: ["abominable", "atrocious", "horrid", "odious", "repugnant"],
-    exampleSentences: [
-      "The food was execrable, I couldn't even finish my meal.",
-      "The movie was so execrable that I walked out of the theater after 15 minutes.",
-      "His behavior towards his employees was execrable, he was always yelling at them.",
-      "The service at the restaurant was execrable, we had to wait over an hour for our food.",
-      "The conditions in the prison were execrable, the inmates were treated very poorly.",
-    ],
-  },
-  {
-    word: "execrate",
-    definition: "to feel or express great loathing for; to denounce; to curse",
-    synonyms: ["abhor", "detest", "loathe", "curse", "condemn"],
-    exampleSentences: [
-      "I execrate the thought of eating snails.",
-      "The protesters execrated the politician for his racist remarks.",
-      "Many people execrate the idea of animal testing.",
-      "He was execrated by his colleagues for his unethical behavior.",
-      "She execrated the thief who stole her purse.",
-    ],
-  },
-  {
-    word: "exegesis",
-    definition:
-      "critical interpretation or analysis, especially of a religious text",
-    synonyms: [
-      "interpretation",
-      "analysis",
-      "commentary",
-      "explanation",
-      "explication",
-    ],
-    exampleSentences: [
-      "In his exegesis of the Bible, he emphasized the importance of context.",
-      "The professor's exegesis of the poem was insightful and thought-provoking.",
-      "She wrote an exegesis of the Quran for her religious studies class.",
-      "The book is a detailed exegesis of the philosophy of Aristotle.",
-      "The theologian's exegesis of the New Testament challenged traditional interpretations.",
     ],
   },
   {
@@ -18355,18 +14168,6 @@ const vocabData = [
       "The police ordered the grave to be exhumed as part of their investigation into the murder case.",
       "The government has announced plans to exhume the bodies of victims of a natural disaster that occurred decades ago.",
       "The church officials agreed to exhume the remains of the saint to be put on display for the faithful.",
-    ],
-  },
-  {
-    word: "exiguous",
-    definition: "very small in size or amount",
-    synonyms: ["meager", "scanty", "insufficient", "inadequate", "sparse"],
-    exampleSentences: [
-      "The exiguous amount of food made her feel unsatisfied.",
-      "The company's exiguous profits were not enough to cover expenses.",
-      "The exiguous budget forced them to cut back on expenses.",
-      "The exiguous clothing selection left her disappointed.",
-      "The exiguous number of attendees made the event feel underwhelming.",
     ],
   },
   {
@@ -18546,19 +14347,6 @@ const vocabData = [
     ],
   },
   {
-    word: "expostulation",
-    definition:
-      "the act of expressing strong disapproval or disagreement; remonstrance",
-    synonyms: ["remonstration", "protest", "objection", "complaint", "rebuke"],
-    exampleSentences: [
-      "She made an expostulation about the unfair treatment of employees.",
-      "His expostulation fell on deaf ears as the decision had already been made.",
-      "The teacher's expostulation about cheating in the exam was met with silence.",
-      "I couldn't help but make an expostulation about the poor quality of the food.",
-      "Her expostulation about the dangers of smoking was ignored by her friends.",
-    ],
-  },
-  {
     word: "expunge",
     definition:
       "to erase or remove completely (something unwanted or undesirable)",
@@ -18569,18 +14357,6 @@ const vocabData = [
       "The company had to expunge all records of the faulty product from their system.",
       "He wished he could expunge the hurtful words he had said to his friend.",
       "The editor had to expunge some of the controversial statements from the article.",
-    ],
-  },
-  {
-    word: "expurgate",
-    definition: "to remove objectionable content from a text; to censor",
-    synonyms: ["censor", "purge", "sanitize", "bowdlerize", "redact"],
-    exampleSentences: [
-      "The publisher decided to expurgate the controversial chapter from the book.",
-      "The government expurgated the sensitive information before releasing the document.",
-      "She expurgated the profanity from the movie script to make it more family-friendly.",
-      "The teacher expurgated the inappropriate content from the student's essay.",
-      "The editor expurgated the offensive language from the article before it went to print.",
     ],
   },
   {
@@ -18895,18 +14671,6 @@ const vocabData = [
     ],
   },
   {
-    word: "eyot",
-    definition: "a small island or piece of land in a river or lake",
-    synonyms: ["islet", "ait", "holme", "skerry"],
-    exampleSentences: [
-      "We stopped for a picnic on the eyot in the middle of the river.",
-      "The swans built their nest on the eyot.",
-      "The map showed several eyots along the river.",
-      "The fishermen camped on the eyot overnight.",
-      "The children enjoyed exploring the eyot and finding new plants and animals.",
-    ],
-  },
-  {
     word: "fabricate",
     definition:
       "to invent or concoct something, typically with deceitful intent",
@@ -19100,19 +14864,6 @@ const vocabData = [
     ],
   },
   {
-    word: "fallow",
-    definition:
-      "land that is plowed and left unseeded for a season or more to restore its fertility as part of a crop rotation or to avoid surplus production; inactive or unproductive.",
-    synonyms: ["uncultivated", "unplanted", "unfarmed", "unused", "idle"],
-    exampleSentences: [
-      "The farmer left his field fallow for a year to let the soil regain nutrients.",
-      "The government paid farmers to let their land lie fallow in order to reduce crop surpluses.",
-      "The abandoned lot remained fallow for years until a developer bought it.",
-      "After retiring, Harold's once-busy life became fallow and uneventful.",
-      "The writer took a fallow year to recharge his creativity and explore new ideas.",
-    ],
-  },
-  {
     word: "falter",
     definition: "to hesitate or waver in action, purpose, or intent",
     synonyms: ["hesitate", "waver", "vacillate", "stumble", "flounder"],
@@ -19137,18 +14888,6 @@ const vocabData = [
     ],
   },
   {
-    word: "fane",
-    definition: "a temple or shrine",
-    synonyms: ["shrine", "temple", "sanctuary", "chapel", "holy place"],
-    exampleSentences: [
-      "The ancient fane was filled with beautiful statues.",
-      "The fane was dedicated to the goddess Athena.",
-      "The worshippers gathered at the fane to pray.",
-      "The fane was destroyed during the war.",
-      "The fane was a place of pilgrimage for many people.",
-    ],
-  },
-  {
     word: "fanfare",
     definition:
       "a short ceremonial tune or flourish played on brass instruments, typically to introduce something or someone important",
@@ -19165,18 +14904,6 @@ const vocabData = [
       "The movie began with a grand fanfare.",
       "The arrival of the queen was announced with a fanfare.",
       "The fanfare of trumpets could be heard from a distance.",
-    ],
-  },
-  {
-    word: "fantod",
-    definition: "a state of irritability and tension; a fit of nervousness",
-    synonyms: ["agitation", "anxiety", "fidget", "fuss", "jitters"],
-    exampleSentences: [
-      "I can't concentrate on my work because I'm in a fantod.",
-      "She was in a real fantod before her big presentation.",
-      "The stress of the situation was causing him to have a fantod.",
-      "He's been in a constant state of fantod since his car broke down.",
-      "Her boss's criticism put her into a fantod that lasted for hours.",
     ],
   },
   {
@@ -19198,18 +14925,6 @@ const vocabData = [
       "The fare for the bus is included in the tour package.",
       "After the surgery, his fare was touch-and-go.",
       "The company's financial fare improved significantly this quarter.",
-    ],
-  },
-  {
-    word: "farrago",
-    definition: "a confused mixture",
-    synonyms: ["mishmash", "hodgepodge", "jumble", "medley", "mix"],
-    exampleSentences: [
-      "The book is a farrago of different genres.",
-      "The speech was a farrago of lies and half-truths.",
-      "The salad was a farrago of different vegetables.",
-      "The painting was a farrago of colors and shapes.",
-      "The movie was a farrago of different styles and themes.",
     ],
   },
   {
@@ -19250,24 +14965,6 @@ const vocabData = [
     ],
   },
   {
-    word: "fastness",
-    definition: "the quality of being immovable or unchanging; durability",
-    synonyms: [
-      "firmness",
-      "steadfastness",
-      "stability",
-      "resilience",
-      "robustness",
-    ],
-    exampleSentences: [
-      "The fastness of the castle walls made it difficult for the invaders to penetrate.",
-      "The fastness of the mountain range kept the animals isolated from other species.",
-      "The fastness of the old oak tree impressed the hikers who passed by.",
-      "The fastness of the material made the jacket withstand extreme weather conditions.",
-      "The fastness of the dye ensured that the color did not fade after multiple washes.",
-    ],
-  },
-  {
     word: "fathom",
     definition: "to understand or comprehend (something) deeply and fully",
     synonyms: ["grasp", "comprehend", "understand", "penetrate", "apprehend"],
@@ -19277,18 +14974,6 @@ const vocabData = [
       "She couldn't fathom how to solve the problem.",
       "I still can't fathom how he managed to escape.",
       "The complexity of the situation was hard to fathom.",
-    ],
-  },
-  {
-    word: "fatuous",
-    definition: "silly and pointless; lacking intelligence",
-    synonyms: ["stupid", "foolish", "idiotic", "witless", "senseless"],
-    exampleSentences: [
-      "He made a fatuous comment during the meeting.",
-      "The politician's claims were fatuous and lacked any evidence.",
-      "Her attempt at humor was nothing but fatuous.",
-      "The movie's plot was fatuous and lacked any depth.",
-      "His argument was fatuous and lacked any logical reasoning.",
     ],
   },
   {
@@ -19317,18 +15002,6 @@ const vocabData = [
     ],
   },
   {
-    word: "fealty",
-    definition: "a feudal tenant's or vassal's sworn loyalty to a lord",
-    synonyms: ["allegiance", "loyalty", "fidelity", "faithfulness", "devotion"],
-    exampleSentences: [
-      "The knight pledged fealty to his lord.",
-      "Fealty was an important concept in medieval Europe.",
-      "The vassal's fealty was tested when he was asked to fight against his former lord.",
-      "The peasants owed fealty to the local lord in exchange for protection.",
-      "The lord demanded fealty from his tenants in return for granting them land.",
-    ],
-  },
-  {
     word: "feasible",
     definition: "possible to do easily or conveniently",
     synonyms: ["practical", "achievable", "viable", "workable", "realistic"],
@@ -19338,43 +15011,6 @@ const vocabData = [
       "The company needs to come up with a feasible solution to the problem.",
       "After careful consideration, we determined that the idea is not feasible.",
       "The team worked together to come up with a feasible timeline for the project.",
-    ],
-  },
-  {
-    word: "febrifuge",
-    definition: "a substance that reduces fever",
-    synonyms: ["antipyretic", "fever-reducing"],
-    exampleSentences: [
-      "The doctor prescribed a febrifuge to lower his temperature.",
-      "Aspirin is a common febrifuge used to treat fevers.",
-      "The herbal tea had a febrifuge effect on her fever.",
-      "The nurse administered a febrifuge medication to the patient.",
-      "He tried various febrifuge remedies to bring down his fever.",
-    ],
-  },
-  {
-    word: "febrile",
-    definition:
-      "having or showing the symptoms of a fever; characterized by elevated body temperature",
-    synonyms: ["feverish", "pyretic", "hectic", "hot", "sick"],
-    exampleSentences: [
-      "The patient was febrile and had a temperature of 102 degrees.",
-      "She felt febrile and her body ached all over.",
-      "The child was diagnosed with febrile seizures.",
-      "The febrile symptoms persisted for several days.",
-      "The doctor prescribed antibiotics for the febrile infection.",
-    ],
-  },
-  {
-    word: "feckless",
-    definition: "lacking initiative or strength of character; irresponsible",
-    synonyms: ["ineffective", "useless", "worthless", "incompetent", "inept"],
-    exampleSentences: [
-      "The feckless manager failed to motivate his team.",
-      "Her feckless approach to studying resulted in poor grades.",
-      "He was criticized for his feckless response to the crisis.",
-      "The feckless politician failed to deliver on his promises.",
-      "Their feckless spending habits led them into debt.",
     ],
   },
   {
@@ -19388,18 +15024,6 @@ const vocabData = [
       "The actress feigned surprise when she won the award.",
       "He feigned ignorance when questioned by the police.",
       "She feigned happiness at the news of her ex-boyfriend's engagement.",
-    ],
-  },
-  {
-    word: "feigned",
-    definition: "not genuine or sincere; pretended",
-    synonyms: ["pretended", "faked", "simulated", "affected", "sham"],
-    exampleSentences: [
-      "He feigned interest in her story.",
-      "She feigned illness to avoid going to school.",
-      "The actor feigned sadness for the scene.",
-      "He feigned ignorance about the missing money.",
-      "She feigned surprise when he proposed.",
     ],
   },
   {
@@ -19450,19 +15074,6 @@ const vocabData = [
       "The felicity of the moment was captured in the photograph.",
       "She found felicity in the simple pleasures of life.",
       "The felicity of the music brought tears to her eyes.",
-    ],
-  },
-  {
-    word: "fender",
-    definition:
-      "a cushion-like device that serves as a protective barrier against collision; a low metal frame or rail attached to the side of a vehicle to prevent damage in a collision",
-    synonyms: ["bumper", "guard", "shield", "protection", "barrier"],
-    exampleSentences: [
-      "The fender of the car was damaged in the accident.",
-      "He installed new fenders on his bicycle to prevent scratches.",
-      "The ship's fenders prevented it from colliding with the pier.",
-      "The truck's fender was dented after hitting a curb.",
-      "She leaned against the fender of the car while waiting for her friend.",
     ],
   },
   {
@@ -19602,38 +15213,6 @@ const vocabData = [
     ],
   },
   {
-    word: "fey",
-    definition:
-      "giving an impression of vague unworldliness or mystery; supernatural or strange; excessively refined, delicate, or quaint",
-    synonyms: [
-      "otherworldly",
-      "supernatural",
-      "mystical",
-      "ethereal",
-      "quaint",
-    ],
-    exampleSentences: [
-      "She had a fey look about her, as if she were living in a dream world.",
-      "The forest had a fey atmosphere, as if magical creatures were hiding behind every tree.",
-      "He had a fey sense of humor that not everyone appreciated.",
-      "The old house had a fey charm that drew visitors from far and wide.",
-      "The little girl had a fey quality that made her seem wise beyond her years.",
-    ],
-  },
-  {
-    word: "fez",
-    definition:
-      "a felt cap, typically red and decorated with a tassel, worn by men in some Muslim countries and by Shriners in North America.",
-    synonyms: ["tarboosh", "taj", "sultan hat", "red hat"],
-    exampleSentences: [
-      "He wore a red fez adorned with a black tassel.",
-      "In Morocco, the fez is traditionally worn by men.",
-      "The Shriners wear a fez as part of their ceremonial dress.",
-      "The fez has become a symbol of fraternity and brotherhood.",
-      "I bought a souvenir fez from the bazaar in Istanbul.",
-    ],
-  },
-  {
     word: "fiasco",
     definition: "a complete failure or disaster, especially a humiliating one",
     synonyms: ["debacle", "disaster", "failure", "flop", "catastrophe"],
@@ -19696,19 +15275,6 @@ const vocabData = [
     ],
   },
   {
-    word: "fiefdom",
-    definition:
-      "a territory or sphere of operation controlled by a particular person or group",
-    synonyms: ["domain", "kingdom", "realm", "territory", "province"],
-    exampleSentences: [
-      "The CEO ran the company like his own personal fiefdom.",
-      "The mafia boss controlled a vast fiefdom of illegal activity.",
-      "The quarterback had a fiefdom of supporters who would defend him no matter what.",
-      "The dictator ruled over his fiefdom with an iron fist.",
-      "The celebrity's social media account was her own personal fiefdom where she could interact with fans.",
-    ],
-  },
-  {
     word: "field",
     definition:
       "an area of open land, especially one planted with crops or pasture, typically bounded by hedges or fences",
@@ -19747,25 +15313,6 @@ const vocabData = [
     ],
   },
   {
-    word: "figured",
-    definition:
-      "calculated or estimated; represented or depicted in a particular way",
-    synonyms: [
-      "calculated",
-      "estimated",
-      "computed",
-      "represented",
-      "depicted",
-    ],
-    exampleSentences: [
-      "I figured the cost of the trip would be around $500.",
-      "She figured that it would take about an hour to get there.",
-      "The company figured that they could increase sales by 10%.",
-      "The painting is figured in a style reminiscent of the Baroque period.",
-      "The story is figured as a cautionary tale about the dangers of greed.",
-    ],
-  },
-  {
     word: "filament",
     definition:
       "A slender threadlike object or fiber, especially one found in animal or plant structures.",
@@ -19779,18 +15326,6 @@ const vocabData = [
     ],
   },
   {
-    word: "filch",
-    definition: "to steal (something, typically of small value); pilfer",
-    synonyms: ["pilfer", "purloin", "swipe", "snatch", "lift"],
-    exampleSentences: [
-      "She filched a pencil from her classmate's desk.",
-      "He was caught filching candy from the store.",
-      "The thief filched a wallet from the crowded subway.",
-      "She was accused of filching money from the cash register.",
-      "Can you believe someone would filch a book from the library?",
-    ],
-  },
-  {
     word: "filial",
     definition:
       "of or relating to a son or daughter; having the relationship of a child to a parent",
@@ -19801,18 +15336,6 @@ const vocabData = [
       "The filial bond between father and son was unbreakable.",
       "He inherited his father's business as a filial obligation.",
       "Her filial piety was highly respected in her community.",
-    ],
-  },
-  {
-    word: "filip",
-    definition: "a sudden sharp blow or snap; a flick",
-    synonyms: ["flick", "whip", "snap", "tap", "hit"],
-    exampleSentences: [
-      "He gave the fishing line a quick filip to set the hook.",
-      "The horse's tail gave a filip as it galloped away.",
-      "With a filip of his wrist, the chef flipped the pancake.",
-      "She gave the light switch a filip to turn it off.",
-      "The teacher gave the student's ear a filip to get their attention.",
     ],
   },
   {
@@ -19840,18 +15363,6 @@ const vocabData = [
     ],
   },
   {
-    word: "financial",
-    definition: "relating to finance or money management",
-    synonyms: ["monetary", "economic", "fiscal", "budgetary", "pecuniary"],
-    exampleSentences: [
-      "The company's financial situation has improved over the past year.",
-      "She has a strong background in financial analysis.",
-      "The government is implementing new financial policies to stimulate the economy.",
-      "We need to be more careful with our financial planning.",
-      "The financial markets have been unstable recently.",
-    ],
-  },
-  {
     word: "finesse",
     definition: "skillful handling of a situation; tact and diplomacy",
     synonyms: ["skill", "expertise", "craftsmanship", "adroitness", "deftness"],
@@ -19876,19 +15387,6 @@ const vocabData = [
     ],
   },
   {
-    word: "finnic",
-    definition:
-      "relating to or denoting a group of languages spoken in northern Europe, including Finnish, Estonian, and some minority languages.",
-    synonyms: ["Fennic", "Fenno-Ugric"],
-    exampleSentences: [
-      "The Finnic languages are part of the larger Uralic language family.",
-      "Finnic peoples have a rich cultural heritage, including traditional music and art.",
-      "The majority of Finnic speakers are located in Finland and Estonia.",
-      "The Estonian language is a Finnic language that is closely related to Finnish.",
-      "Some of the smaller Finnic languages, such as Karelian and Veps, are endangered and at risk of extinction.",
-    ],
-  },
-  {
     word: "firebrand",
     definition:
       "a person who is passionate about a particular cause, typically inciting change and taking radical action",
@@ -19908,18 +15406,6 @@ const vocabData = [
     ],
   },
   {
-    word: "firth",
-    definition: "a narrow inlet of the sea between cliffs or steep slopes",
-    synonyms: ["estuary", "inlet", "bay", "cove", "sound"],
-    exampleSentences: [
-      "The Firth of Forth is a famous firth in Scotland.",
-      "The ship sailed into the firth to dock at the port.",
-      "The firth was surrounded by towering cliffs on either side.",
-      "The wildlife in the firth was diverse and abundant.",
-      "The fishermen set out early in the morning to catch fish in the firth.",
-    ],
-  },
-  {
     word: "fissure",
     definition: "a narrow opening or crack, especially in rock or earth",
     synonyms: ["crevice", "crack", "cleft", "gap", "split"],
@@ -19929,25 +15415,6 @@ const vocabData = [
       "The dentist found a fissure in the patient's tooth that needed to be filled.",
       "The old building had several fissures in the walls from years of wear and tear.",
       "The volcano erupted, causing a massive fissure to form in the side of the mountain.",
-    ],
-  },
-  {
-    word: "fitful",
-    definition:
-      "not regularly or continuously happening; occurring in irregular or unpredictable spurts or intervals",
-    synonyms: [
-      "sporadic",
-      "intermittent",
-      "occasional",
-      "irregular",
-      "inconstant",
-    ],
-    exampleSentences: [
-      "The rain was fitful, stopping and starting throughout the day.",
-      "Her sleep was fitful, interrupted by nightmares.",
-      "The power supply was fitful, causing the lights to flicker.",
-      "His work ethic was fitful, sometimes productive and sometimes lazy.",
-      "The team's performance was fitful, with moments of brilliance followed by periods of mediocrity.",
     ],
   },
   {
@@ -19986,31 +15453,6 @@ const vocabData = [
       "The balloon was flaccid after the party was over.",
       "The swimmer's flaccid stroke was not enough to win the race.",
       "The chef's flaccid soufflé was a disappointment to the diners.",
-    ],
-  },
-  {
-    word: "flag",
-    definition:
-      "a piece of cloth or similar material, typically oblong or square, attachable by one edge to a pole or rope and used as the symbol or emblem of a country or institution or as a decoration during public festivities.",
-    synonyms: ["banner", "pennant", "standard", "ensign", "streamer"],
-    exampleSentences: [
-      "The American flag has 50 stars and 13 stripes.",
-      "We raised the flag at dawn.",
-      "The ship's flag was flying at half-mast.",
-      "The protesters waved flags and chanted slogans.",
-      "The school spirit club designed a new flag for the football team.",
-    ],
-  },
-  {
-    word: "flagitious",
-    definition: "shockingly brutal or cruel; wicked or criminal",
-    synonyms: ["heinous", "atrocious", "villainous", "sinister", "infamous"],
-    exampleSentences: [
-      "The flagitious behavior of the dictator led to widespread protests and condemnation.",
-      "The flagitious act of violence left the community in disbelief.",
-      "The flagitious criminal was finally caught and brought to justice.",
-      "The flagitious plot to overthrow the government was uncovered by authorities.",
-      "The flagitious abuse of power by the corrupt official was exposed by the media.",
     ],
   },
   {
@@ -20055,19 +15497,6 @@ const vocabData = [
       "She always stood out in her flamboyant outfits and bold makeup choices.",
       "The flamboyant politician made grand gestures and speeches to win over the crowd.",
       "His flamboyant personality and confidence made him a popular figure in the community.",
-    ],
-  },
-  {
-    word: "flame",
-    definition:
-      "a hot glowing body of ignited gas that is generated by something on fire or by a reaction of a substance with oxygen.",
-    synonyms: ["blaze", "fire", "inferno", "torch", "glow"],
-    exampleSentences: [
-      "The flame of the candle flickered in the breeze.",
-      "The campfire flames danced and crackled.",
-      "The building was engulfed in flames.",
-      "She used a match to light the gas stove flame.",
-      "The fireworks lit up the night sky with colorful flames.",
     ],
   },
   {
@@ -20118,32 +15547,6 @@ const vocabData = [
       "The bird had a fleck of red on its wings.",
       "A fleck of gold sparkled in the sunlight.",
       "He had a fleck of gray in his hair.",
-    ],
-  },
-  {
-    word: "flimflam",
-    definition:
-      "deception or fraud, often in the form of a confidence game or swindle",
-    synonyms: ["deception", "trickery", "fraud", "cheating", "scam"],
-    exampleSentences: [
-      "He tried to flimflam the old lady out of her life savings.",
-      "The politician's promises were nothing but flimflam.",
-      "The salesman's flimflam tactics didn't work on the savvy customer.",
-      "The con artist's flimflam scheme was finally exposed by the police.",
-      "Don't fall for their flimflam, they just want your money.",
-    ],
-  },
-  {
-    word: "flotilla",
-    definition:
-      "a group of small naval vessels, especially those used for a particular purpose or operating under the same ownership.",
-    synonyms: ["fleet", "armada", "squadron", "convoy", "naval force"],
-    exampleSentences: [
-      "The flotilla of ships sailed into the harbor.",
-      "The navy dispatched a flotilla to aid in the rescue effort.",
-      "The fishing flotilla returned with a bountiful catch.",
-      "The activist organization sent a flotilla of boats to protest the oil drilling.",
-      "The Spanish Armada was a flotilla of ships sent to invade England.",
     ],
   },
   {
@@ -20205,19 +15608,6 @@ const vocabData = [
     ],
   },
   {
-    word: "fluffy",
-    definition:
-      "light and soft to the touch; having an airy or cushiony texture",
-    synonyms: ["feathery", "downy", "fleecy", "soft", "puffy"],
-    exampleSentences: [
-      "The bunny had a fluffy tail.",
-      "The souffle was light and fluffy.",
-      "She snuggled into her fluffy blankets.",
-      "The clouds looked fluffy and white.",
-      "His hair was fluffy and unkempt.",
-    ],
-  },
-  {
     word: "fluidity",
     definition:
       "the quality of being smooth, flowing, and graceful in movement or style",
@@ -20237,18 +15627,6 @@ const vocabData = [
     ],
   },
   {
-    word: "flummery",
-    definition: "nonsense; empty compliments; insincere or meaningless talk.",
-    synonyms: ["gibberish", "balderdash", "drivel", "nonsense", "rubbish"],
-    exampleSentences: [
-      "I can't believe he's still spouting flummery after all these years.",
-      "She gave a speech full of flummery and platitudes.",
-      "I don't have time for your flummery, just get to the point.",
-      "The politician's promises were nothing but flummery.",
-      "He tried to impress her with flummery, but she saw right through it.",
-    ],
-  },
-  {
     word: "flummoxed",
     definition: "bewildered or perplexed",
     synonyms: ["confused", "baffled", "puzzled", "stumped", "mystified"],
@@ -20258,19 +15636,6 @@ const vocabData = [
       "She was flummoxed by the unexpected turn of events.",
       "The directions were so unclear that I was completely flummoxed.",
       "I'm always flummoxed by the variety of options at the grocery store.",
-    ],
-  },
-  {
-    word: "flyspeck",
-    definition:
-      "a tiny dark speck that may be left behind on a surface by a fly or other insect; a small or insignificant detail or flaw",
-    synonyms: ["speck", "dot", "spot", "blemish", "imperfection"],
-    exampleSentences: [
-      "The window was covered in flyspecks.",
-      "I noticed a flyspeck on my shirt.",
-      "The artist was meticulous in removing every flyspeck from the painting.",
-      "The report was well-written, with no flyspecks to detract from its quality.",
-      "The room was spotless, with no flyspecks or other blemishes on any surface.",
     ],
   },
   {
@@ -20323,19 +15688,6 @@ const vocabData = [
       "The news of the scandal began to foment anger among the public.",
       "The extremist group was suspected of fomenting terrorist activities in the region.",
       "The teacher warned the students not to foment trouble during the school assembly.",
-    ],
-  },
-  {
-    word: "foofaraw",
-    definition:
-      "excessive or flashy ornamentation or decoration; fuss; a great deal of fuss or attention given to a minor matter",
-    synonyms: ["frills", "frippery", "flamboyance", "exaggeration", "pomp"],
-    exampleSentences: [
-      "I don't have time for all this foofaraw.",
-      "The wedding was a lot of foofaraw.",
-      "She dismissed all the foofaraw and focused on the important issues.",
-      "The dress was covered in foofaraw.",
-      "He couldn't stand all the foofaraw surrounding the event.",
     ],
   },
   {
@@ -20538,18 +15890,6 @@ const vocabData = [
     ],
   },
   {
-    word: "forsooth",
-    definition: "indeed; in truth; truly; in fact",
-    synonyms: ["in truth", "indeed", "truly", "honestly", "verily"],
-    exampleSentences: [
-      "Forsooth, I did not mean to offend you.",
-      "I know forsooth that I am not perfect.",
-      "Forsooth, he is the best employee we have.",
-      "I, forsooth, am not afraid of heights.",
-      "Forsooth, I have never seen such a beautiful sunset.",
-    ],
-  },
-  {
     word: "forte",
     definition: "a person's strong point; something at which someone excels",
     synonyms: ["strength", "talent", "specialty", "expertise", "skill"],
@@ -20587,18 +15927,6 @@ const vocabData = [
     ],
   },
   {
-    word: "fortnight",
-    definition: "a period of two weeks",
-    synonyms: ["14 days", "two weeks", "biweek", "biweekly", "half-month"],
-    exampleSentences: [
-      "I'm going on vacation for a fortnight.",
-      "He was given a fortnight to complete the project.",
-      "They meet for lunch every fortnight.",
-      "The rent is due every fortnight.",
-      "I have to work late every other fortnight.",
-    ],
-  },
-  {
     word: "fortuitous",
     definition:
       "happening by chance or accident rather than design; happening by a lucky chance; fortunate",
@@ -20625,32 +15953,6 @@ const vocabData = [
     ],
   },
   {
-    word: "foudroyant",
-    definition:
-      "striking or stunningly impressive, overwhelming or sudden in effect",
-    synonyms: ["dazzling", "blinding", "stunning", "astonishing", "shocking"],
-    exampleSentences: [
-      "The foudroyant beauty of the fireworks display left the audience in awe.",
-      "The foudroyant force of the hurricane destroyed entire cities.",
-      "The foudroyant impact of the news left her speechless.",
-      "The foudroyant talent of the young pianist left the judges amazed.",
-      "The foudroyant success of the startup took the industry by surprise.",
-    ],
-  },
-  {
-    word: "founder",
-    definition:
-      "a person who establishes an organization, institution, company, or settlement",
-    synonyms: ["originator", "creator", "establisher", "pioneer", "architect"],
-    exampleSentences: [
-      "Steve Jobs was the founder of Apple Inc.",
-      "Benjamin Franklin was one of the founders of the United States.",
-      "The founder of the company retired after 30 years of service.",
-      "The founders of the school is a group of parents.",
-      "Mark Zuckerberg is the founder of Facebook.",
-    ],
-  },
-  {
     word: "fount",
     definition:
       "a source of a desirable quality or commodity; a spring or fountain.",
@@ -20661,19 +15963,6 @@ const vocabData = [
       "The garden had a beautiful fount in the center.",
       "The fount of the river was located in the mountains.",
       "The company was a fount of new ideas and innovation.",
-    ],
-  },
-  {
-    word: "fovea",
-    definition:
-      "a small depression in the retina of the eye where visual acuity is highest and color perception is most acute",
-    synonyms: ["central pit", "central fovea"],
-    exampleSentences: [
-      "When you look at an object directly, it is focused on the fovea.",
-      "The fovea is responsible for high-resolution vision.",
-      "The fovea is surrounded by the macula.",
-      "Damage to the fovea can result in blurred vision.",
-      "The fovea is densely packed with cone cells.",
     ],
   },
   {
@@ -20729,25 +16018,6 @@ const vocabData = [
       "The air was fragrant with the scent of pine trees.",
       "She wore a fragrant perfume that lingered in the room.",
       "The fragrant aroma of spices filled the kitchen as she cooked.",
-    ],
-  },
-  {
-    word: "frangipani",
-    definition:
-      "a tropical American tree, with fragrant flowers and milky sap, which is the source of a perfume and is widely grown as an ornamental.",
-    synonyms: [
-      "plumeria",
-      "temple tree",
-      "pagoda tree",
-      "leelawadee",
-      "champa",
-    ],
-    exampleSentences: [
-      "I love the sweet smell of frangipani flowers in the summer.",
-      "The frangipani tree in my backyard is in full bloom.",
-      "Frangipani is often used in perfumes and essential oils.",
-      "The frangipani is a popular tree in many tropical gardens.",
-      "The frangipani flowers are often used in traditional Hawaiian leis.",
     ],
   },
   {
@@ -20826,19 +16096,6 @@ const vocabData = [
     ],
   },
   {
-    word: "freshet",
-    definition:
-      "a sudden and temporary rise in the level of a stream or river due to heavy rain or rapid melting of snow and ice",
-    synonyms: ["flood", "inundation", "deluge", "spate", "swelling"],
-    exampleSentences: [
-      "The town was hit by a freshet that destroyed several homes.",
-      "The river is prone to freshets in the spring.",
-      "The freshet caused the bridge to become impassable.",
-      "The residents were warned of the potential freshet and evacuated in time.",
-      "The freshet brought in a lot of debris and made fishing difficult.",
-    ],
-  },
-  {
     word: "fret",
     definition: "to feel or express worry, annoyance, or discontent",
     synonyms: ["worry", "agitate", "bother", "irritate", "disturb"],
@@ -20848,31 +16105,6 @@ const vocabData = [
       "His constant complaints are beginning to fret me.",
       "She was fretting over her son's safety.",
       "He fretted about the delay in his flight.",
-    ],
-  },
-  {
-    word: "freyr",
-    definition:
-      "a Norse god associated with fertility, prosperity, and sunshine",
-    synonyms: ["lord of the harvest", "god of fertility"],
-    exampleSentences: [
-      "Freyr was one of the most important gods in Norse mythology.",
-      "The festival of Freyr was held in midsummer to celebrate the sun's return.",
-      "Freyr was often depicted holding a phallic symbol, emphasizing his role in fertility.",
-      "According to legend, Freyr owned a magical ship that could sail on land and sea.",
-      "Freyr was also known as a peace-maker and was often invoked to settle disputes.",
-    ],
-  },
-  {
-    word: "friable",
-    definition: "easily crumbled or reduced to powder; brittle; fragile",
-    synonyms: ["crumbly", "brittle", "breakable", "frangible", "powdery"],
-    exampleSentences: [
-      "The soil was friable and easy to dig.",
-      "The friable rock crumbled under my feet.",
-      "The old book had become friable and was falling apart.",
-      "The ancient pottery was so friable that it could not be moved.",
-      "The dry bread was friable and difficult to eat.",
     ],
   },
   {
@@ -20892,37 +16124,6 @@ const vocabData = [
       "The artist painted a frieze of colorful flowers along the wall of the garden.",
       "The architect designed a frieze made of glass tiles for the lobby of the new building.",
       "The palace was decorated with a frieze of gold leaf and precious stones.",
-    ],
-  },
-  {
-    word: "frippery",
-    definition:
-      "showy or unnecessary ornament in architecture, dress, or language",
-    synonyms: [
-      "ornamentation",
-      "flamboyance",
-      "excess",
-      "gaudiness",
-      "flashiness",
-    ],
-    exampleSentences: [
-      "The wedding dress was covered in frippery and lace.",
-      "The architecture of the building was criticized for its frippery and lack of function.",
-      "Her speech was filled with unnecessary frippery and flowery language.",
-      "The room was cluttered with frippery and knick-knacks.",
-      "The costume designer added frippery to the stage costumes to make them more visually appealing.",
-    ],
-  },
-  {
-    word: "frisson",
-    definition: "a sudden strong feeling of excitement or fear; a thrill",
-    synonyms: ["thrill", "shiver", "tingle", "shudder", "quiver"],
-    exampleSentences: [
-      "She felt a frisson of fear when she heard the loud noise.",
-      "The horror movie gave him a frisson of excitement and fear.",
-      "The unexpected plot twist gave the audience a frisson of surprise.",
-      "The cold wind caused a frisson to run down her spine.",
-      "The adrenaline rush from skydiving gave him a frisson of exhilaration.",
     ],
   },
   {
@@ -20949,44 +16150,6 @@ const vocabData = [
       "The frontier of medical science is constantly expanding.",
       "He was at the frontier of technological innovation.",
       "The artist's work was on the frontier of the avant-garde.",
-    ],
-  },
-  {
-    word: "frown",
-    definition:
-      "to bring the eyebrows together in a expression of displeasure or concentration",
-    synonyms: ["scowl", "glower", "pout", "grimace", "lower"],
-    exampleSentences: [
-      "She frowned when she saw the mess in the kitchen.",
-      "He always frowns when he's deep in thought.",
-      "The teacher frowned at the student for talking during class.",
-      "She tried to hide her frown when she heard the bad news.",
-      "He received a frown from his boss for being late to the meeting.",
-    ],
-  },
-  {
-    word: "frowsty",
-    definition: "stale and stuffy; lacking freshness and ventilation",
-    synonyms: ["musty", "stuffy", "stale", "fusty", "smelly"],
-    exampleSentences: [
-      "The room had a frowsty smell due to lack of ventilation.",
-      "The old library had a frowsty atmosphere.",
-      "The basement was damp and frowsty.",
-      "The curtains in the room were dusty and gave the space a frowsty feel.",
-      "The attic was filled with frowsty old boxes.",
-    ],
-  },
-  {
-    word: "frowzy",
-    definition:
-      "having an uncared-for or unclean appearance; musty or stale-smelling",
-    synonyms: ["unkempt", "shabby", "untidy", "dusty", "stuffy"],
-    exampleSentences: [
-      "The old attic had a frowzy smell.",
-      "She was wearing a frowzy old coat.",
-      "The hotel room was frowzy and poorly lit.",
-      "The curtains in the room looked frowzy and outdated.",
-      "He had a frowzy beard and long, tangled hair.",
     ],
   },
   {
@@ -21151,19 +16314,6 @@ const vocabData = [
     ],
   },
   {
-    word: "furlong",
-    definition:
-      "a unit of distance equal to 220 yards (about 201 meters), used in horse racing and other sports.",
-    synonyms: ["220 yards", "one eighth of a mile", "40 rods"],
-    exampleSentences: [
-      "The race is one furlong long.",
-      "The horse galloped a furlong before stopping.",
-      "The track is 8 furlongs in circumference.",
-      "The athlete ran the first furlong in record time.",
-      "The finish line is just a few furlongs away.",
-    ],
-  },
-  {
     word: "furnish",
     definition:
       "To provide or supply (a house, room, etc.) with necessary furniture, appliances, or fittings.",
@@ -21214,18 +16364,6 @@ const vocabData = [
     ],
   },
   {
-    word: "fusty",
-    definition: "having a stale or musty odor; old-fashioned or out-of-date",
-    synonyms: ["musty", "stale", "old-fashioned", "outdated", "antiquated"],
-    exampleSentences: [
-      "The old library had a fusty smell.",
-      "The antique shop was filled with fusty old furniture.",
-      "My grandmother's house always smells fusty.",
-      "His ideas are fusty and outdated.",
-      "The fusty old professor refused to use modern technology.",
-    ],
-  },
-  {
     word: "futile",
     definition: "incapable of producing any useful result; pointless",
     synonyms: ["useless", "ineffective", "fruitless", "vain", "unsuccessful"],
@@ -21250,44 +16388,6 @@ const vocabData = [
     ],
   },
   {
-    word: "fuzee",
-    definition:
-      "a flammable fuse used in old-fashioned firearms to ignite the main charge",
-    synonyms: ["fuse", "igniter", "detonator"],
-    exampleSentences: [
-      "He inserted the fuzee into the gun's barrel.",
-      "The fuzee burned brightly before setting off the gunpowder.",
-      "The soldier lit the fuzee with his matchstick.",
-      "The fuzee was critical for firing the cannon.",
-      "The fuzee had to be carefully timed to ensure accurate shots.",
-    ],
-  },
-  {
-    word: "gadfly",
-    definition:
-      "a person who annoys or criticizes others in order to provoke them into action",
-    synonyms: ["pest", "nuisance", "troublemaker", "agitator", "irritant"],
-    exampleSentences: [
-      "He was a gadfly to the lazy students, always pushing them to work harder.",
-      "The politician was known for being a gadfly, constantly questioning the government's decisions.",
-      "The boss saw him as a gadfly, always pointing out flaws in the company's operations.",
-      "The activist was a gadfly to the oil industry, advocating for cleaner energy.",
-      "She was a gadfly to her friends, always challenging their beliefs and opinions.",
-    ],
-  },
-  {
-    word: "gadzooks",
-    definition: "an exclamation of surprise or annoyance.",
-    synonyms: ["gosh", "goodness", "heavens", "oh my", "wow"],
-    exampleSentences: [
-      "Gadzooks! I can't believe it's already midnight!",
-      "Gadzooks, that was a close call!",
-      "Gadzooks, this traffic is terrible!",
-      "Gadzooks, I forgot my phone at home!",
-      "Gadzooks, this food is delicious!",
-    ],
-  },
-  {
     word: "gaffe",
     definition:
       "an unintentional act or remark causing embarrassment to its originator; a blunder",
@@ -21298,19 +16398,6 @@ const vocabData = [
       "His gaffe during the interview cost him the job.",
       "The politician's gaffe caused a lot of controversy.",
       "She realized her gaffe as soon as she saw the horrified expressions on her colleagues' faces.",
-    ],
-  },
-  {
-    word: "gaffer",
-    definition:
-      "a person in charge of lighting on a movie or television set; an old man, especially one who is still active or in charge of something",
-    synonyms: ["boss", "foreman", "supervisor", "elder", "patriarch"],
-    exampleSentences: [
-      "The gaffer was responsible for setting up the lights for the film shoot.",
-      "The gaffer of the company has been working there for over 50 years.",
-      "He may be old, but he's still the gaffer of the football team.",
-      "The gaffer oversaw the construction of the new building.",
-      "The gaffer gave us instructions on how to complete the project.",
     ],
   },
   {
@@ -21365,18 +16452,6 @@ const vocabData = [
       "The ship was tossed around by the gale, making many passengers seasick.",
       "The kite soared high in the gale, almost out of sight.",
       "The gale blew off some roof tiles from our house.",
-    ],
-  },
-  {
-    word: "galere",
-    definition: "a difficult or unpleasant situation",
-    synonyms: ["hardship", "trouble", "adversity", "misfortune", "distress"],
-    exampleSentences: [
-      "I'm in a real galere with this project deadline approaching.",
-      "After losing his job, he fell into a galere and struggled to make ends meet.",
-      "She's been through a lot of galeres in her life but always manages to come out stronger.",
-      "I don't want to get into a galere with my boss over this disagreement.",
-      "We're going to have to work together to get out of this galere.",
     ],
   },
   {
@@ -21441,18 +16516,6 @@ const vocabData = [
     ],
   },
   {
-    word: "galumph",
-    definition: "to move heavily and clumsily",
-    synonyms: ["stomp", "tramp", "clump", "thud", "shuffle"],
-    exampleSentences: [
-      "The elephant galumphed through the jungle.",
-      "I could hear my neighbor galumphing up the stairs.",
-      "The toddler galumphed around the room, knocking over toys.",
-      "The giant robot galumphed down the street, causing chaos.",
-      "The drunk man galumphed out of the bar, stumbling and swaying.",
-    ],
-  },
-  {
     word: "galvanize",
     definition:
       "to shock or excite (someone) into action; to coat (iron or steel) with a protective layer of zinc",
@@ -21476,31 +16539,6 @@ const vocabData = [
       "She played a clever gambit by pretending to be disinterested in the job in order to negotiate a higher salary.",
       "The politician's gambit to propose a controversial law was a risky move but ultimately helped him gain support from his base.",
       "The team's gambit of substituting in a new player in the final minutes of the game paid off with a winning goal.",
-    ],
-  },
-  {
-    word: "gambol",
-    definition: "to run or jump about playfully",
-    synonyms: ["frolic", "caper", "prance", "skip", "romp"],
-    exampleSentences: [
-      "The lambs were gamboling in the field.",
-      "The children gamboled on the playground.",
-      "The puppies were gamboling around the yard.",
-      "The dancers gamboled across the stage.",
-      "The monkeys gamboled in the trees.",
-    ],
-  },
-  {
-    word: "gammer",
-    definition:
-      "an old woman, especially one who is regarded as eccentric or interfering",
-    synonyms: ["hag", "crone", "beldam", "witch", "harridan"],
-    exampleSentences: [
-      "The gammer down the street always tells me how to do my job.",
-      "The village gammer was known for her strange potions.",
-      "The old gammer spent her days knitting and gossiping.",
-      "The gammer's cackling laughter echoed through the halls.",
-      "The gammer's tales of magic and adventure captivated the children.",
     ],
   },
   {
@@ -21566,49 +16604,6 @@ const vocabData = [
     ],
   },
   {
-    word: "garniture",
-    definition:
-      "an ornamental accessory or decoration, especially on a piece of furniture or in a room",
-    synonyms: [
-      "decoration",
-      "adornment",
-      "embellishment",
-      "trimming",
-      "ornamentation",
-    ],
-    exampleSentences: [
-      "The garniture on the antique dresser was exquisite.",
-      "She added a new garniture to the living room to give it a fresh look.",
-      "The intricate garniture on the fireplace mantle was a focal point of the room.",
-      "The designer used a subtle garniture to accentuate the beauty of the fabric.",
-      "The garniture on the wedding cake was made of delicate sugar flowers.",
-    ],
-  },
-  {
-    word: "garrulous",
-    definition: "excessively or pointlessly talkative",
-    synonyms: ["loquacious", "talkative", "chatty", "verbose", "blabbermouth"],
-    exampleSentences: [
-      "The garrulous salesman talked for hours without making a sale.",
-      "Her garrulous nature made it difficult for others to get a word in.",
-      "The garrulous politician never missed an opportunity to speak.",
-      "The garrulous old man at the park would tell anyone who would listen his life story.",
-      "The garrulous teenager wouldn't stop talking on her cellphone during the movie.",
-    ],
-  },
-  {
-    word: "garth",
-    definition: "a courtyard surrounded by a cloister",
-    synonyms: ["courtyard", "quad", "quadrangle", "cloister"],
-    exampleSentences: [
-      "The monks would often walk around the garth in prayer.",
-      "The college's garth was filled with students studying on a sunny day.",
-      "The cathedral's garth was beautifully landscaped with gardens and fountains.",
-      "The garth of the old manor house was now overgrown with weeds.",
-      "The nuns would sometimes sit in the garth and chat during their free time.",
-    ],
-  },
-  {
     word: "gauche",
     definition:
       "lacking social grace, sensitivity, or acuteness; awkward; crude; tactless",
@@ -21657,18 +16652,6 @@ const vocabData = [
       "The park had several gazebos scattered throughout.",
       "He built a gazebo in his backyard for entertaining guests.",
       "The couple enjoyed a romantic dinner in the gazebo.",
-    ],
-  },
-  {
-    word: "gelid",
-    definition: "extremely cold; icy",
-    synonyms: ["frigid", "frosty", "icy", "polar", "wintry"],
-    exampleSentences: [
-      "The gelid wind made my fingers numb.",
-      "The gelid water was too cold to swim in.",
-      "The gelid temperature caused the pipes to freeze.",
-      "The gelid air made it difficult to breathe.",
-      "The gelid snow covered the entire landscape.",
     ],
   },
   {
@@ -21772,32 +16755,6 @@ const vocabData = [
     ],
   },
   {
-    word: "genuflect",
-    definition:
-      "to bend the knee or touch one knee to the ground, especially in worship or reverence",
-    synonyms: ["bow", "kneel", "prostrate", "show reverence", "pay homage"],
-    exampleSentences: [
-      "The congregation was instructed to genuflect before entering the church.",
-      "The knight would genuflect before his king as a sign of respect.",
-      "In some cultures, it is customary to genuflect when greeting a person of higher status.",
-      "She would always genuflect in front of the altar before taking her seat in the pew.",
-      "The pope would genuflect before the altar during his visit to the cathedral.",
-    ],
-  },
-  {
-    word: "germane",
-    definition:
-      "relevant to the subject at hand; appropriate in subject matter",
-    synonyms: ["relevant", "pertinent", "applicable", "related", "connected"],
-    exampleSentences: [
-      "The evidence presented by the witness was germane to the case.",
-      "I don't think your comments are germane to the discussion.",
-      "The new information was not germane to the research question.",
-      "The committee only discussed germane topics during the meeting.",
-      "Please keep your comments germane to the topic of the lecture.",
-    ],
-  },
-  {
     word: "gerrymander",
     definition:
       "to manipulate the boundaries of an electoral constituency to favor one party or group",
@@ -21824,45 +16781,6 @@ const vocabData = [
     ],
   },
   {
-    word: "gharry",
-    definition:
-      "a horse-drawn carriage used for transportation in India and Pakistan",
-    synonyms: ["carriage", "coach", "cart", "wagon"],
-    exampleSentences: [
-      "The gharry driver took us to the market.",
-      "She arrived at the party in a beautifully decorated gharry.",
-      "The streets were filled with gharrys and rickshaws.",
-      "We took a gharry to the train station.",
-      "The gharry ride through the city was bumpy but enjoyable.",
-    ],
-  },
-  {
-    word: "ghrelin",
-    definition:
-      "a hormone produced in the stomach that stimulates appetite and promotes the release of growth hormone from the pituitary gland.",
-    synonyms: ["hunger hormone", "growth hormone secretagogue"],
-    exampleSentences: [
-      "Ghrelin levels increase before meals and decrease after meals.",
-      "The administration of ghrelin has been shown to increase food intake in humans.",
-      "Ghrelin plays a role in regulating energy balance and body weight.",
-      "Some studies suggest that ghrelin may play a role in addiction and reward-seeking behavior.",
-      "Ghrelin levels may be elevated in individuals with certain eating disorders.",
-    ],
-  },
-  {
-    word: "ghyll",
-    definition:
-      "a narrow, steep-sided ravine or valley with a stream running through it",
-    synonyms: ["ravine", "gulch", "canyon", "gorge", "cleft"],
-    exampleSentences: [
-      "We hiked through the ghyll to reach the waterfall.",
-      "The ghyll was filled with wildflowers and ferns.",
-      "The steep sides of the ghyll made it difficult to climb.",
-      "The ghyll was home to a variety of wildlife, including otters and birds.",
-      "The sound of the rushing stream in the ghyll was soothing.",
-    ],
-  },
-  {
     word: "gibberish",
     definition: "unintelligible or meaningless speech or writing",
     synonyms: ["nonsense", "jargon", "gobbledygook", "babble", "drivel"],
@@ -21872,19 +16790,6 @@ const vocabData = [
       "She was so tired that her speech turned into gibberish.",
       "The politician's speech was filled with gibberish and buzzwords.",
       "The computer program was producing gibberish output.",
-    ],
-  },
-  {
-    word: "gibbet",
-    definition:
-      "a wooden structure used to hang criminals as a form of execution",
-    synonyms: ["gallows", "scaffold", "noose", "death trap"],
-    exampleSentences: [
-      "The criminal was sentenced to death by the gibbet.",
-      "The town square had a permanent gibbet for public executions.",
-      "The sight of the empty gibbet sent shivers down his spine.",
-      "The authorities had to build a new gibbet to accommodate the increasing number of criminals.",
-      "The gibbet was a gruesome reminder of the consequences of committing a crime.",
     ],
   },
   {
@@ -21910,19 +16815,6 @@ const vocabData = [
       "The dizzying heights made him feel giddy.",
       "The excitement of the game made me feel giddy.",
       "The medication made her feel a bit giddy.",
-    ],
-  },
-  {
-    word: "gimlet",
-    definition:
-      "a small tool with a pointed end for making holes, often used for drilling small screws into wood; a cocktail made of gin or vodka and lime juice",
-    synonyms: ["awl", "auger", "drill", "screwdriver", "cocktail"],
-    exampleSentences: [
-      "He used a gimlet to make a hole in the wood.",
-      "She needed a gimlet to attach the hinge to the door.",
-      "I ordered a gimlet at the bar.",
-      "He prefers his gimlet with gin instead of vodka.",
-      "The bartender garnished the gimlet with a lime wedge.",
     ],
   },
   {
@@ -21963,18 +16855,6 @@ const vocabData = [
     ],
   },
   {
-    word: "girt",
-    definition: "to encircle or bind with a belt or band",
-    synonyms: ["encircle", "surround", "encompass", "enclose", "gird"],
-    exampleSentences: [
-      "The knight girt his sword around his waist.",
-      "She girt the ribbon tightly around the gift box.",
-      "The river girt the town on three sides.",
-      "The mountains girt the valley, creating a natural barrier.",
-      "He girt himself with determination to face the challenge ahead.",
-    ],
-  },
-  {
     word: "gist",
     definition: "the main point or essence of a matter; the substance",
     synonyms: ["essence", "core", "substance", "crux", "pith"],
@@ -21984,19 +16864,6 @@ const vocabData = [
       "Can you give me the gist of what he said?",
       "The gist of the book is that love conquers all.",
       "I'm not sure about all the specifics, but I think I understand the gist of the plan.",
-    ],
-  },
-  {
-    word: "gitano",
-    definition:
-      "a member of a traditionally itinerant people who originated in northern India and now live chiefly in south and southwest Europe, who typically earn their living by seasonal work and fortune-telling; a Romani person",
-    synonyms: ["gypsy", "Rom", "Romani", "Roma", "traveler"],
-    exampleSentences: [
-      "The gitano family set up their colorful caravan on the outskirts of town.",
-      "The gitano woman told fortunes using a deck of worn tarot cards.",
-      "The gitano man played a haunting melody on his violin.",
-      "The gitano children ran barefoot through the fields, laughing and shouting.",
-      "The gitano community celebrated their traditions with music, dance, and feasting.",
     ],
   },
   {
@@ -22010,19 +16877,6 @@ const vocabData = [
       "I bought a new gizmo for my bike that helps me track my speed.",
       "The engineer designed a gizmo to improve the efficiency of the machine.",
       "The store sells all sorts of gizmos and gadgets.",
-    ],
-  },
-  {
-    word: "glabella",
-    definition:
-      "the smooth prominence between the eyebrows just above the nose",
-    synonyms: ["forehead", "brow ridge", "superciliary arch"],
-    exampleSentences: [
-      "She furrowed her glabella in concentration.",
-      "He had a noticeable bump on his glabella.",
-      "The makeup artist highlighted her glabella to make her eyes appear larger.",
-      "The injection was administered in the glabella to reduce wrinkles.",
-      "He suffered a small injury to his glabella during the accident.",
     ],
   },
   {
@@ -22061,18 +16915,6 @@ const vocabData = [
       "The polished silverware was gleaming on the table.",
       "The new car was gleaming in the sun.",
       "The stars were gleaming in the night sky.",
-    ],
-  },
-  {
-    word: "glede",
-    definition: "a bird of prey, the European kite",
-    synonyms: ["kite", "red kite", "milvus milvus"],
-    exampleSentences: [
-      "The glede soared high above the fields, searching for prey.",
-      "A group of birdwatchers were excited to spot a glede in the wild.",
-      "The glede's distinctive forked tail made it easy to identify.",
-      "In medieval times, the glede was often associated with witchcraft and evil omens.",
-      "The glede is a protected species in many parts of Europe due to declining populations.",
     ],
   },
   {
@@ -22270,30 +17112,6 @@ const vocabData = [
     ],
   },
   {
-    word: "good-looking",
-    definition: "physically attractive or pleasing in appearance",
-    synonyms: ["attractive", "handsome", "pretty", "beautiful", "charming"],
-    exampleSentences: [
-      "She is really good-looking and catches the eye of many men.",
-      "He is a good-looking man with a great sense of humor.",
-      "My best friend is good-looking and smart at the same time.",
-      "The actor is well-known for his good-looking appearance and talent.",
-      "The model is not only good-looking but also has a great personality.",
-    ],
-  },
-  {
-    word: "gooey",
-    definition: "soft and sticky, often in a way that is unpleasant.",
-    synonyms: ["sticky", "viscous", "gluey", "gummy", "tacky"],
-    exampleSentences: [
-      "The brownies were so gooey that they stuck to the pan.",
-      "The slime was gooey and slimy to the touch.",
-      "The cheese on the pizza was gooey and melted.",
-      "The caramel sauce was so gooey it stuck to my teeth.",
-      "The mud was gooey and made it difficult to walk.",
-    ],
-  },
-  {
     word: "gorge",
     definition:
       "a narrow valley between hills or mountains, typically with steep rocky walls and a stream running through it",
@@ -22381,18 +17199,6 @@ const vocabData = [
       "The bride looked absolutely graceful in her wedding dress.",
       "The gymnast's routine was a display of graceful athleticism.",
       "The horse galloped with a graceful stride.",
-    ],
-  },
-  {
-    word: "granary",
-    definition: "a storehouse for threshed grain or animal feed",
-    synonyms: ["barn", "storehouse", "warehouse", "siloh", "crib"],
-    exampleSentences: [
-      "The farmer stored his wheat in the granary.",
-      "The mice in the barn were eating the grain from the granary.",
-      "The granary was filled to the brim with corn.",
-      "The siloh was used as a granary for the winter months.",
-      "The farmer built a new cribs to use as a granary.",
     ],
   },
   {
@@ -22501,19 +17307,6 @@ const vocabData = [
     ],
   },
   {
-    word: "graven",
-    definition:
-      "carved or sculpted, especially with intricate designs or details",
-    synonyms: ["engraved", "etched", "carved", "sculpted", "chiseled"],
-    exampleSentences: [
-      "The graven images on the tombstone were incredibly detailed.",
-      "The graven statue was a masterpiece of art.",
-      "The graven symbols on the ancient artifact were mysterious and intriguing.",
-      "The graven designs on the wooden door were intricate and beautiful.",
-      "The graven hieroglyphs on the pyramid walls told a story of ancient times.",
-    ],
-  },
-  {
     word: "gravitas",
     definition: "dignity, seriousness, or solemnity of manner",
     synonyms: ["solemnity", "seriousness", "dignity", "earnestness", "gravity"],
@@ -22539,19 +17332,6 @@ const vocabData = [
     ],
   },
   {
-    word: "greenhorn",
-    definition:
-      "an inexperienced or naive person, especially one who is new to a particular activity or occupation",
-    synonyms: ["novice", "beginner", "rookie", "amateur", "tyro"],
-    exampleSentences: [
-      "As a greenhorn in the kitchen, he burned almost everything he cooked.",
-      "The new employee was definitely a greenhorn and needed a lot of guidance.",
-      "I'm a bit of a greenhorn when it comes to skiing, but I'm eager to learn.",
-      "The young basketball player was a greenhorn compared to the seasoned veterans on the team.",
-      "It was clear from his mistakes that the pilot was a greenhorn with little experience flying in bad weather.",
-    ],
-  },
-  {
     word: "gregarious",
     definition: "fond of company; sociable",
     synonyms: ["outgoing", "friendly", "sociable", "affable", "amiable"],
@@ -22561,19 +17341,6 @@ const vocabData = [
       "The gregarious nature of the party made it easy to meet new people.",
       "Even though she was an introvert, she learned to become more gregarious with practice.",
       "The gregarious atmosphere at the concert was contagious, and soon everyone was dancing and singing.",
-    ],
-  },
-  {
-    word: "grevillea",
-    definition:
-      "any of various evergreen shrubs or trees of the genus Grevillea native to Australia and widely cultivated for their showy flowers",
-    synonyms: ["spider flower", "toothbrush plant"],
-    exampleSentences: [
-      "The grevillea in my neighbor's garden is in full bloom.",
-      "The park is filled with grevillea trees.",
-      "I love the unique shape of grevillea flowers.",
-      "The grevillea plant requires minimal watering and care.",
-      "The grevillea is a popular choice for landscaping in Australia.",
     ],
   },
   {
@@ -22601,19 +17368,6 @@ const vocabData = [
     ],
   },
   {
-    word: "griot",
-    definition:
-      "a West African storyteller, historian, and musician who traditionally preserves and passes on oral traditions and historical accounts through song and poetry",
-    synonyms: ["jeli", "djeli", "praise singer", "bard"],
-    exampleSentences: [
-      "The griot told the history of our people through song.",
-      "The griot's words had a powerful impact on the audience.",
-      "The griot's poetry was accompanied by traditional musical instruments.",
-      "The griot played an important role in preserving our cultural heritage.",
-      "The griot's storytelling abilities were unparalleled.",
-    ],
-  },
-  {
     word: "gripe",
     definition:
       "to complain or grumble about something, especially something trivial",
@@ -22636,18 +17390,6 @@ const vocabData = [
       "The news report detailed the grisly murder that had taken place in the city.",
       "The detective was disturbed by the grisly evidence found at the crime scene.",
       "The old haunted house was said to be the site of many grisly deaths.",
-    ],
-  },
-  {
-    word: "grot",
-    definition: "a small cave or cavern",
-    synonyms: ["cave", "cavern", "grotto", "den", "hole"],
-    exampleSentences: [
-      "The explorers found a hidden grot in the mountains.",
-      "The grot was filled with ancient artifacts and treasures.",
-      "The hermit lived in a secluded grot by the river.",
-      "The children loved to play in the grot behind their house.",
-      "The hike led us to a beautiful grot filled with crystal-clear water.",
     ],
   },
   {
@@ -22716,19 +17458,6 @@ const vocabData = [
       "The prisoners were given nothing but gruel to eat.",
       "My grandmother used to make a delicious bowl of gruel on cold winter mornings.",
       "The peasants survived on little more than gruel and water.",
-    ],
-  },
-  {
-    word: "guanabenz",
-    definition:
-      "an antihypertensive drug that acts on the central nervous system",
-    synonyms: ["Wytensin"],
-    exampleSentences: [
-      "My doctor prescribed me guanabenz to help lower my blood pressure.",
-      "Guanabenz is not recommended for individuals with liver disease.",
-      "The side effects of guanabenz include dizziness and drowsiness.",
-      "It is important to take guanabenz exactly as prescribed by your doctor.",
-      "Some people may experience allergic reactions to guanabenz.",
     ],
   },
   {
@@ -22817,18 +17546,6 @@ const vocabData = [
     ],
   },
   {
-    word: "gunwale",
-    definition: "the upper edge of the side of a boat or ship",
-    synonyms: ["gunnel", "top rail", "gunnel board", "gun whale", "gun'l"],
-    exampleSentences: [
-      "The waves were crashing over the gunwale of the boat.",
-      "He clung to the gunwale as the boat rocked back and forth.",
-      "The fisherman leaned over the gunwale to see if he had caught anything.",
-      "The pirates climbed aboard the ship, swords drawn, and made their way to the gunwale.",
-      "The boat was so low in the water that the gunwale was almost touching the waves.",
-    ],
-  },
-  {
     word: "guru",
     definition:
       "a spiritual teacher, guide, or mentor in Hinduism, Buddhism, or Sikhism; an influential teacher or expert in a particular field",
@@ -22839,24 +17556,6 @@ const vocabData = [
       "The business guru advised the company on how to increase profits.",
       "The yoga guru led the class through a series of challenging poses.",
       "He credited his success to the wisdom imparted by his guru.",
-    ],
-  },
-  {
-    word: "gustatory",
-    definition: "relating to the sense of taste",
-    synonyms: [
-      "taste-related",
-      "flavor-related",
-      "palatable",
-      "sapid",
-      "saporous",
-    ],
-    exampleSentences: [
-      "The chef's gustatory creations were a hit with the food critics.",
-      "Some people have a more sensitive gustatory sense than others.",
-      "The wine had a complex gustatory profile with notes of blackberry and tobacco.",
-      "The restaurant's menu was designed to appeal to a variety of gustatory preferences.",
-      "The patient's medication had an unpleasant gustatory side effect.",
     ],
   },
   {
@@ -22885,81 +17584,6 @@ const vocabData = [
     ],
   },
   {
-    word: "guyot",
-    definition:
-      "a seamount with a flat top, usually formed by the erosion of waves. ",
-    synonyms: ["tablemount", "flat-top seamount", "guyot"],
-    exampleSentences: [
-      "The location of guyots is an important clue to understanding the history of the ocean floor.",
-      "Most guyots are found in the Pacific Ocean.",
-      "The flat top of a guyot is often covered in sediment and coral reefs.",
-      "Geologists believe that guyots were once active volcanoes.",
-      "The discovery of a new guyot was a major milestone in oceanographic research.",
-    ],
-  },
-  {
-    word: "gybe",
-    definition:
-      "to turn a sailboat's stern through the wind so that the wind changes from one side of the sail to the other side; to change direction suddenly or unexpectedly",
-    synonyms: ["jibe", "tack", "shift", "change course", "veer"],
-    exampleSentences: [
-      "The sailor had to gybe the boat to avoid the rocks.",
-      "We need to gybe to catch the wind from the other side.",
-      "The wind suddenly shifted and we had to gybe quickly.",
-      "The politician's stance on the issue seemed to gybe with public opinion.",
-      "The movie's plot gybed unexpectedly in the last act.",
-    ],
-  },
-  {
-    word: "gynarchy",
-    definition: "a society or government ruled by women",
-    synonyms: [
-      "matriarchy",
-      "matrifocal",
-      "matrilineal",
-      "matrimonial",
-      "matronly",
-    ],
-    exampleSentences: [
-      "The tribe was led by a gynarchy of powerful women.",
-      "In this gynarchy, men were relegated to secondary roles.",
-      "The queen established a gynarchy in which women had equal rights to men.",
-      "The matriarchal society was a form of gynarchy.",
-      "The gynarchy was praised by some for empowering women, but criticized by others for excluding men.",
-    ],
-  },
-  {
-    word: "habergeon",
-    definition: "a light sleeveless coat of chain mail worn as defensive armor",
-    synonyms: [
-      "chainmail shirt",
-      "hauberk",
-      "mail",
-      "chain armor",
-      "chainmail",
-    ],
-    exampleSentences: [
-      "The knight donned his habergeon before heading into battle.",
-      "The museum displayed a collection of medieval habergeons.",
-      "The soldier's habergeon protected him from the enemy's sword.",
-      "The blacksmith spent hours crafting the perfect habergeon for the knight.",
-      "The habergeon was a common piece of armor worn by soldiers during the Middle Ages.",
-    ],
-  },
-  {
-    word: "haboob",
-    definition:
-      "a violent and oppressive dust storm, especially one occurring in Sudan, Arizona, or other arid regions.",
-    synonyms: ["sandstorm", "dust storm", "duster"],
-    exampleSentences: [
-      "The haboob hit the city and caused power outages.",
-      "Driving during a haboob can be extremely dangerous.",
-      "The haboob caused flights to be delayed or cancelled.",
-      "Residents were advised to stay indoors during the haboob.",
-      "The haboob left a layer of dust on everything in its path.",
-    ],
-  },
-  {
     word: "hackneyed",
     definition:
       "lacking in freshness or originality; overused and uninteresting",
@@ -22970,18 +17594,6 @@ const vocabData = [
       "The writer's use of hackneyed metaphors made the story feel unoriginal.",
       "The comedian's jokes were all hackneyed and predictable.",
       "The song's lyrics were so hackneyed that they felt like they had been written a hundred times before.",
-    ],
-  },
-  {
-    word: "Hades",
-    definition: "the underworld in Greek mythology; the abode of the dead",
-    synonyms: ["underworld", "hell", "netherworld", "inferno", "sheol"],
-    exampleSentences: [
-      "In Greek mythology, Hades is the ruler of the underworld.",
-      "Many ancient civilizations believed in a place like Hades where the dead go.",
-      "The journey to Hades was considered perilous and required the guidance of a skilled navigator.",
-      "Hercules had to complete twelve labors, including a trip to the underworld, in order to atone for killing his family while under the influence of Hades.",
-      "Orpheus, the famous musician, traveled to Hades to retrieve his wife Eurydice, but failed to follow the instructions given to him by Hades and lost her forever.",
     ],
   },
   {
@@ -23023,48 +17635,6 @@ const vocabData = [
     ],
   },
   {
-    word: "hale",
-    definition: "free from disease or infirmity; robust; vigorous",
-    synonyms: ["healthy", "sound", "fit", "hearty", "strong"],
-    exampleSentences: [
-      "Despite his age, the hale grandfather still enjoyed playing tennis every week.",
-      "She looked hale and radiant after recovering from a brief illness.",
-      "The doctor confirmed that John was hale and fit to return to work.",
-      "The hale and hearty farmer worked tirelessly in his fields every day.",
-      "The hale and healthy lifestyle of the yoga instructor was an inspiration to her students.",
-    ],
-  },
-  {
-    word: "halfpace",
-    definition: "a platform or step halfway up a staircase",
-    synonyms: ["landing", "mezzanine", "intermediate level", "midway platform"],
-    exampleSentences: [
-      "He paused on the halfpace to catch his breath.",
-      "The painting on the wall above the halfpace was crooked.",
-      "She tripped on the halfpace and nearly fell down the stairs.",
-      "The cat likes to perch on the halfpace and watch the world go by.",
-      "The halfpace was decorated with a vase of flowers and a small statue.",
-    ],
-  },
-  {
-    word: "halitosis",
-    definition: "a condition characterized by persistent bad breath",
-    synonyms: [
-      "bad breath",
-      "fetor oris",
-      "oral malodor",
-      "stale breath",
-      "foul breath",
-    ],
-    exampleSentences: [
-      "I always chew gum because I'm self-conscious about my halitosis.",
-      "Halitosis can be caused by poor oral hygiene.",
-      "His halitosis was so bad that his coworkers avoided talking to him.",
-      "The dentist recommended a mouthwash to treat her halitosis.",
-      "She tried everything to get rid of her halitosis, including changing her diet and using different toothpaste.",
-    ],
-  },
-  {
     word: "hallowed",
     definition: "regarded as holy; sacred",
     synonyms: ["sacred", "blessed", "consecrated", "sanctified", "divine"],
@@ -23092,19 +17662,6 @@ const vocabData = [
       "Her halting progress on the project frustrated her supervisor.",
       "The halting traffic on the highway caused a long delay.",
       "The musician's halting rendition of the song was disappointing.",
-    ],
-  },
-  {
-    word: "hame",
-    definition:
-      "either of two curved supports that are attached to the collar of a draft horse and that hold the traces",
-    synonyms: ["collar", "neckband", "yoke"],
-    exampleSentences: [
-      "The horse's hames were adjusted to fit his collar.",
-      "She tightened the hames to secure the traces.",
-      "The hames were made of sturdy leather.",
-      "The teamster lifted the hames to attach the traces.",
-      "The hames were decorated with brass studs.",
     ],
   },
   {
@@ -23185,19 +17742,6 @@ const vocabData = [
       "The harbor master directed us to a vacant slip.",
       "The town built a new harbor to attract tourists.",
       "The fishermen returned to the harbor with their catch.",
-    ],
-  },
-  {
-    word: "hardihood",
-    definition:
-      "boldness or daring, especially in the face of danger; courage; audacity",
-    synonyms: ["bravery", "fearlessness", "guts", "nerve", "recklessness"],
-    exampleSentences: [
-      "Despite the danger, the firefighter showed great hardihood in rescuing the trapped family.",
-      "The soldier's hardihood in battle earned him a medal of honor.",
-      "Her hardihood in confronting the armed robber surprised everyone in the store.",
-      "It takes a lot of hardihood to climb a mountain without any equipment.",
-      "The athlete's hardihood allowed her to overcome her injuries and win the race.",
     ],
   },
   {
@@ -23300,31 +17844,6 @@ const vocabData = [
     ],
   },
   {
-    word: "hateful",
-    definition: "full of hate or intense dislike; expressing or causing hate",
-    synonyms: ["malevolent", "malicious", "spiteful", "vicious", "venomous"],
-    exampleSentences: [
-      "She gave him a hateful glare.",
-      "The comments were full of hateful language.",
-      "I can't stand being around him, he's so hateful.",
-      "Her tone was filled with hateful sarcasm.",
-      "The graffiti on the wall was full of hateful messages.",
-    ],
-  },
-  {
-    word: "hauberk",
-    definition:
-      "a piece of armor originally covering only the neck and shoulders but later consisting of a full-length shirt of mail or military tunic made of mail",
-    synonyms: ["mail", "chain mail", "chain armor", "ring mail", "ring armor"],
-    exampleSentences: [
-      "The knight wore a hauberk under his surcoat.",
-      "The hauberk protected the warrior from sword strikes.",
-      "The hauberk was heavy and made it difficult to move quickly.",
-      "The blacksmith spent weeks crafting the perfect hauberk for the king.",
-      "The hauberk was a crucial piece of armor in medieval battles.",
-    ],
-  },
-  {
     word: "haughty",
     definition: "arrogantly superior and disdainful",
     synonyms: [
@@ -23408,19 +17927,6 @@ const vocabData = [
       "The company went headlong into bankruptcy.",
       "She made a headlong rush for the door.",
       "He made a headlong dash down the hill.",
-    ],
-  },
-  {
-    word: "headstall",
-    definition:
-      "a part of a bridle that fits over a horse's head, including the straps that fasten the bit into the horse's mouth",
-    synonyms: ["bridle", "halter", "headgear", "headpiece"],
-    exampleSentences: [
-      "The headstall was made of high-quality leather.",
-      "She adjusted the headstall to fit the horse's head properly.",
-      "The headstall was decorated with silver studs.",
-      "He removed the headstall and gave the horse a pat on the neck.",
-      "She held the headstall firmly while mounting the horse.",
     ],
   },
   {
@@ -23526,18 +18032,6 @@ const vocabData = [
     ],
   },
   {
-    word: "hebetude",
-    definition: "dullness or lethargy of mind; mental lethargy; stupidity",
-    synonyms: ["dullness", "lethargy", "torpor", "stupidity", "apathy"],
-    exampleSentences: [
-      "After a long day of work, he fell into a state of hebetude and couldn't focus on anything.",
-      "Her hebetude made it difficult for her to understand the complex concepts in the lecture.",
-      "The heat and humidity caused a sense of hebetude in the students.",
-      "His hebetude prevented him from realizing his mistake.",
-      "The medication caused a side effect of hebetude.",
-    ],
-  },
-  {
     word: "heckler",
     definition:
       "a person who interrupts a public speaker or performer with derisive or aggressive comments or abuse",
@@ -23616,31 +18110,6 @@ const vocabData = [
       "The political party's hegemony over the government was weakened by a series of corruption scandals.",
       "The media's hegemony over public opinion was questioned by the rise of alternative news sources.",
       "The cultural hegemony of Western countries has been criticized for suppressing the voices of marginalized groups.",
-    ],
-  },
-  {
-    word: "hemlock",
-    definition:
-      "a highly poisonous European plant of the parsley family, with purple-spotted stems and small white flowers. It yields a powerful sedative and narcotic drug, coniine, and was used in ancient times for state executions.",
-    synonyms: ["poison hemlock", "deadly hemlock", "spotted hemlock"],
-    exampleSentences: [
-      "The hemlock plant is poisonous to both humans and animals.",
-      "Socrates was famously executed by drinking a cup of hemlock.",
-      "The use of hemlock as a lethal injection drug has been controversial.",
-      "Hemlock is often mistaken for wild carrot or wild parsnip, which can be dangerous.",
-      "The effects of hemlock poisoning can include respiratory failure and paralysis.",
-    ],
-  },
-  {
-    word: "hence",
-    definition: "as a consequence; for this reason",
-    synonyms: ["therefore", "thus", "consequently", "accordingly", "so"],
-    exampleSentences: [
-      "He didn't study for the exam, hence he failed.",
-      "She is going to the gym every day, hence she is losing weight.",
-      "The store is closed on Sundays, hence we have to do our shopping on Saturday.",
-      "I'm allergic to peanuts, hence I can't eat that cookie.",
-      "He didn't like the movie, hence he left the theater early.",
     ],
   },
   {
@@ -23756,25 +18225,6 @@ const vocabData = [
     ],
   },
   {
-    word: "highfalutin",
-    definition:
-      "Pretentious or extravagant in language, style, or manner, especially in a way that is intended to impress.",
-    synonyms: [
-      "pompous",
-      "pretentious",
-      "grandiose",
-      "overblown",
-      "ostentatious",
-    ],
-    exampleSentences: [
-      "The author's highfalutin language made the book difficult to read.",
-      "The politician's highfalutin promises were not taken seriously by the voters.",
-      "I couldn't stand his highfalutin attitude.",
-      "The restaurant's menu was full of highfalutin words that I didn't understand.",
-      "The art exhibit was criticized for being too highfalutin and inaccessible to the general public.",
-    ],
-  },
-  {
     word: "hikikomori",
     definition:
       "a phenomenon in Japan where young adults withdraw from society and isolate themselves in their homes for extended periods of time",
@@ -23826,18 +18276,6 @@ const vocabData = [
     ],
   },
   {
-    word: "hirsute",
-    definition: "having an abundance of hair, especially on the face and body",
-    synonyms: ["hairy", "hairy-chested", "shaggy", "bushy", "unshaven"],
-    exampleSentences: [
-      "He was a hirsute man with a thick beard and chest hair.",
-      "The hirsute actor was chosen for the role of the caveman.",
-      "The hirsute caterpillar crawled along the branch.",
-      "She found his hirsute appearance to be attractive.",
-      "The hirsute dog shed its fur all over the couch.",
-    ],
-  },
-  {
     word: "histrionic",
     definition: "excessively dramatic or emotional",
     synonyms: [
@@ -23868,36 +18306,6 @@ const vocabData = [
     ],
   },
   {
-    word: "hither",
-    definition: "to or toward this place",
-    synonyms: [
-      "here",
-      "this way",
-      "to this point",
-      "to this spot",
-      "to this location",
-    ],
-    exampleSentences: [
-      "Come hither and see what I have found.",
-      "The cat came hither and sat on my lap.",
-      "I have traveled hither and yon, but this is my favorite place.",
-      "Hark! Hither comes the sound of the trumpet.",
-      "We shall journey hither and thither until we find the right path.",
-    ],
-  },
-  {
-    word: "hoar",
-    definition: "grayish-white in color, covered with frost or age",
-    synonyms: ["frosty", "hoary", "white", "gray", "silver"],
-    exampleSentences: [
-      "The hoar frost glistened in the morning sun.",
-      "The old man's hoar beard reached down to his chest.",
-      "The mountains were hoar with age and covered in snow.",
-      "The hoar oak trees stood tall and twisted in the forest.",
-      "The hoar stones of the castle wall were weathered and worn.",
-    ],
-  },
-  {
     word: "hoard",
     definition:
       "a stock or store of money or valued objects, typically one that is secret or carefully guarded",
@@ -23908,24 +18316,6 @@ const vocabData = [
       "He hoarded his savings in a secret bank account.",
       "The company hoarded supplies in case of a shortage.",
       "The collector hoarded rare books and manuscripts.",
-    ],
-  },
-  {
-    word: "hoary",
-    definition: "grayish white, old and trite",
-    synonyms: [
-      "white-haired",
-      "grizzled",
-      "ancient",
-      "antiquated",
-      "old-fashioned",
-    ],
-    exampleSentences: [
-      "The hoary old man had been living in the same house for over 50 years.",
-      "The hoary oak tree had survived many storms and harsh winters.",
-      "The hoary myth had been passed down from generation to generation.",
-      "The hoary joke was no longer funny.",
-      "The hoary tradition was still practiced, even though its significance had been lost over time.",
     ],
   },
   {
@@ -23942,19 +18332,6 @@ const vocabData = [
     ],
   },
   {
-    word: "hock",
-    definition:
-      "the joint in the hind leg of a four-footed mammal corresponding to the human ankle.",
-    synonyms: ["ankle", "tarsus"],
-    exampleSentences: [
-      "The horse injured its hock and was unable to walk properly.",
-      "The cow's hock was swollen and required veterinary attention.",
-      "The dog had a sprained hock and had to wear a brace for a few weeks.",
-      "The deer's hock was broken and it couldn't run away from the predator.",
-      "The rabbit's hock was dislocated and it had trouble hopping around.",
-    ],
-  },
-  {
     word: "hodgepodge",
     definition: "a confused mixture or jumble of things",
     synonyms: ["mishmash", "medley", "assortment", "jumble", "melange"],
@@ -23964,43 +18341,6 @@ const vocabData = [
       "Her outfit was a hodgepodge of different patterns and colors.",
       "The book was a hodgepodge of essays by different authors.",
       "The conversation was a hodgepodge of random topics and tangents.",
-    ],
-  },
-  {
-    word: "hogwash",
-    definition: "nonsense; worthless or ridiculous talk or ideas",
-    synonyms: ["balderdash", "poppycock", "drivel", "rubbish", "twaddle"],
-    exampleSentences: [
-      "The idea that the earth is flat is complete hogwash.",
-      "Don't listen to his excuses, it's all hogwash.",
-      "The politician's promises were nothing but hogwash.",
-      "She dismissed his argument as hogwash.",
-      "The conspiracy theory he was spouting was pure hogwash.",
-    ],
-  },
-  {
-    word: "hokum",
-    definition: "nonsense; foolishness",
-    synonyms: ["balderdash", "drivel", "gibberish", "nonsense", "poppycock"],
-    exampleSentences: [
-      "I don't believe a word of that hokum you're spouting.",
-      "The salesman's pitch was nothing but hokum.",
-      "The politician's promises were just hokum.",
-      "I'm not going to waste my time listening to that hokum.",
-      "The article was filled with hokum and unsubstantiated claims.",
-    ],
-  },
-  {
-    word: "holiness",
-    definition:
-      "the state of being pure and morally perfect; the quality of being dedicated or consecrated to God or a religious purpose",
-    synonyms: ["piety", "saintliness", "sanctity", "godliness", "devoutness"],
-    exampleSentences: [
-      "The holiness of the temple was palpable.",
-      "The monk's holiness was evident in his kind and gentle manner.",
-      "The pastor's sermon was about the importance of holiness in everyday life.",
-      "The nun lived a life of holiness and devotion to God.",
-      "The pilgrims traveled to the holy site to seek holiness and spiritual enlightenment.",
     ],
   },
   {
@@ -24026,19 +18366,6 @@ const vocabData = [
       "She paid homage to her ancestors by performing a traditional dance.",
       "The film paid homage to classic horror movies of the past.",
       "The museum exhibit was a beautiful homage to the history of the city.",
-    ],
-  },
-  {
-    word: "homespun",
-    definition:
-      "simple and unsophisticated; made at home rather than in a factory or workshop",
-    synonyms: ["handmade", "domestic", "country", "rustic", "homemade"],
-    exampleSentences: [
-      "She wore a homespun dress to the picnic.",
-      "The restaurant served a delicious homespun meal.",
-      "The author's homespun writing style resonated with readers.",
-      "The town's homespun charm attracted many visitors.",
-      "He spoke in a homespun manner that put everyone at ease.",
     ],
   },
   {
@@ -24081,18 +18408,6 @@ const vocabData = [
       "The chef homogenized the ingredients to create a smooth and creamy sauce.",
       "The goal of the project was to homogenize the data collected from various sources.",
       "The government attempted to homogenize the culture of the country by promoting a single national language.",
-    ],
-  },
-  {
-    word: "homologate",
-    definition: "to approve or confirm officially",
-    synonyms: ["ratify", "validate", "endorse", "authorize", "accredit"],
-    exampleSentences: [
-      "The government has yet to homologate the treaty.",
-      "The committee will homologate the proposals once they have been reviewed.",
-      "The company had to homologate the new product before releasing it to the market.",
-      "The judge refused to homologate the plea bargain agreement.",
-      "The union demanded that the management homologate the workers' demands.",
     ],
   },
   {
@@ -24164,25 +18479,6 @@ const vocabData = [
     ],
   },
   {
-    word: "hopefulness",
-    definition:
-      "the state of feeling or expressing optimism or positivity about the future",
-    synonyms: [
-      "optimism",
-      "positivity",
-      "confidence",
-      "assurance",
-      "encouragement",
-    ],
-    exampleSentences: [
-      "Despite the setbacks, there was a sense of hopefulness in the air.",
-      "The hopefulness of the students was contagious and inspiring.",
-      "She faced the challenges ahead with hopefulness and determination.",
-      "The therapist's words filled him with hopefulness for his recovery.",
-      "The team's recent success had brought a renewed sense of hopefulness to the fans.",
-    ],
-  },
-  {
     word: "horde",
     definition:
       "a large group of people, typically one that is unruly or uncivilized",
@@ -24193,31 +18489,6 @@ const vocabData = [
       "The horde of children rushed towards the ice cream truck.",
       "A horde of ants invaded the picnic.",
       "The horde of fans cheered as the band took the stage.",
-    ],
-  },
-  {
-    word: "houseleek",
-    definition:
-      "a succulent plant with fleshy leaves that grows on walls and roofs, often cultivated for its attractive rosettes of foliage.",
-    synonyms: ["sempervivum", "liveforever", "stonecrop"],
-    exampleSentences: [
-      "The roof was covered in houseleek.",
-      "I planted some houseleeks in my garden.",
-      "The houseleek has medicinal properties.",
-      "The houseleek is a hardy plant that can survive in harsh conditions.",
-      "The houseleek is also known as the liveforever plant.",
-    ],
-  },
-  {
-    word: "hryvnia",
-    definition: "the national currency of Ukraine",
-    synonyms: ["Ukrainian hryvnia", "UAH"],
-    exampleSentences: [
-      "I exchanged my dollars for hryvnias at the airport.",
-      "The price of the item is 500 hryvnias.",
-      "The bank offers a good rate for buying hryvnias.",
-      "The hryvnia has been fluctuating in value lately.",
-      "I need to withdraw some hryvnias from the ATM.",
     ],
   },
   {
@@ -24261,25 +18532,6 @@ const vocabData = [
       "The artist blended different hues of green to create a realistic landscape.",
       "The flower petals had a vibrant hue of red.",
       "The sky gradually changed hue from blue to purple as the sun set.",
-    ],
-  },
-  {
-    word: "huisache",
-    definition:
-      "a small tree or shrub with yellow flowers and spiny branches, native to the southwestern US and Mexico.",
-    synonyms: [
-      "acacia farnesiana",
-      "sweet acacia",
-      "needle bush",
-      "cassie",
-      "popinac",
-    ],
-    exampleSentences: [
-      "The huisache tree is a common sight in the Texas Hill Country.",
-      "The huisache flowers emit a sweet fragrance.",
-      "Huisache is often used to make fence posts.",
-      "The huisache thorns can be a nuisance for hikers.",
-      "Huisache is a popular ornamental plant in many gardens.",
     ],
   },
   {
@@ -24339,9 +18591,6 @@ const vocabData = [
       "Although he was a successful businessman, he never lost his humility and always treated others with respect.",
     ],
   },
-  /**
-   * Bookmark: continue moving upward from this point, removing useless words
-   */
   {
     word: "hummock",
     definition: "a hillock, knoll or mound; a low, rounded hill",
@@ -49376,7 +43625,5 @@ const vocabData = [
     ],
   },
 ];
-
-console.log("Number of words: ", vocabData.length);
 
 export default vocabData;
