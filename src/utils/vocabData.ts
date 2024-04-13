@@ -10,7 +10,6 @@ const vocabData = [
       "She refused to abase herself by begging for forgiveness.",
       "The company's unethical practices abased its reputation in the industry.",
     ],
-    frequency: 1.82,
   },
   {
     word: "abash",
