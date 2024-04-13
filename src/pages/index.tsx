@@ -117,6 +117,10 @@ export default function Home() {
       ? synonyms.filter((word) => word !== userSubmission.toLocaleLowerCase().trim())
       : synonyms;
 
+    if (!filteredSynonyms.length) {
+      return null;
+    }
+
     return (
       <div className={styles.synonyms}>
         <h2>
