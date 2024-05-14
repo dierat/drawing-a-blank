@@ -13,7 +13,13 @@
   }
 }
 
+.exampleSentenceWrapper {
+  display: flex;
+  align-items: flex-start;
+}
+
 .exampleSentence {
+  flex-grow: 1;
   font-size: 2rem;
   margin-bottom: 16px;
   font-weight: 600;

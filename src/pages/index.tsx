@@ -1,5 +1,6 @@
 import Head from "next/head";
 import { Inter } from "next/font/google";
+import globalStyles from "@/styles/Global.module.css";
 import styles from "@/styles/Home.module.css";
 import { useState, useEffect, useRef } from "react";
 
@@ -154,7 +155,13 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
         {!gameIsLoading && <div>
           <div className={styles.question}>
-            <h1 className={styles.exampleSentence}>{exampleSentence}</h1>
+            <div className={styles.exampleSentenceWrapper}>
+              <h1 className={styles.exampleSentence}>{exampleSentence}</h1>
+              {/* TODO: add onClick that opens modal with report post contents */}
+              <button className={globalStyles.iconButton}>
+                <img src="flag.svg" alt="report word" />
+              </button>
+            </div>
             <div className={styles.explanation}>
               What word with the following definition would you use to complete
               the above sentence?
