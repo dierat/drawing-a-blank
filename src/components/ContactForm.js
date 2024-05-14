@@ -64,6 +64,7 @@ const ContactForm = ({ word }) => {
         name="word"
         value={word}
         aria-hidden
+        readOnly
         className={styles.wordInput}
       />
 
