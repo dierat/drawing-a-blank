@@ -9413,6 +9413,7 @@ const vocabData = [
   },
   {
     word: "déjà vu",
+    alternateSpellings: ["deja vu"],
     definition:
       "the feeling of having already experienced the present situation",
     synonyms: ["familiarity", "recollection", "memory", "nostalgia"],

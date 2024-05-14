@@ -93,7 +93,7 @@ export default function Home() {
   const checkSubmission = () => {
     const cleanedSubmission = userSubmission.toLocaleLowerCase().trim();
 
-    if (cleanedSubmission === currentWordData.word) {
+    if (cleanedSubmission === currentWordData.word || currentWordData.alternateSpellings?.includes(cleanedSubmission)) {
       setUserSubmittedTargetWord(true);
     } else if (
       currentWordData.synonyms.some((synonym) => synonym === cleanedSubmission)
