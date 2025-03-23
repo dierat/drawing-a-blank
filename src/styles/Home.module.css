@@ -5,9 +5,12 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  max-width: 800px;
+  margin: 0 auto;
 
   @media screen and (max-width: 600px) {
     padding: 3rem;
+    max-width: 100%;
   }
 }
 
@@ -27,14 +30,17 @@
   font-weight: 600;
 }
 
+.inputAndOptions {
+  margin: 32px 0;
+}
+
 .inputWrapper {
   margin-bottom: 16px;
 }
 
 .inputWrapper input {
-  @media screen and (max-width: 600px) {
-    width: 100%;
-  }
+  width: 100%;
+  padding: 16px 10px;
 }
 
 .options {

@@ -160,33 +160,35 @@ export default function Home() {
             <div className={styles.definition}>{currentWordData.definition}</div>
           </div>
 
-          <div className={styles.inputWrapper}>
-            {/* TODO: add invisible label */}
-            <input
-              value={userSubmission}
-              onChange={(event) => setUserSubmission(event.target.value)}
-              onKeyUp={handleInputKeyUp}
-              ref={element => {
-                inputRef.current = element;
-                setInputVisible(!!element);
-              }}
-              disabled={!gameIsRunning}
-            />
-          </div>
+          <div className={styles.inputAndOptions}>
+            <div className={styles.inputWrapper}>
+              {/* TODO: add invisible label */}
+              <input
+                value={userSubmission}
+                onChange={(event) => setUserSubmission(event.target.value)}
+                onKeyUp={handleInputKeyUp}
+                ref={element => {
+                  inputRef.current = element;
+                  setInputVisible(!!element);
+                }}
+                disabled={!gameIsRunning}
+              />
+            </div>
 
-          <div className={styles.options}>
-            <button
-              onClick={checkSubmission}
-              disabled={!userSubmission || !gameIsRunning}
-            >
-              Submit
-            </button>
-            <button onClick={giveUp} disabled={!gameIsRunning}>
-              I have no idea
-            </button>
-            <button onClick={startNewGame} disabled={!gameIsRunning}>
-              Skip
-            </button>
+            <div className={styles.options}>
+              <button
+                onClick={checkSubmission}
+                disabled={!userSubmission || !gameIsRunning}
+              >
+                Submit
+              </button>
+              <button onClick={giveUp} disabled={!gameIsRunning}>
+                I have no idea
+              </button>
+              <button onClick={startNewGame} disabled={!gameIsRunning}>
+                Skip
+              </button>
+            </div>
           </div>
 
           {!gameIsRunning && (
