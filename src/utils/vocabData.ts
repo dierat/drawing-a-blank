@@ -20876,18 +20876,6 @@ const vocabData = [
     ],
   },
   {
-    word: "infructuous",
-    definition: "not producing fruit or not successful",
-    synonyms: ["unfruitful", "unsuccessful", "unproductive", "futile", "vain"],
-    exampleSentences: [
-      "His attempts to find a job were infructuous.",
-      "The negotiations were infructuous as neither party was willing to compromise.",
-      "The company's latest product was infructuous and failed to attract customers.",
-      "He found the exercise infructuous as he didn't learn anything new.",
-      "The team's efforts to win the championship were infructuous.",
-    ],
-  },
-  {
     word: "infuse",
     definition:
       "to fill or permeate with a particular quality or emotion; to steep or soak in liquid in order to extract flavor or healing properties",
@@ -27763,18 +27751,6 @@ const vocabData = [
     ],
   },
   {
-    word: "parado",
-    definition: "adjective meaning stopped or halted",
-    synonyms: ["stopped", "halted", "immobile", "motionless", "stationary"],
-    exampleSentences: [
-      "The parade was parado due to the heavy rain.",
-      "The car was parado in the middle of the road, causing traffic.",
-      "The construction work had parado the traffic for hours.",
-      "The train was parado at the station due to technical issues.",
-      "The athlete was parado from running due to a knee injury.",
-    ],
-  },
-  {
     word: "paradox",
     definition:
       "a statement or proposition that, despite sound (or apparently sound) reasoning from acceptable premises, leads to a conclusion that seems senseless, logically unacceptable, or self-contradictory.",
@@ -27872,25 +27848,6 @@ const vocabData = [
       "The magician's paraphernalia included a deck of cards, a top hat, and a wand.",
       "The football team's paraphernalia consisted of helmets, pads, and jerseys.",
       "The artist's studio was cluttered with paintbrushes, canvases, and other artistic paraphernalia.",
-    ],
-  },
-  {
-    word: "parapraxis",
-    definition:
-      "a slip of the tongue or pen, or other error thought to reveal unconscious wishes or attitudes",
-    synonyms: [
-      "Freudian slip",
-      "slip of the tongue",
-      "lapsus linguae",
-      "mistake",
-      "error",
-    ],
-    exampleSentences: [
-      "When she accidentally called her boss 'mom', it was considered a parapraxis.",
-      "The therapist noted the parapraxis in his patient's speech as a possible indication of repressed emotions.",
-      "The politician's parapraxis during the debate revealed his true intentions.",
-      "The comedian used parapraxis as a comedic device in his stand-up routine.",
-      "The analyst interpreted the parapraxis as a manifestation of the patient's subconscious desires.",
     ],
   },
   {
@@ -28184,19 +28141,6 @@ const vocabData = [
     ],
   },
   {
-    word: "peace",
-    definition:
-      "a state of tranquility or calmness, free from disturbance or agitation",
-    synonyms: ["calm", "serenity", "tranquility", "contentment", "harmony"],
-    exampleSentences: [
-      "I find peace when I am surrounded by nature.",
-      "The two countries signed a peace treaty to end the war.",
-      "After a stressful day at work, I like to take a few minutes to meditate and find inner peace.",
-      "The peaceful protest was met with violence from the police.",
-      "The couple made peace after a heated argument.",
-    ],
-  },
-  {
     word: "peculiar",
     definition:
       "strange or odd; unusual in a way that is unsettling or difficult to understand",
@@ -28323,18 +28267,6 @@ const vocabData = [
     ],
   },
   {
-    word: "pellucid",
-    definition: "transparently clear; easily understood",
-    synonyms: ["clear", "limpid", "transparent", "crystal-clear", "lucid"],
-    exampleSentences: [
-      "The pellucid waters of the Caribbean were breathtakingly beautiful.",
-      "Her pellucid explanation of the complex scientific concept impressed everyone in the audience.",
-      "The pellucid writing style of the author made the novel a pleasure to read.",
-      "The pellucid blue sky on a summer day is a sight to behold.",
-      "The professor's pellucid lecture made the subject matter seem simple and straightforward.",
-    ],
-  },
-  {
     word: "penance",
     definition:
       "voluntary self-punishment inflicted as an outward expression of repentance for having done wrong",
@@ -28435,19 +28367,6 @@ const vocabData = [
     ],
   },
   {
-    word: "penthouse",
-    definition:
-      "a luxurious apartment or dwelling at the top of a building, typically set back from the outer walls.",
-    synonyms: ["apartment", "flat", "suite", "condominium", "top floor"],
-    exampleSentences: [
-      "The penthouse had a stunning view of the city skyline.",
-      "The penthouse was decorated with expensive art and furniture.",
-      "The penthouse had a rooftop terrace for entertaining guests.",
-      "The penthouse was located on the top floor of the building.",
-      "The penthouse was only accessible by a private elevator.",
-    ],
-  },
-  {
     word: "penultimate",
     definition: "second to last",
     synonyms: [
@@ -28520,54 +28439,6 @@ const vocabData = [
       "She played the tambourine with a percussive rhythm.",
       "The percussionist created a wide range of percussive sounds using various instruments.",
       "The dancers moved in time to the percussive music.",
-    ],
-  },
-  {
-    word: "perfervid",
-    definition: "intense and impassioned",
-    synonyms: ["ardent", "fervent", "passionate", "zealous", "fiery"],
-    exampleSentences: [
-      "Her perfervid speech inspired the audience.",
-      "His perfervid enthusiasm for the project was contagious.",
-      "She approached the task with perfervid determination.",
-      "The perfervid crowd cheered loudly at the concert.",
-      "His perfervid love for her was evident in his every action.",
-    ],
-  },
-  {
-    word: "perfidious",
-    definition: "deceitful and untrustworthy",
-    synonyms: [
-      "treacherous",
-      "disingenuous",
-      "duplicitous",
-      "false",
-      "deceitful",
-    ],
-    exampleSentences: [
-      "The perfidious politician lied to his constituents.",
-      "Her perfidious actions caused her best friend to lose her job.",
-      "The spy's perfidious behavior led to the downfall of his country.",
-      "He was known for his perfidious ways, always betraying those who trusted him.",
-      "The company's perfidious practices eventually led to its bankruptcy.",
-    ],
-  },
-  {
-    word: "perfidy",
-    definition: "deceitfulness; untrustworthiness",
-    synonyms: [
-      "betrayal",
-      "treachery",
-      "faithlessness",
-      "duplicity",
-      "disloyalty",
-    ],
-    exampleSentences: [
-      "The perfidy of his actions left me feeling betrayed.",
-      "She showed her perfidy by leaking confidential information to the press.",
-      "I never expected such perfidy from my best friend.",
-      "His perfidy was revealed when he was caught lying under oath.",
-      "The company's perfidy led to the downfall of its reputation.",
     ],
   },
   {
@@ -28751,19 +28622,6 @@ const vocabData = [
     ],
   },
   {
-    word: "perquisite",
-    definition:
-      "a privilege or profit that is incidental to employment and beyond the employee's usual salary or wage",
-    synonyms: ["perk", "bonus", "fringe benefit", "amenity", "privilege"],
-    exampleSentences: [
-      "As CEO, she enjoyed many perquisites such as a company car and a private jet.",
-      "The job came with several perquisites, including free health insurance and a retirement plan.",
-      "One of the perquisites of being a diplomat is the opportunity to travel the world.",
-      "The company offered its employees many perquisites, including gym memberships and free lunches.",
-      "The CEO's perquisites were so extravagant that they raised questions about the company's spending habits.",
-    ],
-  },
-  {
     word: "persecute",
     definition:
       "to treat someone cruelly and unfairly, especially because of their race, religion, or political beliefs",
@@ -28838,31 +28696,6 @@ const vocabData = [
       "Taking a historical perspective, we can see how things have changed over time.",
       "The painting was created with a unique perspective that made it stand out.",
       "His perspective on the issue was different from mine.",
-    ],
-  },
-  {
-    word: "perspicacious",
-    definition:
-      "having a ready insight into and understanding of things; mentally sharp or penetrating",
-    synonyms: ["perceptive", "insightful", "discerning", "astute", "acute"],
-    exampleSentences: [
-      "The perspicacious detective quickly solved the case.",
-      "She was very perspicacious and could see through people's lies.",
-      "His perspicacious observations helped to identify the problem.",
-      "The teacher was impressed by the student's perspicacious analysis of the text.",
-      "Her perspicacious mind allowed her to come up with new and innovative ideas.",
-    ],
-  },
-  {
-    word: "perspicuous",
-    definition: "clearly expressed or presented; lucid",
-    synonyms: ["clear", "transparent", "evident", "crystal clear", "obvious"],
-    exampleSentences: [
-      "The instructions were perspicuous and easy to follow.",
-      "Her writing style is always perspicuous and engaging.",
-      "The speaker's arguments were perspicuous and convincing.",
-      "The map was perspicuous and helped us navigate the city.",
-      "The professor's lecture was perspicuous and informative.",
     ],
   },
   {
@@ -29032,19 +28865,6 @@ const vocabData = [
     ],
   },
   {
-    word: "petal",
-    definition:
-      "one of the often brightly colored parts of a flower that surround the reproductive organs",
-    synonyms: ["bloom", "blossom", "flower", "corolla"],
-    exampleSentences: [
-      "The rose has soft, velvety petals.",
-      "She plucked the petals off the daisy one by one.",
-      "The daffodil has six petals.",
-      "The petals of the sunflower are arranged in a spiral pattern.",
-      "He pressed the petals of the violet between the pages of his book.",
-    ],
-  },
-  {
     word: "petrichor",
     definition:
       "a pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather, especially in certain regions such as Australia.",
@@ -29145,19 +28965,6 @@ const vocabData = [
     ],
   },
   {
-    word: "philosophy",
-    definition:
-      "the study of fundamental nature of knowledge, reality, and existence, especially when considered as an academic discipline.",
-    synonyms: ["theory", "belief system", "ideology", "principles", "values"],
-    exampleSentences: [
-      "Her philosophy on life is to always look for the positive in every situation.",
-      "I studied philosophy in college and found it fascinating.",
-      "Eastern philosophy emphasizes the importance of meditation and mindfulness.",
-      "His political philosophy is based on the idea of individual freedom.",
-      "My personal philosophy is to treat others with kindness and respect.",
-    ],
-  },
-  {
     word: "phlegmatic",
     definition: "having an unemotional and calm disposition",
     synonyms: ["calm", "composed", "imperturbable", "stoic", "unflappable"],
@@ -29167,19 +28974,6 @@ const vocabData = [
       "The phlegmatic response of the audience was unexpected.",
       "Despite the stressful situation, she remained phlegmatic and focused.",
       "His phlegmatic demeanor sometimes made it difficult for others to read his emotions.",
-    ],
-  },
-  {
-    word: "phoenix",
-    definition:
-      "a mythical bird that is a symbol of immortality and rebirth, typically associated with the sun and fire. According to legend, it dies in flames and is then reborn from the ashes.",
-    synonyms: ["rebirth", "resurrection", "revival", "renewal", "regeneration"],
-    exampleSentences: [
-      "The phoenix is said to live for 500 years before bursting into flames and rising from the ashes.",
-      "The phoenix is a powerful symbol of transformation and renewal.",
-      "The myth of the phoenix has been told in many cultures throughout history.",
-      "The phoenix is often depicted with fiery feathers and a regal, majestic appearance.",
-      "In popular culture, the phoenix has been featured in books, movies, and video games.",
     ],
   },
   {
@@ -29240,18 +29034,6 @@ const vocabData = [
       "The medication caused the patient to become more photophobic than usual.",
       "The doctor recommended the photophobic patient to use a special screen filter on their computer.",
       "The patient was diagnosed as being photophobic due to their symptom of migraine headaches.",
-    ],
-  },
-  {
-    word: "picayune",
-    definition: "trivial or of little importance",
-    synonyms: ["petty", "insignificant", "trifling", "minor", "paltry"],
-    exampleSentences: [
-      "I don't want to hear any more picayune excuses.",
-      "She was annoyed by his picayune complaints.",
-      "The company's financial problems were caused by picayune errors in bookkeeping.",
-      "The boss didn't care about picayune details, as long as the project was completed on time.",
-      "He wasted hours on picayune tasks instead of focusing on the big picture.",
     ],
   },
   {
@@ -29415,18 +29197,6 @@ const vocabData = [
     ],
   },
   {
-    word: "plash",
-    definition: "the sound of water splashing",
-    synonyms: ["splash", "splashing", "splosh", "dashing", "lapping"],
-    exampleSentences: [
-      "The plash of the waves against the shore was soothing.",
-      "The plash of the fountain in the park created a peaceful atmosphere.",
-      "The plash of raindrops on the roof was comforting.",
-      "The plash of the water in the pool was inviting on a hot day.",
-      "The plash of the river could be heard from our campsite.",
-    ],
-  },
-  {
     word: "platitude",
     definition:
       "a remark or statement, especially one with a moral content, that has been used too often to be interesting or thoughtful",
@@ -29456,18 +29226,6 @@ const vocabData = [
       "She was looking for a platonic companion to travel with.",
       "They enjoyed each other's company in a platonic way.",
       "He was able to have a platonic friendship with his ex-girlfriend.",
-    ],
-  },
-  {
-    word: "plaudit",
-    definition: "an expression of praise or approval; enthusiastic applause",
-    synonyms: ["applause", "acclaim", "commendation", "praise", "ovation"],
-    exampleSentences: [
-      "The actor received plaudits for his performance.",
-      "The author's latest book has received plaudits from critics.",
-      "The team received plaudits from their coach for their hard work.",
-      "The audience gave plaudits to the singer after her performance.",
-      "The politician's speech received plaudits from the crowd.",
     ],
   },
   {
@@ -30318,18 +30076,6 @@ const vocabData = [
     ],
   },
   {
-    word: "prehensile",
-    definition: "capable of grasping or holding",
-    synonyms: ["grasping", "gripping", "clutching", "seizing", "embracing"],
-    exampleSentences: [
-      "Monkeys have prehensile tails that they use to grasp branches.",
-      "Chameleons have prehensile tongues that they use to catch insects.",
-      "The octopus has prehensile tentacles that it uses to capture prey.",
-      "Some species of snakes have prehensile tails that they use to climb trees.",
-      "The human hand is prehensile and capable of holding a variety of objects.",
-    ],
-  },
-  {
     word: "premise",
     definition:
       "a proposition that forms the basis for a conclusion; a statement or idea that is accepted as true and upon which other claims are based",
@@ -30359,19 +30105,6 @@ const vocabData = [
       "He couldn't shake the premonition that something bad was going to happen.",
       "The old woman had a premonition of her own death.",
       "The eerie silence gave me a premonition of danger.",
-    ],
-  },
-  {
-    word: "preponderate",
-    definition:
-      "to exceed in weight, power, influence, or importance; outweigh",
-    synonyms: ["dominate", "overshadow", "outweigh", "prevail", "overbalance"],
-    exampleSentences: [
-      "The evidence seemed to preponderate in favor of the defendant.",
-      "The benefits of the new policy preponderate over the costs.",
-      "The negative reviews preponderated, causing me to choose a different restaurant.",
-      "The opinions of the experts preponderated in the decision-making process.",
-      "The economic factors preponderated in the company's decision to cut costs.",
     ],
   },
   {
