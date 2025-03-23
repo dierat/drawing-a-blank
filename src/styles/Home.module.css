@@ -83,3 +83,23 @@
 .loadNextGame {
   margin-top: 32px;
 }
+
+.modalOverlay {
+  background-color: rgba(0,0,0,0.5);
+}
+
+.modalContent {
+  /* TODO: respect lighting themes */
+  background-color: var(--bg-color-light-mode);
+  padding: 2rem;
+  max-width: 80%;
+  width: auto;
+  margin: 0 auto;
+}
+
+@media (prefers-color-scheme: dark) {
+  .modalContent {
+    background-color: var(--bg-color-dark-mode);
+  }
+}
+

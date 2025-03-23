@@ -10,8 +10,21 @@ import ContactForm from '../components/ContactForm';
 import vocabData from "../utils/vocabData";
 import runAllChecks from "../utils/scripts";
 
+import {
+  Modal,
+  ModalOverlay,
+  ModalContent,
+  ModalHeader,
+  ModalFooter,
+  ModalBody,
+  ModalCloseButton,
+  useDisclosure,
+} from '@chakra-ui/react'
+
 export default function Home() {
   runAllChecks();
+
+  const { isOpen, onOpen, onClose } = useDisclosure();
 
   /**
    * The possible states for the game are:
@@ -157,9 +170,10 @@ export default function Home() {
           <div className={styles.question}>
             <div className={styles.exampleSentenceWrapper}>
               <h1 className={styles.exampleSentence}>{exampleSentence}</h1>
-              {/* TODO: add onClick that opens modal with report post contents */}
-              <button className={globalStyles.iconButton}>
-                <img src="flag.svg" alt="report word" />
+              <button onClick={onOpen} className={globalStyles.iconButton}>
+                {/* TODO: does this work for screen readers? */}
+                <title>report word</title>
+                <svg xmlns="http://www.w3.org/2000/svg" fill="currentcolor" height="24" width="24" viewBox="0 0 60 60"><path d="M51.371 3.146c-.203-.081-5.06-1.997-10.815-1.997-3.434 0-6.47.687-9.024 2.042C29.269 4.392 26.199 5 22.407 5 17.099 5 11.865 3.788 10 3.307V1a1 1 0 1 0-2 0v3c0 .014.007.026.008.04S8 4.062 8 4.074V33v1.074V59a1 1 0 1 0 2 0V35.373C12.273 35.937 17.243 37 22.407 37c4.122 0 7.507-.688 10.062-2.042 2.263-1.201 4.983-1.81 8.087-1.81 5.357 0 10.027 1.836 10.073 1.854a.99.99 0 0 0 .932-.102c.274-.184.439-.494.439-.826v-30a1 1 0 0 0-.629-.928z"/></svg>
               </button>
             </div>
             <div className={styles.explanation}>
@@ -237,8 +251,15 @@ export default function Home() {
           )}
         </div>}
 
+        <Modal isOpen={isOpen} onClose={onClose}>
+          <ModalOverlay className={styles.modalOverlay} />
+          <ModalContent className={styles.modalContent}>
+            <ContactForm word={currentWordData.word} />
+          </ModalContent>
+        </Modal>
+
         {/* TODO: move to modal */}
-        <ContactForm word={currentWordData.word} />
+        {/* <ContactForm word={currentWordData.word} /> */}
       </main>
     </>
   );
