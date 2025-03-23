@@ -91,9 +91,9 @@ export default function Home() {
   };
 
   const checkSubmission = () => {
-    const cleanedSubmission = userSubmission.toLocaleLowerCase().trim();
+    const cleanedSubmission = userSubmission.toLowerCase().trim();
 
-    if (cleanedSubmission === currentWordData.word || currentWordData.alternateSpellings?.includes(cleanedSubmission)) {
+    if (cleanedSubmission === currentWordData.word.toLowerCase() || currentWordData.alternateSpellings?.includes(cleanedSubmission)) {
       setUserSubmittedTargetWord(true);
     } else if (
       currentWordData.synonyms.some((synonym) => synonym === cleanedSubmission)
