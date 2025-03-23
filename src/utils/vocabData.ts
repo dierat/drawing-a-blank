@@ -13370,18 +13370,6 @@ const vocabData = [
     ],
   },
   {
-    word: "ere",
-    definition: "before (in time)",
-    synonyms: ["before", "prior to", "formerly", "previously"],
-    exampleSentences: [
-      "He had never seen such beauty ere.",
-      "Ere we begin, let us have a moment of silence.",
-      "Ere long, the sun will rise.",
-      "Ere the night is over, we will have reached our destination.",
-      "Ere I forget, I need to remind you of the meeting tomorrow.",
-    ],
-  },
-  {
     word: "erode",
     definition:
       "gradually wear away or destroy (something), especially rock or soil.",
@@ -20963,19 +20951,6 @@ const vocabData = [
     ],
   },
   {
-    word: "ingress",
-    definition:
-      "the action or fact of going in or entering; the right to enter a place, access, or admission",
-    synonyms: ["entry", "access", "admittance", "entrance", "ingression"],
-    exampleSentences: [
-      "The ingress to the building was blocked by protesters.",
-      "The ticket gave him ingress to the concert.",
-      "The ingress of water into the boat caused it to sink.",
-      "The museum has restricted ingress during the pandemic.",
-      "The security guard allowed ingress to the VIP area.",
-    ],
-  },
-  {
     word: "inhibit",
     definition: "to restrain or prevent (an action or process)",
     synonyms: ["restrain", "hinder", "impede", "curb", "suppress"],
@@ -22679,18 +22654,6 @@ const vocabData = [
     ],
   },
   {
-    word: "laconic",
-    definition: "using very few words; brief and to the point",
-    synonyms: ["concise", "brief", "terse", "succinct", "pithy"],
-    exampleSentences: [
-      "His laconic response to the question was surprising.",
-      "The speaker was laconic but effective in his delivery.",
-      "She was known for her laconic wit.",
-      "The email was laconic and to the point.",
-      "The boss's laconic instructions left us confused.",
-    ],
-  },
-  {
     word: "lacuna",
     definition: "an unfilled space or interval; a gap",
     synonyms: ["gap", "blank", "void", "absence", "omission"],
@@ -22805,18 +22768,6 @@ const vocabData = [
       "She found a jar of honey in the larder.",
       "The larder was kept locked to prevent mice from getting in.",
       "He opened the door to the larder and grabbed a bag of flour.",
-    ],
-  },
-  {
-    word: "lassitude",
-    definition: "a state of physical or mental weariness; lack of energy",
-    synonyms: ["lethargy", "fatigue", "weariness", "listlessness", "torpor"],
-    exampleSentences: [
-      "After a long day of work, I often feel a sense of lassitude.",
-      "The heat wave left many people feeling a sense of lassitude.",
-      "The illness left her with a feeling of constant lassitude.",
-      "The long flight and jet lag caused a sense of lassitude in the travelers.",
-      "The stress of the exam season left many students with a sense of lassitude.",
     ],
   },
   {
@@ -23159,25 +23110,6 @@ const vocabData = [
       "The dancers moved to the lilting beat of the music.",
       "The poem had a lilting rhythm that made it easy to recite.",
       "The breeze carried the lilting scent of flowers through the air.",
-    ],
-  },
-  {
-    word: "limerence",
-    definition:
-      "the state of being infatuated or obsessed with another person, typically experienced involuntarily and characterized by a strong desire for reciprocation of one's feelings but not primarily for a sexual relationship",
-    synonyms: [
-      "infatuation",
-      "obsession",
-      "crush",
-      "passion",
-      "romantic attraction",
-    ],
-    exampleSentences: [
-      "Her limerence for him was so strong that she couldn't focus on anything else.",
-      "I thought it was just a crush, but it turned out to be limerence.",
-      "She tried to ignore her feelings of limerence towards her coworker.",
-      "His limerence for her was unrequited and he struggled to move on.",
-      "Limerence can be thrilling but also all-consuming.",
     ],
   },
   {
@@ -28965,18 +28897,6 @@ const vocabData = [
     ],
   },
   {
-    word: "phlegmatic",
-    definition: "having an unemotional and calm disposition",
-    synonyms: ["calm", "composed", "imperturbable", "stoic", "unflappable"],
-    exampleSentences: [
-      "The phlegmatic nurse remained calm in the midst of the chaos.",
-      "His phlegmatic personality made him an excellent mediator.",
-      "The phlegmatic response of the audience was unexpected.",
-      "Despite the stressful situation, she remained phlegmatic and focused.",
-      "His phlegmatic demeanor sometimes made it difficult for others to read his emotions.",
-    ],
-  },
-  {
     word: "phonetic",
     definition: "relating to or representing the sounds of the spoken language",
     synonyms: ["phonemic", "linguistic", "verbal", "oral", "vocal"],
@@ -31628,18 +31548,6 @@ const vocabData = [
       "His opinions on politics are as quicksilver as his emotions.",
       "The stock market is a quicksilver entity, constantly changing and difficult to predict.",
       "The artist's style is as quicksilver as his imagination.",
-    ],
-  },
-  {
-    word: "quiddle",
-    definition: "to waste time in futile pursuits; to fidget or fuss",
-    synonyms: ["dawdle", "fiddle", "fritter away", "procrastinate", "trifle"],
-    exampleSentences: [
-      "He tended to quiddle the whole day away instead of finishing his work.",
-      "Don't quiddle around, and get back to work!",
-      "She constantly quiddles with her hair when she's nervous.",
-      "I don't have time to quiddle away the afternoon.",
-      "He quiddled with his phone while waiting for the train.",
     ],
   },
   {
@@ -36322,19 +36230,6 @@ const vocabData = [
     ],
   },
   {
-    word: "snuff",
-    definition:
-      "to extinguish a flame by pinching or blowing, or to inhale powdered tobacco through the nose",
-    synonyms: ["extinguish", "quench", "snub", "cigarette", "tobacco"],
-    exampleSentences: [
-      "He snuffed out the candle before leaving the room.",
-      "The wind snuffed out the campfire.",
-      "She snuffed at the idea of going to the party.",
-      "He offered her a pinch of snuff.",
-      "He was addicted to snuff and couldn't go a day without it.",
-    ],
-  },
-  {
     word: "sob",
     definition: "to cry noisily, taking in short breaths",
     synonyms: ["weep", "wail", "whimper", "bawl", "blubber"],
@@ -37244,19 +37139,6 @@ const vocabData = [
       "She remained stoic during her father's funeral.",
       "He tried to remain stoic even though he was scared.",
       "The stoic teacher didn't react when the students misbehaved.",
-    ],
-  },
-  {
-    word: "stoop",
-    definition:
-      "to bend or lower the body or head in a gesture of submission or humility; to descend from a higher position",
-    synonyms: ["bow", "crouch", "bend", "descend", "submit"],
-    exampleSentences: [
-      "He had to stoop to enter the small doorway.",
-      "She stooped down to pick up the fallen book.",
-      "The old man stooped over his cane as he walked.",
-      "I refuse to stoop to their level of pettiness.",
-      "The plane had to stoop to avoid hitting the bird.",
     ],
   },
   {
